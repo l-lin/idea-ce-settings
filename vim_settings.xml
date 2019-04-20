@@ -1,0 +1,131 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" timestamp="1555773731722">
+        <mark key="'" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/security/AuthTokenPreAuthenticatedFilter.java" timestamp="1555774060991">
+        <mark key="'" line="14" column="53" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="17" column="0" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
+      <jump line="12" column="3" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
+      <jump line="19" column="70" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
+      <jump line="4" column="38" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
+      <jump line="5" column="56" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
+      <jump line="13" column="11" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
+      <jump line="16" column="81" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
+      <jump line="14" column="53" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/security/AuthTokenPreAuthenticatedFilter.java" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbiB7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIExPR0dFUiA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbi5jbGFzcyk7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCVNwcmluZ0FwcGxpY2F0aW9uIGFwcCA9IG5ldyBTcHJpbmdBcHBsaWNhdGlvbihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwoJCUVudmlyb25tZW50IGVudmlyb25tZW50ID0gYXBwLnJ1bihhcmdzKS5nZXRFbnZpcm9ubWVudCgpOwoKCQlMT0dHRVIuaW5mbygie30gYXBwbGljYXRpb24gaXMgdXAgYW5kIHJ1bm5pbmchIChTcHJpbmcgcHJvZmlsZShzKToge30pIiwKCQkJCWVudmlyb25tZW50LmdldFByb3BlcnR5KCJzcHJpbmcuYXBwbGljYXRpb24ubmFtZSIpLAoJCQkJZW52aXJvbm1lbnQuZ2V0QWN0aXZlUHJvZmlsZXMoKSk7Cgl9Cn0K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbiB7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIExPR0dFUiA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbi5jbGFzcyk7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCVNwcmluZ0FwcGxpY2F0aW9uIGFwcCA9IG5ldyBTcHJpbmdBcHBsaWNhdGlvbihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwoJCUVudmlyb25tZW50IGVudmlyb25tZW50ID0gYXBwLnJ1bihhcmdzKS5nZXRFbnZpcm9ubWVudCgpOwoKCQlMT0dHRVIuaW5mbygie30gYXBwbGljYXRpb24gaXMgdXAgYW5kIHJ1bm5pbmchIChTcHJpbmcgcHJvZmlsZShzKToge30pIiwKCQkJCWVudmlyb25tZW50LmdldFByb3BlcnR5KCJzcHJpbmcuYXBwbGljYXRpb24ubmFtZSIpLAoJCQkJZW52aXJvbm1lbnQuZ2V0QWN0aXZlUHJvZmlsZXMoKSk7Cgl9Cn0K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbiB7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIExPR0dFUiA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbi5jbGFzcyk7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCVNwcmluZ0FwcGxpY2F0aW9uIGFwcCA9IG5ldyBTcHJpbmdBcHBsaWNhdGlvbihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwoJCUVudmlyb25tZW50IGVudmlyb25tZW50ID0gYXBwLnJ1bihhcmdzKS5nZXRFbnZpcm9ubWVudCgpOwoKCQlMT0dHRVIuaW5mbygie30gYXBwbGljYXRpb24gaXMgdXAgYW5kIHJ1bm5pbmchIChTcHJpbmcgcHJvZmlsZShzKToge30pIiwKCQkJCWVudmlyb25tZW50LmdldFByb3BlcnR5KCJzcHJpbmcuYXBwbGljYXRpb24ubmFtZSIpLAoJCQkJZW52aXJvbm1lbnQuZ2V0QWN0aXZlUHJvZmlsZXMoKSk7Cgl9Cn0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+      <register name="/" type="4">
+        <text>Application</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>Application</last-search>
+      <last-offset />
+      <last-pattern>Application</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Application</entry>
+      </history-search>
+      <history-cmd>
+        <entry>hlsearch</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
