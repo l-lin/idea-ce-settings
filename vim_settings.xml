@@ -12,6 +12,13 @@
         <mark key="^" line="41" column="12" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/web/error/CustomErrorAttributes.java" timestamp="1555843540903">
+        <mark key="'" line="86" column="4" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="98" column="0" />
+      </file>
       <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/security/AuthTokenPreAuthenticatedFilter.java" timestamp="1555774060991">
         <mark key="'" line="14" column="53" />
       </file>
@@ -26,46 +33,53 @@
       <jump line="16" column="81" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
       <jump line="14" column="0" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
       <jump line="14" column="53" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/security/AuthTokenPreAuthenticatedFilter.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/web/error/CustomErrorAttributes.java" />
+      <jump line="86" column="4" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/web/error/CustomErrorAttributes.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbiB7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIExPR0dFUiA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbi5jbGFzcyk7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCVNwcmluZ0FwcGxpY2F0aW9uIGFwcCA9IG5ldyBTcHJpbmdBcHBsaWNhdGlvbihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwoJCUVudmlyb25tZW50IGVudmlyb25tZW50ID0gYXBwLnJ1bihhcmdzKS5nZXRFbnZpcm9ubWVudCgpOwoKCQlMT0dHRVIuaW5mbygie30gYXBwbGljYXRpb24gaXMgdXAgYW5kIHJ1bm5pbmchIChTcHJpbmcgcHJvZmlsZShzKToge30pIiwKCQkJCWVudmlyb25tZW50LmdldFByb3BlcnR5KCJzcHJpbmcuYXBwbGljYXRpb24ubmFtZSIpLAoJCQkJZW52aXJvbm1lbnQuZ2V0QWN0aXZlUHJvZmlsZXMoKSk7Cgl9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CTpmCg==</text>
+        <text encoding="base64">CXByaXZhdGUgdm9pZCBhZGREZXRhaWxzKE1hcDxTdHJpbmcsIE9iamVjdD4gZXJyb3JBdHRyaWJ1dGVzLCBUaHJvd2FibGUgZXJyb3IpIHsKCQlpZiAoZXJyb3IgaW5zdGFuY2VvZiBBYnN0cmFjdEV4Y2VwdGlvbikgewoJCQkoKEFic3RyYWN0RXhjZXB0aW9uKSBlcnJvcikuZ2V0RGV0YWlscygpCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CTpmCg==</text>
+        <text encoding="base64">CXByaXZhdGUgdm9pZCBhZGREZXRhaWxzKE1hcDxTdHJpbmcsIE9iamVjdD4gZXJyb3JBdHRyaWJ1dGVzLCBUaHJvd2FibGUgZXJyb3IpIHsKCQlpZiAoZXJyb3IgaW5zdGFuY2VvZiBBYnN0cmFjdEV4Y2VwdGlvbikgewoJCQkoKEFic3RyYWN0RXhjZXB0aW9uKSBlcnJvcikuZ2V0RGV0YWlscygpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbiB7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIExPR0dFUiA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbi5jbGFzcyk7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCVNwcmluZ0FwcGxpY2F0aW9uIGFwcCA9IG5ldyBTcHJpbmdBcHBsaWNhdGlvbihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwoJCUVudmlyb25tZW50IGVudmlyb25tZW50ID0gYXBwLnJ1bihhcmdzKS5nZXRFbnZpcm9ubWVudCgpOwoKCQlMT0dHRVIuaW5mbygie30gYXBwbGljYXRpb24gaXMgdXAgYW5kIHJ1bm5pbmchIChTcHJpbmcgcHJvZmlsZShzKToge30pIiwKCQkJCWVudmlyb25tZW50LmdldFByb3BlcnR5KCJzcHJpbmcuYXBwbGljYXRpb24ubmFtZSIpLAoJCQkJZW52aXJvbm1lbnQuZ2V0QWN0aXZlUHJvZmlsZXMoKSk7Cgl9Cn0K</text>
+        <text encoding="base64">CTpmCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbiB7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIExPR0dFUiA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbi5jbGFzcyk7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCVNwcmluZ0FwcGxpY2F0aW9uIGFwcCA9IG5ldyBTcHJpbmdBcHBsaWNhdGlvbihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwoJCUVudmlyb25tZW50IGVudmlyb25tZW50ID0gYXBwLnJ1bihhcmdzKS5nZXRFbnZpcm9ubWVudCgpOwoKCQlMT0dHRVIuaW5mbygie30gYXBwbGljYXRpb24gaXMgdXAgYW5kIHJ1bm5pbmchIChTcHJpbmcgcHJvZmlsZShzKToge30pIiwKCQkJCWVudmlyb25tZW50LmdldFByb3BlcnR5KCJzcHJpbmcuYXBwbGljYXRpb24ubmFtZSIpLAoJCQkJZW52aXJvbm1lbnQuZ2V0QWN0aXZlUHJvZmlsZXMoKSk7Cgl9Cn0K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
       <register name="/" type="4">
-        <text>Application</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
     </registers>
     <search>
-      <last-search>Application</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern>Application</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>Application</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
         <entry>close</entry>
         <entry>q all</entry>
         <entry>q</entry>
+        <entry>comment</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -83,7 +97,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -92,7 +106,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
