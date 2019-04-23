@@ -58,11 +58,11 @@
         <mark key="." line="879" column="102" />
         <mark key="^" line="879" column="102" />
       </file>
-      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" timestamp="1556015047970">
+      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" timestamp="1556020205463">
         <mark key="'" line="70" column="90" />
-        <mark key="[" line="71" column="15" />
-        <mark key="]" line="71" column="31" />
-        <mark key="." line="71" column="31" />
+        <mark key="[" line="15" column="63" />
+        <mark key="]" line="15" column="63" />
+        <mark key="." line="15" column="63" />
         <mark key="^" line="71" column="31" />
       </file>
     </filemarks>
@@ -112,10 +112,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>passability</text>
+        <text>|</text>
       </register>
       <register name="-" type="4">
-        <text>passability</text>
+        <text>|</text>
       </register>
       <register name="/" type="4">
         <text>sign-epk</text>
@@ -123,7 +123,10 @@
       <register name="0" type="4">
         <text>phishing-emails-threat]</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">KiBBdXRoZW50aWNpdHkK</text>
+      </register>
+      <register name="2" type="4">
         <text>|===
 |Threat agent factors|Skill level|Motive|Opportunity|Size
 ||6 (network and programming skills)|4 (possible reward)|4 (special access or resources required)|2 (system administrators)
@@ -143,29 +146,26 @@
 |Overrall Risk Severity|{set:cellbgcolor:orange} MEDIUM|{set:cellbgcolor!}||
 |===</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">d2hpY2gK</text>
-      </register>
       <register name="3" type="4">
         <text encoding="base64">d2hpY2gK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">KCkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">d2hpY2gK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fEVuY3J5cHRlZCBrZXlzIGFyZSBjb25zdW1lZCBieSBhIGNvdW50ZXJwYXJ0eSBkZXRhaW5pbmcgdGhlIHJpZ2h0IGVwaGVtZXJhbCBwcml2YXRlIGtleS4gT25jZSBwcm9wZXJseSBkZWNyeXB0ZWQsIHRoaXMKc3ltbWV0cmljIGtleSBhbGxvd3MgdGhlIGNvdW50ZXJwYXJ0eSB0byBkZWNyeXB0IGZpbGVzIHNoYXJlZCB0aHJvdWdoIGFuIGVuZC10by1lbmQgZW5jcnlwdGlvbiBzaGFyaW5nLgo=</text>
+        <text encoding="base64">KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LkF1dGggc2VydmVyClRoaXMgaXMgdGhlIE9vZHJpdmUgYXV0aGVudGljYXRpb24gc2VydmVyIHVzZWQgdG8gYXV0aGVudGljYXRlIHVzZXJzLgoK</text>
+        <text encoding="base64">fEVuY3J5cHRlZCBrZXlzIGFyZSBjb25zdW1lZCBieSBhIGNvdW50ZXJwYXJ0eSBkZXRhaW5pbmcgdGhlIHJpZ2h0IGVwaGVtZXJhbCBwcml2YXRlIGtleS4gT25jZSBwcm9wZXJseSBkZWNyeXB0ZWQsIHRoaXMKc3ltbWV0cmljIGtleSBhbGxvd3MgdGhlIGNvdW50ZXJwYXJ0eSB0byBkZWNyeXB0IGZpbGVzIHNoYXJlZCB0aHJvdWdoIGFuIGVuZC10by1lbmQgZW5jcnlwdGlvbiBzaGFyaW5nLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCBhZGREZXRhaWxzKE1hcDxTdHJpbmcsIE9iamVjdD4gZXJyb3JBdHRyaWJ1dGVzLCBUaHJvd2FibGUgZXJyb3IpIHsKCQlpZiAoZXJyb3IgaW5zdGFuY2VvZiBBYnN0cmFjdEV4Y2VwdGlvbikgewoJCQkoKEFic3RyYWN0RXhjZXB0aW9uKSBlcnJvcikuZ2V0RGV0YWlscygpCg==</text>
+        <text encoding="base64">LkF1dGggc2VydmVyClRoaXMgaXMgdGhlIE9vZHJpdmUgYXV0aGVudGljYXRpb24gc2VydmVyIHVzZWQgdG8gYXV0aGVudGljYXRlIHVzZXJzLgoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CTpmCg==</text>
+        <text encoding="base64">CXByaXZhdGUgdm9pZCBhZGREZXRhaWxzKE1hcDxTdHJpbmcsIE9iamVjdD4gZXJyb3JBdHRyaWJ1dGVzLCBUaHJvd2FibGUgZXJyb3IpIHsKCQlpZiAoZXJyb3IgaW5zdGFuY2VvZiBBYnN0cmFjdEV4Y2VwdGlvbikgewoJCQkoKEFic3RyYWN0RXhjZXB0aW9uKSBlcnJvcikuZ2V0RGV0YWlscygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbiB7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIExPR0dFUiA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbi5jbGFzcyk7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCVNwcmluZ0FwcGxpY2F0aW9uIGFwcCA9IG5ldyBTcHJpbmdBcHBsaWNhdGlvbihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwoJCUVudmlyb25tZW50IGVudmlyb25tZW50ID0gYXBwLnJ1bihhcmdzKS5nZXRFbnZpcm9ubWVudCgpOwoKCQlMT0dHRVIuaW5mbygie30gYXBwbGljYXRpb24gaXMgdXAgYW5kIHJ1bm5pbmchIChTcHJpbmcgcHJvZmlsZShzKToge30pIiwKCQkJCWVudmlyb25tZW50LmdldFByb3BlcnR5KCJzcHJpbmcuYXBwbGljYXRpb24ubmFtZSIpLAoJCQkJZW52aXJvbm1lbnQuZ2V0QWN0aXZlUHJvZmlsZXMoKSk7Cgl9Cn0K</text>
+        <text encoding="base64">CTpmCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
