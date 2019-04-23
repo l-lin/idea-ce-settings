@@ -48,12 +48,12 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" timestamp="1556020205463">
-        <mark key="'" line="70" column="90" />
-        <mark key="[" line="15" column="63" />
-        <mark key="]" line="15" column="63" />
-        <mark key="." line="15" column="63" />
-        <mark key="^" line="71" column="31" />
+      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" timestamp="1556033322356">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="69" column="102" />
+        <mark key="]" line="69" column="102" />
+        <mark key="." line="69" column="102" />
+        <mark key="^" line="69" column="102" />
       </file>
       <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" timestamp="1555773731722">
         <mark key="'" line="14" column="0" />
@@ -64,25 +64,31 @@
         <mark key="^" line="41" column="12" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" timestamp="1556027958411">
-        <mark key="'" line="218" column="0" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
-        <mark key="^" line="117" column="0" />
+      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" timestamp="1556031009119">
+        <mark key="'" line="217" column="26" />
+        <mark key="[" line="329" column="86" />
+        <mark key="]" line="330" column="30" />
+        <mark key="." line="330" column="30" />
+        <mark key="^" line="330" column="30" />
       </file>
       <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/security/AuthTokenPreAuthenticatedFilter.java" timestamp="1555774060991">
         <mark key="'" line="14" column="53" />
       </file>
-      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" timestamp="1556028592048">
-        <mark key="'" line="710" column="0" />
-        <mark key="[" line="902" column="2" />
-        <mark key="]" line="902" column="2" />
-        <mark key="." line="902" column="2" />
-        <mark key="^" line="899" column="108" />
+      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" timestamp="1556033100090">
+        <mark key="a" line="713" column="0" />
+        <mark key="'" line="411" column="3" />
+        <mark key="[" line="15" column="112" />
+        <mark key="]" line="15" column="112" />
+        <mark key="." line="15" column="112" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1556024312980">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/e2ee-parent/pom.xml" timestamp="1556033499789">
+        <mark key="[" line="39" column="31" />
+        <mark key="]" line="39" column="32" />
+        <mark key="." line="39" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -117,14 +123,12 @@
       <jump line="231" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
       <jump line="271" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
       <jump line="304" column="40" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
-      <jump line="477" column="62" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
       <jump line="589" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
       <jump line="266" column="26" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
       <jump line="13" column="8" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
       <jump line="45" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
       <jump line="193" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
       <jump line="881" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
-      <jump line="68" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" />
       <jump line="73" column="25" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" />
       <jump line="28" column="4" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" />
       <jump line="70" column="90" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" />
@@ -134,72 +138,79 @@
       <jump line="15" column="0" filename="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/resources/application-dev.yml" />
       <jump line="116" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
       <jump line="710" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="836" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="92" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="903" column="86" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="877" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="632" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="704" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="645" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="477" column="47" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="36" column="57" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="907" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="763" column="69" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="113" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
+      <jump line="184" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
+      <jump line="217" column="26" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
+      <jump line="667" column="69" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="93" column="20" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="659" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="910" column="53" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="912" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="916" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="627" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="68" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" />
+      <jump line="410" column="3" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>loink</text>
+        <text>, including domain</text>
       </register>
       <register name="-" type="4">
-        <text>loink</text>
+        <text>, including domain</text>
       </register>
       <register name="/" type="4">
-        <text>softsign</text>
+        <text>authorized</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwb3J0OiA4NDQzCg==</text>
+        <text encoding="base64">Ci5UaHJlYXQgcmF0aW5nCntibGFua30K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">RXZlbiB0aG91Z2ggdGhlIE9vZHJpdmUgc2VydmljZSB0aGF0IHByb3ZpZGVzIHRoZSBpbnN0YWxsZXIgbWF5IG5vdCBiZSBmdWxseSB0cnVzdHdvcnRoeSwgdXNlcnMgbXVzdCB0cnVzdCBhdCBsZWFzdCBvbmNlCnRoZSBzZXJ2aWNlIGluIG9yZGVyIHRvIHVzZSB0aGUgRTJFRSBwcm9kdWN0LgoK</text>
+      <register name="1" type="4">
+        <text>commonly
+used in the business world as secure</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwb3J0OiA4NDQzCiAgc3NsOgogICAga2V5LXN0b3JlOiAvaG9tZS9sbGluL3dvcmsvZG9ja2VyLWNvbXBvc2UvY2VydGlmaWNhdGVzL2xvY2FsaG9zdC9sb2NhbGhvc3QucDEyCiAgICBrZXktc3RvcmUtcGFzc3dvcmQ6CiAgICBrZXktc3RvcmUtdHlwZTogUEtDUzEyCiAgICBrZXktYWxpYXM6IDEK</text>
+        <text encoding="base64">PT09PSBXcm9uZyBjaG9pY2Ugb2YgaW1wbGVtZW50YXRpb24gb2YgdGhlIHNlY3JldCBjb21wdXRhdGlvbiBhbGdvcml0aG0KClRoZSBFMkVFIFdpbmRvd3MgYXBwIGFuZCBFMkVFIHdlYmFwcCBib3RoIHVzZSBsaW5rOmh0dHBzOi8vZG93bmxvYWQubGlic29kaXVtLm9yZy9kb2MvW0xpYnNvZGl1bV0gYXMgdGhlIGltcGxlbWVudGF0aW9uCm9mIGxpbms6aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQ3VydmUyNTUxOVtDdXJ2ZTI1NTE5XSB1c2VkIGluIHRoZSA8PGRoa2UtZGVmaW5pdGlvbiwgREhLRT4+IGFuZAppbiB0aGUgY3J5cHRvZ3JhcGhpYyBzaWduYXR1cmVzIGdlbmVyYXRpb24uCgouSW1wYWN0cwoqIElmIGFuIGF0dGFja2VyIG1hbmFnZWQgdG8gYnJlYWsgdGhlIHNlY3JldCBjb21wdXRhdGlvbiBhbGdvcml0aG0sIHRodXMgZGVjcnlwdGluZyB0aGUgZW5jcnlwdGlvbiBrZXksIHRoZSBhdHRhY2tlcgp3aWxsIGJlIGFibGUgdG8gcmVhZCB0aGUgZGF0YSBvZiB0aGUgc2hhcmluZyBsaW5rZWQgdG8gdGhlIGVuY3J5cHRpb24ga2V5LgoKLlRocmVhdCB0eXBlcwoqIFNwb29maW5nCiogVGFtcGVyaW5nCiogUmVwdWRpYXRpb24KKiBJbmZvcm1hdGlvbiBkaXNjbG9zdXJlCiogRGVuaWFsIG9mIHNlcnZpY2UKCi5NaXRpZ2F0aW9uCiogTGlic29kaXVtIGxpYnJhcmllcyBoYXZlIGJlZW4gaW1wbGVtZW50ZWQgYnkgY29tcGV0ZW50IHBlcnNvbnMgd2hvIGFyZSBleHBlcnQgaW4gdGhlIHNlY3VyaXR5IGZpZWxkLgoqIFRoZSBzaGFyZSBzZWNyZXQgY29tcHV0YXRpb24gYWxnb3JpdGhtIHNoYWxsIG9mZmVyIGFuIGFjY2VwdGFibGUgc2VjdXJpdHkgdGhhdCBzaG91bGQgbm90IGJlIGVhc2lseSBicm9rZW4uCioqIE1vcmUgaW5mb3JtYXRpb24gaW4gdGhlIGxpbms6aHR0cDovL2UyZWUub29naXQub29kcml2ZS5uZXQvcHJvdG9jb2wvbGF0ZXN0LyNhbGdvcml0aG1zLWRlc2NyaXB0aW9uW0UyRUUgcHJvdG9jb2wKZG9jdW1lbnRhdGlvbl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiBBdXRoZW50aWNpdHkK</text>
+        <text encoding="base64">KiBUaGUgc2hhcmUgc2VjcmV0IGNvbXB1dGF0aW9uIGFsZ29yaXRobSBzaGFsbCBvZmZlciBhbiBhY2NlcHRhYmxlIHNlY3VyaXR5IHRoYXQgc2hvdWxkIG5vdCBiZSBlYXNpbHkgYnJva2VuLgoqKiBNb3JlIGluZm9ybWF0aW9uIGluIHRoZSBsaW5rOmh0dHA6Ly9lMmVlLm9vZ2l0Lm9vZHJpdmUubmV0L3Byb3RvY29sL2xhdGVzdC8jYWxnb3JpdGhtcy1kZXNjcmlwdGlvbltFMkVFIHByb3RvY29sCmRvY3VtZW50YXRpb25dCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>|===
-|Threat agent factors|Skill level|Motive|Opportunity|Size
-||6 (network and programming skills)|4 (possible reward)|4 (special access or resources required)|2 (system administrators)
-|Vulnerability factors|Ease of discovery|Ease of exploit|Awareness|Intrusion detection
-||1 (practically impossible)|3 (difficult)|4 (hidden)|9 (not logged)
-|Overall likelihood|{set:cellbgcolor:yellow}4.125 (MEDIUM)|{set:cellbgcolor!}||
-
-|{set:cellbgcolor!}||||
-
-|Technical impact|Loss of confidentiality|Loss of integrity|Loss of availability|Loss of accountability
-||6 (minimal critical data disclosed)|1 (minimal slightly corrupt data)|1 (minimal secondary services interrupted)|7 (possibly traceable)
-|Business Impact|Financial damage|Reputation damage|Non-compliance|Privacy violation
-||3 (minor effect on annual profit)|1 (minimal damage)|5 (clear violation)|5 (hundreds of people)
-|Overall impact|{set:cellbgcolor:yellow}3.625 (MEDIUM)|{set:cellbgcolor!}||
-
-|{set:cellbgcolor!}||||
-|Overrall Risk Severity|{set:cellbgcolor:orange} MEDIUM|{set:cellbgcolor!}||
-|===</text>
+      <register name="4" type="2">
+        <text encoding="base64">KiBJZiBhbiBhdHRhY2tlciBtYW5hZ2VkIHRvIGJyZWFrIHRoZSBzZWNyZXQgY29tcHV0YXRpb24gYWxnb3JpdGhtLCB0aHVzIGRlY3J5cHRpbmcgdGhlIGVuY3J5cHRpb24ga2V5LCB0aGUgYXR0YWNrZXIKd2lsbCBiZSBhYmxlIHRvIHJlYWQgdGhlIGRhdGEgb2YgdGhlIHNoYXJpbmcgbGlua2VkIHRvIHRoZSBlbmNyeXB0aW9uIGtleS4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">d2hpY2gK</text>
+      <register name="5" type="2">
+        <text encoding="base64">KiBJZiBhbiBhdHRhY2tlciBtYW5hZ2VkIHRvIHByb3ZpZGUgYSBtYWxpY2lvdXMgbGlicmFyeSB0byBFMkVFIFdpbmRvd3MgYXBwICYgRTJFRSB3ZWJhcHAgYXQgdGhlaXIgYnVpbGQgdGltZSwKZGVwZW5kaW5nIG9mIHRoZSBuYXR1cmUgb2YgdGhlIG1hbGljaW91cyBsaWJyYXJ5LCB0aGUgdmFyaWV0eSBvZiBhdHRhY2tzIGlzIGFsbW9zdCBsaW1pdGxlc3MsIGZyb20gcmV0cmlldmluZyB0aGUgdXNlcidzCnNlbnNpdGl2ZSBkYXRhIHRvIGNvcnJ1cHRpbmcgdGhlIHVzZXIncyBjb21wdXRlci4K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">d2hpY2gK</text>
+      <register name="6" type="2">
+        <text encoding="base64">KiBFbGV2YXRpb24gb2YgcHJpdmlsZWdlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KCkK</text>
+        <text encoding="base64">KiBTcG9vZmluZwoqIFRhbXBlcmluZwoqIFJlcHVkaWF0aW9uCiogSW5mb3JtYXRpb24gZGlzY2xvc3VyZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fEVuY3J5cHRlZCBrZXlzIGFyZSBjb25zdW1lZCBieSBhIGNvdW50ZXJwYXJ0eSBkZXRhaW5pbmcgdGhlIHJpZ2h0IGVwaGVtZXJhbCBwcml2YXRlIGtleS4gT25jZSBwcm9wZXJseSBkZWNyeXB0ZWQsIHRoaXMKc3ltbWV0cmljIGtleSBhbGxvd3MgdGhlIGNvdW50ZXJwYXJ0eSB0byBkZWNyeXB0IGZpbGVzIHNoYXJlZCB0aHJvdWdoIGFuIGVuZC10by1lbmQgZW5jcnlwdGlvbiBzaGFyaW5nLgo=</text>
+        <text encoding="base64">KiBEZXBlbmRpbmcgb2YgdGhlIHR5cGUgb2YgdGhlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LkF1dGggc2VydmVyClRoaXMgaXMgdGhlIE9vZHJpdmUgYXV0aGVudGljYXRpb24gc2VydmVyIHVzZWQgdG8gYXV0aGVudGljYXRlIHVzZXJzLgoK</text>
+        <text encoding="base64">KiBVc2VycyBtYXkgZG93bmxvYWQgY29tcHJvbWlzZWQgaW5zdGFsbGVyIHdpdGhvdXQgdGhlaXIga25vd2xlZGdlIGFzIHRoZSBjZXJ0aWZpY2F0ZSBpcyB2YWxpZCBmcm9tIHRoZWlyIHBvaW50IG9mIHZpZXcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>softsign</last-search>
+      <last-search>authorized</last-search>
       <last-offset />
-      <last-pattern>softsign</last-pattern>
+      <last-pattern>authorized</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -214,6 +225,11 @@
         <entry>port</entry>
         <entry>8889</entry>
         <entry>softsign</entry>
+        <entry>depending</entry>
+        <entry>Depending</entry>
+        <entry>security</entry>
+        <entry>oodrive-security</entry>
+        <entry>authorized</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
