@@ -22,7 +22,7 @@
         <mark key="." line="47" column="44" />
         <mark key="^" line="47" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556024322002">
+      <file name="/Dummy.txt" timestamp="1556028529669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/web/error/CustomErrorAttributes.java" timestamp="1555847157748">
@@ -64,22 +64,22 @@
         <mark key="^" line="41" column="12" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" timestamp="1556026990376">
+      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" timestamp="1556027958411">
         <mark key="'" line="218" column="0" />
-        <mark key="[" line="235" column="9" />
-        <mark key="]" line="235" column="9" />
-        <mark key="." line="235" column="9" />
-        <mark key="^" line="188" column="57" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+        <mark key="^" line="117" column="0" />
       </file>
       <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/security/AuthTokenPreAuthenticatedFilter.java" timestamp="1555774060991">
         <mark key="'" line="14" column="53" />
       </file>
-      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" timestamp="1556023827493">
-        <mark key="'" line="827" column="12" />
-        <mark key="[" line="879" column="102" />
-        <mark key="]" line="879" column="102" />
-        <mark key="." line="879" column="102" />
-        <mark key="^" line="879" column="102" />
+      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" timestamp="1556028592048">
+        <mark key="'" line="710" column="0" />
+        <mark key="[" line="902" column="2" />
+        <mark key="]" line="902" column="2" />
+        <mark key="." line="902" column="2" />
+        <mark key="^" line="899" column="108" />
       </file>
       <file name="/fragment.java" timestamp="1556024312980">
         <mark key="[" line="0" column="0" />
@@ -132,27 +132,32 @@
       <jump line="218" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
       <jump line="2" column="0" filename="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/resources/application.yml" />
       <jump line="15" column="0" filename="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/resources/application-dev.yml" />
+      <jump line="116" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
+      <jump line="710" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8443</text>
+        <text>loink</text>
       </register>
       <register name="-" type="4">
-        <text>8443</text>
+        <text>loink</text>
       </register>
       <register name="/" type="4">
-        <text>8889</text>
+        <text>softsign</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwb3J0OiA4NDQzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwb3J0OiA4NDQzCiAgc3NsOgogICAga2V5LXN0b3JlOiAvaG9tZS9sbGluL3dvcmsvZG9ja2VyLWNvbXBvc2UvY2VydGlmaWNhdGVzL2xvY2FsaG9zdC9sb2NhbGhvc3QucDEyCiAgICBrZXktc3RvcmUtcGFzc3dvcmQ6CiAgICBrZXktc3RvcmUtdHlwZTogUEtDUzEyCiAgICBrZXktYWxpYXM6IDEK</text>
+        <text encoding="base64">RXZlbiB0aG91Z2ggdGhlIE9vZHJpdmUgc2VydmljZSB0aGF0IHByb3ZpZGVzIHRoZSBpbnN0YWxsZXIgbWF5IG5vdCBiZSBmdWxseSB0cnVzdHdvcnRoeSwgdXNlcnMgbXVzdCB0cnVzdCBhdCBsZWFzdCBvbmNlCnRoZSBzZXJ2aWNlIGluIG9yZGVyIHRvIHVzZSB0aGUgRTJFRSBwcm9kdWN0LgoK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBwb3J0OiA4NDQzCiAgc3NsOgogICAga2V5LXN0b3JlOiAvaG9tZS9sbGluL3dvcmsvZG9ja2VyLWNvbXBvc2UvY2VydGlmaWNhdGVzL2xvY2FsaG9zdC9sb2NhbGhvc3QucDEyCiAgICBrZXktc3RvcmUtcGFzc3dvcmQ6CiAgICBrZXktc3RvcmUtdHlwZTogUEtDUzEyCiAgICBrZXktYWxpYXM6IDEK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">KiBBdXRoZW50aWNpdHkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>|===
 |Threat agent factors|Skill level|Motive|Opportunity|Size
 ||6 (network and programming skills)|4 (possible reward)|4 (special access or resources required)|2 (system administrators)
@@ -172,32 +177,29 @@
 |Overrall Risk Severity|{set:cellbgcolor:orange} MEDIUM|{set:cellbgcolor!}||
 |===</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">d2hpY2gK</text>
-      </register>
       <register name="5" type="4">
         <text encoding="base64">d2hpY2gK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">KCkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">d2hpY2gK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fEVuY3J5cHRlZCBrZXlzIGFyZSBjb25zdW1lZCBieSBhIGNvdW50ZXJwYXJ0eSBkZXRhaW5pbmcgdGhlIHJpZ2h0IGVwaGVtZXJhbCBwcml2YXRlIGtleS4gT25jZSBwcm9wZXJseSBkZWNyeXB0ZWQsIHRoaXMKc3ltbWV0cmljIGtleSBhbGxvd3MgdGhlIGNvdW50ZXJwYXJ0eSB0byBkZWNyeXB0IGZpbGVzIHNoYXJlZCB0aHJvdWdoIGFuIGVuZC10by1lbmQgZW5jcnlwdGlvbiBzaGFyaW5nLgo=</text>
+        <text encoding="base64">KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LkF1dGggc2VydmVyClRoaXMgaXMgdGhlIE9vZHJpdmUgYXV0aGVudGljYXRpb24gc2VydmVyIHVzZWQgdG8gYXV0aGVudGljYXRlIHVzZXJzLgoK</text>
+        <text encoding="base64">fEVuY3J5cHRlZCBrZXlzIGFyZSBjb25zdW1lZCBieSBhIGNvdW50ZXJwYXJ0eSBkZXRhaW5pbmcgdGhlIHJpZ2h0IGVwaGVtZXJhbCBwcml2YXRlIGtleS4gT25jZSBwcm9wZXJseSBkZWNyeXB0ZWQsIHRoaXMKc3ltbWV0cmljIGtleSBhbGxvd3MgdGhlIGNvdW50ZXJwYXJ0eSB0byBkZWNyeXB0IGZpbGVzIHNoYXJlZCB0aHJvdWdoIGFuIGVuZC10by1lbmQgZW5jcnlwdGlvbiBzaGFyaW5nLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCBhZGREZXRhaWxzKE1hcDxTdHJpbmcsIE9iamVjdD4gZXJyb3JBdHRyaWJ1dGVzLCBUaHJvd2FibGUgZXJyb3IpIHsKCQlpZiAoZXJyb3IgaW5zdGFuY2VvZiBBYnN0cmFjdEV4Y2VwdGlvbikgewoJCQkoKEFic3RyYWN0RXhjZXB0aW9uKSBlcnJvcikuZ2V0RGV0YWlscygpCg==</text>
+        <text encoding="base64">LkF1dGggc2VydmVyClRoaXMgaXMgdGhlIE9vZHJpdmUgYXV0aGVudGljYXRpb24gc2VydmVyIHVzZWQgdG8gYXV0aGVudGljYXRlIHVzZXJzLgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>8889</last-search>
+      <last-search>softsign</last-search>
       <last-offset />
-      <last-pattern>8889</last-pattern>
+      <last-pattern>softsign</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -211,6 +213,7 @@
         <entry>sign-epk</entry>
         <entry>port</entry>
         <entry>8889</entry>
+        <entry>softsign</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
