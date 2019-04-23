@@ -3,8 +3,21 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/overview.adoc" timestamp="1556006390928">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="2" />
+        <mark key="]" line="19" column="2" />
+        <mark key="." line="19" column="2" />
+      </file>
       <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" timestamp="1555773731722">
         <mark key="'" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/system_model.adoc" timestamp="1556006910524">
+        <mark key="'" line="36" column="32" />
+        <mark key="[" line="47" column="45" />
+        <mark key="]" line="47" column="44" />
+        <mark key="." line="47" column="44" />
+        <mark key="^" line="47" column="44" />
       </file>
       <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/download/DownloadController.java" timestamp="1555836431806">
         <mark key="[" line="59" column="0" />
@@ -25,6 +38,12 @@
       <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/security/AuthTokenPreAuthenticatedFilter.java" timestamp="1555774060991">
         <mark key="'" line="14" column="53" />
       </file>
+      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" timestamp="1556008489730">
+        <mark key="'" line="22" column="28" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="17" column="0" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
@@ -38,28 +57,47 @@
       <jump line="14" column="53" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/security/AuthTokenPreAuthenticatedFilter.java" />
       <jump line="98" column="0" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/web/error/CustomErrorAttributes.java" />
       <jump line="86" column="4" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/web/error/CustomErrorAttributes.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/overview.adoc" />
+      <jump line="16" column="41" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/system_model.adoc" />
+      <jump line="14" column="105" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/system_model.adoc" />
+      <jump line="36" column="32" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/system_model.adoc" />
+      <jump line="3" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" />
+      <jump line="26" column="24" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" />
+      <jump line="22" column="28" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbiB7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIExPR0dFUiA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbi5jbGFzcyk7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCVNwcmluZ0FwcGxpY2F0aW9uIGFwcCA9IG5ldyBTcHJpbmdBcHBsaWNhdGlvbihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwoJCUVudmlyb25tZW50IGVudmlyb25tZW50ID0gYXBwLnJ1bihhcmdzKS5nZXRFbnZpcm9ubWVudCgpOwoKCQlMT0dHRVIuaW5mbygie30gYXBwbGljYXRpb24gaXMgdXAgYW5kIHJ1bm5pbmchIChTcHJpbmcgcHJvZmlsZShzKToge30pIiwKCQkJCWVudmlyb25tZW50LmdldFByb3BlcnR5KCJzcHJpbmcuYXBwbGljYXRpb24ubmFtZSIpLAoJCQkJZW52aXJvbm1lbnQuZ2V0QWN0aXZlUHJvZmlsZXMoKSk7Cgl9Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCBhZGREZXRhaWxzKE1hcDxTdHJpbmcsIE9iamVjdD4gZXJyb3JBdHRyaWJ1dGVzLCBUaHJvd2FibGUgZXJyb3IpIHsKCQlpZiAoZXJyb3IgaW5zdGFuY2VvZiBBYnN0cmFjdEV4Y2VwdGlvbikgewoJCQkoKEFic3RyYWN0RXhjZXB0aW9uKSBlcnJvcikuZ2V0RGV0YWlscygpCg==</text>
+        <text encoding="base64">KCkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCBhZGREZXRhaWxzKE1hcDxTdHJpbmcsIE9iamVjdD4gZXJyb3JBdHRyaWJ1dGVzLCBUaHJvd2FibGUgZXJyb3IpIHsKCQlpZiAoZXJyb3IgaW5zdGFuY2VvZiBBYnN0cmFjdEV4Y2VwdGlvbikgewoJCQkoKEFic3RyYWN0RXhjZXB0aW9uKSBlcnJvcikuZ2V0RGV0YWlscygpCg==</text>
+        <text encoding="base64">KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CTpmCg==</text>
+        <text encoding="base64">fEVuY3J5cHRlZCBrZXlzIGFyZSBjb25zdW1lZCBieSBhIGNvdW50ZXJwYXJ0eSBkZXRhaW5pbmcgdGhlIHJpZ2h0IGVwaGVtZXJhbCBwcml2YXRlIGtleS4gT25jZSBwcm9wZXJseSBkZWNyeXB0ZWQsIHRoaXMKc3ltbWV0cmljIGtleSBhbGxvd3MgdGhlIGNvdW50ZXJwYXJ0eSB0byBkZWNyeXB0IGZpbGVzIHNoYXJlZCB0aHJvdWdoIGFuIGVuZC10by1lbmQgZW5jcnlwdGlvbiBzaGFyaW5nLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbiB7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIExPR0dFUiA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbi5jbGFzcyk7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCVNwcmluZ0FwcGxpY2F0aW9uIGFwcCA9IG5ldyBTcHJpbmdBcHBsaWNhdGlvbihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwoJCUVudmlyb25tZW50IGVudmlyb25tZW50ID0gYXBwLnJ1bihhcmdzKS5nZXRFbnZpcm9ubWVudCgpOwoKCQlMT0dHRVIuaW5mbygie30gYXBwbGljYXRpb24gaXMgdXAgYW5kIHJ1bm5pbmchIChTcHJpbmcgcHJvZmlsZShzKToge30pIiwKCQkJCWVudmlyb25tZW50LmdldFByb3BlcnR5KCJzcHJpbmcuYXBwbGljYXRpb24ubmFtZSIpLAoJCQkJZW52aXJvbm1lbnQuZ2V0QWN0aXZlUHJvZmlsZXMoKSk7Cgl9Cn0K</text>
+        <text encoding="base64">LkF1dGggc2VydmVyClRoaXMgaXMgdGhlIE9vZHJpdmUgYXV0aGVudGljYXRpb24gc2VydmVyIHVzZWQgdG8gYXV0aGVudGljYXRlIHVzZXJzLgoK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CXByaXZhdGUgdm9pZCBhZGREZXRhaWxzKE1hcDxTdHJpbmcsIE9iamVjdD4gZXJyb3JBdHRyaWJ1dGVzLCBUaHJvd2FibGUgZXJyb3IpIHsKCQlpZiAoZXJyb3IgaW5zdGFuY2VvZiBBYnN0cmFjdEV4Y2VwdGlvbikgewoJCQkoKEFic3RyYWN0RXhjZXB0aW9uKSBlcnJvcikuZ2V0RGV0YWlscygpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CTpmCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbiB7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgTG9nZ2VyIExPR0dFUiA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKEJpbmFyaWVzUHJvdmlkZXJBcHBsaWNhdGlvbi5jbGFzcyk7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCVNwcmluZ0FwcGxpY2F0aW9uIGFwcCA9IG5ldyBTcHJpbmdBcHBsaWNhdGlvbihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwoJCUVudmlyb25tZW50IGVudmlyb25tZW50ID0gYXBwLnJ1bihhcmdzKS5nZXRFbnZpcm9ubWVudCgpOwoKCQlMT0dHRVIuaW5mbygie30gYXBwbGljYXRpb24gaXMgdXAgYW5kIHJ1bm5pbmchIChTcHJpbmcgcHJvZmlsZShzKToge30pIiwKCQkJCWVudmlyb25tZW50LmdldFByb3BlcnR5KCJzcHJpbmcuYXBwbGljYXRpb24ubmFtZSIpLAoJCQkJZW52aXJvbm1lbnQuZ2V0QWN0aXZlUHJvZmlsZXMoKSk7Cgl9Cn0K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihCaW5hcmllc1Byb3ZpZGVyQXBwbGljYXRpb24uY2xhc3MpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>key.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx9XD4=</text>
@@ -83,6 +121,7 @@
         <entry>q all</entry>
         <entry>q</entry>
         <entry>comment</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -115,7 +154,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -139,7 +178,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
