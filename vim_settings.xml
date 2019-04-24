@@ -41,11 +41,11 @@
       <file name="/a.dummy" timestamp="1555844157527">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/glossary.adoc" timestamp="1556010878699">
-        <mark key="[" line="36" column="113" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/glossary.adoc" timestamp="1556100381238">
+        <mark key="[" line="18" column="116" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/resources/application-dev.yml" timestamp="1556027151030">
         <mark key="'" line="15" column="0" />
@@ -60,11 +60,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" timestamp="1556093998370">
+      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" timestamp="1556100328835">
         <mark key="'" line="70" column="0" />
-        <mark key="[" line="69" column="102" />
-        <mark key="]" line="69" column="102" />
-        <mark key="." line="69" column="102" />
+        <mark key="[" line="44" column="1" />
+        <mark key="]" line="44" column="1" />
+        <mark key="." line="44" column="1" />
         <mark key="^" line="69" column="102" />
       </file>
       <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" timestamp="1555773731722">
@@ -79,8 +79,8 @@
       <file name="$MAVEN_REPOSITORY$/com/oodrive/parent/2.2.0/parent-2.2.0.pom" timestamp="1556098676772">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" timestamp="1556097922135">
-        <mark key="'" line="359" column="0" />
+      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" timestamp="1556100013309">
+        <mark key="'" line="50" column="32" />
         <mark key="[" line="357" column="39" />
         <mark key="]" line="357" column="64" />
         <mark key="." line="357" column="64" />
@@ -195,62 +195,66 @@
       <jump line="5" column="17" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
       <jump line="245" column="12" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
       <jump line="20" column="19" filename="$USER_HOME$/work/e2ee-parent/e2ee-app/pom.xml" />
+      <jump line="50" column="32" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmdsYXNzZmlzaC5qYXhiPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qYXhiLXJ1bnRpbWU8L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>Ensures that data or an information system is accessed by only an authorized person. User Id’s and
+passwords, access control lists (ACL) and policy based security are some of the methods through which confidentiality is
+achieved.</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>X</text>
       </register>
       <register name="/" type="4">
-        <text>surefire</text>
+        <text>signed-installer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8IS0tIGRlcGVuZGVuY3k+CgkJCTxncm91cElkPm9yZy5nbGFzc2Zpc2guamF4YjwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+amF4Yi1ydW50aW1lPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4yLjQuMC1iMTgwODMwLjA0Mzg8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5IC0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmdsYXNzZmlzaC5qYXhiPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qYXhiLXJ1bnRpbWU8L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="1" type="4">
+        <text>Ensures that data or an information system is accessed by only an authorized person. User Id’s and
+passwords, access control lists (ACL) and policy based security are some of the methods through which confidentiality is
+achieved.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPjIuMjIuMTwvdmVyc2lvbj4KCQkJPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmdsYXNzZmlzaC5qYXhiPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qYXhiLXJ1bnRpbWU8L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLWphci1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4zLjEuMTwvdmVyc2lvbj4KCQkJPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPjIuMjIuMTwvdmVyc2lvbj4KCQkJPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCTxncgo=</text>
+        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLWphci1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4zLjEuMTwvdmVyc2lvbj4KCQkJPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci5UaHJlYXQgcmF0aW5nCntibGFua30KCnw9PT0KfFRocmVhdCBhZ2VudCBmYWN0b3JzfFNraWxsIGxldmVsfE1vdGl2ZXxPcHBvcnR1bml0eXxTaXplCnx8NiAobmV0d29yayBhbmQgcHJvZ3JhbW1pbmcgc2tpbGxzKXw5IChoaWdoIHJld2FyZCl8NCAoc3BlY2lhbCBhY2Nlc3Mgb3IgcmVzb3VyY2VzIHJlcXVpcmVkKXwyIChzeXN0ZW0gYWRtaW5pc3RyYXRvcnMpCnxWdWxuZXJhYmlsaXR5IGZhY3RvcnN8RWFzZSBvZiBkaXNjb3Zlcnl8RWFzZSBvZiBleHBsb2l0fEF3YXJlbmVzc3xJbnRydXNpb24gZGV0ZWN0aW9uCnx8MSAocHJhY3RpY2FsbHkgaW1wb3NzaWJsZSl8MyAoZGlmZmljdWx0KXw0IChoaWRkZW4pfDkgKG5vdCBsb2dnZWQpCnxPdmVyYWxsIGxpa2VsaWhvb2R8e3NldDpjZWxsYmdjb2xvcjp5ZWxsb3d9NC43NSAoTUVESVVNKXx7c2V0OmNlbGxiZ2NvbG9yIX18fAoKfHtzZXQ6Y2VsbGJnY29sb3IhfXx8fHwKCnxUZWNobmljYWwgaW1wYWN0fExvc3Mgb2YgY29uZmlkZW50aWFsaXR5fExvc3Mgb2YgaW50ZWdyaXR5fExvc3Mgb2YgYXZhaWxhYmlsaXR5fExvc3Mgb2YgYWNjb3VudGFiaWxpdHkKfHw3IChleHRlbnNpdmUgY3JpdGljYWwgZGF0YSBkaXNjbG9zZWQpfDcgKGV4dGVuc2l2ZSBzZXJpb3VzbHkgY29ycnVwdCBkYXRhKXw3IChleHRlbnNpdmUgcHJpbWFyeSBzZXJ2aWNlcyBpbnRlcnJ1cHRlZCl8OSAoY29tcGxldGVseSBhbm9ueW1vdXMpCnxCdXNpbmVzcyBJbXBhY3R8RmluYW5jaWFsIGRhbWFnZXxSZXB1dGF0aW9uIGRhbWFnZXxOb24tY29tcGxpYW5jZXxQcml2YWN5IHZpb2xhdGlvbgp8fDcgKHNpZ25pZmljYW50IGVmZmVjdCBvbiBhbm51YWwgcHJvZml0KXw0IChsb3NzIG9mIG1ham9yIGFjY291bnRzKXw3IChoaWdoIHByb2ZpbGUgdmlvbGF0aW9uKXw1IChodW5kcmVkcyBvZiBwZW9wbGUpCnxPdmVyYWxsIGltcGFjdHx7c2V0OmNlbGxiZ2NvbG9yOnJlZH02LjYyNSAoSElHSCl8e3NldDpjZWxsYmdjb2xvciF9fHwKCnx7c2V0OmNlbGxiZ2NvbG9yIX18fHx8CnxPdmVycmFsbCBSaXNrIFNldmVyaXR5fHtzZXQ6Y2VsbGJnY29sb3I6cmVkfSBISUdIfHtzZXQ6Y2VsbGJnY29sb3IhfXx8Cnw9PT0KCi5Db3VudGVybWVhc3VyZXMKKiA8PGUyZWUtd2luZG93cy1hcHAtY2hlY2tzLXNlcnZlci1jZXJ0aWZpY2F0ZS1jb3VudGVybWVhc3VyZSwgRTJFRSBXaW5kb3dzIHNoYWxsIGNoZWNrIHdoZXRoZXIgdGhlIHNlcnZlcidzIGRpZ2l0YWwKY2VydGlmaWNhdGUgaXMgdmFsaWQgYW5kIGJlbG9uZ3MgdG8gYSBkb21haW4ncyBleHBlY3RlZCBvd25lciwgYW5kIG5vdGlmeSB0aGUgdXNlciBvZiBwb3RlbnRpYWwgcmlzayBpbnZvbHZlZCB3aXRoCnVudmVyaWZpZWQgY2VydGlmaWNhdGUuPj4KCg==</text>
+        <text encoding="base64">CQkJCTxncgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci5UaHJlYXQgcmF0aW5nCntibGFua30KCnw9PT0KfFRocmVhdCBhZ2VudCBmYWN0b3JzfFNraWxsIGxldmVsfE1vdGl2ZXxPcHBvcnR1bml0eXxTaXplCnx8NiAobmV0d29yayBhbmQgcHJvZ3JhbW1pbmcgc2tpbGxzKXw5IChoaWdoIHJld2FyZCl8NCAoc3BlY2lhbCBhY2Nlc3Mgb3IgcmVzb3VyY2VzIHJlcXVpcmVkKXwyIChzeXN0ZW0gYWRtaW5pc3RyYXRvcnMpCnxWdWxuZXJhYmlsaXR5IGZhY3RvcnN8RWFzZSBvZiBkaXNjb3Zlcnl8RWFzZSBvZiBleHBsb2l0fEF3YXJlbmVzc3xJbnRydXNpb24gZGV0ZWN0aW9uCnx8MSAocHJhY3RpY2FsbHkgaW1wb3NzaWJsZSl8MyAoZGlmZmljdWx0KXw0IChoaWRkZW4pfDkgKG5vdCBsb2dnZWQpCnxPdmVyYWxsIGxpa2VsaWhvb2R8e3NldDpjZWxsYmdjb2xvcjp5ZWxsb3d9NC43NSAoTUVESVVNKXx7c2V0OmNlbGxiZ2NvbG9yIX18fAoKfHtzZXQ6Y2VsbGJnY29sb3IhfXx8fHwKCnxUZWNobmljYWwgaW1wYWN0fExvc3Mgb2YgY29uZmlkZW50aWFsaXR5fExvc3Mgb2YgaW50ZWdyaXR5fExvc3Mgb2YgYXZhaWxhYmlsaXR5fExvc3Mgb2YgYWNjb3VudGFiaWxpdHkKfHw3IChleHRlbnNpdmUgY3JpdGljYWwgZGF0YSBkaXNjbG9zZWQpfDcgKGV4dGVuc2l2ZSBzZXJpb3VzbHkgY29ycnVwdCBkYXRhKXw3IChleHRlbnNpdmUgcHJpbWFyeSBzZXJ2aWNlcyBpbnRlcnJ1cHRlZCl8OSAoY29tcGxldGVseSBhbm9ueW1vdXMpCnxCdXNpbmVzcyBJbXBhY3R8RmluYW5jaWFsIGRhbWFnZXxSZXB1dGF0aW9uIGRhbWFnZXxOb24tY29tcGxpYW5jZXxQcml2YWN5IHZpb2xhdGlvbgp8fDcgKHNpZ25pZmljYW50IGVmZmVjdCBvbiBhbm51YWwgcHJvZml0KXw0IChsb3NzIG9mIG1ham9yIGFjY291bnRzKXw3IChoaWdoIHByb2ZpbGUgdmlvbGF0aW9uKXw1IChodW5kcmVkcyBvZiBwZW9wbGUpCnxPdmVyYWxsIGltcGFjdHx7c2V0OmNlbGxiZ2NvbG9yOnJlZH02LjYyNSAoSElHSCl8e3NldDpjZWxsYmdjb2xvciF9fHwKCnx7c2V0OmNlbGxiZ2NvbG9yIX18fHx8CnxPdmVycmFsbCBSaXNrIFNldmVyaXR5fHtzZXQ6Y2VsbGJnY29sb3I6cmVkfSBISUdIfHtzZXQ6Y2VsbGJnY29sb3IhfXx8Cnw9PT0KCi5Db3VudGVybWVhc3VyZXMKKiA8PGUyZWUtd2luZG93cy1hcHAtY2hlY2tzLXNlcnZlci1jZXJ0aWZpY2F0ZS1jb3VudGVybWVhc3VyZSwgRTJFRSBXaW5kb3dzIHNoYWxsIGNoZWNrIHdoZXRoZXIgdGhlIHNlcnZlcidzIGRpZ2l0YWwKY2VydGlmaWNhdGUgaXMgdmFsaWQgYW5kIGJlbG9uZ3MgdG8gYSBkb21haW4ncyBleHBlY3RlZCBvd25lciwgYW5kIG5vdGlmeSB0aGUgdXNlciBvZiBwb3RlbnRpYWwgcmlzayBpbnZvbHZlZCB3aXRoCnVudmVyaWZpZWQgY2VydGlmaWNhdGUuPj4K</text>
+        <text encoding="base64">Ci5UaHJlYXQgcmF0aW5nCntibGFua30KCnw9PT0KfFRocmVhdCBhZ2VudCBmYWN0b3JzfFNraWxsIGxldmVsfE1vdGl2ZXxPcHBvcnR1bml0eXxTaXplCnx8NiAobmV0d29yayBhbmQgcHJvZ3JhbW1pbmcgc2tpbGxzKXw5IChoaWdoIHJld2FyZCl8NCAoc3BlY2lhbCBhY2Nlc3Mgb3IgcmVzb3VyY2VzIHJlcXVpcmVkKXwyIChzeXN0ZW0gYWRtaW5pc3RyYXRvcnMpCnxWdWxuZXJhYmlsaXR5IGZhY3RvcnN8RWFzZSBvZiBkaXNjb3Zlcnl8RWFzZSBvZiBleHBsb2l0fEF3YXJlbmVzc3xJbnRydXNpb24gZGV0ZWN0aW9uCnx8MSAocHJhY3RpY2FsbHkgaW1wb3NzaWJsZSl8MyAoZGlmZmljdWx0KXw0IChoaWRkZW4pfDkgKG5vdCBsb2dnZWQpCnxPdmVyYWxsIGxpa2VsaWhvb2R8e3NldDpjZWxsYmdjb2xvcjp5ZWxsb3d9NC43NSAoTUVESVVNKXx7c2V0OmNlbGxiZ2NvbG9yIX18fAoKfHtzZXQ6Y2VsbGJnY29sb3IhfXx8fHwKCnxUZWNobmljYWwgaW1wYWN0fExvc3Mgb2YgY29uZmlkZW50aWFsaXR5fExvc3Mgb2YgaW50ZWdyaXR5fExvc3Mgb2YgYXZhaWxhYmlsaXR5fExvc3Mgb2YgYWNjb3VudGFiaWxpdHkKfHw3IChleHRlbnNpdmUgY3JpdGljYWwgZGF0YSBkaXNjbG9zZWQpfDcgKGV4dGVuc2l2ZSBzZXJpb3VzbHkgY29ycnVwdCBkYXRhKXw3IChleHRlbnNpdmUgcHJpbWFyeSBzZXJ2aWNlcyBpbnRlcnJ1cHRlZCl8OSAoY29tcGxldGVseSBhbm9ueW1vdXMpCnxCdXNpbmVzcyBJbXBhY3R8RmluYW5jaWFsIGRhbWFnZXxSZXB1dGF0aW9uIGRhbWFnZXxOb24tY29tcGxpYW5jZXxQcml2YWN5IHZpb2xhdGlvbgp8fDcgKHNpZ25pZmljYW50IGVmZmVjdCBvbiBhbm51YWwgcHJvZml0KXw0IChsb3NzIG9mIG1ham9yIGFjY291bnRzKXw3IChoaWdoIHByb2ZpbGUgdmlvbGF0aW9uKXw1IChodW5kcmVkcyBvZiBwZW9wbGUpCnxPdmVyYWxsIGltcGFjdHx7c2V0OmNlbGxiZ2NvbG9yOnJlZH02LjYyNSAoSElHSCl8e3NldDpjZWxsYmdjb2xvciF9fHwKCnx7c2V0OmNlbGxiZ2NvbG9yIX18fHx8CnxPdmVycmFsbCBSaXNrIFNldmVyaXR5fHtzZXQ6Y2VsbGJnY29sb3I6cmVkfSBISUdIfHtzZXQ6Y2VsbGJnY29sb3IhfXx8Cnw9PT0KCi5Db3VudGVybWVhc3VyZXMKKiA8PGUyZWUtd2luZG93cy1hcHAtY2hlY2tzLXNlcnZlci1jZXJ0aWZpY2F0ZS1jb3VudGVybWVhc3VyZSwgRTJFRSBXaW5kb3dzIHNoYWxsIGNoZWNrIHdoZXRoZXIgdGhlIHNlcnZlcidzIGRpZ2l0YWwKY2VydGlmaWNhdGUgaXMgdmFsaWQgYW5kIGJlbG9uZ3MgdG8gYSBkb21haW4ncyBleHBlY3RlZCBvd25lciwgYW5kIG5vdGlmeSB0aGUgdXNlciBvZiBwb3RlbnRpYWwgcmlzayBpbnZvbHZlZCB3aXRoCnVudmVyaWZpZWQgY2VydGlmaWNhdGUuPj4KCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Ci5UaHJlYXQgcmF0aW5nCntibGFua30KCnw9PT0KfFRocmVhdCBhZ2VudCBmYWN0b3JzfFNraWxsIGxldmVsfE1vdGl2ZXxPcHBvcnR1bml0eXxTaXplCnx8NiAobmV0d29yayBhbmQgcHJvZ3JhbW1pbmcgc2tpbGxzKXw5IChoaWdoIHJld2FyZCl8NCAoc3BlY2lhbCBhY2Nlc3Mgb3IgcmVzb3VyY2VzIHJlcXVpcmVkKXwyIChzeXN0ZW0gYWRtaW5pc3RyYXRvcnMpCnxWdWxuZXJhYmlsaXR5IGZhY3RvcnN8RWFzZSBvZiBkaXNjb3Zlcnl8RWFzZSBvZiBleHBsb2l0fEF3YXJlbmVzc3xJbnRydXNpb24gZGV0ZWN0aW9uCnx8MSAocHJhY3RpY2FsbHkgaW1wb3NzaWJsZSl8MyAoZGlmZmljdWx0KXw0IChoaWRkZW4pfDkgKG5vdCBsb2dnZWQpCnxPdmVyYWxsIGxpa2VsaWhvb2R8e3NldDpjZWxsYmdjb2xvcjp5ZWxsb3d9NC43NSAoTUVESVVNKXx7c2V0OmNlbGxiZ2NvbG9yIX18fAoKfHtzZXQ6Y2VsbGJnY29sb3IhfXx8fHwKCnxUZWNobmljYWwgaW1wYWN0fExvc3Mgb2YgY29uZmlkZW50aWFsaXR5fExvc3Mgb2YgaW50ZWdyaXR5fExvc3Mgb2YgYXZhaWxhYmlsaXR5fExvc3Mgb2YgYWNjb3VudGFiaWxpdHkKfHw3IChleHRlbnNpdmUgY3JpdGljYWwgZGF0YSBkaXNjbG9zZWQpfDcgKGV4dGVuc2l2ZSBzZXJpb3VzbHkgY29ycnVwdCBkYXRhKXw3IChleHRlbnNpdmUgcHJpbWFyeSBzZXJ2aWNlcyBpbnRlcnJ1cHRlZCl8OSAoY29tcGxldGVseSBhbm9ueW1vdXMpCnxCdXNpbmVzcyBJbXBhY3R8RmluYW5jaWFsIGRhbWFnZXxSZXB1dGF0aW9uIGRhbWFnZXxOb24tY29tcGxpYW5jZXxQcml2YWN5IHZpb2xhdGlvbgp8fDcgKHNpZ25pZmljYW50IGVmZmVjdCBvbiBhbm51YWwgcHJvZml0KXw0IChsb3NzIG9mIG1ham9yIGFjY291bnRzKXw3IChoaWdoIHByb2ZpbGUgdmlvbGF0aW9uKXw1IChodW5kcmVkcyBvZiBwZW9wbGUpCnxPdmVyYWxsIGltcGFjdHx7c2V0OmNlbGxiZ2NvbG9yOnJlZH02LjYyNSAoSElHSCl8e3NldDpjZWxsYmdjb2xvciF9fHwKCnx7c2V0OmNlbGxiZ2NvbG9yIX18fHx8CnxPdmVycmFsbCBSaXNrIFNldmVyaXR5fHtzZXQ6Y2VsbGJnY29sb3I6cmVkfSBISUdIfHtzZXQ6Y2VsbGJnY29sb3IhfXx8Cnw9PT0KCi5Db3VudGVybWVhc3VyZXMKKiA8PGUyZWUtd2luZG93cy1hcHAtY2hlY2tzLXNlcnZlci1jZXJ0aWZpY2F0ZS1jb3VudGVybWVhc3VyZSwgRTJFRSBXaW5kb3dzIHNoYWxsIGNoZWNrIHdoZXRoZXIgdGhlIHNlcnZlcidzIGRpZ2l0YWwKY2VydGlmaWNhdGUgaXMgdmFsaWQgYW5kIGJlbG9uZ3MgdG8gYSBkb21haW4ncyBleHBlY3RlZCBvd25lciwgYW5kIG5vdGlmeSB0aGUgdXNlciBvZiBwb3RlbnRpYWwgcmlzayBpbnZvbHZlZCB3aXRoCnVudmVyaWZpZWQgY2VydGlmaWNhdGUuPj4K</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">W1tkbnMtcG9pc29uaW5nLXRocmVhdF1dCj09PT0gRE5TIHBvaXNvbmluZwoKRE5TIGNhY2hlIHBvaXNvbmluZywgYWxzbyBrbm93biBhcyBETlMgc3Bvb2ZpbmcsIGlzIGEgdHlwZSBvZiBhdHRhY2sgdGhhdCBleHBsb2l0cyB2dWxuZXJhYmlsaXRpZXMgaW4gdGhlIGRvbWFpbiBuYW1lCnN5c3RlbSAoRE5TKSB0byBkaXZlcnQgSW50ZXJuZXQgdHJhZmZpYyBhd2F5IGZyb20gbGVnaXRpbWF0ZSBzZXJ2ZXJzIGFuZCB0b3dhcmRzIGZha2Ugb25lcy4KCi5JbXBhY3RzCiogQXR0YWNrZXJzIGNhbiByZWRpcmVjdCB0aGUgdHJhZmZpYyB0byBoaXMgY29tcHV0ZXJzIGFuZCBmZXRjaCB0aGUgZGF0YS4KCi5UaHJlYXQgdHlwZXMKKiBTcG9vZmluZwoqIFJlcHVkaWF0aW9uCiogSW5mb3JtYXRpb24gZGlzY2xvc3VyZQoqIFRhbXBlcmluZwoqIERlbmlhbCBvZiBTZXJ2aWNlCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>commonly
 used in the business world as secure</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">PT09PSBXcm9uZyBjaG9pY2Ugb2YgaW1wbGVtZW50YXRpb24gb2YgdGhlIHNlY3JldCBjb21wdXRhdGlvbiBhbGdvcml0aG0KClRoZSBFMkVFIFdpbmRvd3MgYXBwIGFuZCBFMkVFIHdlYmFwcCBib3RoIHVzZSBsaW5rOmh0dHBzOi8vZG93bmxvYWQubGlic29kaXVtLm9yZy9kb2MvW0xpYnNvZGl1bV0gYXMgdGhlIGltcGxlbWVudGF0aW9uCm9mIGxpbms6aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQ3VydmUyNTUxOVtDdXJ2ZTI1NTE5XSB1c2VkIGluIHRoZSA8PGRoa2UtZGVmaW5pdGlvbiwgREhLRT4+IGFuZAppbiB0aGUgY3J5cHRvZ3JhcGhpYyBzaWduYXR1cmVzIGdlbmVyYXRpb24uCgouSW1wYWN0cwoqIElmIGFuIGF0dGFja2VyIG1hbmFnZWQgdG8gYnJlYWsgdGhlIHNlY3JldCBjb21wdXRhdGlvbiBhbGdvcml0aG0sIHRodXMgZGVjcnlwdGluZyB0aGUgZW5jcnlwdGlvbiBrZXksIHRoZSBhdHRhY2tlcgp3aWxsIGJlIGFibGUgdG8gcmVhZCB0aGUgZGF0YSBvZiB0aGUgc2hhcmluZyBsaW5rZWQgdG8gdGhlIGVuY3J5cHRpb24ga2V5LgoKLlRocmVhdCB0eXBlcwoqIFNwb29maW5nCiogVGFtcGVyaW5nCiogUmVwdWRpYXRpb24KKiBJbmZvcm1hdGlvbiBkaXNjbG9zdXJlCiogRGVuaWFsIG9mIHNlcnZpY2UKCi5NaXRpZ2F0aW9uCiogTGlic29kaXVtIGxpYnJhcmllcyBoYXZlIGJlZW4gaW1wbGVtZW50ZWQgYnkgY29tcGV0ZW50IHBlcnNvbnMgd2hvIGFyZSBleHBlcnQgaW4gdGhlIHNlY3VyaXR5IGZpZWxkLgoqIFRoZSBzaGFyZSBzZWNyZXQgY29tcHV0YXRpb24gYWxnb3JpdGhtIHNoYWxsIG9mZmVyIGFuIGFjY2VwdGFibGUgc2VjdXJpdHkgdGhhdCBzaG91bGQgbm90IGJlIGVhc2lseSBicm9rZW4uCioqIE1vcmUgaW5mb3JtYXRpb24gaW4gdGhlIGxpbms6aHR0cDovL2UyZWUub29naXQub29kcml2ZS5uZXQvcHJvdG9jb2wvbGF0ZXN0LyNhbGdvcml0aG1zLWRlc2NyaXB0aW9uW0UyRUUgcHJvdG9jb2wKZG9jdW1lbnRhdGlvbl0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>surefire</last-search>
+      <last-search>signed-installer</last-search>
       <last-offset />
-      <last-pattern>surefire</last-pattern>
+      <last-pattern>signed-installer</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx9XD4=</entry>
         <entry>fake</entry>
         <entry>signed</entry>
         <entry>e2ee-webapp</entry>
@@ -270,6 +274,7 @@ used in the business world as secure</text>
         <entry>Industrial</entry>
         <entry>industrial</entry>
         <entry>surefire</entry>
+        <entry>signed-installer</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
