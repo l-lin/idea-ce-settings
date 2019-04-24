@@ -26,11 +26,8 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/module-info.java" timestamp="1556107519961">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="21" column="1" />
-        <mark key="^" line="21" column="1" />
-        <mark key="." line="21" column="1" />
+      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/module-info.java" timestamp="1556109497347">
+        <mark key="'" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" timestamp="1556100328835">
         <mark key="'" line="70" column="0" />
@@ -76,12 +73,15 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/work/e2ee-parent/pom.xml" timestamp="1556107036282">
+      <file name="$USER_HOME$/work/e2ee-parent/pom.xml" timestamp="1556109243799">
         <mark key="'" line="59" column="28" />
-        <mark key="[" line="304" column="39" />
-        <mark key="]" line="305" column="29" />
-        <mark key="^" line="305" column="29" />
-        <mark key="." line="305" column="29" />
+        <mark key="[" line="211" column="25" />
+        <mark key="]" line="310" column="29" />
+        <mark key="^" line="310" column="29" />
+        <mark key="." line="310" column="29" />
+      </file>
+      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/com/oodrive/e2ee/app/E2eeApplication.java" timestamp="1556108579843">
+        <mark key="'" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/overview.adoc" timestamp="1556006390928">
         <mark key="'" line="0" column="0" />
@@ -105,13 +105,19 @@
       <file name="/Dummy.txt" timestamp="1556096101506">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/core3-app/CHANGELOG.md" timestamp="1556109763391">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="2" column="77" />
+        <mark key="." line="2" column="77" />
+        <mark key="^" line="2" column="77" />
+      </file>
       <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/glossary.adoc" timestamp="1556100381238">
         <mark key="[" line="18" column="116" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/work/e2ee-parent/e2ee-dto/src/main/java/module-info.java" timestamp="1556101439576">
+      <file name="$USER_HOME$/work/e2ee-parent/e2ee-dto/src/main/java/module-info.java" timestamp="1556108546818">
         <mark key="[" line="1" column="33" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
@@ -129,7 +135,7 @@
         <mark key="^" line="12" column="79" />
         <mark key="." line="12" column="79" />
       </file>
-      <file name="/fragment.java" timestamp="1556097154406">
+      <file name="/fragment.java" timestamp="1556109693268">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -223,16 +229,19 @@
       <jump line="59" column="28" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
       <jump line="26" column="11" filename="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/com/oodrive/e2ee/app/device/DeviceController.java" />
       <jump line="2" column="7" filename="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/com/oodrive/e2ee/app/item/db/ItemDAO.java" />
+      <jump line="14" column="38" filename="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/com/oodrive/e2ee/app/E2eeApplication.java" />
+      <jump line="38" column="28" filename="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/module-info.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/module-info.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>core</text>
+        <text>JSPM</text>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text>JSPM</text>
       </register>
       <register name="/" type="4">
-        <text>signed-installer</text>
+        <text>core3-app</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8IS0tIGRlcGVuZGVuY3k+CgkJCTxncm91cElkPm9yZy5nbGFzc2Zpc2guamF4YjwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+amF4Yi1ydW50aW1lPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4yLjQuMC1iMTgwODMwLjA0Mzg8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5IC0tPgo=</text>
@@ -271,16 +280,14 @@ achieved.</text>
       </register>
     </registers>
     <search>
-      <last-search>signed-installer</last-search>
+      <last-search>core3-app</last-search>
       <last-offset />
-      <last-pattern>signed-installer</last-pattern>
+      <last-pattern>core3-app</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fake</entry>
-        <entry>signed</entry>
         <entry>e2ee-webapp</entry>
         <entry>sign-epk</entry>
         <entry>port</entry>
@@ -299,6 +306,8 @@ achieved.</text>
         <entry>industrial</entry>
         <entry>surefire</entry>
         <entry>signed-installer</entry>
+        <entry>;</entry>
+        <entry>core3-app</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
