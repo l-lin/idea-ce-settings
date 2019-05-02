@@ -82,12 +82,12 @@
         <mark key="." line="2" column="77" />
         <mark key="^" line="2" column="77" />
       </file>
-      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/test/java/com/oodrive/e2ee/app/arch/ControllerRulesTest.java" timestamp="1556812158000">
+      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/test/java/com/oodrive/e2ee/app/arch/ControllerRulesTest.java" timestamp="1556813143933">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="21" column="120" />
-        <mark key="]" line="21" column="134" />
-        <mark key="^" line="21" column="134" />
-        <mark key="." line="21" column="134" />
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="22" column="33" />
+        <mark key="^" line="22" column="134" />
+        <mark key="." line="22" column="33" />
       </file>
       <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/glossary.adoc" timestamp="1556100381238">
         <mark key="[" line="18" column="116" />
@@ -242,10 +242,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>archunit</text>
