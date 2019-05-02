@@ -24,6 +24,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/test/java/com/oodrive/e2ee/app/arch/ControllerRuleTest.java" timestamp="1556810775725">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+      </file>
       <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" timestamp="1555773731722">
         <mark key="'" line="14" column="0" />
       </file>
@@ -45,6 +50,13 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/work/e2ee-parent/pom.xml" timestamp="1556810697329">
+        <mark key="'" line="292" column="27" />
+        <mark key="[" line="292" column="61" />
+        <mark key="]" line="293" column="26" />
+        <mark key="^" line="293" column="26" />
+        <mark key="." line="293" column="26" />
+      </file>
       <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/com/oodrive/e2ee/app/E2eeApplication.java" timestamp="1556108579843">
         <mark key="'" line="14" column="38" />
       </file>
@@ -54,11 +66,8 @@
         <mark key="]" line="19" column="2" />
         <mark key="." line="19" column="2" />
       </file>
-      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/pom.xml" timestamp="1556099109336">
+      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/pom.xml" timestamp="1556810691583">
         <mark key="'" line="20" column="19" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="38" column="21" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1556096101506">
         <mark key="[" line="0" column="0" />
@@ -68,6 +77,12 @@
         <mark key="]" line="2" column="77" />
         <mark key="." line="2" column="77" />
         <mark key="^" line="2" column="77" />
+      </file>
+      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/test/java/com/oodrive/e2ee/app/arch/ControllerRulesTest.java" timestamp="1556810844803">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="22" />
+        <mark key="^" line="5" column="22" />
+        <mark key="." line="5" column="22" />
       </file>
       <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/glossary.adoc" timestamp="1556100381238">
         <mark key="[" line="18" column="116" />
@@ -215,48 +230,50 @@
       <jump line="38" column="28" filename="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/module-info.java" />
       <jump line="21" column="0" filename="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/module-info.java" />
       <jump line="160" column="16" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
+      <jump line="207" column="40" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
+      <jump line="291" column="27" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>core3-app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8IS0tIGRlcGVuZGVuY3k+CgkJCTxncm91cElkPm9yZy5nbGFzc2Zpc2guamF4YjwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+amF4Yi1ydW50aW1lPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4yLjQuMC1iMTgwODMwLjA0Mzg8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5IC0tPgo=</text>
+        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5jb20udG5ndGVjaC5hcmNodW5pdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPmFyY2h1bml0LWp1bml0NDwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPiR7YXJjaHVuaXQtanVuaXQ0LnZlcnNpb259PC92ZXJzaW9uPgoJCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBQb3N0TWFwcGluZyhwYXRoID0gIi9oZWxsbyIpCglwdWJsaWMK</text>
+        <text encoding="base64">CQkJPHZlcnNpb24+JHthcmNodW5pdC1qdW5pdDQudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJlcXVpcmVzIGNvcmUzLmFwcDsK</text>
+        <text encoding="base64">CUBQb3N0TWFwcGluZyhwYXRoID0gIi9oZWxsbyIpCglwdWJsaWMK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CXJlcXVpcmVzIGNvcmUzLmFwcDsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CWV4cG9ydHMgY29tLm9vZHJpdmUuZTJlZS5kdG87Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>Ensures that data or an information system is accessed by only an authorized person. User Id’s and
 passwords, access control lists (ACL) and policy based security are some of the methods through which confidentiality is
 achieved.</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmdsYXNzZmlzaC5qYXhiPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qYXhiLXJ1bnRpbWU8L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPjIuMjIuMTwvdmVyc2lvbj4KCQkJPC9wbHVnaW4+Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLWphci1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4zLjEuMTwvdmVyc2lvbj4KCQkJPC9wbHVnaW4+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCTxncgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci5UaHJlYXQgcmF0aW5nCntibGFua30KCnw9PT0KfFRocmVhdCBhZ2VudCBmYWN0b3JzfFNraWxsIGxldmVsfE1vdGl2ZXxPcHBvcnR1bml0eXxTaXplCnx8NiAobmV0d29yayBhbmQgcHJvZ3JhbW1pbmcgc2tpbGxzKXw5IChoaWdoIHJld2FyZCl8NCAoc3BlY2lhbCBhY2Nlc3Mgb3IgcmVzb3VyY2VzIHJlcXVpcmVkKXwyIChzeXN0ZW0gYWRtaW5pc3RyYXRvcnMpCnxWdWxuZXJhYmlsaXR5IGZhY3RvcnN8RWFzZSBvZiBkaXNjb3Zlcnl8RWFzZSBvZiBleHBsb2l0fEF3YXJlbmVzc3xJbnRydXNpb24gZGV0ZWN0aW9uCnx8MSAocHJhY3RpY2FsbHkgaW1wb3NzaWJsZSl8MyAoZGlmZmljdWx0KXw0IChoaWRkZW4pfDkgKG5vdCBsb2dnZWQpCnxPdmVyYWxsIGxpa2VsaWhvb2R8e3NldDpjZWxsYmdjb2xvcjp5ZWxsb3d9NC43NSAoTUVESVVNKXx7c2V0OmNlbGxiZ2NvbG9yIX18fAoKfHtzZXQ6Y2VsbGJnY29sb3IhfXx8fHwKCnxUZWNobmljYWwgaW1wYWN0fExvc3Mgb2YgY29uZmlkZW50aWFsaXR5fExvc3Mgb2YgaW50ZWdyaXR5fExvc3Mgb2YgYXZhaWxhYmlsaXR5fExvc3Mgb2YgYWNjb3VudGFiaWxpdHkKfHw3IChleHRlbnNpdmUgY3JpdGljYWwgZGF0YSBkaXNjbG9zZWQpfDcgKGV4dGVuc2l2ZSBzZXJpb3VzbHkgY29ycnVwdCBkYXRhKXw3IChleHRlbnNpdmUgcHJpbWFyeSBzZXJ2aWNlcyBpbnRlcnJ1cHRlZCl8OSAoY29tcGxldGVseSBhbm9ueW1vdXMpCnxCdXNpbmVzcyBJbXBhY3R8RmluYW5jaWFsIGRhbWFnZXxSZXB1dGF0aW9uIGRhbWFnZXxOb24tY29tcGxpYW5jZXxQcml2YWN5IHZpb2xhdGlvbgp8fDcgKHNpZ25pZmljYW50IGVmZmVjdCBvbiBhbm51YWwgcHJvZml0KXw0IChsb3NzIG9mIG1ham9yIGFjY291bnRzKXw3IChoaWdoIHByb2ZpbGUgdmlvbGF0aW9uKXw1IChodW5kcmVkcyBvZiBwZW9wbGUpCnxPdmVyYWxsIGltcGFjdHx7c2V0OmNlbGxiZ2NvbG9yOnJlZH02LjYyNSAoSElHSCl8e3NldDpjZWxsYmdjb2xvciF9fHwKCnx7c2V0OmNlbGxiZ2NvbG9yIX18fHx8CnxPdmVycmFsbCBSaXNrIFNldmVyaXR5fHtzZXQ6Y2VsbGJnY29sb3I6cmVkfSBISUdIfHtzZXQ6Y2VsbGJnY29sb3IhfXx8Cnw9PT0KCi5Db3VudGVybWVhc3VyZXMKKiA8PGUyZWUtd2luZG93cy1hcHAtY2hlY2tzLXNlcnZlci1jZXJ0aWZpY2F0ZS1jb3VudGVybWVhc3VyZSwgRTJFRSBXaW5kb3dzIHNoYWxsIGNoZWNrIHdoZXRoZXIgdGhlIHNlcnZlcidzIGRpZ2l0YWwKY2VydGlmaWNhdGUgaXMgdmFsaWQgYW5kIGJlbG9uZ3MgdG8gYSBkb21haW4ncyBleHBlY3RlZCBvd25lciwgYW5kIG5vdGlmeSB0aGUgdXNlciBvZiBwb3RlbnRpYWwgcmlzayBpbnZvbHZlZCB3aXRoCnVudmVyaWZpZWQgY2VydGlmaWNhdGUuPj4KCg==</text>
+        <text encoding="base64">CQkJCTxncgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
