@@ -151,12 +151,13 @@
         <mark key="^" line="81" column="34" />
         <mark key="." line="81" column="34" />
       </file>
-      <file name="$USER_HOME$/work/poei-password-manager/README.md" timestamp="1557152639112">
-        <mark key="'" line="16" column="6" />
-        <mark key="[" line="41" column="3" />
-        <mark key="]" line="16" column="6" />
-        <mark key="^" line="16" column="6" />
-        <mark key="." line="16" column="6" />
+      <file name="$USER_HOME$/work/poei-password-manager/README.md" timestamp="1557154088659">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="65" column="3" />
+        <mark key="]" line="66" column="0" />
+        <mark key="m" line="23" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="66" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/RandomPasswordGeneratorTest.java" timestamp="1557138280657">
         <mark key="[" line="41" column="62" />
@@ -310,11 +311,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
-      <jump line="304" column="40" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
-      <jump line="589" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
-      <jump line="266" column="26" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
-      <jump line="45" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
       <jump line="193" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
       <jump line="881" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
       <jump line="73" column="25" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/security_problems.adoc" />
@@ -410,19 +406,24 @@
       <jump line="6" column="21" filename="$USER_HOME$/work/poei-password-manager/src/main/resources/application.yml" />
       <jump line="14" column="0" filename="$USER_HOME$/work/poei-password-manager/README.md" />
       <jump line="16" column="6" filename="$USER_HOME$/work/poei-password-manager/README.md" />
+      <jump line="32" column="2" filename="$USER_HOME$/work/poei-password-manager/README.md" />
+      <jump line="53" column="0" filename="$USER_HOME$/work/poei-password-manager/README.md" />
+      <jump line="31" column="0" filename="$USER_HOME$/work/poei-password-manager/README.md" />
+      <jump line="28" column="51" filename="$USER_HOME$/work/poei-password-manager/README.md" />
+      <jump line="34" column="0" filename="$USER_HOME$/work/poei-password-manager/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dXNlIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VGhlIG91dHB1dCBvZiB0aGUgSFRUUCByZXF1ZXN0IG11c3QgYmUgdGhlIGZvbGxvd2luZzoKCmBgYGpzb24KewogICJ2YWx1ZSI6ICIxeU9uOUZBaFQiCn0KYGBgCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dXNlIA==</text>
+        <text encoding="base64">b2Yg</text>
       </register>
       <register name="/" type="4">
         <text>h2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlTdHJpbmcgaGFzaGVkUGFzc3dvcmQgPSBoYXNoZXIuaGFzaChuZXcgU3RyaW5nKHBhc3N3b3JkLmdldFBhc3N3b3JkKCkpKTsK</text>
+        <text encoding="base64">VGhlIG91dHB1dCBvZiB0aGUgSFRUUCByZXF1ZXN0IG11c3QgYmUgdGhlIGZvbGxvd2luZzoKCmBgYGpzb24KewogICJ2YWx1ZSI6ICIxeU9uOUZBaFQiCn0KYGBgCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c3ByaW5nOiBkYXRhc291cmNlOgogICAgdXJsOiAK</text>
