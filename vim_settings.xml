@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/resources/application.yml" timestamp="1556025945579">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/dto/package-info.java" timestamp="1557132969402">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1556806176427">
         <mark key="[" line="0" column="0" />
@@ -18,19 +17,10 @@
         <mark key="^" line="24" column="33" />
         <mark key="." line="24" column="33" />
       </file>
-      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/module-info.java" timestamp="1556111040140">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/test/java/com/oodrive/e2ee/app/arch/ControllerRuleTest.java" timestamp="1556810775725">
         <mark key="[" line="2" column="27" />
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
-      </file>
-      <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" timestamp="1555773731722">
-        <mark key="'" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/download/DownloadController.java" timestamp="1555836431806">
         <mark key="[" line="59" column="0" />
@@ -44,18 +34,25 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/RandomPasswordGenerator.java" timestamp="1557133713016">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="57" column="51" />
+        <mark key="]" line="57" column="61" />
+        <mark key="^" line="57" column="61" />
+        <mark key="." line="57" column="61" />
+      </file>
       <file name="$USER_HOME$/work/poei-password-manager/README.md" timestamp="1557130879354">
         <mark key="[" line="13" column="77" />
         <mark key="]" line="17" column="2" />
         <mark key="^" line="17" column="2" />
         <mark key="." line="17" column="2" />
       </file>
+      <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/RandomPasswordGeneratorTest.java" timestamp="1557132618382">
+        <mark key="[" line="15" column="30" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/tngtech/archunit/archunit/0.10.2/archunit-0.10.2-sources.jar!/com/tngtech/archunit/library/Architectures.java" timestamp="1556811936449">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="82" column="97" />
-      </file>
-      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/com/oodrive/e2ee/app/item/db/ItemDAO.java" timestamp="1556107686416">
-        <mark key="'" line="2" column="7" />
       </file>
       <file name="$USER_HOME$/work/poei-sample/Dockerfile" timestamp="1556874606046">
         <mark key="[" line="1" column="0" />
@@ -63,8 +60,11 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/security/AuthTokenPreAuthenticatedFilter.java" timestamp="1555774060991">
-        <mark key="'" line="14" column="53" />
+      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/config/PasswordManagerConfig.java" timestamp="1557133377000">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="13" column="44" />
       </file>
       <file name="$USER_HOME$/work/e2ee-parent/e2ee-signature/src/main/java/module-info.java" timestamp="1556101498653">
         <mark key="[" line="3" column="13" />
@@ -72,24 +72,15 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/PasswordGenerator.java" timestamp="1557131742251">
+        <mark key="[" line="2" column="36" />
+      </file>
       <file name="$USER_HOME$/work/e2ee-parent/pom.xml" timestamp="1556810935007">
         <mark key="'" line="42" column="41" />
         <mark key="[" line="292" column="61" />
         <mark key="]" line="293" column="26" />
         <mark key="^" line="293" column="26" />
         <mark key="." line="293" column="26" />
-      </file>
-      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/com/oodrive/e2ee/app/E2eeApplication.java" timestamp="1556108579843">
-        <mark key="'" line="14" column="38" />
-      </file>
-      <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/overview.adoc" timestamp="1556006390928">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="2" />
-        <mark key="]" line="19" column="2" />
-        <mark key="." line="19" column="2" />
-      </file>
-      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/pom.xml" timestamp="1556810691583">
-        <mark key="'" line="20" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1556096101506">
         <mark key="[" line="0" column="0" />
@@ -107,14 +98,23 @@
         <mark key="^" line="22" column="134" />
         <mark key="." line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/PasswordController.java" timestamp="1557130020053">
-        <mark key="[" line="6" column="33" />
+      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/PasswordController.java" timestamp="1557132793426">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+        <mark key="." line="9" column="32" />
       </file>
       <file name="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/glossary.adoc" timestamp="1556100381238">
         <mark key="[" line="18" column="116" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/PasswordGenerator.java" timestamp="1557133480555">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="47" />
+        <mark key="^" line="6" column="47" />
+        <mark key="." line="6" column="47" />
       </file>
       <file name="$USER_HOME$/work/e2ee-parent/e2ee-dto/src/main/java/module-info.java" timestamp="1556108546818">
         <mark key="[" line="1" column="33" />
@@ -128,17 +128,18 @@
         <mark key="^" line="2" column="11" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/com/oodrive/e2ee/app/device/DeviceController.java" timestamp="1556107623544">
-        <mark key="'" line="26" column="11" />
+      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/RandomPasswordGenerator.java" timestamp="1557132498988">
+        <mark key="'" line="9" column="32" />
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="26" column="40" />
+        <mark key="^" line="26" column="40" />
+        <mark key="." line="26" column="40" />
       </file>
-      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/Password.java" timestamp="1557131605528">
-        <mark key="[" line="2" column="23" />
+      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/Password.java" timestamp="1557131677295">
+        <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/oodrive/parent/2.2.0/parent-2.2.0.pom" timestamp="1556110881397">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei-sample/src/main/resources/application.yml" timestamp="1556791407464">
         <mark key="[" line="1" column="2" />
@@ -173,14 +174,11 @@
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/SampleDTO.java" timestamp="1557130059687">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1557130834670">
+      <file name="/fragment.java" timestamp="1557133009121">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
-      <jump line="12" column="3" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
-      <jump line="19" column="70" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
       <jump line="4" column="38" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
       <jump line="5" column="56" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
       <jump line="13" column="11" filename="$USER_HOME$/work/binaries-provider-parent/binaries-provider-app/src/main/java/com/oodrive/binariesprovider/app/BinariesProviderApplication.java" />
@@ -275,16 +273,22 @@
       <jump line="291" column="27" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
       <jump line="42" column="41" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
       <jump line="2" column="0" filename="$USER_HOME$/work/e2ee-parent/e2ee-app/src/test/java/com/oodrive/e2ee/app/arch/ControllerRulesTest.java" />
+      <jump line="11" column="57" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/RandomPasswordGenerator.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/RandomPasswordGenerator.java" />
+      <jump line="9" column="32" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/RandomPasswordGenerator.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/RandomPasswordGenerator.java" />
+      <jump line="7" column="32" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/RandomPasswordGenerator.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/RandomPasswordGenerator.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>spring</text>
+        <text>Numerics</text>
       </register>
       <register name="-" type="4">
-        <text>spring</text>
+        <text>Numerics</text>
       </register>
       <register name="/" type="4">
-        <text>archunit</text>
+        <text encoding="base64">XDx1cHBlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5jb20udG5ndGVjaC5hcmNodW5pdDwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPmFyY2h1bml0LWp1bml0NDwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPiR7YXJjaHVuaXQtanVuaXQ0LnZlcnNpb259PC92ZXJzaW9uPgoJCQk8L2RlcGVuZGVuY3k+Cg==</text>
@@ -319,20 +323,20 @@ achieved.</text>
         <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPjIuMjIuMTwvdmVyc2lvbj4KCQkJPC9wbHVnaW4+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>w,</text>
       </register>
     </registers>
     <search>
-      <last-search>archunit</last-search>
+      <last-search encoding="base64">XDx1cHBlclw+</last-search>
       <last-offset />
-      <last-pattern>archunit</last-pattern>
+      <last-pattern encoding="base64">XDx1cHBlclw+</last-pattern>
+      <last-replace>private</last-replace>
+      <last-substitute>public</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sign-epk</entry>
-        <entry>port</entry>
         <entry>8889</entry>
         <entry>softsign</entry>
         <entry>depending</entry>
@@ -351,6 +355,8 @@ achieved.</text>
         <entry>;</entry>
         <entry>core3-app</entry>
         <entry>archunit</entry>
+        <entry>public</entry>
+        <entry encoding="base64">XDx1cHBlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
@@ -361,6 +367,8 @@ achieved.</text>
         <entry>help</entry>
         <entry>industrial</entry>
         <entry>w</entry>
+        <entry>%s/public/private/gc</entry>
+        <entry>w,</entry>
       </history-cmd>
       <history-expr />
       <history-input />
