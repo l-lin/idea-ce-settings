@@ -107,6 +107,13 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="28" column="34" />
       </file>
+      <file name="$USER_HOME$/work/poei-twitter/README.md" timestamp="1557230433969">
+        <mark key="'" line="13" column="52" />
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="2" />
+        <mark key="^" line="17" column="2" />
+      </file>
       <file name="$USER_HOME$/work/poei-hasher/src/main/java/com/oodrive/poei/poeihasher/dao/HashDAO.java" timestamp="1557222062977">
         <mark key="[" line="12" column="45" />
         <mark key="]" line="12" column="45" />
@@ -183,8 +190,12 @@
         <mark key="^" line="19" column="31" />
         <mark key="." line="19" column="31" />
       </file>
-      <file name="$USER_HOME$/work/poei-hasher/README.md" timestamp="1557223173968">
-        <mark key="[" line="16" column="1" />
+      <file name="$USER_HOME$/work/poei-hasher/README.md" timestamp="1557230407553">
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="15" column="11" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="89" column="104" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/RandomPasswordGenerator.java" timestamp="1557135879313">
         <mark key="'" line="11" column="95" />
@@ -193,12 +204,12 @@
         <mark key="^" line="81" column="34" />
         <mark key="." line="81" column="34" />
       </file>
-      <file name="$USER_HOME$/work/poei-password-manager/README.md" timestamp="1557223050717">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="42" column="0" />
+      <file name="$USER_HOME$/work/poei-password-manager/README.md" timestamp="1557230171691">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="115" column="69" />
         <mark key="m" line="39" column="0" />
-        <mark key="]" line="42" column="80" />
-        <mark key="." line="39" column="63" />
+        <mark key="]" line="115" column="69" />
+        <mark key="." line="115" column="69" />
         <mark key="^" line="39" column="63" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/RandomPasswordGeneratorTest.java" timestamp="1557138280657">
@@ -234,6 +245,13 @@
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/PasswordGenerator.java" timestamp="1557131742251">
         <mark key="[" line="2" column="36" />
       </file>
+      <file name="$USER_HOME$/work/poei-twitter/pom.xml" timestamp="1557230465690">
+        <mark key="'" line="38" column="4" />
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="47" column="30" />
+        <mark key="." line="47" column="30" />
+        <mark key="^" line="47" column="30" />
+      </file>
       <file name="/Dummy.txt" timestamp="1557150251984">
         <mark key="[" line="0" column="0" />
       </file>
@@ -257,10 +275,9 @@
       </file>
       <file name="$USER_HOME$/work/poei-hasher/pom.xml" timestamp="1557223672922">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="46" column="11" />
-        <mark key="]" line="47" column="29" />
-        <mark key="." line="47" column="29" />
-        <mark key="^" line="47" column="29" />
+        <mark key="]" line="29" column="29" />
+        <mark key="." line="29" column="29" />
+        <mark key="^" line="29" column="29" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/dto/Complexity.java" timestamp="1557146709209">
         <mark key="[" line="2" column="24" />
@@ -373,13 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="907" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
-      <jump line="763" column="69" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
-      <jump line="113" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
-      <jump line="184" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
-      <jump line="217" column="26" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/countermeasures.adoc" />
-      <jump line="667" column="69" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
-      <jump line="93" column="20" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
       <jump line="659" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
       <jump line="910" column="53" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
       <jump line="912" column="0" filename="$USER_HOME$/work/threat-model/src/main/resources/asciidoc/sections/threats.adoc" />
@@ -473,48 +483,55 @@
       <jump line="1" column="0" filename="$USER_HOME$/work/poei-hasher/pom.xml" />
       <jump line="27" column="12" filename="$USER_HOME$/work/poei-password-manager/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/poei-sample/pom.xml" />
+      <jump line="24" column="0" filename="$USER_HOME$/work/poei-hasher/README.md" />
+      <jump line="66" column="106" filename="$USER_HOME$/work/poei-hasher/README.md" />
+      <jump line="70" column="0" filename="$USER_HOME$/work/poei-hasher/README.md" />
+      <jump line="72" column="0" filename="$USER_HOME$/work/poei-password-manager/README.md" />
+      <jump line="64" column="0" filename="$USER_HOME$/work/poei-hasher/README.md" />
+      <jump line="13" column="52" filename="$USER_HOME$/work/poei-twitter/README.md" />
+      <jump line="38" column="4" filename="$USER_HOME$/work/poei-twitter/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>su</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWpkYmM8L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>su</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>h2</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LSBDcmVhdGUgYSBjb250cm9sbGVyIHRoYXQgdXNlcyB0aGUgSmF2YSBjbGFzcyhlcykgdG8gZ2VuZXJhdGUgYSByYW5kb20gcGFzc3dvcmQK</text>
+        <text encoding="base64">IyBIYXNoZXIgc2VydmljZQoKPiBCYWNrZW5kIHNlcnZpY2UgdG8gZ2VuZXJhdGUgaGFzaGVzCgojIEdldHRpbmcgc3RhcnRlZAojIyBSdW5uaW5nIHRoZSBzZXJ2aWNlIHdpdGggTWF2ZW4KCmBgYGJhc2gKbXZuIGNsZWFuIHNwcmluZy1ib290OnJ1bgpgYGAKCiMjIFJ1bm5pbmcgdGhlIHNlcnZpY2Ugd2l0aCB0aGUgSURFCgpNYWluIGNsYXNzOiBgY29tLm9vZHJpdmUucG9laS5wb2VpaGFzaGVyLlBvZWlIYXNoZXJBcHBsaWNhdGlvbmAKCiMgRXhlcmNpc2VzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CldJUAo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWpkYmM8L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyBoYXNoKFN0cmluZyBzdHIpIHsKCQlyZXR1cm4gbnVsbDsKCX0K</text>
+        <text encoding="base64">LSBVcGRhdGUgdGhlIEphdmEgY2xhc3MoZXMpIGluIG9yZGVyIHRvIHJldHVybiB0aGUgZmxhZyAKICAtIFRoZSBjb25kaXRpb24gY2FuIGJlIHJlYWQgYXM6ICJIYXMgdGhlIGdpdmVuIHBhc3N3b3JkIGFscmVhZHkgYmVlbiBzYXZlZCBpbiB0aGUgZGF0YWJhc2U/Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIEhhc2hBbGdvcml0aG0gaGFzaEFsZ29yaXRobSgpIHsKCQlyZXR1cm4gSGFzaEFsZ29yaXRobS5TSEEyNTY7Cgl9Cg==</text>
+        <text encoding="base64">CldJUAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIEhhc2hBbGdvcml0aG0gaGFzaEFsZ29yaXRobSgpIHsKCQlyZXR1cm4gSGFzaEFsZ29yaXRobS5TSEE1MTI7Cgl9Cg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyBoYXNoKFN0cmluZyBzdHIpIHsKCQlyZXR1cm4gbnVsbDsKCX0K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIEhhc2hBbGdvcml0aG0gaGFzaEFsZ29yaXRobSgpIHsKCQlyZXR1cm4gSGFzaEFsZ29yaXRobS5TSEEyNTY7Cgl9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIEhhc2hBbGdvcml0aG0gaGFzaEFsZ29yaXRobSgpIHsKCQlyZXR1cm4gSGFzaEFsZ29yaXRobS5TSEE1MTI7Cgl9Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBMT0dHRVIgPSBMb2dnZXJGYWN0b3J5LmdldExvZ2dlcihTaGEyNTZIYXNoZXIuY2xhc3MpOwoKCXByaXZhdGUgc3RhdGljIGZpbmFsIE1lc3NhZ2VEaWdlc3QgRElHRVNUOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>hasherList.stream().collect(
 				Collectors.toMap(Hasher::hashAlgorithm, Function.identity())
 		);</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyBoYXNoKFN0cmluZyBzdHIpIHsKCQlyZXR1cm4gbnVsbDsKCX0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWpkYmM8L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">VGhlIHBhdGggdG8gY2FsbCB0aGUgSFRUUCBBUEkgbXVzdCBiZSB0aGUgZm9sbG93aW5nOgoKYGBgClBPU1QgaHR0cDovL2xvY2FsaG9zdDo4MDgwL3Bhc3N3b3JkLW1hbmFnZXIvcGFzc3dvcmQvdmVyaWZpY2F0aW9uCgpSZXF1ZXN0IGJvZHk6Cgp7CiAgInZhbHVlIjogImF6ZXJ0eSIKfQpgYGAKClRoZSBvdXRwdXQgb2YgdGhlIEhUVFAgcmVxdWVzdCBtdXN0IGJlIHRoZSBmb2xsb3dpbmc6CgpgYGBqc29uCnsKICAiY29tcGxleGl0eSI6ICJMT1ciCn0KYGBgCg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyBoYXNoKFN0cmluZyBzdHIpIHsKCQlyZXR1cm4gbnVsbDsKCX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -525,7 +542,7 @@
       <last-offset />
       <last-pattern>h2</last-pattern>
       <last-replace>private</last-replace>
-      <last-substitute>public</last-substitute>
+      <last-substitute>h2</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
