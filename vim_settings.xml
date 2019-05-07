@@ -27,18 +27,18 @@
       <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/service/checker/PasswordComplexityCheckerTest.java" timestamp="1557145189547">
         <mark key="[" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/work/poei-twitter/dump.sql" timestamp="1557233862809">
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="8" column="32" />
-        <mark key="^" line="10" column="2" />
-        <mark key="." line="8" column="32" />
+      <file name="$USER_HOME$/work/poei-twitter/dump.sql" timestamp="1557237448990">
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+        <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/dao/AccountDAO.java" timestamp="1557235672124">
+      <file name="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/dao/AccountDAO.java" timestamp="1557237554551">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="16" column="50" />
-        <mark key="]" line="16" column="50" />
-        <mark key="." line="16" column="50" />
-        <mark key="^" line="16" column="50" />
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="56" />
+        <mark key="." line="27" column="56" />
+        <mark key="^" line="27" column="56" />
       </file>
       <file name="$USER_HOME$/work/poei-hasher/src/main/java/com/oodrive/poei/poeihasher/service/HasherFacade.java" timestamp="1557220558639">
         <mark key="[" line="11" column="30" />
@@ -130,12 +130,12 @@
         <mark key="." line="17" column="57" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/service/Tweetor.java" timestamp="1557236112651">
-        <mark key="[" line="39" column="41" />
-        <mark key="]" line="40" column="33" />
+      <file name="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/service/Tweetor.java" timestamp="1557237751562">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="84" />
         <mark key="m" line="25" column="47" />
-        <mark key="." line="40" column="33" />
-        <mark key="^" line="40" column="33" />
+        <mark key="." line="28" column="84" />
+        <mark key="^" line="28" column="84" />
       </file>
       <file name="$USER_HOME$/work/poei-twitter/Dockerfile" timestamp="1557230953286">
         <mark key="[" line="0" column="0" />
@@ -563,16 +563,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>account</text>
+        <text>check</text>
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text>check</text>
       </register>
       <register name="/" type="4">
         <text>Account</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">KHJzLCByb3dOdW0pIC0+IHsKCQkJCQlSZWFkVHdlZXREVE8gdHdlZXQgPSBuZXcgUmVhZFR3ZWV0RFRPKCk7CgkJCQkJUmVhZEFjY291bnREVE8gYWNjb3VudCA9IG5ldyBSZWFkQWNjb3VudERUTygpOwoJCQkJCWFjY291bnQuc2V0QWNjb3VudElkKHJzLmdldEludCgiYWNjb3VudF9pZCIpKTsKCQkJCQlhY2NvdW50LnNldExvZ2luKHJzLmdldFN0cmluZygibG9naW4iKSk7CgkJCQkJdHdlZXQuc2V0QWNjb3VudChhY2NvdW50KTsKCQkJCQl0d2VldC5zZXRNZXNzYWdlKHJzLmdldFN0cmluZygibWVzc2FnZSIpKTsKCQkJCQlyZXR1cm4gdHdlZXQ7CgkJCQl9</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCUJvb2xlYW4uY2xhc3MpOwoJfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCShycywgcm93TnVtKSAtPiB7CgkJCQkJUmVhZFR3ZWV0RFRPIHR3ZWV0ID0gbmV3IFJlYWRUd2VldERUTygpOwoJCQkJCVJlYWRBY2NvdW50RFRPIGFjY291bnQgPSBuZXcgUmVhZEFjY291bnREVE8oKTsKCQkJCQlhY2NvdW50LnNldEFjY291bnRJZChycy5nZXRJbnQoImFjY291bnRfaWQiKSk7CgkJCQkJYWNjb3VudC5zZXRMb2dpbihycy5nZXRTdHJpbmcoImxvZ2luIikpOwoJCQkJCXR3ZWV0LnNldEFjY291bnQoYWNjb3VudCk7CgkJCQkJdHdlZXQuc2V0TWVzc2FnZShycy5nZXRTdHJpbmcoIm1lc3NhZ2UiKSk7CgkJCQkJcmV0dXJuIHR3ZWV0OwoJCQkJfSwK</text>
