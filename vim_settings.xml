@@ -27,18 +27,18 @@
       <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/service/checker/PasswordComplexityCheckerTest.java" timestamp="1557145189547">
         <mark key="[" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/work/poei-twitter/dump.sql" timestamp="1557388005744">
+      <file name="$USER_HOME$/work/poei-twitter/dump.sql" timestamp="1557389547051">
         <mark key="[" line="10" column="21" />
         <mark key="]" line="10" column="21" />
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="21" />
       </file>
-      <file name="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/dao/AccountDAO.java" timestamp="1557388542216">
-        <mark key="'" line="35" column="29" />
-        <mark key="[" line="35" column="29" />
-        <mark key="]" line="35" column="29" />
-        <mark key="^" line="35" column="29" />
-        <mark key="." line="35" column="29" />
+      <file name="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/dao/AccountDAO.java" timestamp="1557389754548">
+        <mark key="'" line="36" column="29" />
+        <mark key="[" line="33" column="35" />
+        <mark key="]" line="33" column="44" />
+        <mark key="^" line="33" column="44" />
+        <mark key="." line="33" column="44" />
       </file>
       <file name="$USER_HOME$/work/poei-hasher/src/main/java/com/oodrive/poei/poeihasher/service/HasherFacade.java" timestamp="1557220558639">
         <mark key="[" line="11" column="30" />
@@ -73,7 +73,7 @@
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/dao/TweetDAO.java" timestamp="1557388236646">
+      <file name="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/dao/TweetDAO.java" timestamp="1557389642013">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="18" column="89" />
         <mark key="]" line="18" column="112" />
@@ -130,12 +130,12 @@
         <mark key="." line="17" column="57" />
         <mark key="^" line="11" column="44" />
       </file>
-      <file name="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/service/Tweetor.java" timestamp="1557388783723">
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/service/Tweetor.java" timestamp="1557389728627">
+        <mark key="[" line="31" column="8" />
         <mark key="m" line="29" column="47" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="31" column="14" />
-        <mark key="." line="33" column="0" />
+        <mark key="]" line="31" column="10" />
+        <mark key="^" line="31" column="10" />
+        <mark key="." line="31" column="10" />
       </file>
       <file name="$USER_HOME$/work/poei-twitter/Dockerfile" timestamp="1557230953286">
         <mark key="[" line="0" column="0" />
@@ -575,11 +575,11 @@
       <jump line="35" column="29" filename="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/dao/AccountDAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlvcHRpb25hbEFjY291bnQuaWZQcmVzZW50T3JFbHNlKHNhdmVkQWNjb3VudCAtPiB7CgkJCQoJCX0sICgpIC0+IHsKCQkJYWNjb3VudElkID0gYWNjb3VudERBTy5jcmVhdGUoYWNjb3VudCk7CgkJCXNhdmVkQWNjb3VudCA9IG5ldyBSZWFkQWNjb3VudERUTygpOwoJCQlzYXZlZEFjY291bnQuc2V0QWNjb3VudElkKGFjY291bnRJZCk7CgkJCXNhdmVkQWNjb3VudC5zZXRMb2dpbihhY2NvdW50LmdldExvZ2luKCkpOwoJCQkKCQl9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>Login</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>Login</text>
       </register>
       <register name="/" type="4">
         <text>Account</text>
