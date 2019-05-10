@@ -497,12 +497,11 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileSystemStorage.java" timestamp="1557476659935">
+      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileSystemStorage.java" timestamp="1557480536660">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="68" column="71" />
-        <mark key="]" line="68" column="71" />
-        <mark key="." line="68" column="71" />
-        <mark key="^" line="68" column="71" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei-hasher/dump.sql" timestamp="1557221297455">
         <mark key="[" line="3" column="1" />
@@ -761,11 +760,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileSystemStorage.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>n</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJb3B0aW9uYWxGaWxlRFRPLm9yRWxzZUdldCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>isEmpty</text>
       </register>
       <register name="/" type="4">
         <text>Account</text>
@@ -774,31 +773,31 @@
         <text encoding="base64">CQkJcmV0dXJuIE9wdGlvbmFsLm9mKGpkYmNUZW1wbGF0ZS5xdWVyeUZvck9iamVjdChTUUxfRklORF9CWV9JRCwgUk9XX01BUFBFUiwgZmlsZUlkKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIE9wdGlvbmFsLm9mKGpkYmNUZW1wbGF0ZS5xdWVyeUZvck9iamVjdChTUUxfRklORF9CWV9OQU1FLCBGaWxlRFRPLmNsYXNzLCBuYW1lKSk7Cg==</text>
+        <text encoding="base64">CQkJb3B0aW9uYWxGaWxlRFRPLm9yRWxzZUdldCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBuZXcgRmlsZURUTyhycy5nZXRJbnQoImZpbGVfaWQiKSwgcnMuZ2V0U3RyaW5nKCJuYW1lIiksIHJzLmdldFN0cmluZygicGF0aCIpKTsK</text>
+        <text encoding="base64">CQkJCXBhdGggPSBGaWxlcy5jcmVhdGVUZW1wRmlsZShmaWxlbmFtZSwgIiIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFJlc291cmNlKFJlc291cmNlIHJlc291cmNlKSB7CgkJdGhpcy5yZXNvdXJjZSA9IHJlc291cmNlOwoJfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKCQl0aGlzLm5hbWUgPSBuYW1lOwoJfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCXBhdGggPSBGaWxlcy5jcmVhdGVUZW1wRmlsZShmaWxlbmFtZSwgIiIpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQkJCXBhdGggPSBQYXRoLm9mKG9wdGlvbmFsRmlsZURUTy5nZXQoKS5nZXRQYXRoKCkpOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJcmV0dXJuIE9wdGlvbmFsLm9mKGpkYmNUZW1wbGF0ZS5xdWVyeUZvck9iamVjdChTUUxfRklORF9CWV9OQU1FLCBGaWxlRFRPLmNsYXNzLCBuYW1lKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCXJldHVybiBuZXcgRmlsZURUTyhycy5nZXRJbnQoImZpbGVfaWQiKSwgcnMuZ2V0U3RyaW5nKCJuYW1lIiksIHJzLmdldFN0cmluZygicGF0aCIpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFJlc291cmNlKFJlc291cmNlIHJlc291cmNlKSB7CgkJdGhpcy5yZXNvdXJjZSA9IHJlc291cmNlOwoJfQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXBhdGggPSBGaWxlcy5jcmVhdGVUZW1wRmlsZShmaWxlbmFtZSwgIiIpOwo=</text>
+        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKCQl0aGlzLm5hbWUgPSBuYW1lOwoJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoZmlsZURUTy5pc0VtcHR5KCkpIHsKCQkJdGhyb3cgbmV3IEZpbGVOb3RGb3VuZEV4Y2VwdGlvbigpOwoJCX0K</text>
+        <text encoding="base64">CQkJCXBhdGggPSBGaWxlcy5jcmVhdGVUZW1wRmlsZShmaWxlbmFtZSwgIiIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsKHJlYWRPbmx5ID0gdHJ1ZSkKCXB1YmxpYyBib29sZWFuIGV4aXN0cyhTdHJpbmcgbmFtZSkgewoJCXJldHVybiBmaWxlREFPLmV4aXN0cyhuYW1lKTsKCX0K</text>
+        <text encoding="base64">CQkJCXBhdGggPSBQYXRoLm9mKG9wdGlvbmFsRmlsZURUTy5nZXQoKS5nZXRQYXRoKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/Account/CreateAccountDTO/gc</text>
