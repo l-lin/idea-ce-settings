@@ -105,12 +105,12 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/pom.xml" timestamp="1557397011826">
+      <file name="$USER_HOME$/work/poei-secured-box/pom.xml" timestamp="1557483013101">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="20" />
-        <mark key="." line="37" column="20" />
-        <mark key="^" line="38" column="4" />
+        <mark key="[" line="47" column="19" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="34" />
       </file>
       <file name="$USER_HOME$/work/e2ee-parent/e2ee-signature/src/main/java/module-info.java" timestamp="1556101498653">
         <mark key="[" line="3" column="13" />
@@ -209,6 +209,9 @@
         <mark key="]" line="13" column="54" />
         <mark key="." line="13" column="54" />
         <mark key="^" line="13" column="54" />
+      </file>
+      <file name="$USER_HOME$/work/poei-secured-box/Dockerfile" timestamp="1557482906256">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/controller/SecretController.java" timestamp="1557407572770">
         <mark key="[" line="38" column="15" />
@@ -339,6 +342,9 @@
         <mark key="^" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/work/poei-file-storage/Dockerfile" timestamp="1557482477479">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/service/hasher/Sha256HasherTest.java" timestamp="1557222979105">
         <mark key="[" line="12" column="29" />
         <mark key="]" line="12" column="72" />
@@ -351,12 +357,12 @@
         <mark key="." line="31" column="10" />
         <mark key="^" line="31" column="10" />
       </file>
-      <file name="$USER_HOME$/work/poei-file-storage/pom.xml" timestamp="1557409318877">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="29" column="9" />
-        <mark key="]" line="29" column="9" />
-        <mark key="." line="29" column="9" />
-        <mark key="^" line="38" column="4" />
+      <file name="$USER_HOME$/work/poei-file-storage/pom.xml" timestamp="1557482502523">
+        <mark key="'" line="29" column="9" />
+        <mark key="[" line="46" column="11" />
+        <mark key="]" line="47" column="35" />
+        <mark key="." line="47" column="35" />
+        <mark key="^" line="47" column="35" />
       </file>
       <file name="$USER_HOME$/work/poei-file-storage/README.md" timestamp="1557409132316">
         <mark key="[" line="13" column="46" />
@@ -658,9 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="95" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/RandomPasswordGenerator.java" />
-      <jump line="8" column="4" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/dto/Password.java" />
-      <jump line="19" column="24" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/checker/MinLengthPolicy.java" />
       <jump line="13" column="26" filename="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/service/checker/MinCharRuleTest.java" />
       <jump line="21" column="0" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/checker/PasswordComplexityChecker.java" />
       <jump line="20" column="12" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/checker/PasswordComplexityChecker.java" />
@@ -727,7 +730,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/poei-twitter/README.md" />
       <jump line="2" column="0" filename="$USER_HOME$/work/poei-hasher/src/main/resources/application.yml" />
       <jump line="16" column="31" filename="$USER_HOME$/work/poei-secured-box/README.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/poei-secured-box/pom.xml" />
       <jump line="11" column="0" filename="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/dao/SecretDAO.java" />
       <jump line="40" column="0" filename="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/service/encryption/AESEncryptor.java" />
       <jump line="28" column="0" filename="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/service/encryption/AESEncryptor.java" />
@@ -758,16 +760,20 @@
       <jump line="52" column="12" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileSystemStorage.java" />
       <jump line="53" column="12" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileSystemStorage.java" />
       <jump line="7" column="0" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileSystemStorage.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/work/poei-file-storage/Dockerfile" />
+      <jump line="29" column="9" filename="$USER_HOME$/work/poei-file-storage/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/poei-secured-box/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/poei-secured-box/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJb3B0aW9uYWxGaWxlRFRPLm9yRWxzZUdldCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>secure</text>
       </register>
       <register name="-" type="4">
-        <text>isEmpty</text>
+        <text>secure</text>
       </register>
       <register name="/" type="4">
-        <text>Account</text>
+        <text>file-storage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJcmV0dXJuIE9wdGlvbmFsLm9mKGpkYmNUZW1wbGF0ZS5xdWVyeUZvck9iamVjdChTUUxfRklORF9CWV9JRCwgUk9XX01BUFBFUiwgZmlsZUlkKSk7Cg==</text>
@@ -800,22 +806,20 @@
         <text encoding="base64">CQkJCXBhdGggPSBQYXRoLm9mKG9wdGlvbmFsRmlsZURUTy5nZXQoKS5nZXRQYXRoKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/Account/CreateAccountDTO/gc</text>
+        <text>%s/file-storage/secured-box/g</text>
       </register>
     </registers>
     <search>
-      <last-search>Account</last-search>
+      <last-search>file-storage</last-search>
       <last-offset />
-      <last-pattern>Account</last-pattern>
-      <last-replace>CreateAccountDTO</last-replace>
-      <last-substitute>Account</last-substitute>
+      <last-pattern>file-storage</last-pattern>
+      <last-replace>secured-box</last-replace>
+      <last-substitute>file-storage</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>security</entry>
-        <entry>oodrive-security</entry>
         <entry>authorized</entry>
         <entry>e2ee-checks</entry>
         <entry>certificate</entry>
@@ -834,6 +838,8 @@
         <entry>hasher</entry>
         <entry encoding="base64">XDxBY2NvdW50XD4=</entry>
         <entry>Account</entry>
+        <entry>password-manager</entry>
+        <entry>file-storage</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
@@ -848,6 +854,8 @@
         <entry>w</entry>
         <entry>%s/hasher/twitter/gc</entry>
         <entry>%s/Account/CreateAccountDTO/gc</entry>
+        <entry>%s/password-manager/file-storage/g</entry>
+        <entry>%s/file-storage/secured-box/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
