@@ -503,11 +503,12 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileSystemStorage.java" timestamp="1557480536660">
+      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileSystemStorage.java" timestamp="1557748962513">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="53" column="15" />
       </file>
       <file name="$USER_HOME$/work/poei-hasher/dump.sql" timestamp="1557221297455">
         <mark key="[" line="3" column="1" />
@@ -607,7 +608,6 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/apps/jdk-11.0.2/lib/src.zip!/java.base/sun/nio/fs/UnixPath.java" timestamp="1557479239832" />
       <file name="$USER_HOME$/work/poei-sample/src/main/resources/application.yml" timestamp="1556791407464">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="2" column="24" />
@@ -766,11 +766,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/poei-secured-box/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>secure</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJaW50IGZpbGVJZDsK</text>
       </register>
       <register name="-" type="4">
-        <text>secure</text>
+        <text>fileService</text>
       </register>
       <register name="/" type="4">
         <text>file-storage</text>
@@ -779,31 +779,32 @@
         <text encoding="base64">CQkJcmV0dXJuIE9wdGlvbmFsLm9mKGpkYmNUZW1wbGF0ZS5xdWVyeUZvck9iamVjdChTUUxfRklORF9CWV9JRCwgUk9XX01BUFBFUiwgZmlsZUlkKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJb3B0aW9uYWxGaWxlRFRPLm9yRWxzZUdldCgpCg==</text>
+        <text encoding="base64">CQkJaW50IGZpbGVJZDsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJCXBhdGggPSBGaWxlcy5jcmVhdGVUZW1wRmlsZShmaWxlbmFtZSwgIiIpOwo=</text>
+      <register name="2" type="4">
+        <text>}
+			try</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXBhdGggPSBQYXRoLm9mKG9wdGlvbmFsRmlsZURUTy5nZXQoKS5nZXRQYXRoKCkpOwo=</text>
+        <text encoding="base64">CQkJCWZpbGVJZCA9IGZpbGVTZXJ2aWNlLnVwZGF0ZShmaWxlKQoJCQl9IGVsc2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIE9wdGlvbmFsLm9mKGpkYmNUZW1wbGF0ZS5xdWVyeUZvck9iamVjdChTUUxfRklORF9CWV9OQU1FLCBGaWxlRFRPLmNsYXNzLCBuYW1lKSk7Cg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBuZXcgRmlsZURUTyhycy5nZXRJbnQoImZpbGVfaWQiKSwgcnMuZ2V0U3RyaW5nKCJuYW1lIiksIHJzLmdldFN0cmluZygicGF0aCIpKTsK</text>
+        <text encoding="base64">CQkJZmlsZUlkID0gZmlsZVNlcnZpY2Uuc2F2ZShmaWxlbmFtZSwgYWJzb2x1dGVQYXRoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldFJlc291cmNlKFJlc291cmNlIHJlc291cmNlKSB7CgkJdGhpcy5yZXNvdXJjZSA9IHJlc291cmNlOwoJfQo=</text>
+        <text encoding="base64">CQkJb3B0aW9uYWxGaWxlRFRPLm9yRWxzZUdldCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKCQl0aGlzLm5hbWUgPSBuYW1lOwoJfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQkJCXBhdGggPSBGaWxlcy5jcmVhdGVUZW1wRmlsZShmaWxlbmFtZSwgIiIpOwo=</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCXBhdGggPSBQYXRoLm9mKG9wdGlvbmFsRmlsZURUTy5nZXQoKS5nZXRQYXRoKCkpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJcmV0dXJuIE9wdGlvbmFsLm9mKGpkYmNUZW1wbGF0ZS5xdWVyeUZvck9iamVjdChTUUxfRklORF9CWV9OQU1FLCBGaWxlRFRPLmNsYXNzLCBuYW1lKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/file-storage/secured-box/g</text>
