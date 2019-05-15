@@ -49,9 +49,9 @@
         <mark key="." line="28" column="10" />
         <mark key="^" line="28" column="10" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/dto/Secret.java" timestamp="1557406282329">
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/dto/Secret.java" timestamp="1557915914845">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="34" column="0" />
+        <mark key="[" line="5" column="13" />
         <mark key="]" line="36" column="5" />
         <mark key="^" line="35" column="35" />
         <mark key="." line="35" column="35" />
@@ -216,17 +216,11 @@
       <file name="$USER_HOME$/work/poei-password-manager/src/main/resources/application.yml" timestamp="1557821294091">
         <mark key="[" line="2" column="35" />
       </file>
-      <file name="$USER_HOME$/work/poei-password-manager/README.md" timestamp="1557844349675">
-        <mark key="[" line="4" column="31" />
-        <mark key="]" line="4" column="126" />
-        <mark key="^" line="4" column="126" />
-        <mark key="." line="4" column="126" />
-      </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/controller/SecretController.java" timestamp="1557407572770">
-        <mark key="[" line="38" column="15" />
-        <mark key="]" line="38" column="53" />
-        <mark key="." line="38" column="53" />
-        <mark key="^" line="38" column="53" />
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/controller/SecretController.java" timestamp="1557916023110">
+        <mark key="[" line="36" column="15" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="36" column="36" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/hasher/Hasher.java" timestamp="1557149813661">
         <mark key="[" line="3" column="27" />
@@ -636,6 +630,12 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="18" column="4" />
       </file>
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/dto/ReadSecret.java" timestamp="1557916000783">
+        <mark key="[" line="5" column="57" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
       <file name="$USER_HOME$/work/poei-sample/src/main/resources/application.yml" timestamp="1556791407464">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="2" column="24" />
@@ -795,10 +795,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://www.pcworld.com/article/226128/Sony_Makes_it_Official_PlayStation_Network_Hacked.html</text>
+        <text>Collections.singletonMap(&quot;value&quot;, value);</text>
       </register>
       <register name="-" type="4">
-        <text>https://www.pcworld.com/article/226128/Sony_Makes_it_Official_PlayStation_Network_Hacked.html</text>
+        <text>Collections.singletonMap(&quot;value&quot;, value);</text>
       </register>
       <register name="/" type="4">
         <text>file-storage</text>
