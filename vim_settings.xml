@@ -60,13 +60,6 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rules/NotUsedRule.java" timestamp="1557999979875">
-        <mark key="'" line="5" column="13" />
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="30" />
-      </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/checker/MinDigitRule.java" timestamp="1557395592442">
         <mark key="[" line="23" column="13" />
         <mark key="]" line="23" column="15" />
@@ -90,6 +83,9 @@
         <mark key="]" line="13" column="28" />
         <mark key="^" line="13" column="28" />
         <mark key="." line="13" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rule/MinLengthRule.java" timestamp="1558007661386">
+        <mark key="[" line="14" column="45" />
       </file>
       <file name="$USER_HOME$/work/poei-hasher/src/main/java/com/oodrive/poei/poeihasher/service/HashAlgorithm.java" timestamp="1557219491114">
         <mark key="[" line="2" column="27" />
@@ -194,13 +190,6 @@
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/generator/RandomPasswordGenerator.java" timestamp="1557995179737">
-        <mark key="'" line="42" column="52" />
-        <mark key="[" line="82" column="51" />
-        <mark key="]" line="82" column="64" />
-        <mark key="^" line="82" column="64" />
-        <mark key="." line="82" column="64" />
       </file>
       <file name="$USER_HOME$/work/poei-whatsapp/README.md" timestamp="1557395915918">
         <mark key="[" line="13" column="47" />
@@ -478,13 +467,6 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/web/PasswordController.java" timestamp="1558001549459">
-        <mark key="'" line="53" column="47" />
-        <mark key="[" line="51" column="8" />
-        <mark key="]" line="51" column="8" />
-        <mark key="." line="51" column="8" />
-        <mark key="^" line="52" column="8" />
-      </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/checker/PasswordComplexityChecker.java" timestamp="1557145775960">
         <mark key="[" line="20" column="19" />
         <mark key="]" line="20" column="26" />
@@ -514,27 +496,6 @@
         <mark key="]" line="16" column="85" />
         <mark key="^" line="13" column="14" />
         <mark key="." line="16" column="85" />
-      </file>
-      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rules/MinLengthRule.java" timestamp="1557999975293">
-        <mark key="'" line="2" column="12" />
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="20" column="30" />
-        <mark key="." line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-      </file>
-      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/controller/PasswordController.java" timestamp="1557995347252">
-        <mark key="'" line="52" column="66" />
-        <mark key="[" line="47" column="8" />
-        <mark key="]" line="47" column="14" />
-        <mark key="." line="47" column="14" />
-        <mark key="^" line="47" column="14" />
-      </file>
-      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/checker/rules/MinLengthPasswordRule.java" timestamp="1557995961382">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="18" column="36" />
-        <mark key="]" line="18" column="36" />
-        <mark key="." line="18" column="36" />
-        <mark key="^" line="17" column="32" />
       </file>
       <file name="$USER_HOME$/work/e2ee-parent/e2ee-storage/src/main/java/module-info.java" timestamp="1556108035078">
         <mark key="[" line="12" column="50" />
@@ -601,13 +562,6 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="3" column="1" />
       </file>
-      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rules/MinCharRule.java" timestamp="1557998110932">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="29" />
-        <mark key="." line="29" column="29" />
-        <mark key="^" line="29" column="29" />
-      </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/RulesScoreCalculator.java" timestamp="1557997614541">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="14" column="23" />
@@ -631,6 +585,10 @@
         <mark key="]" line="41" column="62" />
         <mark key="^" line="41" column="62" />
         <mark key="." line="41" column="62" />
+      </file>
+      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rule/MinDigitRule.java" timestamp="1558007644887">
+        <mark key="'" line="2" column="13" />
+        <mark key="[" line="14" column="45" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/checker/MinCharRule.java" timestamp="1557395578973">
         <mark key="[" line="23" column="13" />
@@ -779,9 +737,14 @@
         <mark key="." line="6" column="81" />
         <mark key="^" line="6" column="81" />
       </file>
+      <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rule/MinCharRule.java" timestamp="1558007638528">
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/work/poei-password-manager/README.md" />
       <jump line="46" column="55" filename="$USER_HOME$/work/poei-password-manager/README.md" />
       <jump line="69" column="3" filename="$USER_HOME$/work/poei-password-manager/README.md" />
       <jump line="60" column="0" filename="$USER_HOME$/work/poei-password-manager/README.md" />
@@ -881,6 +844,7 @@
       <jump line="10" column="13" filename="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/score/MinCharRuleTest.java" />
       <jump line="9" column="0" filename="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/score/MinLengthRuleTest.java" />
       <jump line="53" column="47" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/web/PasswordController.java" />
+      <jump line="2" column="13" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rule/MinDigitRule.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
