@@ -6,12 +6,18 @@
       <file name="/a.dummy" timestamp="1558008209419">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/hasher/Sha256Hasher.java" timestamp="1558013781649">
-        <mark key="'" line="27" column="46" />
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="13" />
-        <mark key="." line="27" column="13" />
-        <mark key="^" line="27" column="13" />
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/hasher/Sha256Hasher.java" timestamp="1558017143592">
+        <mark key="'" line="27" column="32" />
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="26" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/salt/RandomSaltGeneratorTest.java" timestamp="1558017872783">
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="11" column="56" />
+        <mark key="^" line="11" column="56" />
+        <mark key="." line="11" column="56" />
       </file>
       <file name="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/service/hasher/Sha256Hasher.java" timestamp="1557395456371">
         <mark key="[" line="28" column="8" />
@@ -53,11 +59,11 @@
         <mark key="^" line="20" column="28" />
         <mark key="." line="21" column="60" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/SecretStore.java" timestamp="1558012036044">
-        <mark key="[" line="24" column="97" />
-        <mark key="]" line="25" column="34" />
-        <mark key="." line="25" column="34" />
-        <mark key="^" line="25" column="34" />
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/SecretStore.java" timestamp="1558017323033">
+        <mark key="[" line="41" column="83" />
+        <mark key="]" line="41" column="105" />
+        <mark key="." line="41" column="105" />
+        <mark key="^" line="41" column="105" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/scorer/Complexity.java" timestamp="1557997272371">
         <mark key="[" line="2" column="12" />
@@ -109,6 +115,12 @@
         <mark key="]" line="4" column="34" />
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
+      </file>
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/dao/SecretValue.java" timestamp="1558016894173">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/resources/application.yml" timestamp="1557821294091">
         <mark key="[" line="2" column="35" />
@@ -167,6 +179,18 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/SecretCryptographicOperator.java" timestamp="1558017006931">
+        <mark key="[" line="6" column="55" />
+        <mark key="]" line="6" column="67" />
+        <mark key="^" line="6" column="67" />
+        <mark key="." line="6" column="67" />
+      </file>
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/salt/RandomSaltGenerator.java" timestamp="1558017972510">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/work/poei-sample/src/main/java/com/oodrive/poei/sample/SampleController.java" timestamp="1556809834055">
         <mark key="[" line="24" column="28" />
         <mark key="]" line="24" column="33" />
@@ -215,11 +239,11 @@
         <mark key="^" line="36" column="11" />
         <mark key="." line="36" column="11" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/Simple32BytesAESSecretKeyGeneratorTest.java" timestamp="1558015465225">
-        <mark key="[" line="14" column="72" />
-        <mark key="]" line="14" column="89" />
-        <mark key="." line="14" column="89" />
-        <mark key="^" line="14" column="89" />
+      <file name="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/Simple32BytesAESSecretKeyGeneratorTest.java" timestamp="1558017460206">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="^" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/apps/jdk-11.0.2/lib/src.zip!/java.base/sun/security/jca/Providers.java" timestamp="1558013117860" />
       <file name="$USER_HOME$/work/poei-file-storage/README.md" timestamp="1557409132316">
@@ -306,14 +330,13 @@
         <mark key="." line="3" column="10" />
         <mark key="^" line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperatorTest.java" timestamp="1558015561074">
-        <mark key="'" line="25" column="114" />
-        <mark key="[" line="17" column="51" />
-        <mark key="l" line="49" column="33" />
-        <mark key="]" line="17" column="74" />
-        <mark key="m" line="43" column="53" />
-        <mark key="^" line="17" column="74" />
-        <mark key="." line="17" column="74" />
+      <file name="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperatorTest.java" timestamp="1558017558876">
+        <mark key="[" line="37" column="0" />
+        <mark key="l" line="52" column="33" />
+        <mark key="m" line="46" column="53" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="24" column="44" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/score/WeightedRulesScoreCalculatorTEst.java" timestamp="1558001659270">
         <mark key="[" line="2" column="45" />
@@ -337,11 +360,11 @@
         <mark key="." line="3" column="37" />
         <mark key="^" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/SecretKeyGenerator.java" timestamp="1558010291795">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-        <mark key="^" line="6" column="12" />
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/SecretKeyGenerator.java" timestamp="1558017049531">
+        <mark key="[" line="7" column="40" />
+        <mark key="]" line="7" column="52" />
+        <mark key="." line="7" column="52" />
+        <mark key="^" line="7" column="52" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/RandomPasswordGeneratorTest.java" timestamp="1557138280657">
         <mark key="[" line="41" column="62" />
@@ -369,6 +392,12 @@
         <mark key="]" line="6" column="17" />
         <mark key="." line="6" column="17" />
         <mark key="^" line="6" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/Simple32BytesAESSecretKeyGenerator.java" timestamp="1558017159110">
+        <mark key="[" line="22" column="56" />
+        <mark key="]" line="22" column="56" />
+        <mark key="^" line="22" column="69" />
+        <mark key="." line="22" column="56" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/hasher/Sha256HasherTest.java" timestamp="1558001720316">
         <mark key="[" line="10" column="8" />
@@ -431,7 +460,7 @@
         <mark key="^" line="23" column="19" />
         <mark key="." line="23" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1558015950198">
+      <file name="/fragment.java" timestamp="1558017180229">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei-secured-box/src/main/resources/application.yml" timestamp="1557758156891">
@@ -550,12 +579,12 @@
         <mark key="^" line="6" column="76" />
         <mark key="." line="6" column="76" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/config/SecuredBoxConfig.java" timestamp="1558015424027">
-        <mark key="'" line="31" column="33" />
-        <mark key="[" line="36" column="54" />
-        <mark key="]" line="36" column="59" />
-        <mark key="." line="36" column="59" />
-        <mark key="^" line="36" column="59" />
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/config/SecuredBoxConfig.java" timestamp="1558017343509">
+        <mark key="'" line="33" column="33" />
+        <mark key="[" line="47" column="108" />
+        <mark key="]" line="47" column="136" />
+        <mark key="." line="47" column="136" />
+        <mark key="^" line="47" column="136" />
       </file>
       <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/web/dto/WriteSecret.java" timestamp="1558011993074">
         <mark key="[" line="38" column="5" />
@@ -575,11 +604,11 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/main/resources/dump.sql" timestamp="1558015810375">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="19" />
-        <mark key="." line="3" column="19" />
-        <mark key="^" line="3" column="19" />
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/resources/dump.sql" timestamp="1558017615494">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/generator/RandomPasswordGenerator.java" timestamp="1557995179737">
         <mark key="'" line="42" column="52" />
@@ -597,17 +626,23 @@
         <mark key="." line="13" column="54" />
         <mark key="^" line="13" column="54" />
       </file>
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/salt/SaltGenerator.java" timestamp="1558017199399">
+        <mark key="[" line="3" column="21" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/generator/PasswordGenerator.java" timestamp="1557995021815">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="9" />
         <mark key="." line="3" column="9" />
         <mark key="^" line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/hasher/Hasher.java" timestamp="1558013769644">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-        <mark key="^" line="4" column="9" />
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/hasher/Hasher.java" timestamp="1558017151721">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/hasher/Hasher.java" timestamp="1557149813661">
         <mark key="[" line="3" column="27" />
@@ -693,11 +728,17 @@
         <mark key="^" line="17" column="47" />
         <mark key="." line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperator.java" timestamp="1558013649873">
-        <mark key="[" line="29" column="49" />
-        <mark key="]" line="29" column="49" />
-        <mark key="^" line="29" column="76" />
-        <mark key="." line="29" column="49" />
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperator.java" timestamp="1558017042843">
+        <mark key="[" line="51" column="54" />
+        <mark key="]" line="51" column="59" />
+        <mark key="^" line="51" column="59" />
+        <mark key="." line="51" column="59" />
+      </file>
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/exception/SaltGenerationException.java" timestamp="1558017283287">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/service/checker/PasswordComplexityCheckerTest.java" timestamp="1557145189547">
         <mark key="[" line="2" column="44" />
@@ -714,11 +755,11 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/hasher/Sha256HasherTest.java" timestamp="1558015756487">
-        <mark key="[" line="14" column="153" />
-        <mark key="]" line="14" column="153" />
+      <file name="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/hasher/Sha256HasherTest.java" timestamp="1558017508058">
+        <mark key="[" line="15" column="77" />
+        <mark key="]" line="15" column="77" />
         <mark key="^" line="14" column="153" />
-        <mark key="." line="14" column="153" />
+        <mark key="." line="15" column="77" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/checker/rules/NotUsedPasswordRule.java" timestamp="1557995968929">
         <mark key="[" line="12" column="27" />
@@ -808,11 +849,6 @@
         <mark key="^" line="12" column="38" />
         <mark key="." line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/web/dto/PasswordDTOTest.java" timestamp="1558012244607">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="50" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/RulesScoreCalculator.java" timestamp="1557997614541">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="14" column="23" />
@@ -895,10 +931,11 @@
         <mark key="^" line="2" column="24" />
         <mark key="." line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/dao/SecretDAO.java" timestamp="1558016928841">
+        <mark key="'" line="21" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="4" filename="$USER_HOME$/work/poei-hasher/src/main/java/com/oodrive/poei/poeihasher/service/Sha256Hasher.java" />
-      <jump line="13" column="34" filename="$USER_HOME$/work/poei-hasher/src/main/java/com/oodrive/poei/poeihasher/service/Sha256Hasher.java" />
       <jump line="17" column="0" filename="$USER_HOME$/work/poei-hasher/src/main/java/com/oodrive/poei/poeihasher/config/HasherConfig.java" />
       <jump line="25" column="44" filename="$USER_HOME$/work/poei-hasher/README.md" />
       <jump line="1" column="0" filename="$USER_HOME$/work/poei-hasher/pom.xml" />
@@ -997,46 +1034,48 @@
       <jump line="28" column="46" filename="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/hasher/Sha256Hasher.java" />
       <jump line="30" column="33" filename="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/config/SecuredBoxConfig.java" />
       <jump line="25" column="114" filename="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperatorTest.java" />
+      <jump line="27" column="32" filename="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/hasher/Sha256Hasher.java" />
+      <jump line="37" column="71" filename="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperatorTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>text</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlTZWN1cmVSYW5kb20gc3I7IHRyeSB7CgkJCXNyID0gU2VjdXJlUmFuZG9tLmdldEluc3RhbmNlU3Ryb25nKCk7CgkJfSBjYXRjaCAoTm9TdWNoQWxnb3JpdGhtRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFNhbHRHZW5lcmF0aW9uRXhjZXB0aW9uKGUpOwoJCX0K</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>sr</text>
       </register>
       <register name="/" type="4">
         <text>bouncy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyB2b2lkIG9iZnVzY2F0ZVBhc3N3b3JkKCkgewoJCWlmIChwYXNzd29yZCAhPSBudWxsKSB7CgkJCUFycmF5cy5maWxsKHBhc3N3b3JkLCAnICcpOwoJCQlwYXNzd29yZCA9IG51bGw7CgkJfQoJfQo=</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIGJ5dGVbXSBTQUxUID0gIlNhbHR5Ii5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KSk7CgkJ</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQlTZWN1cmVSYW5kb20gc3I7IHRyeSB7CgkJCXNyID0gU2VjdXJlUmFuZG9tLmdldEluc3RhbmNlU3Ryb25nKCk7CgkJfSBjYXRjaCAoTm9TdWNoQWxnb3JpdGhtRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFNhbHRHZW5lcmF0aW9uRXhjZXB0aW9uKGUpOwoJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXR1cm4gbmV3IEFFU1NlY3JldEtleUdlbmVyYXRvcigpOwo=</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oYmFzZTY0RW5jb2Rlci5lbmNvZGVUb1N0cmluZyhlbmNyeXB0ZWRTZWNyZXQxKSk7CgkJU3lzdGVtLm91dC5wcmludGxuKGJhc2U2NEVuY29kZXIuZW5jb2RlVG9TdHJpbmcoZW5jcnlwdGVkU2VjcmV0MikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIGludCBLRVlfU0laRSA9IDMyOwo=</text>
+        <text encoding="base64">CQkJZS5wcmludFN0YWNrVHJhY2UoKTsKCQl9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0Tm90TnVsbChwYXNzd29yZC5nZXRWYWx1ZSgpKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">KSk7CgkJ</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlmb3IgKHZhciBpID0gMDsgaSA8IHBhc3N3b3JkLmxlbmd0aDsgaSsrKSB7CgkJCXBhc3N3b3JkW2ldID0gJyonOwoJCX0K</text>
+        <text encoding="base64">CQlyZXR1cm4gbmV3IEFFU1NlY3JldEtleUdlbmVyYXRvcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlBcnJheXMuZmlsbChwYXNzd29yZCwgJyonKTsKCQlwYXNzd29yZCA9IG51bGw7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIGludCBLRVlfU0laRSA9IDMyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmb3IgKHZhciBpID0gMDsgaSA8IHBhc3N3b3JkLmxlbmd0aDsgaSsrKSB7CgkJCXBhc3N3b3JkW2ldID0gJyonOwoJCX0K</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0Tm90TnVsbChwYXNzd29yZC5nZXRWYWx1ZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmb3IgKHZhciBpID0gMDsgaSA8IHBhc3N3b3JkLmxlbmd0aDsgaSsrKSB7CgkJCXBhc3N3b3JkW2ldID0gJyonOwoJCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXN0YXRpYyB7IFNlY3VyaXR5LmFkZFByb3ZpZGVyKG5ldyBCb3VuY3lDYXN0bGVQcm92aWRlcigpKTsKCX0K</text>
+        <text encoding="base64">CQlBcnJheXMuZmlsbChwYXNzd29yZCwgJyonKTsKCQlwYXNzd29yZCA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/new PasswordDTO(//g</text>
