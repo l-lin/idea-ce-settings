@@ -80,11 +80,11 @@
         <mark key="." line="4" column="34" />
         <mark key="^" line="4" column="34" />
       </file>
-      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/storage/FileSystemStorage.java" timestamp="1558024332970">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="77" column="4" />
-        <mark key="^" line="77" column="4" />
-        <mark key="." line="77" column="4" />
+      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/storage/FileSystemStorage.java" timestamp="1558025238933">
+        <mark key="[" line="81" column="73" />
+        <mark key="]" line="81" column="73" />
+        <mark key="^" line="81" column="73" />
+        <mark key="." line="81" column="73" />
       </file>
       <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/service/SecretStore.java" timestamp="1557935518122">
         <mark key="]" line="11" column="23" />
@@ -366,11 +366,11 @@
         <mark key="." line="21" column="41" />
         <mark key="^" line="21" column="41" />
       </file>
-      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/crypto/operator/ContentCryptographicOperator.java" timestamp="1558023781097">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="47" />
-        <mark key="^" line="10" column="47" />
-        <mark key="." line="10" column="47" />
+      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/crypto/operator/ContentCryptographicOperator.java" timestamp="1558024793159">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="40" />
+        <mark key="^" line="10" column="40" />
+        <mark key="." line="10" column="40" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/web/dto/PasswordScoreDTO.java" timestamp="1558000341218">
         <mark key="]" line="5" column="28" />
@@ -407,12 +407,12 @@
       <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/service/checker/PasswordComplexityCheckerTest.java" timestamp="1557145189547">
         <mark key="[" line="2" column="44" />
       </file>
-      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/crypto/operator/AESContentCryptographicOperator.java" timestamp="1558024637533">
+      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/crypto/operator/AESContentCryptographicOperator.java" timestamp="1558024783937">
         <mark key="'" line="58" column="12" />
-        <mark key="[" line="38" column="24" />
-        <mark key="]" line="38" column="42" />
-        <mark key="^" line="38" column="42" />
-        <mark key="." line="38" column="42" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="51" column="47" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/crypto/stream/AESInputStream.java" timestamp="1558023244634">
         <mark key="[" line="28" column="35" />
@@ -587,44 +587,44 @@
       <jump line="46" column="12" filename="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>decryptMode</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQl0cnkgeyBSZXNvdXJjZSByZXNvdXJjZSA9IG5ldyBVcmxSZXNvdXJjZShwYXRoLnRvVXJpKCkpOwoJCQlpZiAocmVzb3VyY2UuZXhpc3RzKCkgfHwgcmVzb3VyY2UuaXNSZWFkYWJsZSgpKSB7CgkJCQlyZXR1cm4gbmV3IEZpbGVSZXNwb25zZURUTyhmaWxlRFRPLmdldE5hbWUoKSwgcmVzb3VyY2UpOwoJCQl9IGVsc2UgewoJCQkJdGhyb3cgbmV3IFN0b3JhZ2VGaWxlTm90Rm91bmRFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgpOwoJCQl9CgkJfSBjYXRjaCAoTWFsZm9ybWVkVVJMRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFN0b3JhZ2VGaWxlTm90Rm91bmRFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgsIGUpOwoJCX0K</text>
       </register>
       <register name="-" type="4">
-        <text>decryptMode</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>bouncy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlwZXJmb3JtKGlucHV0LCBvdXRwdXQsIENpcGhlci5FTkNSWVBUX01PREUpOwo=</text>
+        <text encoding="base64">CQkJCXRocm93IG5ldyBTdG9yYWdlRmlsZU5vdEZvdW5kRXhjZXB0aW9uKCJDb3VsZCBub3QgcmVhZCBmaWxlICIgKyBwYXRoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlwZXJmb3JtKGlucHV0LCBvdXRwdXQsIENpcGhlci5FTkNSWVBUX01PREUpOwo=</text>
+        <text encoding="base64">CQl0cnkgeyBSZXNvdXJjZSByZXNvdXJjZSA9IG5ldyBVcmxSZXNvdXJjZShwYXRoLnRvVXJpKCkpOwoJCQlpZiAocmVzb3VyY2UuZXhpc3RzKCkgfHwgcmVzb3VyY2UuaXNSZWFkYWJsZSgpKSB7CgkJCQlyZXR1cm4gbmV3IEZpbGVSZXNwb25zZURUTyhmaWxlRFRPLmdldE5hbWUoKSwgcmVzb3VyY2UpOwoJCQl9IGVsc2UgewoJCQkJdGhyb3cgbmV3IFN0b3JhZ2VGaWxlTm90Rm91bmRFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgpOwoJCQl9CgkJfSBjYXRjaCAoTWFsZm9ybWVkVVJMRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFN0b3JhZ2VGaWxlTm90Rm91bmRFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgsIGUpOwoJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXN0YXRpYyB7Cgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl0cnkgewoJCQlDSVBIRVIgPSBDaXBoZXIuZ2V0SW5zdGFuY2UoQUxHT1JJVEhNKTsKCQl9IGNhdGNoIChOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gfCBOb1N1Y2hQYWRkaW5nRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7CgkJfQo=</text>
+        <text encoding="base64">CXN0YXRpYyB7Cgl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl0cnkgewoJCQlDSVBIRVIgPSBDaXBoZXIuZ2V0SW5zdGFuY2UoQUxHT1JJVEhNKTsKCQl9IGNhdGNoIChOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gfCBOb1N1Y2hQYWRkaW5nRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7CgkJfQo=</text>
+        <text encoding="base64">CXByaXZhdGUgdm9pZCBwZXJmb3JtKElucHV0U3RyZWFtIGlucHV0LCBPdXRwdXRTdHJlYW0gb3V0cHV0LCBpbnQgZGVjcnlwdE1vZGUpIHsKCQlDaXBoZXIgY2lwaGVyOwoJCXRyeSB7CgkJCWNpcGhlciA9IENpcGhlci5nZXRJbnN0YW5jZShBTEdPUklUSE0pOwoJCX0gY2F0Y2ggKE5vU3VjaEFsZ29yaXRobUV4Y2VwdGlvbiB8IE5vU3VjaFBhZGRpbmdFeGNlcHRpb24gZSkgewoJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKCQl9CgkJdHJ5IHsKCQkJY2lwaGVyLmluaXQoZGVjcnlwdE1vZGUsIHNlY3JldEtleSk7CgkJfSBjYXRjaCAoSW52YWxpZEtleUV4Y2VwdGlvbiBlKSB7CgkJCXRocm93IG5ldyBDcnlwdG9PcGVyYXRpb25FeGNlcHRpb24oZSk7CgkJfQoJCXRyeSAodmFyIGNpcGhlcklucHV0ID0gbmV3IENpcGhlcklucHV0U3RyZWFtKGlucHV0LCBjaXBoZXIpKSB7CgkJCWNpcGhlcklucHV0LnRyYW5zZmVyVG8ob3V0cHV0KTsKCQl9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CgkJCXRocm93IG5ldyBDcnlwdG9PcGVyYXRpb25FeGNlcHRpb24oZSk7CgkJfQoJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl0cnkgewoJCX0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKCQl9Cg==</text>
+        <text encoding="base64">CQl0cnkgKHZhciBjaXBoZXJPdXRwdXQgPSBuZXcgQ2lwaGVyT3V0cHV0U3RyZWFtKG91dHB1dCwgY2lwaGVyKSkgewoJCQlpbnB1dC50cmFuc2ZlclRvKGNpcGhlck91dHB1dCk7CgkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewoJCQl0aHJvdyBuZXcgQ3J5cHRvT3BlcmF0aW9uRXhjZXB0aW9uKGUpOwoJCX0KCQlwZXJmb3JtKGlucHV0LCBvdXRwdXQsIENpcGhlci5ERUNSWVBUX01PREUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJY2lwaGVySW5wdXQudHJhbnNmZXJUbyhvdXRwdXQpOwo=</text>
+        <text encoding="base64">CQlwZXJmb3JtKGlucHV0LCBvdXRwdXQsIENpcGhlci5FTkNSWVBUX01PREUpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJTE9HR0VSLndhcm4oZS5nZXRNZXNzYWdlKCkpOwoJCQl0aHJvdyBuZXcgSW52YWxpZFBhc3N3b3JkRXhjZXB0aW9uKCk7Cg==</text>
+        <text encoding="base64">CXN0YXRpYyB7Cgl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0cnkgewoJCQlDSVBIRVIuZG9GaW5hbChpbnB1dCwgb3V0cHV0KTsKCQl9IGNhdGNoIChJbGxlZ2FsQmxvY2tTaXplRXhjZXB0aW9uIHwgQmFkUGFkZGluZ0V4Y2VwdGlvbiB8IFNob3J0QnVmZmVyRXhjZXB0aW9uIGUpIHsKCQkJTE9HR0VSLndhcm4oZS5nZXRNZXNzYWdlKCkpOwoJCQl0aHJvdyBuZXcgSW52YWxpZFBhc3N3b3JkRXhjZXB0aW9uKCk7CgkJfQo=</text>
+        <text encoding="base64">CQl0cnkgewoJCQlDSVBIRVIgPSBDaXBoZXIuZ2V0SW5zdGFuY2UoQUxHT1JJVEhNKTsKCQl9IGNhdGNoIChOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gfCBOb1N1Y2hQYWRkaW5nRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7CgkJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgkvKioKCSAqIENyZWF0ZXMgYSA8Y29kZT5GaWx0ZXJJbnB1dFN0cmVhbTwvY29kZT4gYnkgYXNzaWduaW5nIHRoZSAgYXJndW1lbnQgPGNvZGU+aW48L2NvZGU+IHRvIHRoZSBmaWVsZCA8Y29kZT50aGlzLmluPC9jb2RlPgoJICogc28gYXMgdG8gcmVtZW1iZXIgaXQgZm9yIGxhdGVyIHVzZS4KCSAqCgkgKiBAcGFyYW0gaW4gdGhlIHVuZGVybHlpbmcgaW5wdXQgc3RyZWFtLCBvciA8Y29kZT5udWxsPC9jb2RlPiBpZiB0aGlzIGluc3RhbmNlIGlzIHRvIGJlIGNyZWF0ZWQgd2l0aG91dCBhbiB1bmRlcmx5aW5nCgkgKiAgICAgICAgICAgc3RyZWFtLgoJICovCg==</text>
+        <text encoding="base64">CQl0cnkgewoJCQlDSVBIRVIgPSBDaXBoZXIuZ2V0SW5zdGFuY2UoQUxHT1JJVEhNKTsKCQl9IGNhdGNoIChOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gfCBOb1N1Y2hQYWRkaW5nRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7CgkJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/new PasswordDTO(//g</text>
