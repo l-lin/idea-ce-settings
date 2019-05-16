@@ -13,11 +13,11 @@
         <mark key="." line="27" column="32" />
         <mark key="^" line="26" column="28" />
       </file>
-      <file name="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/salt/RandomSaltGeneratorTest.java" timestamp="1558017872783">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="56" />
-        <mark key="^" line="11" column="56" />
-        <mark key="." line="11" column="56" />
+      <file name="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/salt/RandomSaltGeneratorTest.java" timestamp="1558020377284">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+        <mark key="." line="11" column="14" />
       </file>
       <file name="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/service/hasher/Sha256Hasher.java" timestamp="1557395456371">
         <mark key="[" line="28" column="8" />
@@ -1035,11 +1035,11 @@
       <jump line="37" column="71" filename="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperatorTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlTZWN1cmVSYW5kb20gc3I7IHRyeSB7CgkJCXNyID0gU2VjdXJlUmFuZG9tLmdldEluc3RhbmNlU3Ryb25nKCk7CgkJfSBjYXRjaCAoTm9TdWNoQWxnb3JpdGhtRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFNhbHRHZW5lcmF0aW9uRXhjZXB0aW9uKGUpOwoJCX0K</text>
+      <register name="&quot;" type="4">
+        <text>byte</text>
       </register>
       <register name="-" type="4">
-        <text>sr</text>
+        <text>byte</text>
       </register>
       <register name="/" type="4">
         <text>bouncy</text>
