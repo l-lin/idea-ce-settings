@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/exception/CryptoOperationException.java" timestamp="1558023757513">
+      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/exception/CryptoOperationException.java" timestamp="1558081882318">
+        <mark key="[" line="8" column="11" />
         <mark key="]" line="7" column="36" />
         <mark key="^" line="7" column="36" />
         <mark key="." line="7" column="36" />
@@ -122,10 +123,11 @@
         <mark key="^" line="14" column="153" />
         <mark key="." line="15" column="77" />
       </file>
-      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/crypto/operator/AESCipherStreamSupplier.java" timestamp="1558080819935">
-        <mark key="]" line="17" column="67" />
-        <mark key="^" line="17" column="67" />
-        <mark key="." line="17" column="67" />
+      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/crypto/operator/AESCipherStreamSupplier.java" timestamp="1558082216835">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/checker/rules/NotUsedPasswordRule.java" timestamp="1557995968929">
         <mark key="[" line="12" column="27" />
@@ -268,11 +270,22 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="34" />
       </file>
+      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/exception/CipherOperationException.java" timestamp="1558081888156">
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
+      </file>
       <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/exception/InvalidPasswordException.java" timestamp="1558023753499">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
         <mark key="^" line="6" column="54" />
+      </file>
+      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/crypto/operator/CipherStreamSupplier.java" timestamp="1558081784837">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/score/WeightedRulesScoreCalculatorTEst.java" timestamp="1558001659270">
         <mark key="[" line="2" column="45" />
@@ -296,11 +309,11 @@
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="23" />
       </file>
-      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/storage/FileSystemStorage.java" timestamp="1558025238933">
-        <mark key="[" line="77" column="73" />
-        <mark key="]" line="77" column="73" />
-        <mark key="^" line="77" column="73" />
-        <mark key="." line="77" column="73" />
+      <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/storage/FileSystemStorage.java" timestamp="1558081951638">
+        <mark key="[" line="59" column="15" />
+        <mark key="]" line="60" column="58" />
+        <mark key="^" line="60" column="58" />
+        <mark key="." line="60" column="58" />
       </file>
       <file name="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/scorer/Score.java" timestamp="1557997289730">
         <mark key="]" line="6" column="1" />
@@ -602,10 +615,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Crypto</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Crypto</text>
       </register>
       <register name="/" type="4">
         <text>bouncy</text>
@@ -614,28 +627,28 @@
         <text encoding="base64">CQkJCXRocm93IG5ldyBTdG9yYWdlRmlsZU5vdEZvdW5kRXhjZXB0aW9uKCJDb3VsZCBub3QgcmVhZCBmaWxlICIgKyBwYXRoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl0cnkgeyBSZXNvdXJjZSByZXNvdXJjZSA9IG5ldyBVcmxSZXNvdXJjZShwYXRoLnRvVXJpKCkpOwoJCQlpZiAocmVzb3VyY2UuZXhpc3RzKCkgfHwgcmVzb3VyY2UuaXNSZWFkYWJsZSgpKSB7CgkJCQlyZXR1cm4gbmV3IEZpbGVSZXNwb25zZURUTyhmaWxlRFRPLmdldE5hbWUoKSwgcmVzb3VyY2UpOwoJCQl9IGVsc2UgewoJCQkJdGhyb3cgbmV3IFN0b3JhZ2VGaWxlTm90Rm91bmRFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgpOwoJCQl9CgkJfSBjYXRjaCAoTWFsZm9ybWVkVVJMRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFN0b3JhZ2VGaWxlTm90Rm91bmRFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgsIGUpOwoJCX0K</text>
+        <text encoding="base64">CQl0cnkgKHZhciBjaXBoZXJPdXRwdXQgPSBuZXcgQ2lwaGVyT3V0cHV0U3RyZWFtKG91dHB1dCwgY2lwaGVyKSkgewoJCQlpbnB1dC50cmFuc2ZlclRvKGNpcGhlck91dHB1dCk7CgkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewoJCQl0aHJvdyBuZXcgQ3J5cHRvT3BlcmF0aW9uRXhjZXB0aW9uKGUpOwoJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl0cnkgeyBSZXNvdXJjZSByZXNvdXJjZSA9IG5ldyBVcmxSZXNvdXJjZShwYXRoLnRvVXJpKCkpOwoJCQlpZiAocmVzb3VyY2UuZXhpc3RzKCkgfHwgcmVzb3VyY2UuaXNSZWFkYWJsZSgpKSB7CgkJCQlyZXR1cm4gbmV3IEZpbGVSZXNwb25zZURUTyhmaWxlRFRPLmdldE5hbWUoKSwgcmVzb3VyY2UpOwoJCQl9IGVsc2UgewoJCQkJdGhyb3cgbmV3IFN0b3JhZ2VGaWxlTm90Rm91bmRFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgpOwoJCQl9CgkJfSBjYXRjaCAoTWFsZm9ybWVkVVJMRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFN0b3JhZ2VGaWxlTm90Rm91bmRFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgsIGUpOwoJCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXN0YXRpYyB7Cgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCBwZXJmb3JtKElucHV0U3RyZWFtIGlucHV0LCBPdXRwdXRTdHJlYW0gb3V0cHV0LCBpbnQgZGVjcnlwdE1vZGUpIHsKCQlDaXBoZXIgY2lwaGVyOwoJCXRyeSB7CgkJCWNpcGhlciA9IENpcGhlci5nZXRJbnN0YW5jZShBTEdPUklUSE0pOwoJCX0gY2F0Y2ggKE5vU3VjaEFsZ29yaXRobUV4Y2VwdGlvbiB8IE5vU3VjaFBhZGRpbmdFeGNlcHRpb24gZSkgewoJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKCQl9CgkJdHJ5IHsKCQkJY2lwaGVyLmluaXQoZGVjcnlwdE1vZGUsIHNlY3JldEtleSk7CgkJfSBjYXRjaCAoSW52YWxpZEtleUV4Y2VwdGlvbiBlKSB7CgkJCXRocm93IG5ldyBDcnlwdG9PcGVyYXRpb25FeGNlcHRpb24oZSk7CgkJfQoJCXRyeSAodmFyIGNpcGhlcklucHV0ID0gbmV3IENpcGhlcklucHV0U3RyZWFtKGlucHV0LCBjaXBoZXIpKSB7CgkJCWNpcGhlcklucHV0LnRyYW5zZmVyVG8ob3V0cHV0KTsKCQl9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CgkJCXRocm93IG5ldyBDcnlwdG9PcGVyYXRpb25FeGNlcHRpb24oZSk7CgkJfQoJfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQl0cnkgKHZhciBjaXBoZXJPdXRwdXQgPSBuZXcgQ2lwaGVyT3V0cHV0U3RyZWFtKG91dHB1dCwgY2lwaGVyKSkgewoJCQlpbnB1dC50cmFuc2ZlclRvKGNpcGhlck91dHB1dCk7CgkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewoJCQl0aHJvdyBuZXcgQ3J5cHRvT3BlcmF0aW9uRXhjZXB0aW9uKGUpOwoJCX0KCQlwZXJmb3JtKGlucHV0LCBvdXRwdXQsIENpcGhlci5ERUNSWVBUX01PREUpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlwZXJmb3JtKGlucHV0LCBvdXRwdXQsIENpcGhlci5FTkNSWVBUX01PREUpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CXN0YXRpYyB7Cgl9Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXByaXZhdGUgdm9pZCBwZXJmb3JtKElucHV0U3RyZWFtIGlucHV0LCBPdXRwdXRTdHJlYW0gb3V0cHV0LCBpbnQgZGVjcnlwdE1vZGUpIHsKCQlDaXBoZXIgY2lwaGVyOwoJCXRyeSB7CgkJCWNpcGhlciA9IENpcGhlci5nZXRJbnN0YW5jZShBTEdPUklUSE0pOwoJCX0gY2F0Y2ggKE5vU3VjaEFsZ29yaXRobUV4Y2VwdGlvbiB8IE5vU3VjaFBhZGRpbmdFeGNlcHRpb24gZSkgewoJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKCQl9CgkJdHJ5IHsKCQkJY2lwaGVyLmluaXQoZGVjcnlwdE1vZGUsIHNlY3JldEtleSk7CgkJfSBjYXRjaCAoSW52YWxpZEtleUV4Y2VwdGlvbiBlKSB7CgkJCXRocm93IG5ldyBDcnlwdG9PcGVyYXRpb25FeGNlcHRpb24oZSk7CgkJfQoJCXRyeSAodmFyIGNpcGhlcklucHV0ID0gbmV3IENpcGhlcklucHV0U3RyZWFtKGlucHV0LCBjaXBoZXIpKSB7CgkJCWNpcGhlcklucHV0LnRyYW5zZmVyVG8ob3V0cHV0KTsKCQl9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CgkJCXRocm93IG5ldyBDcnlwdG9PcGVyYXRpb25FeGNlcHRpb24oZSk7CgkJfQoJfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQl0cnkgKHZhciBjaXBoZXJPdXRwdXQgPSBuZXcgQ2lwaGVyT3V0cHV0U3RyZWFtKG91dHB1dCwgY2lwaGVyKSkgewoJCQlpbnB1dC50cmFuc2ZlclRvKGNpcGhlck91dHB1dCk7CgkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewoJCQl0aHJvdyBuZXcgQ3J5cHRvT3BlcmF0aW9uRXhjZXB0aW9uKGUpOwoJCX0KCQlwZXJmb3JtKGlucHV0LCBvdXRwdXQsIENpcGhlci5ERUNSWVBUX01PREUpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQlwZXJmb3JtKGlucHV0LCBvdXRwdXQsIENpcGhlci5FTkNSWVBUX01PREUpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQl0cnkgewoJCQlDSVBIRVIgPSBDaXBoZXIuZ2V0SW5zdGFuY2UoQUxHT1JJVEhNKTsKCQl9IGNhdGNoIChOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gfCBOb1N1Y2hQYWRkaW5nRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7CgkJfQo=</text>
+        <text encoding="base64">CXN0YXRpYyB7Cgl9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQl0cnkgewoJCQlDSVBIRVIgPSBDaXBoZXIuZ2V0SW5zdGFuY2UoQUxHT1JJVEhNKTsKCQl9IGNhdGNoIChOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gfCBOb1N1Y2hQYWRkaW5nRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7CgkJfQo=</text>
