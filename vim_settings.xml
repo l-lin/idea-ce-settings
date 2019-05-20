@@ -127,6 +127,12 @@
       <file name="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/SimpleAESSecretKeyGeneratorTEst.java" timestamp="1558009117187">
         <mark key="[" line="2" column="44" />
       </file>
+      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/resources/application.yml" timestamp="1558365506427">
+        <mark key="[" line="7" column="64" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+      </file>
       <file name="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/crypto/operator/CipherStreamProvider.java" timestamp="1558080746141">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="10" column="34" />
@@ -169,14 +175,6 @@
         <mark key="]" line="60" column="58" />
         <mark key="^" line="60" column="58" />
         <mark key="." line="60" column="58" />
-      </file>
-      <file name="$USER_HOME$/work/poei/poei-sample/src/main/resources/application.yml" timestamp="1558340941618">
-        <mark key="[" line="5" column="66" />
-        <mark key="l" line="5" column="37" />
-        <mark key="]" line="5" column="71" />
-        <mark key="m" line="5" column="37" />
-        <mark key="." line="5" column="71" />
-        <mark key="^" line="5" column="71" />
       </file>
       <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/salt/SaltGenerator.java" timestamp="1558017199399">
         <mark key="[" line="3" column="21" />
@@ -231,6 +229,13 @@
         <mark key="]" line="36" column="109" />
         <mark key="." line="36" column="109" />
         <mark key="^" line="36" column="109" />
+      </file>
+      <file name="$USER_HOME$/work/e2ee-parent/pom.xml" timestamp="1558365336980">
+        <mark key="'" line="162" column="50" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="178" column="57" />
+        <mark key="^" line="178" column="45" />
+        <mark key="." line="178" column="45" />
       </file>
       <file name="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/encryption/AESEncryptor.java" timestamp="1558002266070">
         <mark key="[" line="38" column="18" />
@@ -401,6 +406,7 @@
         <mark key="." line="20" column="17" />
         <mark key="^" line="20" column="17" />
       </file>
+      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/src/main/java/com/oodrive/e2ee/app/item/fileupload/FileUploader.java" timestamp="1558365454820" />
       <file name="$USER_HOME$/work/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/score/WeightedRulesScoreCalculatorTEst.java" timestamp="1558001659270">
         <mark key="[" line="2" column="45" />
       </file>
@@ -448,6 +454,11 @@
         <mark key="[" line="2" column="38" />
         <mark key="]" line="6" column="38" />
         <mark key="." line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/work/e2ee-parent/e2ee-app/pom.xml" timestamp="1558365338458">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="53" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1557995616394">
         <mark key="[" line="0" column="0" />
@@ -514,10 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/work/poei-hasher/README.md" />
-      <jump line="13" column="52" filename="$USER_HOME$/work/poei-twitter/README.md" />
-      <jump line="38" column="4" filename="$USER_HOME$/work/poei-twitter/pom.xml" />
-      <jump line="3" column="0" filename="$USER_HOME$/work/poei-twitter/src/main/resources/application.yml" />
       <jump line="8" column="0" filename="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/dao/AccountDAO.java" />
       <jump line="2" column="13" filename="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/dto/CreateTweetDTO.java" />
       <jump line="23" column="0" filename="$USER_HOME$/work/poei-twitter/src/main/java/com/oodrive/poei/poeitwitter/dto/CreateTweetDTO.java" />
@@ -614,55 +621,59 @@
       <jump line="15" column="58" filename="$USER_HOME$/work/poei/poei-sample/src/main/java/com/oodrive/poei/sample/ping/dao/PingDAO.java" />
       <jump line="19" column="26" filename="$USER_HOME$/work/poei/poei-secured-box/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/work/poei/poei-file-storage/README.md" />
+      <jump line="229" column="8" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
+      <jump line="273" column="41" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
+      <jump line="103" column="59" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
+      <jump line="162" column="50" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>jpg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmaWxlLXVwbG9hZDoKICAgIHN0b3JhZ2UtbWFyZ2luOgo=</text>
       </register>
       <register name="-" type="4">
         <text>jpg</text>
       </register>
       <register name="/" type="4">
-        <text>encryption</text>
+        <text>autoprocess</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBHZXR0aW5nIHN0YXJ0ZWQKIyMgUnVubmluZyB0aGUgc2VydmljZSB3aXRoIGFuIElERQoKTWFpbiBjbGFzczogYGNvbS5vb2RyaXZlLnBvZWkucGFzc3dvcmRtYW5hZ2VyLlBvZWlQYXNzd29yZE1hbmFnZXJBcHBsaWNhdGlvbmAKCiMjIFJ1bm5pbmcgdGhlIHNlcnZpY2Ugd2l0aCBNYXZlbgoKYGBgYmFzaAouL212bncgY2xlYW4gc3ByaW5nLWJvb3Q6cnVuCmBgYAoK</text>
+        <text encoding="base64">CQkJCTx2ZXJzaW9uPiR7c3ByaW5nLmJvb3QudmVyc2lvbn08L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaWxlLXVwbG9hZDoKICAgIHN0b3JhZ2UtbWFyZ2luOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB1YmxpYyBQZXJzb25EVE8oKSB7fQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlTcHJpbmdBcHBsaWNhdGlvbi5ydW4oU2FtcGxlQXBwbGljYXRpb24uY2xhc3MsIGFyZ3MpOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cglwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgTE9HR0VSID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoUGVyc29uQ29udHJvbGxlcik7</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CUBQb3N0TWFwcGluZyhwYXRoID0gIi9ncmVldCIpCglwdWJsaWMgTWFwPFN0cmluZywgU3RyaW5nPiBncmVldChAUmVxdWVzdEJvZHkgUGVyc29uRFRPIHBlcnNvbikgewoJCUxPR0dFUi5pbmZvKCJHcmVldGluZyB7fS4uLiIsIHBlcnNvbi5nZXROYW1lKCkpOwoJCXJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25NYXAoIm1lc3NhZ2UiLCAiSGVsbG8sICIgKyBwZXJzb24uZ2V0TmFtZSgpKTsKCX0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQl0cnkgKHZhciBjaXBoZXJPdXRwdXQgPSBuZXcgQ2lwaGVyT3V0cHV0U3RyZWFtKG91dHB1dCwgY2lwaGVyKSkgewoJCQlpbnB1dC50cmFuc2ZlclRvKGNpcGhlck91dHB1dCk7CgkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewoJCQl0aHJvdyBuZXcgQ3J5cHRvT3BlcmF0aW9uRXhjZXB0aW9uKGUpOwoJCX0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQl0cnkgeyBSZXNvdXJjZSByZXNvdXJjZSA9IG5ldyBVcmxSZXNvdXJjZShwYXRoLnRvVXJpKCkpOwoJCQlpZiAocmVzb3VyY2UuZXhpc3RzKCkgfHwgcmVzb3VyY2UuaXNSZWFkYWJsZSgpKSB7CgkJCQlyZXR1cm4gbmV3IEZpbGVSZXNwb25zZURUTyhmaWxlRFRPLmdldE5hbWUoKSwgcmVzb3VyY2UpOwoJCQl9IGVsc2UgewoJCQkJdGhyb3cgbmV3IFN0b3JhZ2VGaWxlTm90Rm91bmRFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgpOwoJCQl9CgkJfSBjYXRjaCAoTWFsZm9ybWVkVVJMRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFN0b3JhZ2VGaWxlTm90Rm91bmRFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgsIGUpOwoJCX0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CXB1YmxpYyBQZXJzb25EVE8oKSB7fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlTcHJpbmdBcHBsaWNhdGlvbi5ydW4oU2FtcGxlQXBwbGljYXRpb24uY2xhc3MsIGFyZ3MpOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Cglwcml2YXRlIHN0YXRpYyBmaW5hbCBMb2dnZXIgTE9HR0VSID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoUGVyc29uQ29udHJvbGxlcik7</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CUBQb3N0TWFwcGluZyhwYXRoID0gIi9ncmVldCIpCglwdWJsaWMgTWFwPFN0cmluZywgU3RyaW5nPiBncmVldChAUmVxdWVzdEJvZHkgUGVyc29uRFRPIHBlcnNvbikgewoJCUxPR0dFUi5pbmZvKCJHcmVldGluZyB7fS4uLiIsIHBlcnNvbi5nZXROYW1lKCkpOwoJCXJldHVybiBDb2xsZWN0aW9ucy5zaW5nbGV0b25NYXAoIm1lc3NhZ2UiLCAiSGVsbG8sICIgKyBwZXJzb24uZ2V0TmFtZSgpKTsKCX0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQl0cnkgKHZhciBjaXBoZXJPdXRwdXQgPSBuZXcgQ2lwaGVyT3V0cHV0U3RyZWFtKG91dHB1dCwgY2lwaGVyKSkgewoJCQlpbnB1dC50cmFuc2ZlclRvKGNpcGhlck91dHB1dCk7CgkJfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewoJCQl0aHJvdyBuZXcgQ3J5cHRvT3BlcmF0aW9uRXhjZXB0aW9uKGUpOwoJCX0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQl0cnkgeyBSZXNvdXJjZSByZXNvdXJjZSA9IG5ldyBVcmxSZXNvdXJjZShwYXRoLnRvVXJpKCkpOwoJCQlpZiAocmVzb3VyY2UuZXhpc3RzKCkgfHwgcmVzb3VyY2UuaXNSZWFkYWJsZSgpKSB7CgkJCQlyZXR1cm4gbmV3IEZpbGVSZXNwb25zZURUTyhmaWxlRFRPLmdldE5hbWUoKSwgcmVzb3VyY2UpOwoJCQl9IGVsc2UgewoJCQkJdGhyb3cgbmV3IFN0b3JhZ2VGaWxlTm90Rm91bmRFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgpOwoJCQl9CgkJfSBjYXRjaCAoTWFsZm9ybWVkVVJMRXhjZXB0aW9uIGUpIHsKCQkJdGhyb3cgbmV3IFN0b3JhZ2VGaWxlTm90Rm91bmRFeGNlcHRpb24oIkNvdWxkIG5vdCByZWFkIGZpbGUgIiArIHBhdGgsIGUpOwoJCX0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CXN0YXRpYyB7Cgl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/new PasswordDTO(//g</text>
       </register>
     </registers>
     <search>
-      <last-search>encryption</last-search>
+      <last-search>autoprocess</last-search>
       <last-offset />
-      <last-pattern>encryption</last-pattern>
+      <last-pattern>autoprocess</last-pattern>
       <last-replace />
       <last-substitute>new PasswordDTO(</last-substitute>
       <last-dir>1</last-dir>
@@ -670,8 +681,6 @@
     </search>
     <history>
       <history-search>
-        <entry>industrial</entry>
-        <entry>surefire</entry>
         <entry>signed-installer</entry>
         <entry>;</entry>
         <entry>core3-app</entry>
@@ -690,6 +699,8 @@
         <entry>encryption.jpg</entry>
         <entry>enryption</entry>
         <entry>encryption</entry>
+        <entry>auto</entry>
+        <entry>autoprocess</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
