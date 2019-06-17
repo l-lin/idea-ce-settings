@@ -263,12 +263,17 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="40" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleAccountSuspender.java" timestamp="1560761186396">
-        <mark key="'" line="36" column="38" />
-        <mark key="[" line="54" column="45" />
-        <mark key="]" line="54" column="79" />
-        <mark key="^" line="54" column="79" />
-        <mark key="." line="54" column="79" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleAccountSuspender.java" timestamp="1560761767737">
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="63" column="28" />
+        <mark key="^" line="63" column="28" />
+        <mark key="." line="63" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleAccountsSuspender.java" timestamp="1560761825596">
+        <mark key="[" line="63" column="39" />
+        <mark key="]" line="63" column="43" />
+        <mark key="^" line="63" column="43" />
+        <mark key="." line="63" column="43" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/hasher/Sha256HasherTest.java" timestamp="1558518981685">
         <mark key="'" line="8" column="13" />
@@ -327,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="23" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileService.java" />
       <jump line="19" column="0" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/dao/FileDAO.java" />
       <jump line="1" column="0" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/dto/FileDTO.java" />
       <jump line="34" column="0" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/dao/FileDAO.java" />
@@ -427,13 +431,14 @@
       <jump line="15" column="33" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/AccountStatusRepository.java" />
       <jump line="44" column="51" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/AccountStatusRepository.java" />
       <jump line="34" column="38" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleAccountSuspender.java" />
+      <jump line="53" column="35" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleAccountSuspender.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>accountIds</text>
+        <text>remove(IDLE_ACCOUNT_SUSPENDER_KEY);</text>
       </register>
       <register name="-" type="4">
-        <text>accountIds</text>
+        <text>remove(IDLE_ACCOUNT_SUSPENDER_KEY);</text>
       </register>
       <register name="/" type="4">
         <text>liquibase</text>
@@ -442,13 +447,13 @@
         <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVUERBVEVfQUNDT1VOVF9TVEFUVVNfVE9fU1VTUEVOREVEID0gIiIKCQkJKyAiVVBEQVRFIGFjY291bnQiCgkJCSsgIiBTRVQgYWNjb3VudF9zdGF0dXNfaWQgPSA1IgoJCQkrICIgV0hFUkUgYWNjb3VudF9pZCBJTiAoOmFjY291bnRJZHMpIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQluYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZS51cGRhdGUoSU5TRVJUX0lOVE9fQUNDT1VOVF9TVVNQRU5TSU9OLCBwYXJhbXMpOwoJCW5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlLnVwZGF0ZShVUERBVEVfQUNDT1VOVF9TVEFUVVNfVE9fU1VTUEVOREVELCBwYXJhbXMpOwo=</text>
+        <text encoding="base64">CQlDb2xsZWN0aW9uPEludGVnZXI+IHdvcmtzcGFjZUlkcyA9IGV4cGlyZWRBY2NvdW50UmVwb3NpdG9yeS5maW5kQWxsV29ya3NwYWNlc1dpdGhBY3RpdmF0ZWRPcHRpb25zKCk7CgkJQ29sbGVjdGlvbjxJbnRlZ2VyPiBhY2NvdW50SWRzID0gd29ya3NwYWNlSWRzLnN0cmVhbSgpCgkJCQkubWFwKG9wdGlvblJlcG9zaXRvcnk6OndpdGhXb3Jrc3BhY2VJZCkKCQkJCS5tYXAob3B0IC0+IG9wdC5nZXQoR2VwcGV0dG9BY2NvdW50U3RhdHVzTWFuYWdlclBhcmFtZXRlcnMuY2xhc3MpKQoJCQkJLmZpbHRlcihPcHRpb246OmlzVXNhYmxlKQoJCQkJLmZpbHRlcihvcHQgLT4gb3B0LmdldFBhcmFtZXRlcnMoKS5pc1VzZXJBY2NvdW50RW5hYmxlKCkpCgkJCQkubWFwKG9wdCAtPiBQYWlyLm9mKG9wdC5nZXRXb3Jrc3BhY2VJZCgpLCBvcHQuZ2V0UGFyYW1ldGVycygpKSkKCQkJCS5tYXAoZSAtPiBleHBpcmVkQWNjb3VudFJlcG9zaXRvcnkuZmluZElkbGVBY2NvdW50U2luY2UoZS5nZXRLZXkoKSwgZS5nZXRWYWx1ZSgpKSkKCQkJCS5mbGF0TWFwKENvbGxlY3Rpb246OnN0cmVhbSkKCQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7CgkJYWNjb3VudFN0YXR1c1JlcG9zaXRvcnkuY2hhbmdlU3RhdHVzKGFjY291bnRJZHMsIEFjY291bnRTdGF0dXMuU1VTUEVOREVEKTsKCQlleHBpcmVkQWNjb3VudFJlcG9zaXRvcnkuc3VzcGVuZEFjY291bnRzKGFjY291bnRJZHMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVUERBVEVfQUNDT1VOVF9TVEFUVVNfVE9fQ0xPU0VEID0gIiIKCQkJKyAiVVBEQVRFIGFjY291bnQiCgkJCSsgIiBTRVQgYWNjb3VudF9zdGF0dXNfaWQgPSA5IgoJCQkrICIgV0hFUkUgYWNjb3VudF9pZCBJTiAoOmFjY291bnRJZHMpIjsK</text>
+        <text encoding="base64">CQluYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZS51cGRhdGUoSU5TRVJUX0lOVE9fQUNDT1VOVF9TVVNQRU5TSU9OLCBwYXJhbXMpOwoJCW5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlLnVwZGF0ZShVUERBVEVfQUNDT1VOVF9TVEFUVVNfVE9fU1VTUEVOREVELCBwYXJhbXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgICBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgICAgICAkaHR0cF9ob3N0Owo=</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVUERBVEVfQUNDT1VOVF9TVEFUVVNfVE9fQ0xPU0VEID0gIiIKCQkJKyAiVVBEQVRFIGFjY291bnQiCgkJCSsgIiBTRVQgYWNjb3VudF9zdGF0dXNfaWQgPSA5IgoJCQkrICIgV0hFUkUgYWNjb3VudF9pZCBJTiAoOmFjY291bnRJZHMpIjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgICBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgICAgICAkaHR0cF9ob3N0Owo=</text>
@@ -460,13 +465,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgICBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgICAgICAkaHR0cF9ob3N0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vb2RyaXZlLmpjb3JlLmNvbGxlY3Rpb25zLkNvbGxlY3Rpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgICBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgICAgICAkaHR0cF9ob3N0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vb2RyaXZlLmpjb3JlLmNvbGxlY3Rpb25zLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CglAUG9zdE1hcHBpbmcoIi9mb29iYXIiKQoJcHVibGljIFN0cmluZyBmb29iYXIoSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsKCQlTdHJpbmcgZm9vYmFyID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImZvb2JhciIpOwoJCVN5c3RlbS5vdXQucHJpbnRsbihmb29iYXIpOwoJCXJldHVybiBmb29iYXI7Cg==</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/new PasswordDTO(//g</text>
