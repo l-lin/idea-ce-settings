@@ -3,17 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/poei/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/web/dto/PasswordDTOTest.java" timestamp="1558518883361">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
-      </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/Dockerfile" timestamp="1558518310476">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
+      </file>
+      <file name="/a.dummy" timestamp="1560760745319">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-sample/Dockerfile" timestamp="1558519114249">
         <mark key="'" line="7" column="21" />
@@ -28,13 +25,6 @@
         <mark key="]" line="82" column="14" />
         <mark key="." line="82" column="14" />
         <mark key="^" line="82" column="14" />
-      </file>
-      <file name="$USER_HOME$/work/poei/poei-sample/src/main/java/com/oodrive/poei/sample/ping/dao/PingDAO.java" timestamp="1558534719713">
-        <mark key="'" line="18" column="58" />
-        <mark key="[" line="21" column="11" />
-        <mark key="]" line="21" column="17" />
-        <mark key="^" line="21" column="17" />
-        <mark key="." line="21" column="17" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-file-storage/Dockerfile" timestamp="1558518291428">
         <mark key="[" line="0" column="13" />
@@ -61,14 +51,6 @@
         <mark key="." line="46" column="13" />
         <mark key="^" line="46" column="13" />
       </file>
-      <file name="$USER_HOME$/work/poei/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/dao/FileDAO.java" timestamp="1558534657832">
-        <mark key="b" line="29" column="15" />
-        <mark key="'" line="31" column="4" />
-        <mark key="[" line="29" column="11" />
-        <mark key="]" line="29" column="17" />
-        <mark key="." line="29" column="17" />
-        <mark key="^" line="29" column="17" />
-      </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperator.java" timestamp="1558517569395">
         <mark key="'" line="18" column="13" />
         <mark key="[" line="42" column="8" />
@@ -76,21 +58,8 @@
         <mark key="." line="42" column="16" />
         <mark key="^" line="42" column="16" />
       </file>
-      <file name="$USER_HOME$/work/poei/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileService.java" timestamp="1558534677506">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="17" />
-        <mark key="." line="18" column="17" />
-        <mark key="^" line="18" column="17" />
-      </file>
       <file name="$USER_HOME$/apps/jdk1.8.0_181/src.zip!/java/security/SecureRandom.java" timestamp="1558620595618">
         <mark key="'" line="154" column="11" />
-      </file>
-      <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rule/MinDigitRule.java" timestamp="1558520517311">
-        <mark key="'" line="2" column="13" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="12" column="14" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/web/SecretController.java" timestamp="1558608651178">
         <mark key="'" line="19" column="13" />
@@ -118,26 +87,12 @@
         <mark key="^" line="16" column="37" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/work/poei/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/Simple32BytesAESSecretKeyGeneratorTest.java" timestamp="1558519062700">
-        <mark key="'" line="12" column="13" />
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-        <mark key="^" line="21" column="16" />
-      </file>
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/web/PasswordController.java" timestamp="1558517538463">
         <mark key="'" line="19" column="13" />
         <mark key="[" line="46" column="26" />
         <mark key="]" line="46" column="42" />
         <mark key="." line="46" column="42" />
         <mark key="^" line="46" column="42" />
-      </file>
-      <file name="$USER_HOME$/work/poei/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/crypto/operator/AESCipherStreamSupplier.java" timestamp="1558518447831">
-        <mark key="'" line="28" column="27" />
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="34" column="26" />
-        <mark key="^" line="34" column="26" />
-        <mark key="." line="34" column="26" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/hasher/Sha256Hasher.java" timestamp="1558517389930">
         <mark key="'" line="11" column="13" />
@@ -157,6 +112,122 @@
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="42" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/score/rule/MinCharRuleTest.java" timestamp="1558518853230">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/README.md" timestamp="1560759935224">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+        <mark key="^" line="37" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/generator/RandomPasswordGeneratorTest.java" timestamp="1558518835967">
+        <mark key="'" line="20" column="17" />
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="13" />
+        <mark key="." line="33" column="13" />
+        <mark key="^" line="33" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/hasher/Sha256HasherTest.java" timestamp="1558518843880">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+        <mark key="^" line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/salt/RandomSaltGeneratorTest.java" timestamp="1558519074926">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/CloseAccountRepository.java" timestamp="1560759424871">
+        <mark key="[" line="36" column="59" />
+        <mark key="]" line="36" column="74" />
+        <mark key="." line="36" column="74" />
+        <mark key="^" line="36" column="74" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-server/pom.xml" timestamp="1560523740457">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/SecretStore.java" timestamp="1558517609313">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="41" column="18" />
+        <mark key="." line="41" column="18" />
+        <mark key="^" line="41" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-password-manager/Dockerfile" timestamp="1558518297315">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/Score.java" timestamp="1558517420211">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/web/dto/PasswordDTOTest.java" timestamp="1558518883361">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="18" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-sample/src/main/java/com/oodrive/poei/sample/ping/dao/PingDAO.java" timestamp="1558534719713">
+        <mark key="'" line="18" column="58" />
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/SuspendedAccountCloser.java" timestamp="1560759117630">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="52" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="8" column="46" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileService.java" timestamp="1558534677506">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rule/MinDigitRule.java" timestamp="1558520517311">
+        <mark key="'" line="2" column="13" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="12" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/Simple32BytesAESSecretKeyGeneratorTest.java" timestamp="1558519062700">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/AccountStatusRepository.java" timestamp="1560761244095">
+        <mark key="'" line="49" column="51" />
+        <mark key="[" line="46" column="48" />
+        <mark key="]" line="47" column="18" />
+        <mark key="^" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/poei/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/crypto/operator/AESCipherStreamSupplier.java" timestamp="1558518447831">
+        <mark key="'" line="28" column="27" />
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="26" />
+        <mark key="^" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/SuspendExpiredAccount.java" timestamp="1560761100825">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="28" column="52" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-sample/src/main/java/com/oodrive/poei/sample/person/web/PersonController.java" timestamp="1558518943320">
         <mark key="'" line="17" column="13" />
@@ -185,12 +256,6 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/work/poei/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/score/rule/MinCharRuleTest.java" timestamp="1558518853230">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="11" />
-        <mark key="." line="10" column="11" />
-        <mark key="^" line="10" column="11" />
-      </file>
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rule/MinCharRule.java" timestamp="1558520438490">
         <mark key="'" line="2" column="13" />
         <mark key="[" line="13" column="0" />
@@ -198,37 +263,24 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="40" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleAccountSuspender.java" timestamp="1560761186396">
+        <mark key="'" line="36" column="38" />
+        <mark key="[" line="54" column="45" />
+        <mark key="]" line="54" column="79" />
+        <mark key="^" line="54" column="79" />
+        <mark key="." line="54" column="79" />
+      </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/hasher/Sha256HasherTest.java" timestamp="1558518981685">
         <mark key="'" line="8" column="13" />
         <mark key="[" line="12" column="8" />
         <mark key="]" line="12" column="8" />
         <mark key="." line="12" column="8" />
       </file>
-      <file name="$USER_HOME$/work/poei/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/generator/RandomPasswordGeneratorTest.java" timestamp="1558518835967">
-        <mark key="'" line="20" column="17" />
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="13" />
-        <mark key="." line="33" column="13" />
-        <mark key="^" line="33" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/poei/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/hasher/Sha256HasherTest.java" timestamp="1558518843880">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-        <mark key="^" line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/poei/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/salt/RandomSaltGeneratorTest.java" timestamp="1558519074926">
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredAccountRepository.java" timestamp="1560757933883">
-        <mark key="'" line="67" column="113" />
-        <mark key="[" line="67" column="113" />
-        <mark key="]" line="67" column="113" />
-        <mark key="^" line="67" column="113" />
-        <mark key="." line="67" column="113" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredAccountRepository.java" timestamp="1560761219895">
+        <mark key="'" line="45" column="113" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/Simple32BytesAESSecretKeyGenerator.java" timestamp="1558517585841">
         <mark key="'" line="11" column="13" />
@@ -236,9 +288,6 @@
         <mark key="]" line="24" column="13" />
         <mark key="." line="24" column="13" />
         <mark key="^" line="24" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/heimdall-server/pom.xml" timestamp="1560523740457">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/config/FileStorageConfig.java" timestamp="1558517228071">
         <mark key="'" line="23" column="13" />
@@ -253,30 +302,11 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/SecretStore.java" timestamp="1558517609313">
-        <mark key="'" line="12" column="13" />
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="41" column="18" />
-        <mark key="." line="41" column="18" />
-        <mark key="^" line="41" column="18" />
-      </file>
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/dao/PasswordDAO.java" timestamp="1558534707040">
         <mark key="[" line="15" column="11" />
         <mark key="]" line="15" column="17" />
         <mark key="." line="15" column="17" />
         <mark key="^" line="15" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/poei/poei-password-manager/Dockerfile" timestamp="1558518297315">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/Score.java" timestamp="1558517420211">
-        <mark key="[" line="9" column="8" />
-        <mark key="]" line="9" column="12" />
-        <mark key="." line="9" column="12" />
-        <mark key="^" line="9" column="12" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/pom.xml" timestamp="1558612336350">
         <mark key="'" line="0" column="0" />
@@ -288,12 +318,15 @@
       <file name="/fragment.java" timestamp="1560756734730">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/TerminateAccountRepository.java" timestamp="1560760638919">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="33" column="51" />
+        <mark key="." line="36" column="45" />
+        <mark key="^" line="36" column="45" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="12" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileSystemStorage.java" />
-      <jump line="30" column="10" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileSystemStorage.java" />
-      <jump line="32" column="72" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileSystemStorage.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/dao/FileDAO.java" />
       <jump line="19" column="23" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileService.java" />
       <jump line="19" column="0" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/dao/FileDAO.java" />
       <jump line="1" column="0" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/dto/FileDTO.java" />
@@ -390,46 +423,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/heimdall-server/pom.xml" />
       <jump line="5" column="0" filename="$USER_HOME$/work/heimdall-server/heimdall-server-db/src/main/java/com/oodrive/heimdall/server/db/AuthServerDbLiquibaseResourceProvider.java" />
       <jump line="67" column="113" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredAccountRepository.java" />
+      <jump line="11" column="13" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/TerminateAccountRepository.java" />
+      <jump line="15" column="33" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/AccountStatusRepository.java" />
+      <jump line="44" column="51" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/AccountStatusRepository.java" />
+      <jump line="34" column="38" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleAccountSuspender.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>acocunt_</text>
+        <text>accountIds</text>
       </register>
       <register name="-" type="4">
-        <text>acocunt_</text>
+        <text>accountIds</text>
       </register>
       <register name="/" type="4">
         <text>liquibase</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgaW50IG1pbjsKCglwdWJsaWMgTWluRGlnaXRSdWxlKGludCBtaW4pIHsKCQlpZiAobWluIDwgMCkgewoJCQl0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJNaW4gbXVzdCBiZSBwb3NpdGl2ZSIpOwoJCX0KCQl0aGlzLm1pbiA9IG1pbjsKCX0KCglAT3ZlcnJpZGUKCXB1YmxpYyBib29sZWFuIGlzVmFsaWQoY2hhcltdIHBhc3N3b3JkKSB7CgkJaWYgKHBhc3N3b3JkID09IG51bGwpIHsKCQkJcmV0dXJuIGZhbHNlOwoJCX0KCQlpbnQgY291bnQgPSAwOwoJCWZvciAoY2hhciBjIDogcGFzc3dvcmQpIHsKCQkJaWYgKENoYXJhY3Rlci5pc0RpZ2l0KGMpKSB7CgkJCQljb3VudCsrOwoJCQkJaWYgKGNvdW50ID49IG1pbikgewoJCQkJCXJldHVybiB0cnVlOwoJCQkJfQoJCQl9CgkJfQoJCXJldHVybiBmYWxzZTsKCX0KCglAT3ZlcnJpZGUKCXB1YmxpYyBTY29yZVdlaWdodCB3ZWlnaHQoKSB7CgkJcmV0dXJuIFNjb3JlV2VpZ2h0LkxPVzsK</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVUERBVEVfQUNDT1VOVF9TVEFUVVNfVE9fU1VTUEVOREVEID0gIiIKCQkJKyAiVVBEQVRFIGFjY291bnQiCgkJCSsgIiBTRVQgYWNjb3VudF9zdGF0dXNfaWQgPSA1IgoJCQkrICIgV0hFUkUgYWNjb3VudF9pZCBJTiAoOmFjY291bnRJZHMpIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vb2RyaXZlLmpjb3JlLmNvbGxlY3Rpb25zLkNvbGxlY3Rpb25zOwo=</text>
+        <text encoding="base64">CQluYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZS51cGRhdGUoSU5TRVJUX0lOVE9fQUNDT1VOVF9TVVNQRU5TSU9OLCBwYXJhbXMpOwoJCW5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlLnVwZGF0ZShVUERBVEVfQUNDT1VOVF9TVEFUVVNfVE9fU1VTUEVOREVELCBwYXJhbXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVUERBVEVfQUNDT1VOVF9TVEFUVVNfVE9fQ0xPU0VEID0gIiIKCQkJKyAiVVBEQVRFIGFjY291bnQiCgkJCSsgIiBTRVQgYWNjb3VudF9zdGF0dXNfaWQgPSA5IgoJCQkrICIgV0hFUkUgYWNjb3VudF9pZCBJTiAoOmFjY291bnRJZHMpIjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CglAUG9zdE1hcHBpbmcoIi9mb29iYXIiKQoJcHVibGljIFN0cmluZyBmb29iYXIoSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsKCQlTdHJpbmcgZm9vYmFyID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImZvb2JhciIpOwoJCVN5c3RlbS5vdXQucHJpbnRsbihmb29iYXIpOwoJCXJldHVybiBmb29iYXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgICBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgICAgICAkaHR0cF9ob3N0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTUUxfVVBEQVRFID0gIlVQREFURSBmaWxlIFNFVCBuYW1lID0gPywgcGF0aCA9ID8gV0hFUkUgZmlsZV9pZCA9ID8iOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgICBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgICAgICAkaHR0cF9ob3N0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CglwdWJsaWMgdm9pZCB1cGRhdGUoaW50IGZpbGVJZCwgU3RyaW5nIG5hbWUsIFN0cmluZyBwYXRoKSB7CgkJamRiY1RlbXBsYXRlLnVwZGF0ZShTUUxfVVBEQVRFLCBuYW1lLCBwYXRoLCBmaWxlSWQpOwoJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgICBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgICAgICAkaHR0cF9ob3N0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCglwdWJsaWMgdm9pZCB1cGRhdGUoRmlsZURUTyBmaWxlRFRPKSB7CgkJZmlsZURBTy51cGRhdGUoZmlsZURUTy5nZXRGaWxlSWQoKSwgZmlsZURUTy5nZXROYW1lKCksIGZpbGVEVE8uZ2V0UGF0aCgpKTsKCX0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgICBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgICAgICAkaHR0cF9ob3N0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJUGF0aCBwYXRoID0gRmlsZXMuY3JlYXRlVGVtcEZpbGUoZmlsZW5hbWUsICIiKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5vb2RyaXZlLmpjb3JlLmNvbGxlY3Rpb25zLkNvbGxlY3Rpb25zOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">CX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTUUxfVVBEQVRFID0gIlVQREFURSBmaWxlIFNFVCBuYW1lID0gPywgcGF0aCA9ID8gV0hFUkUgZmlsZV9pZCA9ID8iOwo=</text>
+        <text encoding="base64">CglAUG9zdE1hcHBpbmcoIi9mb29iYXIiKQoJcHVibGljIFN0cmluZyBmb29iYXIoSHR0cFNlcnZsZXRSZXF1ZXN0IHJlcXVlc3QpIHsKCQlTdHJpbmcgZm9vYmFyID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoImZvb2JhciIpOwoJCVN5c3RlbS5vdXQucHJpbnRsbihmb29iYXIpOwoJCXJldHVybiBmb29iYXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/new PasswordDTO(//g</text>
