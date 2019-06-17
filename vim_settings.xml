@@ -82,12 +82,12 @@
         <mark key="^" line="16" column="37" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedAccountRepository.java" timestamp="1560774687579">
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedAccountRepository.java" timestamp="1560774837521">
         <mark key="'" line="24" column="44" />
-        <mark key="[" line="40" column="104" />
-        <mark key="]" line="41" column="46" />
-        <mark key="^" line="41" column="46" />
-        <mark key="." line="41" column="46" />
+        <mark key="[" line="29" column="16" />
+        <mark key="]" line="29" column="16" />
+        <mark key="^" line="29" column="16" />
+        <mark key="." line="29" column="16" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/web/PasswordController.java" timestamp="1558517538463">
         <mark key="'" line="19" column="13" />
@@ -260,12 +260,12 @@
         <mark key="." line="27" column="13" />
         <mark key="^" line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/AccountTerminator.java" timestamp="1560774571722">
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/AccountTerminator.java" timestamp="1560775287355">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="62" column="77" />
-        <mark key="]" line="62" column="101" />
-        <mark key="." line="62" column="101" />
-        <mark key="^" line="62" column="101" />
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="17" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/dao/SecretDAO.java" timestamp="1558534745966">
         <mark key="[" line="24" column="11" />
@@ -289,14 +289,16 @@
         <mark key="^" line="63" column="28" />
         <mark key="." line="63" column="28" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleAccountsSuspender.java" timestamp="1560774505852">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="83" />
-        <mark key="^" line="57" column="34" />
-        <mark key="." line="57" column="34" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleAccountsSuspender.java" timestamp="1560775281149">
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="19" />
+        <mark key="^" line="29" column="17" />
+        <mark key="." line="29" column="19" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredAccountRepository.java" timestamp="1560774626479">
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredAccountRepository.java" timestamp="1560774799388">
         <mark key="'" line="38" column="113" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="61" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/Simple32BytesAESSecretKeyGenerator.java" timestamp="1558517585841">
         <mark key="'" line="11" column="13" />
@@ -445,17 +447,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/AccountTerminator.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBGSU5EX0FMTF9BQ1RJVkFURURfT1BUSU9OUyA9ICIiCgkJCSsgIlNFTEVDVCB3b3Jrc3BhY2VfaWQiCgkJCSsgIiBGUk9NIG9wdGlvbl93b3Jrc3BhY2VfcHJvZHVjdCIKCQkJKyAiIFdIRVJFIG9wdGlvbl9uYW1lID0gJ2FjY291bnQtc3RhdHVzLW1hbmFnZXInIgoJCQkrICIgIEFORCBvcHRpb25fZW5hYmxlIgoJCQkrICIgIEFORCBvcHRpb25fYXZhaWxhYmxlIjsK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCQkubWFwKG9wdCAtPiBQYWlyLm9mKG9wdC5nZXRXb3Jrc3BhY2VJZCgpLCBvcHQuZ2V0UGFyYW1ldGVycygpKSkK</text>
+        <text encoding="base64">CQljcm9uID0gIjEwICogKiAqICogPyAqIikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBGSU5EX0FMTF9BQ1RJVkFURURfT1BUSU9OUyA9ICIiCgkJCSsgIlNFTEVDVCB3b3Jrc3BhY2VfaWQiCgkJCSsgIiBGUk9NIG9wdGlvbl93b3Jrc3BhY2VfcHJvZHVjdCIKCQkJKyAiIFdIRVJFIG9wdGlvbl9uYW1lID0gJ2FjY291bnQtc3RhdHVzLW1hbmFnZXInIgoJCQkrICIgIEFORCBvcHRpb25fZW5hYmxlIgoJCQkrICIgIEFORCBvcHRpb25fYXZhaWxhYmxlIjsK</text>
