@@ -82,11 +82,12 @@
         <mark key="^" line="16" column="37" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedAccountRepository.java" timestamp="1560766345442">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="14" />
-        <mark key="^" line="33" column="14" />
-        <mark key="." line="33" column="14" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedAccountRepository.java" timestamp="1560773212204">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="38" column="102" />
+        <mark key="]" line="38" column="102" />
+        <mark key="^" line="38" column="102" />
+        <mark key="." line="38" column="102" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/web/PasswordController.java" timestamp="1558517538463">
         <mark key="'" line="19" column="13" />
@@ -187,6 +188,13 @@
         <mark key="^" line="21" column="17" />
         <mark key="." line="21" column="17" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/WorkspaceRepository.java" timestamp="1560772489716">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="82" column="78" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/SuspendedAccountCloser.java" timestamp="1560759117630">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="52" />
@@ -252,18 +260,17 @@
         <mark key="." line="27" column="13" />
         <mark key="^" line="27" column="13" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/AccountTerminator.java" timestamp="1560766409439">
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/AccountTerminator.java" timestamp="1560772700787">
         <mark key="'" line="25" column="13" />
-        <mark key="[" line="52" column="48" />
-        <mark key="]" line="52" column="73" />
-        <mark key="." line="52" column="73" />
-        <mark key="^" line="52" column="73" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/dao/SecretDAO.java" timestamp="1558534745966">
         <mark key="[" line="24" column="11" />
         <mark key="]" line="24" column="17" />
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1560772730066">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rule/MinCharRule.java" timestamp="1558520438490">
         <mark key="'" line="2" column="13" />
@@ -278,17 +285,16 @@
         <mark key="^" line="63" column="28" />
         <mark key="." line="63" column="28" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleAccountsSuspender.java" timestamp="1560764151426">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="68" column="9" />
-        <mark key="^" line="63" column="43" />
-        <mark key="." line="63" column="43" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleAccountsSuspender.java" timestamp="1560772555337">
+        <mark key="[" line="60" column="67" />
+        <mark key="]" line="60" column="117" />
+        <mark key="^" line="60" column="117" />
+        <mark key="." line="60" column="117" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredAccountRepository.java" timestamp="1560771694861">
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredAccountRepository.java" timestamp="1560772510524">
         <mark key="'" line="45" column="113" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="30" column="58" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/Simple32BytesAESSecretKeyGenerator.java" timestamp="1558517585841">
         <mark key="'" line="11" column="13" />
@@ -335,9 +341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="12" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/generator/RandomPasswordGenerator.java" />
-      <jump line="42" column="52" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/generator/RandomPasswordGenerator.java" />
-      <jump line="54" column="66" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/controller/PasswordController.java" />
       <jump line="6" column="0" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/checker/rules/MinLengthPasswordRule.java" />
       <jump line="3" column="0" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rules/MinCharRule.java" />
       <jump line="13" column="19" filename="$USER_HOME$/work/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/WeightedRulesScoreCalculator.java" />
@@ -435,34 +438,37 @@
       <jump line="217" column="35" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="218" column="34" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="25" column="13" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/AccountTerminator.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/WorkspaceRepository.java" />
+      <jump line="38" column="18" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedAccountRepository.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedAccountRepository.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>AccountStatusManagerParameters</text>
+        <text>Collections</text>
       </register>
       <register name="-" type="4">
-        <text>AccountStatusManagerParameters</text>
+        <text>Collections</text>
       </register>
       <register name="/" type="4">
         <text>client</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQl0cnkgewoJCQlNREMucHV0KEJBVENIX05BTUVfS0VZLCAiaWRsZUFjY291bnRzU3VzcGVuZGVyIik7CgkJCUNvbGxlY3Rpb248SW50ZWdlcj4gd29ya3NwYWNlSWRzID0gZXhwaXJlZEFjY291bnRSZXBvc2l0b3J5LmZpbmRBbGxXb3Jrc3BhY2VzV2l0aEFjdGl2YXRlZE9wdGlvbnMoKTsKCQkJQ29sbGVjdGlvbjxJbnRlZ2VyPiBhY2NvdW50SWRzID0gd29ya3NwYWNlSWRzLnN0cmVhbSgpCgkJCQkJLm1hcChvcHRpb25SZXBvc2l0b3J5Ojp3aXRoV29ya3NwYWNlSWQpCgkJCQkJLm1hcChvcHQgLT4gb3B0LmdldChHZXBwZXR0b0FjY291bnRTdGF0dXNNYW5hZ2VyUGFyYW1ldGVycy5jbGFzcykpCgkJCQkJLmZpbHRlcihPcHRpb246OmlzVXNhYmxlKQoJCQkJCS5maWx0ZXIob3B0IC0+IG9wdC5nZXRQYXJhbWV0ZXJzKCkuaXNVc2VyQWNjb3VudEVuYWJsZSgpKQoJCQkJCS5tYXAob3B0IC0+IFBhaXIub2Yob3B0LmdldFdvcmtzcGFjZUlkKCksIG9wdC5nZXRQYXJhbWV0ZXJzKCkpKQoJCQkJCS5tYXAoZSAtPiBleHBpcmVkQWNjb3VudFJlcG9zaXRvcnkuZmluZElkbGVBY2NvdW50U2luY2UoZS5nZXRLZXkoKSwgZS5nZXRWYWx1ZSgpKSkKCQkJCQkuZmxhdE1hcChDb2xsZWN0aW9uOjpzdHJlYW0pCgkJCQkJLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsKCQkJTE9HR0VSLmluZm8oIlN1c3BlbmRpbmcge30gaWRsZSBhY2NvdW50cyIsIGFjY291bnRJZHMuc2l6ZSgpKTsKCQkJYWNjb3VudFN0YXR1c1JlcG9zaXRvcnkuY2hhbmdlU3RhdHVzKGFjY291bnRJZHMsIEFjY291bnRTdGF0dXMuU1VTUEVOREVEKTsKCQkJZXhwaXJlZEFjY291bnRSZXBvc2l0b3J5LnN1c3BlbmRBY2NvdW50cyhhY2NvdW50SWRzKTsKCQl9IGZpbmFsbHkgewoJCQlNREMuY2xlYXIoKTsKCQl9Cg==</text>
+      <register name="0" type="4">
+        <text>account-status-manager</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cglwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgSU5TRVJUX0lOVE9fQUNDT1VOVF9DT01QQVJBVE9SID0gIiIKCQkJKyAiSU5TRVJUIElOVE8gYWNjb3VudF9jb21wYXJhdG9yICgiCgkJCSsgIiBtb2RpZmljYXRpb25fZGF0ZSwiCgkJCSsgIiBtb2RpZmllZF9hY2NvdW50X2lkLCIKCQkJKyAiIG1vZGlmaWVyX2FjY291bnRfaWQsIgoJCQkrICIgZWxlbWVudF9uYW1lLCIKCQkJKyAiIHByZXZpb3VzX3ZhbHVlLCIKCQkJKyAiIG5ld192YWx1ZSwiCgkJCSsgIiBhY3Rpb24iCgkJCSsgIikiCgkJCSsgIiBTRUxFQ1Qgbm93KCksIGFjY291bnRfaWQsIDIsICdBQ0NPVU5UX1NUQVRVUycsIGFjY291bnRfc3RhdHVzX25hbWUsIDksIDIiCgkJCSsgIiAgRlJPTSBhY2NvdW50IGEsIGFjY291bnRfc3RhdHVzIGFjcyIKCQkJKyAiICBXSEVSRSBhY2NvdW50X2lkIElOICg6YWNjb3VudElkcykiCgkJCSsgIiAgIEFORCBhLmFjY291bnRfc3RhdHVzX2lkID0gYWNzLmFjY291bnRfc3RhdHVzX2lkIgoJCQkrICIgICBBTkQgYWNzLmFjY291bnRfYWNjZXNzIgoJCQkrICIgICBBTkQgYS5hY2NvdW50X3R5cGVfY29kZSA9ICdVU0VSJyI7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFVQREFURV9BQ0NPVU5UX1NUQVRVU19UT19DTE9TRUQgPSAiIgoJCQkrICJVUERBVEUgYWNjb3VudCIKCQkJKyAiIFNFVCBhY2NvdW50X3N0YXR1c19pZCA9IDkiCg==</text>
+        <text encoding="base64">CXB1YmxpYyBDb2xsZWN0aW9uPEludGVnZXI+IGZpbmRBbGxXb3Jrc3BhY2VzV2l0aEFjdGl2YXRlZE9wdGlvbnMoKSB7CgkJcmV0dXJuIG5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlLmdldEpkYmNUZW1wbGF0ZSgpLnF1ZXJ5Rm9yTGlzdChGSU5EX0FMTF9BQ1RJVkFURURfT1BUSU9OUywgSW50ZWdlci5jbGFzcyk7Cgl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlDb2xsZWN0aW9uPEludGVnZXI+IHdvcmtzcGFjZUlkcyA9IGV4cGlyZWRBY2NvdW50UmVwb3NpdG9yeS5maW5kQWxsV29ya3NwYWNlc1dpdGhBY3RpdmF0ZWRPcHRpb25zKCk7CgkJQ29sbGVjdGlvbjxJbnRlZ2VyPiBhY2NvdW50SWRzID0gd29ya3NwYWNlSWRzLnN0cmVhbSgpCgkJCQkubWFwKG9wdGlvblJlcG9zaXRvcnk6OndpdGhXb3Jrc3BhY2VJZCkKCQkJCS5tYXAob3B0IC0+IG9wdC5nZXQoR2VwcGV0dG9BY2NvdW50U3RhdHVzTWFuYWdlclBhcmFtZXRlcnMuY2xhc3MpKQoJCQkJLmZpbHRlcihPcHRpb246OmlzVXNhYmxlKQoJCQkJLmZpbHRlcihvcHQgLT4gb3B0LmdldFBhcmFtZXRlcnMoKS5pc1VzZXJBY2NvdW50RW5hYmxlKCkpCgkJCQkubWFwKG9wdCAtPiBQYWlyLm9mKG9wdC5nZXRXb3Jrc3BhY2VJZCgpLCBvcHQuZ2V0UGFyYW1ldGVycygpKSkKCQkJCS5tYXAoZSAtPiBleHBpcmVkQWNjb3VudFJlcG9zaXRvcnkuZmluZElkbGVBY2NvdW50U2luY2UoZS5nZXRLZXkoKSwgZS5nZXRWYWx1ZSgpKSkKCQkJCS5mbGF0TWFwKENvbGxlY3Rpb246OnN0cmVhbSkKCQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7CgkJYWNjb3VudFN0YXR1c1JlcG9zaXRvcnkuY2hhbmdlU3RhdHVzKGFjY291bnRJZHMsIEFjY291bnRTdGF0dXMuU1VTUEVOREVEKTsKCQlleHBpcmVkQWNjb3VudFJlcG9zaXRvcnkuc3VzcGVuZEFjY291bnRzKGFjY291bnRJZHMpOwo=</text>
+        <text encoding="base64">Cglwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgSU5TRVJUX0lOVE9fQUNDT1VOVF9DT01QQVJBVE9SID0gIiIKCQkJKyAiSU5TRVJUIElOVE8gYWNjb3VudF9jb21wYXJhdG9yICgiCgkJCSsgIiBtb2RpZmljYXRpb25fZGF0ZSwiCgkJCSsgIiBtb2RpZmllZF9hY2NvdW50X2lkLCIKCQkJKyAiIG1vZGlmaWVyX2FjY291bnRfaWQsIgoJCQkrICIgZWxlbWVudF9uYW1lLCIKCQkJKyAiIHByZXZpb3VzX3ZhbHVlLCIKCQkJKyAiIG5ld192YWx1ZSwiCgkJCSsgIiBhY3Rpb24iCgkJCSsgIikiCgkJCSsgIiBTRUxFQ1Qgbm93KCksIGFjY291bnRfaWQsIDIsICdBQ0NPVU5UX1NUQVRVUycsIGFjY291bnRfc3RhdHVzX25hbWUsIDksIDIiCgkJCSsgIiAgRlJPTSBhY2NvdW50IGEsIGFjY291bnRfc3RhdHVzIGFjcyIKCQkJKyAiICBXSEVSRSBhY2NvdW50X2lkIElOICg6YWNjb3VudElkcykiCgkJCSsgIiAgIEFORCBhLmFjY291bnRfc3RhdHVzX2lkID0gYWNzLmFjY291bnRfc3RhdHVzX2lkIgoJCQkrICIgICBBTkQgYWNzLmFjY291bnRfYWNjZXNzIgoJCQkrICIgICBBTkQgYS5hY2NvdW50X3R5cGVfY29kZSA9ICdVU0VSJyI7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFVQREFURV9BQ0NPVU5UX1NUQVRVU19UT19DTE9TRUQgPSAiIgoJCQkrICJVUERBVEUgYWNjb3VudCIKCQkJKyAiIFNFVCBhY2NvdW50X3N0YXR1c19pZCA9IDkiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQluYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZS51cGRhdGUoSU5TRVJUX0lOVE9fQUNDT1VOVF9TVVNQRU5TSU9OLCBwYXJhbXMpOwoJCW5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlLnVwZGF0ZShVUERBVEVfQUNDT1VOVF9TVEFUVVNfVE9fU1VTUEVOREVELCBwYXJhbXMpOwo=</text>
+        <text encoding="base64">CQlDb2xsZWN0aW9uPEludGVnZXI+IHdvcmtzcGFjZUlkcyA9IGV4cGlyZWRBY2NvdW50UmVwb3NpdG9yeS5maW5kQWxsV29ya3NwYWNlc1dpdGhBY3RpdmF0ZWRPcHRpb25zKCk7CgkJQ29sbGVjdGlvbjxJbnRlZ2VyPiBhY2NvdW50SWRzID0gd29ya3NwYWNlSWRzLnN0cmVhbSgpCgkJCQkubWFwKG9wdGlvblJlcG9zaXRvcnk6OndpdGhXb3Jrc3BhY2VJZCkKCQkJCS5tYXAob3B0IC0+IG9wdC5nZXQoR2VwcGV0dG9BY2NvdW50U3RhdHVzTWFuYWdlclBhcmFtZXRlcnMuY2xhc3MpKQoJCQkJLmZpbHRlcihPcHRpb246OmlzVXNhYmxlKQoJCQkJLmZpbHRlcihvcHQgLT4gb3B0LmdldFBhcmFtZXRlcnMoKS5pc1VzZXJBY2NvdW50RW5hYmxlKCkpCgkJCQkubWFwKG9wdCAtPiBQYWlyLm9mKG9wdC5nZXRXb3Jrc3BhY2VJZCgpLCBvcHQuZ2V0UGFyYW1ldGVycygpKSkKCQkJCS5tYXAoZSAtPiBleHBpcmVkQWNjb3VudFJlcG9zaXRvcnkuZmluZElkbGVBY2NvdW50U2luY2UoZS5nZXRLZXkoKSwgZS5nZXRWYWx1ZSgpKSkKCQkJCS5mbGF0TWFwKENvbGxlY3Rpb246OnN0cmVhbSkKCQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7CgkJYWNjb3VudFN0YXR1c1JlcG9zaXRvcnkuY2hhbmdlU3RhdHVzKGFjY291bnRJZHMsIEFjY291bnRTdGF0dXMuU1VTUEVOREVEKTsKCQlleHBpcmVkQWNjb3VudFJlcG9zaXRvcnkuc3VzcGVuZEFjY291bnRzKGFjY291bnRJZHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVUERBVEVfQUNDT1VOVF9TVEFUVVNfVE9fQ0xPU0VEID0gIiIKCQkJKyAiVVBEQVRFIGFjY291bnQiCgkJCSsgIiBTRVQgYWNjb3VudF9zdGF0dXNfaWQgPSA5IgoJCQkrICIgV0hFUkUgYWNjb3VudF9pZCBJTiAoOmFjY291bnRJZHMpIjsK</text>
+        <text encoding="base64">CQluYW1lZFBhcmFtZXRlckpkYmNUZW1wbGF0ZS51cGRhdGUoSU5TRVJUX0lOVE9fQUNDT1VOVF9TVVNQRU5TSU9OLCBwYXJhbXMpOwoJCW5hbWVkUGFyYW1ldGVySmRiY1RlbXBsYXRlLnVwZGF0ZShVUERBVEVfQUNDT1VOVF9TVEFUVVNfVE9fU1VTUEVOREVELCBwYXJhbXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgICBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgICAgICAkaHR0cF9ob3N0Owo=</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBVUERBVEVfQUNDT1VOVF9TVEFUVVNfVE9fQ0xPU0VEID0gIiIKCQkJKyAiVVBEQVRFIGFjY291bnQiCgkJCSsgIiBTRVQgYWNjb3VudF9zdGF0dXNfaWQgPSA5IgoJCQkrICIgV0hFUkUgYWNjb3VudF9pZCBJTiAoOmFjY291bnRJZHMpIjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgICBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgICAgICAkaHR0cF9ob3N0Owo=</text>
@@ -474,7 +480,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgICBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgICAgICAkaHR0cF9ob3N0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vb2RyaXZlLmpjb3JlLmNvbGxlY3Rpb25zLkNvbGxlY3Rpb25zOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb3h5X3NldF9oZWFkZXIgICBYLVJlYWwtSVAgJHJlbW90ZV9hZGRyOwogICAgICAgICAgICAgICAgcHJveHlfc2V0X2hlYWRlciAgIEhvc3QgICAgICAkaHR0cF9ob3N0Owo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/new PasswordDTO(//g</text>
