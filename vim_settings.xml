@@ -230,12 +230,12 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/work/send/tyk/tyk_gateway.with_dashboard.conf" timestamp="1561034643918">
+      <file name="$USER_HOME$/work/send/tyk/tyk_gateway.with_dashboard.conf" timestamp="1561035308445">
         <mark key="'" line="22" column="17" />
         <mark key="[" line="63" column="38" />
-        <mark key="]" line="64" column="20" />
+        <mark key="]" line="63" column="38" />
         <mark key="^" line="64" column="20" />
-        <mark key="." line="64" column="20" />
+        <mark key="." line="63" column="38" />
       </file>
       <file name="$USER_HOME$/work/send/src/main/java/com/oodrive/poc/send/file/InMemoryFileService.java" timestamp="1561019047219">
         <mark key="'" line="8" column="13" />
@@ -578,10 +578,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>log</text>
