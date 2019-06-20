@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/shifumi/src/Shifumi.java" timestamp="1561038360496">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="3" column="39" />
+        <mark key="^" line="3" column="39" />
+        <mark key="." line="3" column="39" />
+      </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/Dockerfile" timestamp="1558518310476">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -321,6 +327,12 @@
         <mark key="^" line="44" column="22" />
         <mark key="." line="44" column="22" />
       </file>
+      <file name="$USER_HOME$/work/demo-test-containers/pom.xml" timestamp="1561037921890">
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="45" column="22" />
+        <mark key="." line="45" column="22" />
+        <mark key="^" line="45" column="22" />
+      </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/Simple32BytesAESSecretKeyGeneratorTest.java" timestamp="1558519062700">
         <mark key="'" line="12" column="13" />
         <mark key="[" line="21" column="8" />
@@ -578,13 +590,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>sc</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>sc</text>
       </register>
       <register name="/" type="4">
-        <text>log</text>
+        <text>jupiter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzZXJ2bGV0OgogICAgbXVsdGlwYXJ0OgogICAgICBtYXgtZmlsZS1zaXplOiAxME1CCiAgICAgIG1heC1yZXF1ZXN0LXNpemU6IDEwTUIK</text>
@@ -647,9 +659,9 @@
       </register>
     </registers>
     <search>
-      <last-search>log</last-search>
+      <last-search>jupiter</last-search>
       <last-offset />
-      <last-pattern>log</last-pattern>
+      <last-pattern>jupiter</last-pattern>
       <last-replace>mongo</last-replace>
       <last-substitute>tyk_mongo</last-substitute>
       <last-dir>1</last-dir>
@@ -657,7 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>info</entry>
         <entry>java.version</entry>
         <entry>BUFFER_SIZE</entry>
         <entry>liquibase</entry>
@@ -677,6 +688,7 @@
         <entry>tyk_redis</entry>
         <entry>tyk_mongo</entry>
         <entry>log</entry>
+        <entry>jupiter</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
