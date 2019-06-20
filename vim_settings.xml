@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/shifumi/src/Shifumi.java" timestamp="1561038360496">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="3" column="39" />
-        <mark key="^" line="3" column="39" />
-        <mark key="." line="3" column="39" />
+      <file name="$USER_HOME$/work/shifumi/src/Shifumi.java" timestamp="1561040696333">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/Dockerfile" timestamp="1558518310476">
         <mark key="[" line="0" column="13" />
@@ -487,8 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="114" filename="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperatorTest.java" />
-      <jump line="27" column="32" filename="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/hasher/Sha256Hasher.java" />
       <jump line="37" column="71" filename="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperatorTest.java" />
       <jump line="1" column="0" filename="$USER_HOME$/work/poei-file-storage/src/main/resources/application.yml" />
       <jump line="53" column="15" filename="$USER_HOME$/work/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/crypto/operator/AESContentCryptographicOperator.java" />
@@ -587,10 +585,12 @@
       <jump line="42" column="0" filename="$USER_HOME$/work/send/docker-compose.yml" />
       <jump line="50" column="0" filename="$USER_HOME$/work/send/tyk/tyk_dashboard.conf" />
       <jump line="22" column="17" filename="$USER_HOME$/work/send/tyk/tyk_gateway.with_dashboard.conf" />
+      <jump line="15" column="51" filename="$USER_HOME$/work/shifumi/src/Shifumi.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/shifumi/src/Shifumi.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sc</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFJhbmRvbSBSQU5ET00gPSBuZXcgU2VjdXJlUmFuZG9tKCk7Cglwcml2YXRlIHN0YXRpYyBMaXN0PFN0cmluZz4gVFlQRVMgPSBBcnJheXMuYXNMaXN0KCJwaWVycmUiLCAiZmV1aWxsZSIsICJjaXNlYXV4Iik7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCVN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8sIHdvcmxkIik7CgkJU2Nhbm5lciBzYyA9IG5ldyBTY2FubmVyKFN5c3RlbS5pbik7CgkJd2hpbGUgKHRydWUpIHsKCQkJU3RyaW5nIGlucHV0ID0gc2MubmV4dExpbmUoKTsKCQkJU3RyaW5nIHR5cGUgPSBUWVBFUy5nZXQoUkFORE9NLm5leHRJbnQoMykpOwoJCQlTeXN0ZW0ub3V0LnByaW50bG4odHlwZSk7CgoJCX0KCX0K</text>
       </register>
       <register name="-" type="4">
         <text>sc</text>
@@ -601,58 +601,58 @@
       <register name="0" type="2">
         <text encoding="base64">ICBzZXJ2bGV0OgogICAgbXVsdGlwYXJ0OgogICAgICBtYXgtZmlsZS1zaXplOiAxME1CCiAgICAgIG1heC1yZXF1ZXN0LXNpemU6IDEwTUIK</text>
       </register>
-      <register name="1" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="1" type="2">
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFJhbmRvbSBSQU5ET00gPSBuZXcgU2VjdXJlUmFuZG9tKCk7Cglwcml2YXRlIHN0YXRpYyBMaXN0PFN0cmluZz4gVFlQRVMgPSBBcnJheXMuYXNMaXN0KCJwaWVycmUiLCAiZmV1aWxsZSIsICJjaXNlYXV4Iik7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJCVN5c3RlbS5vdXQucHJpbnRsbigiSGVsbG8sIHdvcmxkIik7CgkJU2Nhbm5lciBzYyA9IG5ldyBTY2FubmVyKFN5c3RlbS5pbik7CgkJd2hpbGUgKHRydWUpIHsKCQkJU3RyaW5nIGlucHV0ID0gc2MubmV4dExpbmUoKTsKCQkJU3RyaW5nIHR5cGUgPSBUWVBFUy5nZXQoUkFORE9NLm5leHRJbnQoMykpOwoJCQlTeXN0ZW0ub3V0LnByaW50bG4odHlwZSk7CgoJCX0KCX0K</text>
       </register>
-      <register name="2" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQlmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsKCQkJU3lzdGVtLm91dC5wcmludGxuKFJBTkRPTS5uZXh0SW50KDEwKSk7Cg==</text>
       </register>
-      <register name="3" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLSBtb25nbwo=</text>
+        <text encoding="base64">CQlmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsKCQkJU3lzdGVtLm91dC5wcmludGxuKFJBTkRPTS5uZXh0SW50KDEwKSk7CgkJfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJSW50ZWdlciBmaWxlSWQgPSBvcHRpb25hbEZpbGVEVE8ubWFwKEZpbGVEVE86OmdldEZpbGVJZCkKCQkJCQkub3JFbHNlR2V0KCgpIC0+IGZpbGVTZXJ2aWNlLnNhdmUoZmlsZW5hbWUsIGFic29sdXRlUGF0aCkpOwo=</text>
+        <text encoding="base64">CQkJU2Nhbm5lciBzYyA9IG5ldyBTY2FubmVyKFN5c3RlbS5pbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJT3B0aW9uYWw8RmlsZURUTz4gb3B0aW9uYWxGaWxlRFRPID0gZmlsZVNlcnZpY2UuZmluZEJ5TmFtZShmaWxlbmFtZSk7CgkJCWlmIChvcHRpb25hbEZpbGVEVE8uaXNQcmVzZW50KCkpIHsKCQkJCXBhdGggPSBuZXcgRmlsZShvcHRpb25hbEZpbGVEVE8uZ2V0KCkuZ2V0UGF0aCgpKS50b1BhdGgoKTsKCQkJfSBlbHNlIHsK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oUkFORE9NLm5leHRJbnQoMTApKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CgoJcHVibGljIEZpbGVTeXN0ZW1TdG9yYWdlKEZpbGVTZXJ2aWNlIGZpbGVTZXJ2aWNlLAoJCQlDaXBoZXJTdHJlYW1TdXBwbGllciBjaXBoZXJTdHJlYW1TdXBwbGllcikgewoJCXRoaXMuZmlsZVNlcnZpY2UgPSBmaWxlU2VydmljZTsKCQl0aGlzLmNpcGhlclN0cmVhbVN1cHBsaWVyID0gY2lwaGVyU3RyZWFtU3VwcGxpZXI7Cgl9Cgo=</text>
+      <register name="7" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgRmlsZVNlcnZpY2UgZmlsZVNlcnZpY2U7CgoJcHJpdmF0ZSBmaW5hbCBDaXBoZXJTdHJlYW1TdXBwbGllciBjaXBoZXJTdHJlYW1TdXBwbGllcjsK</text>
+      <register name="8" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5vb2RyaXZlLnBvZWkuZmlsZXN0b3JhZ2UuY3J5cHRvLm9wZXJhdG9yLkNpcGhlclN0cmVhbVN1cHBsaWVyOwppbXBvcnQgY29tLm9vZHJpdmUucG9laS5maWxlc3RvcmFnZS5leGNlcHRpb24uRmlsZU5vdEZvdW5kRXhjZXB0aW9uOwppbXBvcnQgY29tLm9vZHJpdmUucG9laS5maWxlc3RvcmFnZS5leGNlcHRpb24uU3RvcmFnZUV4Y2VwdGlvbjsKaW1wb3J0IGNvbS5vb2RyaXZlLnBvZWkuZmlsZXN0b3JhZ2Uuc2VydmljZS5GaWxlU2VydmljZTsK</text>
+      <register name="9" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name=":" type="4">
         <text>%s/tyk_mongo/mongo/g</text>
