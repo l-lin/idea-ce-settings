@@ -230,6 +230,13 @@
         <mark key="^" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/work/send/tyk/tyk_gateway.with_dashboard.conf" timestamp="1561034643918">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="63" column="38" />
+        <mark key="]" line="64" column="20" />
+        <mark key="^" line="64" column="20" />
+        <mark key="." line="64" column="20" />
+      </file>
       <file name="$USER_HOME$/work/send/src/main/java/com/oodrive/poc/send/file/InMemoryFileService.java" timestamp="1561019047219">
         <mark key="'" line="8" column="13" />
         <mark key="[" line="18" column="15" />
@@ -468,7 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="33" filename="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/config/SecuredBoxConfig.java" />
       <jump line="25" column="114" filename="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperatorTest.java" />
       <jump line="27" column="32" filename="$USER_HOME$/work/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/hasher/Sha256Hasher.java" />
       <jump line="37" column="71" filename="$USER_HOME$/work/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperatorTest.java" />
@@ -568,6 +574,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/send/tyk.with_dashboard.conf" />
       <jump line="42" column="0" filename="$USER_HOME$/work/send/docker-compose.yml" />
       <jump line="50" column="0" filename="$USER_HOME$/work/send/tyk/tyk_dashboard.conf" />
+      <jump line="22" column="17" filename="$USER_HOME$/work/send/tyk/tyk_gateway.with_dashboard.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -577,7 +584,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>tyk_mongo</text>
+        <text>log</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzZXJ2bGV0OgogICAgbXVsdGlwYXJ0OgogICAgICBtYXgtZmlsZS1zaXplOiAxME1CCiAgICAgIG1heC1yZXF1ZXN0LXNpemU6IDEwTUIK</text>
@@ -640,9 +647,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tyk_mongo</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>tyk_mongo</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>mongo</last-replace>
       <last-substitute>tyk_mongo</last-substitute>
       <last-dir>1</last-dir>
@@ -650,7 +657,6 @@
     </search>
     <history>
       <history-search>
-        <entry>autoprocess</entry>
         <entry>info</entry>
         <entry>java.version</entry>
         <entry>BUFFER_SIZE</entry>
@@ -670,6 +676,7 @@
         <entry>- gateway</entry>
         <entry>tyk_redis</entry>
         <entry>tyk_mongo</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
