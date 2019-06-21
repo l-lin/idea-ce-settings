@@ -27,6 +27,13 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="30" column="4" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1561127426819">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="246" column="0" />
+        <mark key="]" line="246" column="0" />
+        <mark key="^" line="238" column="26" />
+        <mark key="." line="246" column="0" />
+      </file>
       <file name="$USER_HOME$/work/poei/poei-file-storage/Dockerfile" timestamp="1558518291428">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="0" column="13" />
@@ -102,8 +109,11 @@
       <file name="$USER_HOME$/work/demo/demo-spring-rest-docs/src/main/java/com/oodrive/demo/demospringrestdocs/PersonDTO.java" timestamp="1561103932973">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/perso/poc/benchmark/README.md" timestamp="1561109608267">
-        <mark key="'" line="37" column="0" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/pom.xml" timestamp="1561127446481">
+        <mark key="[" line="24" column="42" />
+        <mark key="]" line="25" column="22" />
+        <mark key="^" line="25" column="22" />
+        <mark key="." line="25" column="22" />
       </file>
       <file name="$USER_HOME$/perso/poc/demo-test-containers/src/main/java/com/oodrive/poc/demotestcontainers/CatController.java" timestamp="1561123866881">
         <mark key="[" line="33" column="18" />
@@ -279,24 +289,18 @@
         <mark key="^" line="27" column="56" />
         <mark key="." line="27" column="56" />
       </file>
-      <file name="$USER_HOME$/perso/poc/benchmark/Makefile" timestamp="1561109458004">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="63" />
-        <mark key="]" line="9" column="65" />
-        <mark key="." line="9" column="65" />
-        <mark key="^" line="9" column="65" />
-      </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/dao/SecretDAO.java" timestamp="1558534745966">
         <mark key="[" line="24" column="11" />
         <mark key="]" line="24" column="17" />
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepositoryTest.java" timestamp="1561046512114">
-        <mark key="[" line="24" column="11" />
-        <mark key="]" line="24" column="13" />
-        <mark key="^" line="24" column="13" />
-        <mark key="." line="24" column="13" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepositoryTest.java" timestamp="1561127741305">
+        <mark key="'" line="16" column="62" />
+        <mark key="[" line="34" column="25" />
+        <mark key="]" line="36" column="69" />
+        <mark key="^" line="36" column="69" />
+        <mark key="." line="36" column="69" />
       </file>
       <file name="$USER_HOME$/work/test-spring-rest-docs/src/main/java/com/oodrive/demo/testspringrestdocs/SpringRestDocsConfig.java" timestamp="1561101829854">
         <mark key="[" line="1" column="0" />
@@ -357,11 +361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/work/poei/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/config/FileStorageConfig.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/generator/RandomPasswordGenerator.java" />
-      <jump line="11" column="13" filename="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/hasher/Sha256Hasher.java" />
-      <jump line="2" column="13" filename="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rule/MinCharRule.java" />
-      <jump line="2" column="13" filename="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/score/rule/MinDigitRule.java" />
       <jump line="8" column="13" filename="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/PasswordService.java" />
       <jump line="17" column="13" filename="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/web/PasswordController.java" />
       <jump line="17" column="13" filename="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperator.java" />
@@ -438,7 +437,6 @@
       <jump line="15" column="51" filename="$USER_HOME$/work/shifumi/src/Shifumi.java" />
       <jump line="22" column="0" filename="$USER_HOME$/work/shifumi/src/Shifumi.java" />
       <jump line="19" column="0" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
-      <jump line="47" column="32" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="6" column="28" filename="$USER_HOME$/work/test-spring-rest-docs/src/main/java/com/oodrive/demo/testspringrestdocs/PersonDTO.java" />
       <jump line="23" column="0" filename="$USER_HOME$/work/test-spring-rest-docs/src/main/java/com/oodrive/demo/testspringrestdocs/PersonDTO.java" />
       <jump line="7" column="3" filename="$USER_HOME$/work/demo/demo-spring-rest-docs/src/main/asciidoc/index.adoc" />
@@ -457,47 +455,52 @@
       <jump line="19" column="29" filename="$USER_HOME$/perso/poc/demo-test-containers/src/main/java/com/oodrive/poc/demotestcontainers/CatDAO.java" />
       <jump line="31" column="0" filename="$USER_HOME$/perso/poc/demo-test-containers/src/main/java/com/oodrive/poc/demotestcontainers/CatDAO.java" />
       <jump line="20" column="10" filename="$USER_HOME$/perso/poc/demo-test-containers/src/test/java/com/oodrive/poc/demotestcontainers/CatDAOTest.java" />
+      <jump line="236" column="25" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
+      <jump line="47" column="37" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
+      <jump line="58" column="16" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
+      <jump line="250" column="16" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
+      <jump line="15" column="62" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepositoryTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>db</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>db</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3dcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmp1bml0Lmp1cGl0ZXI8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmp1bml0LWp1cGl0ZXItYXBpPC9hcnRpZmFjdElkPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">CQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLmp1bml0Lmp1cGl0ZXI8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmp1bml0LWp1cGl0ZXItYXBpPC9hcnRpZmFjdElkPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5PgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5vcmcuanVuaXQuanVwaXRlcjwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+anVuaXQtanVwaXRlci1lbmdpbmU8L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCS5kcml2ZXJDbGFzc05hbWUoT1JHX1BPU1RHUkVTUUxfRFJJVkVSKQo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnRlc3Rjb250YWluZXJzPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5qdW5pdC1qdXBpdGVyPC9hcnRpZmFjdElkPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyBDYXQoSW50ZWdlciBjYXRJZCwgU3RyaW5nIG5hbWUsIFN0cmluZyB0eXBlKSB7CgkJdGhpcy5jYXRJZCA9IGNhdElkOwoJCXRoaXMubmFtZSA9IG5hbWU7CgkJdGhpcy50eXBlID0gdHlwZTsKCX0K</text>
+        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5vcmcudGVzdGNvbnRhaW5lcnM8L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5qdW5pdC1qdXBpdGVyPC9hcnRpZmFjdElkPgoJCQkJPHZlcnNpb24+JHt0ZXN0Y29udGFpbmVycy52ZXJzaW9ufTwvdmVyc2lvbj4KCQkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBDYXQoU3RyaW5nIG5hbWUsIFN0cmluZyB0eXBlKSB7CgkJdGhpcy5uYW1lID0gbmFtZTsKCQl0aGlzLnR5cGUgPSB0eXBlOwoJfQo=</text>
+        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPm1hdmVuLXN1cmVmaXJlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KCQkJPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlBc3NlcnRpb25zLmFzc2VydFRydWUocG9zdGdyZVNRTENvbnRhaW5lci5pc1J1bm5pbmcoKSk7Cg==</text>
+        <text encoding="base64">CQkJCS5kcml2ZXJDbGFzc05hbWUoT1JHX1BPU1RHUkVTUUxfRFJJVkVSKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlBc3NlcnRpb25zLmFzc2VydFRydWUocG9zdGdyZVNRTENvbnRhaW5lci5pc1J1bm5pbmcoKSk7Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBDYXQoSW50ZWdlciBjYXRJZCwgU3RyaW5nIG5hbWUsIFN0cmluZyB0eXBlKSB7CgkJdGhpcy5jYXRJZCA9IGNhdElkOwoJCXRoaXMubmFtZSA9IG5hbWU7CgkJdGhpcy50eXBlID0gdHlwZTsKCX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkud2l0aENsYXNzcGF0aFJlc291cmNlTWFwcGluZygiZHVtcC5zcWwiLCAiIiwgQmluZE1vZGUuUkVBRF9PTkxZKTsK</text>
+        <text encoding="base64">CXB1YmxpYyBDYXQoU3RyaW5nIG5hbWUsIFN0cmluZyB0eXBlKSB7CgkJdGhpcy5uYW1lID0gbmFtZTsKCQl0aGlzLnR5cGUgPSB0eXBlOwoJfQo=</text>
       </register>
-      <register name="8" type="8">
-        <text>//
-//</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQlBc3NlcnRpb25zLmFzc2VydFRydWUocG9zdGdyZVNRTENvbnRhaW5lci5pc1J1bm5pbmcoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlyZXR1cm4gamRiY1RlbXBsYXRlLnF1ZXJ5Rm9yT2JqZWN0KCJTRUxFQ1QgKiBGUk9NIGNhdCBXSEVSRSBjYXRfaWQgPSA/IiwgQ2F0LmNsYXNzLCBjYXRJZCk7Cg==</text>
+        <text encoding="base64">CQlBc3NlcnRpb25zLmFzc2VydFRydWUocG9zdGdyZVNRTENvbnRhaW5lci5pc1J1bm5pbmcoKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/tyk_mongo/mongo/g</text>
