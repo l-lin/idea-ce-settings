@@ -32,6 +32,12 @@
       <file name="$USER_HOME$/work/test-spring-rest-docs/src/main/java/com/oodrive/demo/testspringrestdocs/SpringRestDocsCnofig.java" timestamp="1561101824875">
         <mark key="[" line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/perso/poc/spring-boot-micrometer/README.md" timestamp="1561110921571">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="4" />
+        <mark key="^" line="30" column="4" />
+      </file>
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/generator/RandomPasswordGenerator.java" timestamp="1558517380639">
         <mark key="'" line="8" column="13" />
         <mark key="[" line="82" column="12" />
@@ -556,7 +562,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/poei/poei-file-storage/README.md" />
       <jump line="229" column="8" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
       <jump line="273" column="41" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
       <jump line="103" column="59" filename="$USER_HOME$/work/e2ee-parent/pom.xml" />
@@ -656,19 +661,20 @@
       <jump line="17" column="19" filename="$USER_HOME$/work/demo/demo-spring-rest-docs/src/test/java/com/oodrive/demo/demospringrestdocs/PersonControllerTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/perso/poc/benchmark/Makefile" />
       <jump line="37" column="0" filename="$USER_HOME$/perso/poc/benchmark/README.md" />
+      <jump line="31" column="106" filename="$USER_HOME$/perso/poc/spring-boot-micrometer/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>samples</text>
+        <text encoding="base64">L2QvdHdxZFlqeml6L21pY3JvbWV0ZXItc3ByaW5nLXRocm91Z2hwdXQ/b3JnSWQ9MSZyZWZyZXNoPTVzJmZyb209bm93LTE1bSZ0bz1ub3c=</text>
       </register>
       <register name="-" type="4">
-        <text>samples</text>
+        <text encoding="base64">L2QvdHdxZFlqeml6L21pY3JvbWV0ZXItc3ByaW5nLXRocm91Z2hwdXQ/b3JnSWQ9MSZyZWZyZXNoPTVzJmZyb209bm93LTE1bSZ0bz1ub3c=</text>
       </register>
       <register name="/" type="4">
-        <text>jupiter</text>
+        <text encoding="base64">XDxub3dcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkJZmllbGRXaXRoUGF0aCgiZmlyc3ROYW1lIikuZGVzY3JpcHRpb24oIkZpcnN0IG5hbWUgb2YgdGhlIHBlcnNvbiIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ZmlyZWZveCBodHRwOi8vbG9jYWxob3N0OjMwMDAvZC90d3FkWWp6aXovbWljcm9tZXRlci1zcHJpbmctdGhyb3VnaHB1dD9vcmdJZD0xJnJlZnJlc2g9NXMmZnJvbT1ub3ctMTVtJnRvPW5vdw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJZmllbGRXaXRoUGF0aCgiZmlyc3ROYW1lIikuZGVzY3JpcHRpb24oIkZpcnN0IG5hbWUgb2YgdGhlIHBlcnNvbiIpLAoJCQkJCQlmaWVsZFdpdGhQYXRoKCJsYXN0TmFtZSIpLmRlc2NyaXB0aW9uKCJMYXN0IG5hbWUgb2YgdGhlIHBlcnNvbiIpCg==</text>
@@ -702,9 +708,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jupiter</last-search>
+      <last-search encoding="base64">XDxub3dcPg==</last-search>
       <last-offset />
-      <last-pattern>jupiter</last-pattern>
+      <last-pattern encoding="base64">XDxub3dcPg==</last-pattern>
       <last-replace>mongo</last-replace>
       <last-substitute>tyk_mongo</last-substitute>
       <last-dir>1</last-dir>
@@ -712,7 +718,6 @@
     </search>
     <history>
       <history-search>
-        <entry>java.version</entry>
         <entry>BUFFER_SIZE</entry>
         <entry>liquibase</entry>
         <entry>gepetto</entry>
@@ -732,6 +737,7 @@
         <entry>tyk_mongo</entry>
         <entry>log</entry>
         <entry>jupiter</entry>
+        <entry encoding="base64">XDxub3dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>hlsearch</entry>
