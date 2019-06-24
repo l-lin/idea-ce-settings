@@ -234,6 +234,9 @@
         <mark key="^" line="60" column="43" />
         <mark key="." line="60" column="43" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/oodrive/asgard/asgard-user-provisioning-api-impl/3.6.15/asgard-user-provisioning-api-impl-3.6.15-sources.jar!/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" timestamp="1561362982724">
+        <mark key="'" line="843" column="16" />
+      </file>
       <file name="$USER_HOME$/perso/poc/demo-spring-rest-docs/README.md" timestamp="1561106369807">
         <mark key="[" line="11" column="87" />
         <mark key="]" line="12" column="0" />
@@ -295,12 +298,12 @@
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="17" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepositoryTest.java" timestamp="1561127741305">
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepositoryTest.java" timestamp="1561363525340">
         <mark key="'" line="16" column="62" />
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="36" column="69" />
-        <mark key="^" line="36" column="69" />
-        <mark key="." line="36" column="69" />
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="50" />
+        <mark key="^" line="23" column="50" />
+        <mark key="." line="23" column="50" />
       </file>
       <file name="$USER_HOME$/work/test-spring-rest-docs/src/main/java/com/oodrive/demo/testspringrestdocs/SpringRestDocsConfig.java" timestamp="1561101829854">
         <mark key="[" line="1" column="0" />
@@ -361,7 +364,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="13" filename="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/service/PasswordService.java" />
       <jump line="17" column="13" filename="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/web/PasswordController.java" />
       <jump line="17" column="13" filename="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/AESSecretCryptographicOperator.java" />
       <jump line="11" column="13" filename="$USER_HOME$/work/poei/poei-secured-box/src/main/java/com/oodrive/poei/securedbox/secret/operator/Simple32BytesAESSecretKeyGenerator.java" />
@@ -461,13 +463,14 @@
       <jump line="250" column="16" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="15" column="62" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepositoryTest.java" />
+      <jump line="843" column="16" filename="$MAVEN_REPOSITORY$/com/oodrive/asgard/asgard-user-provisioning-api-impl/3.6.15/asgard-user-provisioning-api-impl-3.6.15-sources.jar!/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>db</text>
+        <text>dump</text>
       </register>
       <register name="-" type="4">
-        <text>db</text>
+        <text>dump</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3dcPg==</text>
