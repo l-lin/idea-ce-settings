@@ -15,12 +15,6 @@
       <file name="$USER_HOME$/work/demo/demo-spring-rest-docs/src/test/java/com/oodrive/demo/demospringrestdocs/DemoSpringRestDocsApplicationTests.java" timestamp="1561104384767">
         <mark key="[" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1561465754204">
-        <mark key="'" line="197" column="24" />
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="383" column="25" />
-        <mark key="." line="37" column="36" />
-      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_user_test.xml" timestamp="1561468397816">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -31,6 +25,12 @@
         <mark key="]" line="26" column="8" />
         <mark key="." line="26" column="8" />
         <mark key="^" line="26" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/WorkspaceIds.java" timestamp="1561478823596">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
       </file>
       <file name="/a.dummy" timestamp="1561120870636">
         <mark key="[" line="0" column="0" />
@@ -127,11 +127,12 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/AccountIds.java" timestamp="1561475969624">
-        <mark key="[" line="10" column="37" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="10" column="39" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/AccountIds.java" timestamp="1561477808047">
+        <mark key="'" line="10" column="81" />
+        <mark key="[" line="25" column="55" />
+        <mark key="]" line="26" column="49" />
+        <mark key="^" line="26" column="49" />
+        <mark key="." line="26" column="49" />
       </file>
       <file name="$USER_HOME$/work/test-spring-rest-docs/src/main/java/com/oodrive/demo/testspringrestdocs/PersonController.java" timestamp="1561101980034">
         <mark key="[" line="18" column="0" />
@@ -335,12 +336,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" timestamp="1561476683227">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="98" column="39" />
-        <mark key="]" line="98" column="74" />
-        <mark key="." line="98" column="74" />
-        <mark key="^" line="98" column="74" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" timestamp="1561478271997">
+        <mark key="'" line="184" column="0" />
+        <mark key="[" line="176" column="39" />
+        <mark key="]" line="176" column="39" />
+        <mark key="." line="176" column="39" />
+        <mark key="^" line="176" column="74" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/liquibase-master.yaml" timestamp="1561457269164" />
       <file name="$USER_HOME$/work/send/src/main/java/com/oodrive/poc/send/FileController.java" timestamp="1561017115425">
@@ -428,11 +429,11 @@
         <mark key="^" line="60" column="12" />
         <mark key="." line="60" column="12" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" timestamp="1560877245672">
-        <mark key="[" line="56" column="68" />
-        <mark key="]" line="56" column="68" />
-        <mark key="^" line="56" column="68" />
-        <mark key="." line="56" column="68" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" timestamp="1561478222831">
+        <mark key="[" line="46" column="59" />
+        <mark key="]" line="47" column="44" />
+        <mark key="." line="47" column="44" />
+        <mark key="^" line="47" column="44" />
       </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-server-db/src/main/resources/db/updates/master.xml" timestamp="1561466408795">
         <mark key="[" line="85" column="0" />
@@ -444,12 +445,12 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepositoryTest.java" timestamp="1561476399652">
-        <mark key="'" line="39" column="49" />
-        <mark key="[" line="46" column="85" />
-        <mark key="]" line="46" column="152" />
-        <mark key="^" line="46" column="152" />
-        <mark key="." line="46" column="152" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepositoryTest.java" timestamp="1561478882033">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="42" column="37" />
+        <mark key="]" line="42" column="37" />
+        <mark key="^" line="42" column="37" />
+        <mark key="." line="42" column="37" />
       </file>
       <file name="$USER_HOME$/perso/poc/demo-test-containers/src/main/resources/application.yml" timestamp="1561122226264">
         <mark key="[" line="2" column="22" />
@@ -462,15 +463,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="6" filename="$USER_HOME$/work/send/docker-compose.yml" />
-      <jump line="25" column="11" filename="$USER_HOME$/work/send/docker-compose.yml" />
-      <jump line="24" column="9" filename="$USER_HOME$/work/send/docker-compose.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/send/tyk.with_dashboard.conf" />
-      <jump line="42" column="0" filename="$USER_HOME$/work/send/docker-compose.yml" />
-      <jump line="50" column="0" filename="$USER_HOME$/work/send/tyk/tyk_dashboard.conf" />
-      <jump line="22" column="17" filename="$USER_HOME$/work/send/tyk/tyk_gateway.with_dashboard.conf" />
-      <jump line="15" column="51" filename="$USER_HOME$/work/shifumi/src/Shifumi.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/work/shifumi/src/Shifumi.java" />
       <jump line="19" column="0" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="6" column="28" filename="$USER_HOME$/work/test-spring-rest-docs/src/main/java/com/oodrive/demo/testspringrestdocs/PersonDTO.java" />
       <jump line="23" column="0" filename="$USER_HOME$/work/test-spring-rest-docs/src/main/java/com/oodrive/demo/testspringrestdocs/PersonDTO.java" />
@@ -556,69 +548,77 @@
       <jump line="8" column="82" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/init_test.xml" />
       <jump line="28" column="11" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
       <jump line="26" column="57" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/init_test.xml" />
-      <jump line="7" column="47" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
       <jump line="4" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
       <jump line="48" column="40" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
       <jump line="31" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
       <jump line="80" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
+      <jump line="7" column="58" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
+      <jump line="7" column="81" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/AccountIds.java" />
+      <jump line="54" column="18" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
+      <jump line="8" column="59" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
+      <jump line="47" column="51" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
+      <jump line="132" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
+      <jump line="161" column="16" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
+      <jump line="148" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
+      <jump line="184" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepositoryTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>02cb66e4-1dec-4583-9c84-6e9feacc6627</text>
+        <text>ids</text>
       </register>
       <register name="-" type="4">
-        <text>02cb66e4-1dec-4583-9c84-6e9feacc6627</text>
+        <text>ids</text>
       </register>
       <register name="/" type="4">
-        <text>idle_never</text>
+        <text>idle_active</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CTxjaGFuZ2VTZXQgaWQ9InVuaXRfdGVzdF9pZGxlX25ldmVyX2xvZ2dlZF91c2VyIiBhdXRob3I9InVuaXRfdGVzdCIgbG9naWNhbEZpbGVQYXRoPSJwYXRoLWluZGVwZW5kZW50Ij4KCQk8aW5zZXJ0IHRhYmxlTmFtZT0idXNlcl9hY2NvdW50IiBzY2hlbWFOYW1lPSJwdWJsaWMiPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfaWQiIHZhbHVlTnVtZXJpYz0iODAxIiAvPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfZmlyc3RuYW1lIiB2YWx1ZT0iaWRsZV9uZXZlcl9sb2dnZWRfdXNlciIgLz4KCQkJPGNvbHVtbiBuYW1lPSJ1c2VyX2xhc3RuYW1lIiB2YWx1ZT0iaWRsZV9uZXZlcl9sb2dnZWRfdXNlciIgLz4KCQkJPGNvbHVtbiBuYW1lPSJ1c2VyX2VtYWlsIiB2YWx1ZT0iaWRsZV9uZXZlcl9sb2dnZWRfdXNlckBvb2RyaXZlLmNvbSIgLz4KCQk8L2luc2VydD4KCQk8aW5zZXJ0IHRhYmxlTmFtZT0iYWNjb3VudCIgc2NoZW1hTmFtZT0icHVibGljIj4KCQkJPGNvbHVtbiBuYW1lPSJhY2NvdW50X2lkIiB2YWx1ZU51bWVyaWM9IjgwMSIgLz4KCQkJPGNvbHVtbiBuYW1lPSJwYXJlbnRfYWNjb3VudF9pZCIgdmFsdWVOdW1lcmljPSIxMCIgLz4KCQkJPGNvbHVtbiBuYW1lPSJ3b3Jrc3BhY2VfaWQiIHZhbHVlTnVtZXJpYz0iODg4IiAvPgoJCQk8Y29sdW1uIG5hbWU9InByb2R1Y3RfaWQiIHZhbHVlTnVtZXJpYz0iMiIgLz4KCQkJPGNvbHVtbiBuYW1lPSJhY2NvdW50X3N0YXR1c19pZCIgdmFsdWVOdW1lcmljPSIxIiAvPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfaWQiIHZhbHVlTnVtZXJpYz0iODAxIiAvPgoJCQk8Y29sdW1uIG5hbWU9ImxvZ2luIiB2YWx1ZT0iaWRsZV9uZXZlcl9sb2dnZWRfdXNlciIgLz4KCQkJPGNvbHVtbiBuYW1lPSJwYXNzd29yZCIgdmFsdWU9ImlkbGVfbmV2ZXJfbG9nZ2VkX3VzZXIiIC8+CgkJCTxjb2x1bW4gbmFtZT0iYWNjb3VudF90eXBlX2NvZGUiIHZhbHVlPSJVU0VSIiAvPgoJCQk8Y29sdW1uIG5hbWU9ImNyZWF0aW9uX2RhdGUiIHZhbHVlQ29tcHV0ZWQ9Ik5PVygpIC0gSU5URVJWQUwgJzQgTU9OVEgnICIvPgoJCQk8Y29sdW1uIG5hbWU9InV1aWQiIHZhbHVlPSIwMmNiNjZlNC0xZGVjLTQ1ODMtOWM4NC02ZTlmZWFjYzY2MjciIC8+CgkJPC9pbnNlcnQ+Cgk8L2NoYW5nZVNldD4K</text>
+        <text encoding="base64">CQlhc3NlcnRBbGwoIkNoZWNrIGFjY291bnQgaWRzIiwKCQkJCSgpIC0+IGFzc2VydFRydWUoaWRsZVVzZXJJZHMuY29udGFpbnMoQWNjb3VudElkcy5JRExFX09QRU5FRCksICJJZGxlIG9wZW5lZCB1c2VyIiksCgkJCQkoKSAtPiBhc3NlcnRUcnVlKGlkbGVVc2VySWRzLmNvbnRhaW5zKEFjY291bnRJZHMuSURMRV9QRU5ESU5HKSwgIklkbGUgcGVuZGluZyB1c2VyIiksCgkJCQkoKSAtPiBhc3NlcnRUcnVlKGlkbGVVc2VySWRzLmNvbnRhaW5zKEFjY291bnRJZHMuSURMRV9PUEVORURfTkVWRVJfTE9HR0VEKSwgIk9wZW5lZCB1c2VyIHdobyBuZXZlciBsb2dnZWQgYW5kIGl0cyBjcmVhdGlvbiBkYXRlIGlzIGV4cGlyZWQiKSwKCQkJCSgpIC0+IGFzc2VydFRydWUoaWRsZVVzZXJJZHMuY29udGFpbnMoQWNjb3VudElkcy5JRExFX1BFTkRJTkdfTkVWRVJfTE9HR0VEKSwgIlBlbmRpbmcgdXNlciB3aG8gbmV2ZXIgbG9nZ2VkIGFuZCBpdHMgY3JlYXRpb24gZGF0ZSBpcyBleHBpcmVkIiksCgkJCQkoKSAtPiBhc3NlcnRGYWxzZShpZGxlVXNlcklkcy5jb250YWlucyhBY2NvdW50SWRzLkFMV0FZU19BQ1RJVkUpLCAiQWx3YXlzIGFjdGl2ZSB1c2VyIiksCgkJCQkoKSAtPiBhc3NlcnRGYWxzZShpZGxlVXNlcklkcy5jb250YWlucyhBY2NvdW50SWRzLkFDVElWRV9PUEVOREVEKSwgIkFjdGl2ZSBvcGVuZWQgdXNlciIpLAoJCQkJKCkgLT4gYXNzZXJ0RmFsc2UoaWRsZVVzZXJJZHMuY29udGFpbnMoQWNjb3VudElkcy5BQ1RJVkVfUEVORElORyksICJBY3RpdmUgcGVuZGluZyB1c2VyIiksCgkJCQkoKSAtPiBhc3NlcnRGYWxzZShpZGxlVXNlcklkcy5jb250YWlucyhBY2NvdW50SWRzLkFDVElWRV9PUEVORURfTkVWRVJfTE9HR0VEKSwgIk9wZW5lZCB1c2VyIHdobyBuZXZlciBsb2dnZWQgYW5kIGl0cyBjcmVhdGlvbiBkYXRlIGlzIHN0aWxsIG5vdCBleHBpcmVkIiksCgkJKCkgLT4gYXNzZXJ0RmFsc2UoaWRsZVVzZXJJZHMuY29udGFpbnMoQWNjb3VudElkcy5BQ1RJVkVfUEVORElOR19ORVZFUl9MT0dHRUQpLCAiUGVuZGluZyB1c2VyIHdobyBuZXZlciBsb2dnZWQgYW5kIGl0cyBjcmVhdGlvbiBkYXRlIGlzIHN0aWxsIG5vdCBleHBpcmVkIikKCQkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8aW5zZXJ0IHRhYmxlTmFtZT0iYWNjb3VudF9zZXNzaW9uX2xhc3QiIHNjaGVtYU5hbWU9InB1YmxpYyI+CgkJCTxjb2x1bW4gbmFtZT0iYWNjb3VudF9pZCIgdmFsdWVOdW1lcmljPSI4MDAiIC8+CgkJCTxjb2x1bW4gbmFtZT0iYWNjb3VudF9zZXNzaW9uX2lkIiB2YWx1ZU51bWVyaWM9IjgwMCIgLz4KCQkJPGNvbHVtbiBuYW1lPSJjcmVhdGlvbl9kYXRlIiB2YWx1ZUNvbXB1dGVkPSJOT1coKSAtIElOVEVSVkFMICc0IE1PTlRIJyIgLz4KCQk8L2luc2VydD4K</text>
+        <text encoding="base64">CQkJCSgpIC0+IGFzc2VydFRydWUoaWRsZVVzZXJJZHMuY29udGFpbnMoQWNjb3VudElkcy5JRExFX09QRU5FRCksICJJZGxlIG9wZW5lZCB1c2VyIiksCgkJCQkoKSAtPiBhc3NlcnRUcnVlKGlkbGVVc2VySWRzLmNvbnRhaW5zKEFjY291bnRJZHMuSURMRV9QRU5ESU5HKSwgIklkbGUgcGVuZGluZyB1c2VyIiksCgkJCQkoKSAtPiBhc3NlcnRUcnVlKGlkbGVVc2VySWRzLmNvbnRhaW5zKEFjY291bnRJZHMuSURMRV9PUEVORURfTkVWRVJfTE9HR0VEKSwgIk9wZW5lZCB1c2VyIHdobyBuZXZlciBsb2dnZWQgYW5kIGl0cyBjcmVhdGlvbiBkYXRlIGlzIGV4cGlyZWQiKSwKCQkJCSgpIC0+IGFzc2VydFRydWUoaWRsZVVzZXJJZHMuY29udGFpbnMoQWNjb3VudElkcy5JRExFX1BFTkRJTkdfTkVWRVJfTE9HR0VEKSwgIlBlbmRpbmcgdXNlciB3aG8gbmV2ZXIgbG9nZ2VkIGFuZCBpdHMgY3JlYXRpb24gZGF0ZSBpcyBleHBpcmVkIiksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlBc3NlcnRpb25zLmFzc2VydFRydWUodXNlcklkcy5jb250YWlucyhBY2NvdW50SWRzLklETEUpKTsK</text>
+        <text encoding="base64">CQkJCSgpIC0+IGFzc2VydEZhbHNlKGlkbGVVc2VySWRzLmNvbnRhaW5zKEFjY291bnRJZHMuQUxXQVlTX0FDVElWRSksICJBbHdheXMgYWN0aXZlIHVzZXIiKSwKCQkJCSgpIC0+IGFzc2VydEZhbHNlKGlkbGVVc2VySWRzLmNvbnRhaW5zKEFjY291bnRJZHMuQUNUSVZFX09QRU5ERUQpLCAiQWN0aXZlIG9wZW5lZCB1c2VyIiksCgkJCQkoKSAtPiBhc3NlcnRGYWxzZShpZGxlVXNlcklkcy5jb250YWlucyhBY2NvdW50SWRzLkFDVElWRV9QRU5ESU5HKSwgIkFjdGl2ZSBwZW5kaW5nIHVzZXIiKSwKCQkJCSgpIC0+IGFzc2VydEZhbHNlKGlkbGVVc2VySWRzLmNvbnRhaW5zKEFjY291bnRJZHMuQUNUSVZFX09QRU5FRF9ORVZFUl9MT0dHRUQpLCAiT3BlbmVkIHVzZXIgd2hvIG5ldmVyIGxvZ2dlZCBhbmQgaXRzIGNyZWF0aW9uIGRhdGUgaXMgc3RpbGwgbm90IGV4cGlyZWQiKSwKCQkJCSgpIC0+IGFzc2VydEZhbHNlKGlkbGVVc2VySWRzLmNvbnRhaW5zKEFjY291bnRJZHMuQUNUSVZFX1BFTkRJTkdfTkVWRVJfTE9HR0VEKSwgIlBlbmRpbmcgdXNlciB3aG8gbmV2ZXIgbG9nZ2VkIGFuZCBpdHMgY3JlYXRpb24gZGF0ZSBpcyBzdGlsbCBub3QgZXhwaXJlZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8IS0tc3FsPgoJCQlXSVRIIGluc2VydGVkX3VzZXJfYWNjb3VudCBBUyAoCgkJCQlJTlNFUlQgSU5UTyBwdWJsaWMudXNlcl9hY2NvdW50ICh1c2VyX2lkLCB1c2VyX2xhc3RuYW1lLCB1c2VyX2ZpcnN0bmFtZSwgdXNlcl9lbWFpbCkgVkFMVUVTICg4MDAsICdpbmFjdGl2ZV91c2VyJywgJ2luYWN0aXZlX3VzZXInLCAnaW5hY3RpdmVfdXNlckBvb2RyaXZlLmNvbScpIFJFVFVSTklORyAqCgkJCSksCgkJCWluc2VydGVkX2FjY291bnQgQVMgKAoJCQkJSU5TRVJUIElOVE8gcHVibGljLmFjY291bnQgKGFjY291bnRfaWQsIHBhcmVudF9hY2NvdW50X2lkLCB3b3Jrc3BhY2VfaWQsIHByb2R1Y3RfaWQsIGFjY291bnRfc3RhdHVzX2lkLCB1c2VyX2lkLCBsb2dpbiwgcGFzc3dvcmQsIGFjY291bnRfdHlwZV9jb2RlLCBjcmVhdGlvbl9kYXRlLCB1dWlkKQoJCQkJU0VMRUNUIDgwMCwgcGFyZW50LmFjY291bnRfaWQsIHcud29ya3NwYWNlX2lkLCAyLCAxLCB1LnVzZXJfaWQsICdpbmFjdGl2ZV91c2VyJywgJ1NIQS0zODRTOi8vUFBQbHNCWG5XOi9ESlBhbktORTZtd21POEU2d3l1UjBHeXM3LzA3MXRhdTFFQXg4U0tadzJ2cGxmN2d5T1BSK3dPV3kxd0FzK2InLCAnVVNFUicsIG5vdygpLCAnODhiM2IwNDktODJjMC00ZDA3LTk5OGItYzI1OWExNDUwYzczJwoJCQkJRlJPTSBwdWJsaWMud29ya3NwYWNlIHcsIHB1YmxpYy5hY2NvdW50IHBhcmVudCwgaW5zZXJ0ZWRfdXNlcl9hY2NvdW50IHUKCQkJCVdIRVJFIHcud29ya3NwYWNlX25hbWUgPSAndW5pdF90ZXN0JyBBTkQgcGFyZW50LmxvZ2luID0gJ29vYWRtaW4nCgkJCQlSRVRVUk5JTkcgKgoJCQkpCgkJCUlOU0VSVCBJTlRPIGFjY291bnRfc2Vzc2lvbl9sYXN0IChhY2NvdW50X2lkLCBhY2NvdW50X3Nlc3Npb25faWQsIGNyZWF0aW9uX2RhdGUpCgkJCVNFTEVDVCBhLmFjY291bnRfaWQsIDgwMCwgbm93KCkgLSBJTlRFUlZBTCAnNCBNT05USCcKCQkJRlJPTSBpbnNlcnRlZF9hY2NvdW50IGEKCQk8L3NxbCAtLT4K</text>
+        <text encoding="base64">CQk8aW5zZXJ0IHRhYmxlTmFtZT0idXNlcl9hY2NvdW50IiBzY2hlbWFOYW1lPSJwdWJsaWMiPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfaWQiIHZhbHVlTnVtZXJpYz0iOTAxIi8+CgkJCTxjb2x1bW4gbmFtZT0idXNlcl9maXJzdG5hbWUiIHZhbHVlPSJhY3RpdmVfbmV2ZXJfbG9nZ2VkX3VzZXIiLz4KCQkJPGNvbHVtbiBuYW1lPSJ1c2VyX2xhc3RuYW1lIiB2YWx1ZT0iYWN0aXZlX25ldmVyX2xvZ2dlZF91c2VyIi8+CgkJCTxjb2x1bW4gbmFtZT0idXNlcl9lbWFpbCIgdmFsdWU9ImFjdGl2ZV9uZXZlcl9sb2dnZWRfdXNlckBvb2RyaXZlLmNvbSIvPgoJCTwvaW5zZXJ0Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXN0YXRpYyBmaW5hbCBpbnQgTkVWRVJfTE9HR0VEX1VTRVIgPSA4MDE7Cg==</text>
+        <text encoding="base64">CQk8aW5zZXJ0IHRhYmxlTmFtZT0idXNlcl9hY2NvdW50IiBzY2hlbWFOYW1lPSJwdWJsaWMiPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfaWQiIHZhbHVlTnVtZXJpYz0iOTAwIiAvPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfZmlyc3RuYW1lIiB2YWx1ZT0iYWN0aXZlX3VzZXIiIC8+CgkJCTxjb2x1bW4gbmFtZT0idXNlcl9sYXN0bmFtZSIgdmFsdWU9ImFjdGl2ZV91c2VyIiAvPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfZW1haWwiIHZhbHVlPSJhY3RpdmVfdXNlckBvb2RyaXZlLmNvbSIgLz4KCQk8L2luc2VydD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CX0gY2F0Y2ggKFNRTEV4Y2VwdGlvbiBlKSB7CgkJCWUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">CQk8aW5zZXJ0IHRhYmxlTmFtZT0idXNlcl9hY2NvdW50IiBzY2hlbWFOYW1lPSJwdWJsaWMiPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfaWQiIHZhbHVlTnVtZXJpYz0iODAxIiAvPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfZmlyc3RuYW1lIiB2YWx1ZT0iaWRsZV9uZXZlcl9sb2dnZWRfdXNlciIgLz4KCQkJPGNvbHVtbiBuYW1lPSJ1c2VyX2xhc3RuYW1lIiB2YWx1ZT0iaWRsZV9uZXZlcl9sb2dnZWRfdXNlciIgLz4KCQkJPGNvbHVtbiBuYW1lPSJ1c2VyX2VtYWlsIiB2YWx1ZT0iaWRsZV9uZXZlcl9sb2dnZWRfdXNlckBvb2RyaXZlLmNvbSIgLz4KCQk8L2luc2VydD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBSZWdpc3RlckV4dGVuc2lvbgoJc3RhdGljIEVtYmVkZGVkUG9zdGdyZXNFeHRlbnNpb24gZXh0ZW5zaW9uID0gRW1iZWRkZWRQb3N0Z3Jlc0V4dGVuc2lvbi5wcmVwYXJlZERhdGFiYXNlKAoJCQlMaXF1aWJhc2VQcmVwYXJlci5mb3JDbGFzc3BhdGhMb2NhdGlvbigpCgkpOwo=</text>
+        <text encoding="base64">CQk8aW5zZXJ0IHRhYmxlTmFtZT0idXNlcl9hY2NvdW50IiBzY2hlbWFOYW1lPSJwdWJsaWMiPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfaWQiIHZhbHVlTnVtZXJpYz0iODAxIiAvPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfZmlyc3RuYW1lIiB2YWx1ZT0iaWRsZV9wZW5kaW5nX3VzZXIiIC8+CgkJCTxjb2x1bW4gbmFtZT0idXNlcl9sYXN0bmFtZSIgdmFsdWU9ImlkbGVfcGVuZGluZ191c2VyIiAvPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfZW1haWwiIHZhbHVlPSJpZGxlX3BlbmRpbmdfdXNlckBvb2RyaXZlLmNvbSIgLz4KCQk8L2luc2VydD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJbGlxdWliYXNlID0gbmV3IExpcXVpYmFzZShsaXF1aWJhc2VGaWxlLCBuZXcgQ2xhc3NMb2FkZXJSZXNvdXJjZUFjY2Vzc29yKCksIGRhdGFiYXNlKTsKCQkJCQkJbGlxdWliYXNlLnVwZGF0ZShuZXcgQ29udGV4dHMoKSk7Cg==</text>
+        <text encoding="base64">CQk8aW5zZXJ0IHRhYmxlTmFtZT0idXNlcl9hY2NvdW50IiBzY2hlbWFOYW1lPSJwdWJsaWMiPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfaWQiIHZhbHVlTnVtZXJpYz0iODAwIiAvPgoJCQk8Y29sdW1uIG5hbWU9InVzZXJfZmlyc3RuYW1lIiB2YWx1ZT0iaWRsZV9vcGVuZWRfdXNlciIgLz4KCQkJPGNvbHVtbiBuYW1lPSJ1c2VyX2xhc3RuYW1lIiB2YWx1ZT0iaWRsZV9vcGVuZWRfdXNlciIgLz4KCQkJPGNvbHVtbiBuYW1lPSJ1c2VyX2VtYWlsIiB2YWx1ZT0iaWRsZV9vcGVuZWRfdXNlckBvb2RyaXZlLmNvbSIgLz4KCQk8L2luc2VydD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCUxpcXVpYmFzZSBsaXF1aWJhc2UgPSBuZXcgTGlxdWliYXNlKCJsaXF1aWZpeC54bWwiLCBuZXcgQ2xhc3NMb2FkZXJSZXNvdXJjZUFjY2Vzc29yKCksIGRhdGFiYXNlKTsKCQkJCWxpcXVpYmFzZS51cGRhdGUobmV3IENvbnRleHRzKCkpOwo=</text>
+        <text encoding="base64">CQk8IS0tIElETEUgLS0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCUxpcXVpYmFzZUZhY3RvcnkgbGlxdWliYXNlRmFjdG9yeSA9IExpcXVpYmFzZUZhY3RvcnkucHJlcGFyZSgpLmNvbm5lY3Rpb24oY29ubmVjdGlvbikuYnVpbGQoKTsgbGlxdWliYXNlRmFjdG9yeS5jcmVhdGUoKQo=</text>
+        <text encoding="base64">CTwvY2hhbmdlU2V0PgoKCTxjaGFuZ2VTZXQgaWQ9InVuaXRfdGVzdF9pZGxlX25ldmVyX2xvZ2dlZF91c2VyIiBhdXRob3I9InVuaXRfdGVzdCIgbG9naWNhbEZpbGVQYXRoPSJwYXRoLWluZGVwZW5kZW50Ij4K</text>
       </register>
       <register name=":" type="4">
-        <text>%s/idle_never/active_never/gc</text>
+        <text>%s/idle_active/idle_opened/g</text>
       </register>
     </registers>
     <search>
-      <last-search>idle_never</last-search>
+      <last-search>idle_active</last-search>
       <last-offset />
-      <last-pattern>idle_never</last-pattern>
-      <last-replace>active_never</last-replace>
-      <last-substitute>idle_never</last-substitute>
+      <last-pattern>idle_active</last-pattern>
+      <last-replace>idle_opened</last-replace>
+      <last-substitute>idle_active</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>- gateway</entry>
         <entry>tyk_redis</entry>
         <entry>tyk_mongo</entry>
         <entry>log</entry>
@@ -634,15 +634,13 @@
         <entry>liquibase-initializer</entry>
         <entry>heimdall</entry>
         <entry>inactive_user</entry>
-        <entry>idle_user</entry>
         <entry>now()</entry>
         <entry>idle</entry>
         <entry>idle_never</entry>
+        <entry>idle_user</entry>
+        <entry>idle_active</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/public/private/gc</entry>
-        <entry>w,</entry>
-        <entry>w</entry>
         <entry>%s/hasher/twitter/gc</entry>
         <entry>%s/Account/CreateAccountDTO/gc</entry>
         <entry>%s/password-manager/file-storage/g</entry>
@@ -660,6 +658,9 @@
         <entry>%s/now()/NOW()/g</entry>
         <entry>%s/idle/active/gc</entry>
         <entry>%s/idle_never/active_never/gc</entry>
+        <entry>%s/idle_user/idle_active/user/gc</entry>
+        <entry>%s/idle_user/idle_active_user/gc</entry>
+        <entry>%s/idle_active/idle_opened/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
