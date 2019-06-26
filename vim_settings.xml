@@ -15,11 +15,6 @@
       <file name="$USER_HOME$/work/demo/demo-spring-rest-docs/src/test/java/com/oodrive/demo/demospringrestdocs/DemoSpringRestDocsApplicationTests.java" timestamp="1561104384767">
         <mark key="[" line="9" column="13" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_user_test.xml" timestamp="1561468397816">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/validator/ExpirationDateContactBeanInfoValidator.java" timestamp="1561390545985">
         <mark key="[" line="26" column="8" />
         <mark key="]" line="26" column="8" />
@@ -364,6 +359,13 @@
         <mark key="^" line="19" column="49" />
         <mark key="." line="19" column="49" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/AlarmTriggerController.java" timestamp="1561542257922">
+        <mark key="'" line="20" column="45" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="30" column="32" />
+        <mark key="^" line="30" column="32" />
+        <mark key="." line="30" column="32" />
+      </file>
       <file name="$USER_HOME$/work/demo/demo-spring-rest-docs/src/main/java/com/oodrive/demo/demospringrestdocs/PersonController.java" timestamp="1561104035403">
         <mark key="[" line="19" column="15" />
         <mark key="]" line="21" column="22" />
@@ -421,11 +423,17 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" timestamp="1561539864743">
-        <mark key="[" line="53" column="16" />
-        <mark key="]" line="53" column="21" />
-        <mark key="." line="53" column="21" />
-        <mark key="^" line="53" column="21" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" timestamp="1561542465781">
+        <mark key="[" line="51" column="35" />
+        <mark key="]" line="51" column="37" />
+        <mark key="." line="51" column="37" />
+        <mark key="^" line="51" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepository.java" timestamp="1561542469067">
+        <mark key="[" line="34" column="35" />
+        <mark key="]" line="34" column="37" />
+        <mark key="^" line="34" column="37" />
+        <mark key="." line="34" column="37" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/close_users_test.xml" timestamp="1561539371666">
         <mark key="'" line="5" column="0" />
@@ -459,12 +467,11 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1561474552424">
+      <file name="/fragment.java" timestamp="1561542180289">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="21" filename="$USER_HOME$/perso/poc/demo-test-containers/pom.xml" />
       <jump line="17" column="37" filename="$USER_HOME$/perso/poc/demo-test-containers/pom.xml" />
       <jump line="2" column="21" filename="$USER_HOME$/perso/poc/demo-test-containers/src/test/java/com/oodrive/poc/demotestcontainers/CatDAOTest.java" />
       <jump line="25" column="41" filename="$USER_HOME$/perso/poc/demo-test-containers/src/test/java/com/oodrive/poc/demotestcontainers/CatDAOTest.java" />
@@ -564,19 +571,20 @@
       <jump line="20" column="6" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepositoryTest.java" />
       <jump line="13" column="19" filename="$USER_HOME$/work/asgard-users/asgard-user-account-db/src/main/resources/db/updates/V3.1.18.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-account-db/src/main/resources/db/updates/V3.6.18.xml" />
+      <jump line="20" column="45" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/AlarmTriggerController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FROM account WHERE account_id IN (:accountIds)&quot;;</text>
+        <text>now</text>
       </register>
       <register name="-" type="4">
-        <text>FROM account WHERE account_id IN (:accountIds)&quot;;</text>
+        <text>now</text>
       </register>
       <register name="/" type="4">
         <text>idle_active</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+Cgo8ZGF0YWJhc2VDaGFuZ2VMb2cgeG1sbnM9Imh0dHA6Ly93d3cubGlxdWliYXNlLm9yZy94bWwvbnMvZGJjaGFuZ2Vsb2ciCiAgICAgICAgICAgICAgICAgICB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIgogICAgICAgICAgICAgICAgICAgeHNpOnNjaGVtYUxvY2F0aW9uPSJodHRwOi8vd3d3LmxpcXVpYmFzZS5vcmcveG1sL25zL2RiY2hhbmdlbG9nCgkJICAgIGh0dHA6Ly93d3cubGlxdWliYXNlLm9yZy94bWwvbnMvZGJjaGFuZ2Vsb2cvZGJjaGFuZ2Vsb2ctMy4xLnhzZCIKICAgICAgICAgICAgICAgICAgIGxvZ2ljYWxGaWxlUGF0aD0icGF0aC1pbmRlcGVuZGVudCI+Cg==</text>
+        <text encoding="base64">CQljcm9uID0gIjAgMCA0ICogKiA/ICoiKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCSgpIC0+IGFzc2VydEZhbHNlKHVzZXJJZHNUb0Nsb3NlLmNvbnRhaW5zKEFjY291bnRJZHMuQUxXQVlTX0FDVElWRSksICJBbHdheXMgYWN0aXZlIHVzZXIiKSwK</text>
