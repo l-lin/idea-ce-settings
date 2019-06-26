@@ -187,11 +187,8 @@
         <mark key="^" line="63" column="77" />
         <mark key="." line="63" column="77" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" timestamp="1561560666635">
-        <mark key="[" line="224" column="34" />
-        <mark key="]" line="224" column="43" />
-        <mark key="^" line="224" column="43" />
-        <mark key="." line="224" column="43" />
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" timestamp="1561563106004">
+        <mark key="[" line="222" column="9" />
       </file>
       <file name="$USER_HOME$/work/send/src/main/java/com/oodrive/poc/send/config/SendConfig.java" timestamp="1561017937981">
         <mark key="[" line="16" column="5" />
@@ -252,6 +249,12 @@
         <mark key="]" line="7" column="6" />
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="6" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactory.java" timestamp="1561562890162">
+        <mark key="[" line="2" column="52" />
+        <mark key="]" line="10" column="86" />
+        <mark key="^" line="10" column="86" />
+        <mark key="." line="10" column="86" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepository.java" timestamp="1561551254995">
         <mark key="[" line="45" column="51" />
@@ -325,18 +328,18 @@
         <mark key="^" line="33" column="18" />
         <mark key="." line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleUserSuspender.java" timestamp="1561562849787">
-        <mark key="'" line="45" column="13" />
-        <mark key="[" line="99" column="47" />
-        <mark key="]" line="99" column="46" />
-        <mark key="^" line="99" column="46" />
-        <mark key="." line="99" column="46" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleUserSuspender.java" timestamp="1561564591993">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="4" />
+        <mark key="^" line="37" column="4" />
+        <mark key="." line="37" column="4" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/InternalController.java" timestamp="1561552081369">
-        <mark key="[" line="26" column="32" />
-        <mark key="]" line="28" column="32" />
-        <mark key="." line="28" column="32" />
-        <mark key="^" line="28" column="32" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/InternalController.java" timestamp="1561563854967">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="30" column="32" />
+        <mark key="^" line="30" column="32" />
+        <mark key="." line="30" column="32" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/score/rule/MinCharRuleTest.java" timestamp="1558518853230">
         <mark key="[" line="10" column="8" />
@@ -460,9 +463,9 @@
         <mark key="^" line="53" column="59" />
         <mark key="." line="53" column="59" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/UpdateUser.java" timestamp="1561558409336">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="65" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/UpdateUser.java" timestamp="1561563651730">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="34" />
         <mark key="^" line="69" column="20" />
         <mark key="." line="69" column="20" />
       </file>
@@ -490,7 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="27" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="193" column="28" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="194" column="27" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="34" column="9" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
@@ -590,21 +592,46 @@
       <jump line="45" column="13" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleUserSuspender.java" />
       <jump line="30" column="17" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" />
       <jump line="33" column="61" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" />
+      <jump line="107" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleUserSuspender.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>UUID.randomUUID(</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>UUID.randomUUID(</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>termination_date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJVXBkYXRlVXNlckV2ZW50IGV2ZW50ID0gVXNlckV2ZW50QnVpbGRlclN1cHBvcnQudXBkYXRlRXZlbnQoKS5mcm9tRXZlbnRJbmZvKHNlc3Npb25JbmZvKS5idWlsZCgpOwoKCQkJZXZlbnQuc2V0RGF0YSh1cGRhdGVEYXRhKGJlYW5JbmZvLmdldEVudGl0eVVVSUQoKSwgcHJldmlvdXNVc2VyRGF0YSwgc3RvcmVkVXNlcikpOwoJCQlldmVudC5nZXREYXRhKCkuZ2V0TmV3SW5mbygpLnNldFJvbGVzKGRlZmF1bHRVc2VyUm9sZSk7Cg==</text>
+        <text encoding="base64">CQlpZiAoIXByb2JsZW1zLmlzRW1wdHkoKSkgewo=</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">CQlmb3IgKEludGVnZXIgYWNjb3VudElkIDogYWNjb3VudElkcykgewoJCX0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQkJTGlzdDxQcm9ibGVtPiBwcm9ibGVtcyA9IG5ldyBBcnJheUxpc3Q8PigpOwoJCQl0cnkgewoJCQkJcHJvdmlzaW9uaW5nLmZvclVzZXIoY29udGV4dCkKCQkJCQkJLmFkZFByb2JsZW1zQ29uc3VtZXIocHJvYmxlbXM6OmFkZCkKCQkJCQkJLmFkZExvZ2dlcihEZWZhdWx0SW1wb3J0TG9nZ2VyLmJ1aWxkKExPR0dFUikpCgkJCQkJCS51cGRhdGVTaW5nbGUoYWNjb3VudElkLCB1IC0+IHUuc3RhdHVzKEFzZ2FyZFN0YXR1cy5JTkFDVElWRSkpCgkJCQkJCS5leGVjdXRlKCk7CgkJCQlpZiAoIXByb2JsZW1zLmlzRW1wdHkoKSkgewoJCQkJCQoJCQkJfQoJCQl9IGNhdGNoIChOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CgkJCQl0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbihlKTsKCQkJfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlMaXN0PFByb2JsZW0+IHByb2JsZW1zID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCQkuYWRkTG9nZ2VyKERlZmF1bHRJbXBvcnRMb2dnZXIuYnVpbGQoTE9HR0VSKSkK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">dXNlckRUTy5zdGF0dXMgIT0gbnVsbAoJCQkJCQkJCQkJCT8gQXNnYXJkU3RhdHVzLmZyb20odXNlckRUTy5zdGF0dXMpCgkJCQkJCQkJCQkJOiA=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJCQkJLnNldChVc2VyRmllbGRUeXBlcy5ORVZFUl9FWFBJUkUsIHVzZXJEVE8uZXhwaXJhdGlvbk1vZGUpCgkJCQkJCQkJCS5zZXQoVXNlckZpZWxkVHlwZXMuRVhQSVJBVElPTl9EQVRFLCB1c2VyRFRPLmVuZERhdGUpCgkJCQkJCQkJCS5zZXQoVXNlckZpZWxkVHlwZXMuQklPR1JBUEhZLCB1c2VyRFRPLmJpb2dyYXBoeSkKCQkJCQkJCQkJLnNldChVc2VyRmllbGRUeXBlcy5USU1FWk9ORSwgdXNlckRUTy50aW1lem9uZSkKCQkJCQkJCQkJLnNldChVc2VyRmllbGRUeXBlcy5VU0VSX01PRElGSUNBVElPTl9QUkVWRU5USU9OLAoJCQkJCQkJCQkJCXVzZXJEVE8udXNlck1vZGlmaWNhdGlvblByZXZlbnRpb24pCgkJCQkJCQkJCS5zZXQoVXNlckZpZWxkVHlwZXMuRlVOQ1RJT04sIHVzZXJEVE8uZnVuY3Rpb24pCgkJCQkJCQkJCS5zZXQoVXNlckZpZWxkVHlwZXMuVVNFUl9WSVNJQklMSVRZLCB1c2VyRFRPLnZpc2liaWxpdHkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQkJCQkJLmxhc3ROYW1lKHVzZXJEVE8ubGFzdE5hbWUpCgkJCQkJCQkJCS5lbWFpbCh1c2VyRFRPLmVtYWlsKQoJCQkJCQkJCQkubG9naW4odXNlckRUTy5sb2dpbikKCQkJCQkJCQkJLnBob25lKHVzZXJEVE8ucGhvbmUpCgkJCQkJCQkJCS5sb2NhbGUodXNlckRUTy5sb2NhbGUpCgkJCQkJCQkJCS5jb21wYW55KHVzZXJEVE8uY29tcGFueSkKCQkJCQkJCQkJLmNhcGFjaXR5KG5ldyBVc2VyQ2FwYWNpdHkodXNlckRUTy5jYXBhY2l0eSwgZmFsc2UpKQoJCQkJCQkJCQkuZGVwYXJ0bWVudCh1c2VyRFRPLmRlcGFydG1lbnQpCgkJCQkJCQkJCS5hZGRyZXNzKHVzZXJEVE8uYWRkcmVzcykKCQkJCQkJCQkJLmNpdHkodXNlckRUTy5jaXR5KQoJCQkJCQkJCQkuemlwY29kZSh1c2VyRFRPLnppcENvZGUpCgkJCQkJCQkJCS5jb3VudHJ5KHVzZXJEVE8uY291bnRyeSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlwcm92aXNpb25pbmcuZm9yVXNlcihjb250ZXh0KQoJCQkJLmFkZFByb2JsZW1zQ29uc3VtZXIocHJvYmxlbXM6OmFkZCkKCQkJCS5hZGRMb2dnZXIoRGVmYXVsdEltcG9ydExvZ2dlci5idWlsZChMT0dHRVIpKQoJCQkJLmNyZWF0ZU9yVXBkYXRlKHVzZXJCZWFuSW5mb0ZhY3RvcnlCdWlsZGVyIC0+IHsKCQkJCQl1c2VyQmVhbkluZm9GYWN0b3J5QnVpbGRlci5ub1N1YnNjcmlwdGlvbihyb2JvdFVVSUQpCgkJCQkJCQkuY3JlYXRlQmVhbkluZm8oKQoJCQkJfSkK</text>
+      </register>
+      <register name="9" type="8">
         <text>//
 //
 //
@@ -614,30 +641,6 @@
 //
 //
 //</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQkJKyAiIFVOSU9OICIKCQkJKyAiU0VMRUNUIGFjYy5hY2NvdW50X2lkIgoJCQkrICIgRlJPTSBwdWJsaWMuYWNjb3VudCBhY2MiCgkJCSsgIgkgTEVGVCBKT0lOIHB1YmxpYy5hY2NvdW50X3Nlc3Npb25fbGFzdCBhc2wgVVNJTkcgKGFjY291bnRfaWQpIgoJCQkrICIgIExFRlQgSk9JTiBwdWJsaWMuZXNfYWNjb3VudF9hdHRyaWJ1dGVfYm9vbGVhbiBuZSBvbiAobmUuYWNjb3VudF9pZCA9IGFjYy5hY2NvdW50X2lkIEFORCBuZS5rZXkgPSAnVVNFUl9BQ0NPVU5UX0FMV0FZU19BQ1RJVkUnKSIKCQkJKyAiIFdIRVJFIHdvcmtzcGFjZV9pZCA9IDp3b3Jrc3BhY2VJZCIKCQkJKyAiICBBTkQgYWNjLmNyZWF0aW9uX2RhdGUgPCA6ZXhwaXJhdGlvbkRhdGUiCgkJCSsgIiAgQU5EIGFjYy5hY2NvdW50X3N0YXR1c19pZCBJTiAoMSwgMTEpIgoJCQkrICIgIEFORCBhY2MuYWNjb3VudF90eXBlX2NvZGUgPSA6YWNjb3VudFR5cGVDb2RlIgoJCQkrICIgIEFORCAobmUudmFsdWUgSVMgTlVMTCBPUiBuZS52YWx1ZSA9IGZhbHNlKSIKCQkJKyAiICBBTkQgYXNsLmFjY291bnRfaWQgSVMgTlVMTCI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQlVcGRhdGVVc2VyRXZlbnQgZXZlbnQgPSBVc2VyRXZlbnRCdWlsZGVyU3VwcG9ydC51cGRhdGVFdmVudCgpLmJ1aWxkKCk7CgkJZXZlbnQuc2V0RGF0YSh1cGRhdGVEYXRhKGJlYW5JbmZvLmdldEVudGl0eVVVSUQoKSwgcHJldmlvdXNVc2VyRGF0YSwgc3RvcmVkVXNlcikpOwoJCWV2ZW50LmdldERhdGEoKS5nZXROZXdJbmZvKCkuc2V0Um9sZXMoZGVmYXVsdFVzZXJSb2xlKTsKCQl0cmFja2luZ0NsaWVudC50cmFjaygpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBAdGhyb3dzIE5vdEZvdW5kRXhjZXB0aW9uCgkJICoKCQkgKi8K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBAcGFyYW0gYnVpbGRlcgoJCSAqIEBwYXJhbSBiZWFuUG9wdWxhdG9yCgkJICogQHBhcmFtIG1vZGlmaWVyCgkJICovCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CS8qKgoJICogQHBhcmFtIDxCPgoJICogQGF1dGhvciBPb2RyaXZlCgkgKiBAYXV0aG9yIGYuYWd1CgkgKiBAY3JlYXRlZCA4IGF2ci4gMjAxNiAxNToyMDowNwoJICovCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlmb3IgKEludGVnZXIgYWNjb3VudElkOiBhY2NvdW50SWRzKSB7CgkJCUxPR0dFUi5pbmZvKCJhY2NvdW50SWQ6IHt9IiwgYWNjb3VudElkKTsKCQl9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJKyAiICAgQU5EIGEuYWNjb3VudF9zdGF0dXNfaWQgPSBhY3MuYWNjb3VudF9zdGF0dXNfaWQiCgkJCSsgIgkgIEFORCBhY3MyLmFjY291bnRfc3RhdHVzX2lkID0gOmFjY291bnRTdGF0dXNJZCI7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJTG9jYWxEYXRlIHRlcm1pbmF0aW9uRGF0ZSA9IGFjY291bnRUZXJtaW5hdGlvbi5nZXQoInRlcm1pbmF0aW9uX2RhdGUiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/termination_date/suspension_date/g</text>
