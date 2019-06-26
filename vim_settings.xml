@@ -325,12 +325,12 @@
         <mark key="^" line="33" column="18" />
         <mark key="." line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleUserSuspender.java" timestamp="1561561837925">
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleUserSuspender.java" timestamp="1561562849787">
         <mark key="'" line="45" column="13" />
-        <mark key="[" line="83" column="70" />
-        <mark key="]" line="83" column="70" />
-        <mark key="^" line="81" column="28" />
-        <mark key="." line="83" column="70" />
+        <mark key="[" line="99" column="47" />
+        <mark key="]" line="99" column="46" />
+        <mark key="^" line="99" column="46" />
+        <mark key="." line="99" column="46" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/InternalController.java" timestamp="1561552081369">
         <mark key="[" line="26" column="32" />
@@ -452,12 +452,7 @@
         <mark key="^" line="60" column="12" />
         <mark key="." line="60" column="12" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" timestamp="1561551269253">
-        <mark key="[" line="72" column="51" />
-        <mark key="]" line="72" column="52" />
-        <mark key="." line="72" column="52" />
-        <mark key="^" line="52" column="51" />
-      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" timestamp="1561562615475" />
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/close_users_test.xml" timestamp="1561550884288">
         <mark key="'" line="48" column="25" />
         <mark key="[" line="36" column="39" />
@@ -495,8 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="27" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
-      <jump line="187" column="28" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="188" column="27" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="193" column="28" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="194" column="27" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
@@ -595,13 +588,15 @@
       <jump line="736" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" />
       <jump line="743" column="44" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" />
       <jump line="45" column="13" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleUserSuspender.java" />
+      <jump line="30" column="17" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" />
+      <jump line="33" column="61" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>UUID.randomUUID(</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>UUID.randomUUID(</text>
       </register>
       <register name="/" type="4">
         <text>termination_date</text>
@@ -609,32 +604,40 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJVXBkYXRlVXNlckV2ZW50IGV2ZW50ID0gVXNlckV2ZW50QnVpbGRlclN1cHBvcnQudXBkYXRlRXZlbnQoKS5mcm9tRXZlbnRJbmZvKHNlc3Npb25JbmZvKS5idWlsZCgpOwoKCQkJZXZlbnQuc2V0RGF0YSh1cGRhdGVEYXRhKGJlYW5JbmZvLmdldEVudGl0eVVVSUQoKSwgcHJldmlvdXNVc2VyRGF0YSwgc3RvcmVkVXNlcikpOwoJCQlldmVudC5nZXREYXRhKCkuZ2V0TmV3SW5mbygpLnNldFJvbGVzKGRlZmF1bHRVc2VyUm9sZSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBAdGhyb3dzIE5vdEZvdW5kRXhjZXB0aW9uCgkJICoKCQkgKi8K</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBAcGFyYW0gYnVpbGRlcgoJCSAqIEBwYXJhbSBiZWFuUG9wdWxhdG9yCgkJICogQHBhcmFtIG1vZGlmaWVyCgkJICovCg==</text>
+        <text encoding="base64">CQkJKyAiIFVOSU9OICIKCQkJKyAiU0VMRUNUIGFjYy5hY2NvdW50X2lkIgoJCQkrICIgRlJPTSBwdWJsaWMuYWNjb3VudCBhY2MiCgkJCSsgIgkgTEVGVCBKT0lOIHB1YmxpYy5hY2NvdW50X3Nlc3Npb25fbGFzdCBhc2wgVVNJTkcgKGFjY291bnRfaWQpIgoJCQkrICIgIExFRlQgSk9JTiBwdWJsaWMuZXNfYWNjb3VudF9hdHRyaWJ1dGVfYm9vbGVhbiBuZSBvbiAobmUuYWNjb3VudF9pZCA9IGFjYy5hY2NvdW50X2lkIEFORCBuZS5rZXkgPSAnVVNFUl9BQ0NPVU5UX0FMV0FZU19BQ1RJVkUnKSIKCQkJKyAiIFdIRVJFIHdvcmtzcGFjZV9pZCA9IDp3b3Jrc3BhY2VJZCIKCQkJKyAiICBBTkQgYWNjLmNyZWF0aW9uX2RhdGUgPCA6ZXhwaXJhdGlvbkRhdGUiCgkJCSsgIiAgQU5EIGFjYy5hY2NvdW50X3N0YXR1c19pZCBJTiAoMSwgMTEpIgoJCQkrICIgIEFORCBhY2MuYWNjb3VudF90eXBlX2NvZGUgPSA6YWNjb3VudFR5cGVDb2RlIgoJCQkrICIgIEFORCAobmUudmFsdWUgSVMgTlVMTCBPUiBuZS52YWx1ZSA9IGZhbHNlKSIKCQkJKyAiICBBTkQgYXNsLmFjY291bnRfaWQgSVMgTlVMTCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8qKgoJICogQHBhcmFtIDxCPgoJICogQGF1dGhvciBPb2RyaXZlCgkgKiBAYXV0aG9yIGYuYWd1CgkgKiBAY3JlYXRlZCA4IGF2ci4gMjAxNiAxNToyMDowNwoJICovCg==</text>
+        <text encoding="base64">CQlVcGRhdGVVc2VyRXZlbnQgZXZlbnQgPSBVc2VyRXZlbnRCdWlsZGVyU3VwcG9ydC51cGRhdGVFdmVudCgpLmJ1aWxkKCk7CgkJZXZlbnQuc2V0RGF0YSh1cGRhdGVEYXRhKGJlYW5JbmZvLmdldEVudGl0eVVVSUQoKSwgcHJldmlvdXNVc2VyRGF0YSwgc3RvcmVkVXNlcikpOwoJCWV2ZW50LmdldERhdGEoKS5nZXROZXdJbmZvKCkuc2V0Um9sZXMoZGVmYXVsdFVzZXJSb2xlKTsKCQl0cmFja2luZ0NsaWVudC50cmFjaygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlmb3IgKEludGVnZXIgYWNjb3VudElkOiBhY2NvdW50SWRzKSB7CgkJCUxPR0dFUi5pbmZvKCJhY2NvdW50SWQ6IHt9IiwgYWNjb3VudElkKTsKCQl9Cg==</text>
+        <text encoding="base64">CQkvKioKCQkgKiBAdGhyb3dzIE5vdEZvdW5kRXhjZXB0aW9uCgkJICoKCQkgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJKyAiICAgQU5EIGEuYWNjb3VudF9zdGF0dXNfaWQgPSBhY3MuYWNjb3VudF9zdGF0dXNfaWQiCgkJCSsgIgkgIEFORCBhY3MyLmFjY291bnRfc3RhdHVzX2lkID0gOmFjY291bnRTdGF0dXNJZCI7Cg==</text>
+        <text encoding="base64">CQkvKioKCQkgKiBAcGFyYW0gYnVpbGRlcgoJCSAqIEBwYXJhbSBiZWFuUG9wdWxhdG9yCgkJICogQHBhcmFtIG1vZGlmaWVyCgkJICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJTG9jYWxEYXRlIHRlcm1pbmF0aW9uRGF0ZSA9IGFjY291bnRUZXJtaW5hdGlvbi5nZXQoInRlcm1pbmF0aW9uX2RhdGUiKTsK</text>
+        <text encoding="base64">CS8qKgoJICogQHBhcmFtIDxCPgoJICogQGF1dGhvciBPb2RyaXZlCgkgKiBAYXV0aG9yIGYuYWd1CgkgKiBAY3JlYXRlZCA4IGF2ci4gMjAxNiAxNToyMDowNwoJICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJYXNzZXJ0Tm90TnVsbChhY2NvdW50VGVybWluYXRpb24uZ2V0KCJ0ZXJtaW5hdGlvbl9kYXRlIikpOwo=</text>
+        <text encoding="base64">CQlmb3IgKEludGVnZXIgYWNjb3VudElkOiBhY2NvdW50SWRzKSB7CgkJCUxPR0dFUi5pbmZvKCJhY2NvdW50SWQ6IHt9IiwgYWNjb3VudElkKTsKCQl9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJYXNzZXJ0VHJ1ZShhY2NvdW50SWRzLmNvbnRhaW5zKGFjY291bnRUZXJtaW5hdGlvbi5nZXQoImFjY291bnRfaWQiKSkpOwo=</text>
+        <text encoding="base64">CQkJKyAiICAgQU5EIGEuYWNjb3VudF9zdGF0dXNfaWQgPSBhY3MuYWNjb3VudF9zdGF0dXNfaWQiCgkJCSsgIgkgIEFORCBhY3MyLmFjY291bnRfc3RhdHVzX2lkID0gOmFjY291bnRTdGF0dXNJZCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJYXNzZXJ0Tm90TnVsbChhY2NvdW50VGVybWluYXRpb24uZ2V0KCJhY2NvdW50X2lkIikpOwo=</text>
+        <text encoding="base64">CQkJCQkJTG9jYWxEYXRlIHRlcm1pbmF0aW9uRGF0ZSA9IGFjY291bnRUZXJtaW5hdGlvbi5nZXQoInRlcm1pbmF0aW9uX2RhdGUiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/termination_date/suspension_date/g</text>
