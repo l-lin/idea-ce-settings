@@ -21,11 +21,11 @@
         <mark key="." line="3" column="36" />
         <mark key="^" line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/UserTerminator.java" timestamp="1561629870684">
-        <mark key="[" line="67" column="8" />
-        <mark key="]" line="67" column="9" />
-        <mark key="^" line="67" column="9" />
-        <mark key="." line="67" column="9" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/UserTerminator.java" timestamp="1561648740133">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="8" />
+        <mark key="^" line="69" column="55" />
+        <mark key="." line="25" column="8" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-file-storage/Dockerfile" timestamp="1558518291428">
         <mark key="[" line="0" column="13" />
@@ -38,9 +38,6 @@
         <mark key="]" line="30" column="51" />
         <mark key="." line="30" column="51" />
         <mark key="^" line="30" column="51" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/oodrive/asgard/asgard-user-provisioning-api-impl/3.6.12/asgard-user-provisioning-api-impl-3.6.12-sources.jar!/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" timestamp="1561640850825">
-        <mark key="'" line="113" column="16" />
       </file>
       <file name="$USER_HOME$/perso/poc/demo-test-containers/src/main/java/com/oodrive/poc/demotestcontainers/Cat.java" timestamp="1561123467993">
         <mark key="[" line="13" column="15" />
@@ -72,7 +69,21 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-db/src/test/java/com/oodrive/asgard/test/database/BootstrapDb.java" timestamp="1561474502867">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="49" column="82" />
+        <mark key="]" line="49" column="102" />
+        <mark key="." line="49" column="102" />
+        <mark key="^" line="49" column="102" />
+      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/ProvisioningEventInfo.java" timestamp="1561645327742" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/pom.xml" timestamp="1561468262623">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="25" column="28" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/work/poei/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/storage/FileSystemStorage.java" timestamp="1561018001533">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="59" column="13" />
@@ -113,15 +124,30 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-account-db/src/main/resources/db/updates/V3.6.18.xml" timestamp="1561539311452">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="18" column="16" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/DeleteUser.java" timestamp="1561646947337">
+        <mark key="'" line="43" column="51" />
+        <mark key="[" line="122" column="0" />
+        <mark key="]" line="125" column="49" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/AccountIds.java" timestamp="1561551015561">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="14" column="37" />
+        <mark key="^" line="14" column="37" />
       </file>
       <file name="$USER_HOME$/work/test-spring-rest-docs/src/main/java/com/oodrive/demo/testspringrestdocs/PersonController.java" timestamp="1561101980034">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="22" />
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/init_test.xml" timestamp="1561538279119">
+        <mark key="'" line="8" column="27" />
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/AccountComparatorRepository.java" timestamp="1561554553538">
         <mark key="[" line="19" column="27" />
@@ -172,16 +198,6 @@
         <mark key="." line="63" column="77" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/KafkaTrackingClient.java" timestamp="1561631168050" />
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" timestamp="1561641239578">
-        <mark key="'" line="367" column="59" />
-        <mark key="[" line="222" column="9" />
-      </file>
-      <file name="$USER_HOME$/work/asgard-users/pom.xml" timestamp="1561642345495">
-        <mark key="'" line="51" column="47" />
-        <mark key="[" line="52" column="40" />
-        <mark key="]" line="52" column="40" />
-        <mark key="." line="52" column="40" />
-      </file>
       <file name="$USER_HOME$/work/send/src/main/java/com/oodrive/poc/send/config/SendConfig.java" timestamp="1561017937981">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="19" column="49" />
@@ -199,6 +215,18 @@
         <mark key="]" line="24" column="17" />
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepositoryTest.java" timestamp="1561648219727">
+        <mark key="'" line="68" column="8" />
+        <mark key="[" line="64" column="34" />
+        <mark key="]" line="64" column="43" />
+        <mark key="^" line="64" column="43" />
+        <mark key="." line="64" column="43" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserTrackingProvisioning.java" timestamp="1561628900988">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="162" column="5" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/RobotRepository.java" timestamp="1561646284171">
         <mark key="'" line="17" column="62" />
@@ -225,9 +253,6 @@
         <mark key="." line="5" column="52" />
         <mark key="^" line="5" column="52" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-read/src/main/java/com/oodrive/asgard/user/read/account/repository/detailuser/DetailUserQueryBuilder.java" timestamp="1561627678572">
-        <mark key="'" line="191" column="34" />
-      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/pagination/PageHeaderLinkUtils.java" timestamp="1561371194829">
         <mark key="[" line="20" column="148" />
         <mark key="]" line="20" column="4" />
@@ -246,11 +271,11 @@
         <mark key="^" line="10" column="86" />
         <mark key="." line="10" column="86" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepository.java" timestamp="1561551254995">
-        <mark key="[" line="45" column="51" />
-        <mark key="]" line="45" column="52" />
-        <mark key="^" line="36" column="54" />
-        <mark key="." line="45" column="52" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepository.java" timestamp="1561648842884">
+        <mark key="[" line="55" column="74" />
+        <mark key="]" line="55" column="91" />
+        <mark key="^" line="55" column="91" />
+        <mark key="." line="55" column="91" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/dao/PasswordDAO.java" timestamp="1558534707040">
         <mark key="[" line="15" column="11" />
@@ -319,9 +344,12 @@
         <mark key="^" line="33" column="18" />
         <mark key="." line="33" column="18" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gUserRepository.java" timestamp="1561642939917">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="72" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleUserSuspender.java" timestamp="1561648548266">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="76" column="53" />
+        <mark key="]" line="76" column="54" />
+        <mark key="^" line="76" column="52" />
+        <mark key="." line="76" column="54" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/Account.java" timestamp="1561643666550">
         <mark key="[" line="11" column="0" />
@@ -344,6 +372,13 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="37" column="7" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/expired_users_test.xml" timestamp="1561478271997">
+        <mark key="'" line="184" column="0" />
+        <mark key="[" line="176" column="39" />
+        <mark key="]" line="176" column="39" />
+        <mark key="." line="176" column="39" />
+        <mark key="^" line="176" column="74" />
       </file>
       <file name="$USER_HOME$/work/send/src/main/java/com/oodrive/poc/send/FileController.java" timestamp="1561017115425">
         <mark key="[" line="19" column="0" />
@@ -418,17 +453,25 @@
         <mark key="." line="53" column="97" />
         <mark key="^" line="53" column="97" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/Robot.java" timestamp="1561646220152">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="74" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/Robot.java" timestamp="1561648871095">
+        <mark key="'" line="28" column="25" />
+        <mark key="[" line="21" column="49" />
+        <mark key="]" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="25" column="47" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/test/java/com/oodrive/poei/passwordmanager/web/dto/PasswordDTOTest.java" timestamp="1558518883361">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="10" column="18" />
         <mark key="." line="10" column="18" />
         <mark key="^" line="10" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/suspend_idle_users_test.xml" timestamp="1561550975181">
+        <mark key="'" line="174" column="0" />
+        <mark key="[" line="95" column="26" />
+        <mark key="]" line="95" column="40" />
+        <mark key="." line="95" column="40" />
+        <mark key="^" line="95" column="40" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/service/FileService.java" timestamp="1558534677506">
         <mark key="[" line="18" column="11" />
@@ -448,6 +491,13 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/AlarmTriggerController.java" timestamp="1561542257922">
+        <mark key="'" line="20" column="45" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="30" column="32" />
+        <mark key="^" line="30" column="32" />
+        <mark key="." line="30" column="32" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/BaseEventBuilderSupport.java" timestamp="1561646260514">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="47" column="61" />
@@ -461,19 +511,26 @@
         <mark key="^" line="60" column="12" />
         <mark key="." line="60" column="12" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/AccountStatusUpdater.java" timestamp="1561646063256">
-        <mark key="'" line="96" column="89" />
-        <mark key="[" line="51" column="32" />
-        <mark key="]" line="51" column="32" />
-        <mark key="^" line="95" column="97" />
-        <mark key="." line="51" column="32" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/AccountStatusUpdater.java" timestamp="1561648501442">
+        <mark key="'" line="93" column="89" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="^" line="40" column="45" />
+        <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" timestamp="1561639459734">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="62" column="11" />
-        <mark key="]" line="62" column="20" />
-        <mark key="." line="62" column="20" />
-        <mark key="^" line="62" column="20" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" timestamp="1561648828941">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="72" column="8" />
+        <mark key="]" line="72" column="8" />
+        <mark key="." line="72" column="8" />
+        <mark key="^" line="65" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/close_users_test.xml" timestamp="1561550884288">
+        <mark key="'" line="48" column="25" />
+        <mark key="[" line="36" column="39" />
+        <mark key="]" line="53" column="59" />
+        <mark key="^" line="53" column="59" />
+        <mark key="." line="53" column="59" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/UpdateUser.java" timestamp="1561563651730">
         <mark key="[" line="103" column="0" />
@@ -493,6 +550,13 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepositoryTest.java" timestamp="1561648282359">
+        <mark key="'" line="58" column="100" />
+        <mark key="[" line="57" column="43" />
+        <mark key="]" line="58" column="100" />
+        <mark key="^" line="58" column="100" />
+        <mark key="." line="58" column="100" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/RobotProviderImpl.java" timestamp="1561643441280">
         <mark key="[" line="21" column="15" />
         <mark key="]" line="21" column="40" />
@@ -507,7 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="237" column="27" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="32" column="46" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="4" column="64" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/liquibase_users.xml" />
       <jump line="234" column="0" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
@@ -607,68 +670,66 @@
       <jump line="17" column="37" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/RobotRepository.java" />
       <jump line="15" column="62" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/RobotRepository.java" />
       <jump line="41" column="8" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/configuration/ProvisioningConfiguration.java" />
+      <jump line="58" column="100" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepositoryTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>robot.getWorkspaceId());</text>
+        <text encoding="base64">ID0gQWNjb3VudFR5cGVDb2RlLlJPQk9U</text>
       </register>
       <register name="-" type="4">
-        <text>robot.getWorkspaceId());</text>
+        <text encoding="base64">ID0gQWNjb3VudFR5cGVDb2RlLlJPQk9U</text>
       </register>
       <register name="/" type="4">
-        <text>json-schema</text>
+        <text>idleUserIds</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQlnZXRDdXJyZW50SW5zdGFuY2UoKS5zZXRTZXNzaW9uKHNlc3Npb24pOwo=</text>
+        <text encoding="base64">CQkJKyAiU0VMRUNUIGFjYy5hY2NvdW50X2lkLCBhY2MudXVpZCIKCQkJKyAiIEZST00gcHVibGljLmFjY291bnQgYWNjIgoJCQkrICIgIEpPSU4gcHVibGljLmFjY291bnRfc3VzcGVuc2lvbiBhc3VzcCBVU0lORyAoYWNjb3VudF9pZCkiCgkJCSsgIiAgTEVGVCBKT0lOIHB1YmxpYy5lc19hY2NvdW50X2F0dHJpYnV0ZV9ib29sZWFuIG5lIG9uIChuZS5hY2NvdW50X2lkID0gYWNjLmFjY291bnRfaWQgQU5EIG5lLmtleSA9ICdVU0VSX0FDQ09VTlRfQUxXQVlTX0FDVElWRScpICIKCQkJKyAiIFdIRVJFIGFzdXNwLnN1c3BlbnNpb25fZGF0ZSA8IDpzdXNwZW5zaW9uRGF0ZUxpbWl0IgoJCQkrICIgIEFORCB3b3Jrc3BhY2VfaWQgPSA6d29ya3NwYWNlSWQiCgkJCSsgIiAgQU5EIGFjYy5hY2NvdW50X3N0YXR1c19pZCA9IDphY2NvdW50U3RhdHVzSWQiCgkJCSsgIiAgQU5EIGFjYy5hY2NvdW50X3R5cGVfY29kZSA9IDphY2NvdW50VHlwZUNvZGUiCgkJCSsgIiAgQU5EIChuZS52YWx1ZSBJUyBOVUxMIE9SIG5lLnZhbHVlID0gZmFsc2UpIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlXb3Jrc3BhY2Ugd29ya3NwYWNlID0gcm9ib3QuZ2V0V29ya3NwYWNlKCk7Cg==</text>
+        <text encoding="base64">CQlpZiAoQ29sbGVjdGlvblV0aWxzLmlzRW1wdHkoYWNjb3VudElkcykpIHsKCQkJcmV0dXJuOwoJCX0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgUm9ib3Qgcm9ib3Q7Cg==</text>
+        <text encoding="base64">CQlpZiAoYWNjb3VudFVVSURzLmlzRW1wdHkoKSkgewoJCQlyZXR1cm47CgkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyBnZXRTZXJ2aWNlTmFtZSgpIHsKCQlyZXR1cm4gbnVsbDsKCX0K</text>
+        <text encoding="base64">CQlMT0dHRVIuaW5mbygiU3VzcGVuZGluZyB7fSBpZGxlIHVzZXJzLi4uIiwgYWNjb3VudElkc1VVSURzLnNpemUoKSk7CgkJU2V0PFVVSUQ+IGFjY291bnRVVUlEcyA9IGFjY291bnRJZHNVVUlEcy5zdHJlYW0oKS5tYXAoUGFpcjo6Z2V0VmFsdWUpLmNvbGxlY3QoQ29sbGVjdG9ycy50b1NldCgpKTsKCQlTZXQ8SW50ZWdlcj4gYWNjb3VudElkcyA9IGFjY291bnRJZHNVVUlEcy5zdHJlYW0oKS5tYXAoUGFpcjo6Z2V0S2V5KS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSk7CgkJYWNjb3VudFN0YXR1c1VwZGF0ZXIudXBkYXRlTXVsdGlwbGUoYWNjb3VudFVVSURzLCBBY2NvdW50U3RhdHVzLlNVU1BFTkRFRCk7CgkJZXhwaXJlZFVzZXJSZXBvc2l0b3J5LnN1c3BlbmRVc2VycyhhY2NvdW50SWRzKTsKCQlMT0dHRVIuaW5mbygie30gaWRsZSB1c2VycyBTVUNDRVNTRlVMTFkgc3VzcGVuZGVkIiwgYWNjb3VudElkc1VVSURzLnNpemUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlTZXNzaW9uIHNlc3Npb24gPSBuZXcgU2Vzc2lvbigpOwoJCXNlc3Npb24uc2V0U2VydmljZU5hbWUocm9ib3RFdmVudEluZm8uZ2V0U2VydmljZU5hbWUoKSk7CgkJc2Vzc2lvbi5zZXRJcEFkZHJlc3MoT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChldmVudEluZm8uZ2V0SXBBZGRyZXNzKCkpKTsKCQlzZXNzaW9uLnNldFNjaGVtZShPYmplY3RzLnJlcXVpcmVOb25OdWxsKGV2ZW50SW5mby5nZXRTY2hlbWUoKSkpOwoJCXNlc3Npb24uc2V0VXNlckFnZW50KE9iamVjdHMucmVxdWlyZU5vbk51bGwoZXZlbnRJbmZvLmdldFVzZXJBZ2VudCgpKSk7CgkJc2Vzc2lvbi5zZXRMYW5ndWFnZShPYmplY3RzLnJlcXVpcmVOb25OdWxsKGV2ZW50SW5mby5nZXRMYW5ndWFnZSgpKSk7Cg==</text>
+        <text encoding="base64">CQlMT0dHRVIuaW5mbygiU3VzcGVuZGluZyB7fSBpZGxlIHVzZXJzLi4uIiwgYWNjb3VudFVVSURzLnNpemUoKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlnZXRDdXJyZW50SW5zdGFuY2UoKS5zZXRTZXNzaW9uKHNlc3Npb24pOwo=</text>
+      <register name="5" type="4">
+        <text>applicationAccess.findAllCodeByAccountId(userUuid)
+				.stream()
+				.map(AccountApplicationCode::getApplicationCode)
+				.collect(Collectors.toSet());</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLwkJCQkocnMsIHJvd051bSkgLT4gewoJCS8vCQkJUm9ib3Qgcm9ib3QgPSBuZXcgUm9ib3QoKTsKCQkvLwkJCXJvYm90LnNldElkKFVVSUQuZnJvbVN0cmluZyhycy5nZXRTdHJpbmcoInV1aWQiKSkpOwoJCS8vCQkJcm9ib3Quc2V0Q3JlYXRpb25EYXRlKHJzLmdldERhdGUoImNyZWF0aW9uX2RhdGUiKSk7CgkJLy8JCQlyb2JvdC5zZXRMb2dpbihycy5nZXRTdHJpbmcoImxvZ2luIikpOwoJCS8vCQkJcm9ib3Quc2V0U3RhdHVzKEFjY291bnRTdGF0dXMuZnJvbUlkKHJzLmdldEludCgiYWNjb3VudF9zdGF0dXNfaWQiKSkpOwoJCS8vCQl9LCBST0JPVF9JRCk7Cg==</text>
+        <text encoding="base64">CQlXb3Jrc3BhY2Ugd29ya3NwYWNlID0gcm9ib3QuZ2V0V29ya3NwYWNlKCk7Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="7" type="2">
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgUm9ib3Qgcm9ib3Q7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlSb2JvdCByb2JvdCA9IG5ldyBSb2JvdCgpOwo=</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIFN0cmluZyBnZXRTZXJ2aWNlTmFtZSgpIHsKCQlyZXR1cm4gbnVsbDsKCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgQWNjb3VudFR5cGVDb2RlIGFjY291bnRUeXBlQ29kZSA9IEFjY291bnRUeXBlQ29kZS5ST0JPVDsK</text>
+        <text encoding="base64">CQlTZXNzaW9uIHNlc3Npb24gPSBuZXcgU2Vzc2lvbigpOwoJCXNlc3Npb24uc2V0U2VydmljZU5hbWUocm9ib3RFdmVudEluZm8uZ2V0U2VydmljZU5hbWUoKSk7CgkJc2Vzc2lvbi5zZXRJcEFkZHJlc3MoT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChldmVudEluZm8uZ2V0SXBBZGRyZXNzKCkpKTsKCQlzZXNzaW9uLnNldFNjaGVtZShPYmplY3RzLnJlcXVpcmVOb25OdWxsKGV2ZW50SW5mby5nZXRTY2hlbWUoKSkpOwoJCXNlc3Npb24uc2V0VXNlckFnZW50KE9iamVjdHMucmVxdWlyZU5vbk51bGwoZXZlbnRJbmZvLmdldFVzZXJBZ2VudCgpKSk7CgkJc2Vzc2lvbi5zZXRMYW5ndWFnZShPYmplY3RzLnJlcXVpcmVOb25OdWxsKGV2ZW50SW5mby5nZXRMYW5ndWFnZSgpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/termination_date/suspension_date/g</text>
+        <text>%s/idleUserIds/accountIds/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>json-schema</last-search>
+      <last-search>idleUserIds</last-search>
       <last-offset />
-      <last-pattern>json-schema</last-pattern>
-      <last-replace>suspension_date</last-replace>
-      <last-substitute>json-schema</last-substitute>
+      <last-pattern>idleUserIds</last-pattern>
+      <last-replace>accountIds</last-replace>
+      <last-substitute>idleUserIds</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>break</entry>
-        <entry>EXPIRATOIN</entry>
         <entry>EXPIRATION</entry>
         <entry>pg-em</entry>
         <entry>asgard-user</entry>
@@ -687,9 +748,10 @@
         <entry>product</entry>
         <entry>ProvisioningListener</entry>
         <entry>json-schema</entry>
+        <entry>role</entry>
+        <entry>idleUserIds</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/Account/CreateAccountDTO/gc</entry>
         <entry>%s/password-manager/file-storage/g</entry>
         <entry>%s/file-storage/secured-box/g</entry>
         <entry>%s/new PasswordDTO(//g</entry>
@@ -709,6 +771,7 @@
         <entry>%s/idle_user/idle_active_user/gc</entry>
         <entry>%s/idle_active/idle_opened/g</entry>
         <entry>%s/termination_date/suspension_date/g</entry>
+        <entry>%s/idleUserIds/accountIds/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
