@@ -212,6 +212,12 @@
         <mark key="^" line="63" column="77" />
         <mark key="." line="63" column="77" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/pom.xml" timestamp="1561714697040">
+        <mark key="[" line="52" column="40" />
+        <mark key="]" line="52" column="45" />
+        <mark key="." line="52" column="45" />
+        <mark key="^" line="52" column="45" />
+      </file>
       <file name="$USER_HOME$/work/send/src/main/java/com/oodrive/poc/send/config/SendConfig.java" timestamp="1561017937981">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="19" column="49" />
@@ -696,11 +702,11 @@
       <jump line="86" column="55" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/changelogs/asgard-AsgardUserAccountDb-master.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTxjaGFuZ2VTZXQgYXV0aG9yPSJtYXN0ZXIiCgkJaWQ9ImNyZWF0ZV90YWJsZV9wdWJsaWMub3B0aW9uX3dvcmtzcGFjZV9wcm9kdWN0IgoJCWxvZ2ljYWxGaWxlUGF0aD0icGF0aC1pbmRlcGVuZGVudCIgb2JqZWN0UXVvdGluZ1N0cmF0ZWd5PSJMRUdBQ1kiCgkJcnVuSW5UcmFuc2FjdGlvbj0idHJ1ZSI+CgkJPGNyZWF0ZVNlcXVlbmNlIHNjaGVtYU5hbWU9InB1YmxpYyIKCQkJc2VxdWVuY2VOYW1lPSJvcHRpb25fd29ya3NwYWNlX3Byb2R1Y3RfaWRfc2VxIiBzdGFydFZhbHVlPSIxMDAiIC8+CgkJPGNyZWF0ZVRhYmxlIHNjaGVtYU5hbWU9InB1YmxpYyIKCQkJdGFibGVOYW1lPSJvcHRpb25fd29ya3NwYWNlX3Byb2R1Y3QiPgoJCQk8Y29sdW1uCgkJCQlkZWZhdWx0VmFsdWVDb21wdXRlZD0ibmV4dHZhbCgnb3B0aW9uX3dvcmtzcGFjZV9wcm9kdWN0X2lkX3NlcSc6OnJlZ2NsYXNzKSIKCQkJCW5hbWU9Im9wdGlvbl93b3Jrc3BhY2VfcHJvZHVjdF9pZCIgdHlwZT0iaW50ZWdlciI+CgkJCQk8Y29uc3RyYWludHMgbnVsbGFibGU9ImZhbHNlIiBwcmltYXJ5S2V5PSJ0cnVlIgoJCQkJCXByaW1hcnlLZXlOYW1lPSJwa19vcHRpb25fd29ya3NwYWNlX3Byb2R1Y3QiIC8+CgkJCTwvY29sdW1uPgoJCQk8Y29sdW1uIG5hbWU9InByb2R1Y3RfaWQiIHR5cGU9ImludGVnZXIiPgoJCQkJPGNvbnN0cmFpbnRzIG51bGxhYmxlPSJmYWxzZSIgLz4KCQkJPC9jb2x1bW4+CgkJCTxjb2x1bW4gbmFtZT0id29ya3NwYWNlX2lkIiB0eXBlPSJpbnRlZ2VyIj4KCQkJCTxjb25zdHJhaW50cyBudWxsYWJsZT0iZmFsc2UiIC8+CgkJCTwvY29sdW1uPgoJCQk8Y29sdW1uIG5hbWU9Im9wdGlvbl9uYW1lIiB0eXBlPSJ2YXJjaGFyKDUwKSI+CgkJCQk8Y29uc3RyYWludHMgbnVsbGFibGU9ImZhbHNlIiAvPgoJCQk8L2NvbHVtbj4KCQkJPGNvbHVtbiBkZWZhdWx0VmFsdWVDb21wdXRlZD0iZmFsc2UiIG5hbWU9Im9wdGlvbl9lbmFibGUiCgkJCQl0eXBlPSJib29sZWFuIj4KCQkJCTxjb25zdHJhaW50cyBudWxsYWJsZT0iZmFsc2UiIC8+CgkJCTwvY29sdW1uPgoJCQk8Y29sdW1uIGRlZmF1bHRWYWx1ZUNvbXB1dGVkPSJmYWxzZSIgbmFtZT0ib3B0aW9uX2F2YWlsYWJsZSIKCQkJCXR5cGU9ImJvb2xlYW4iPgoJCQkJPGNvbnN0cmFpbnRzIG51bGxhYmxlPSJmYWxzZSIgLz4KCQkJPC9jb2x1bW4+CgkJPC9jcmVhdGVUYWJsZT4KCQk8YWRkRm9yZWlnbktleUNvbnN0cmFpbnQKCQkJYmFzZUNvbHVtbk5hbWVzPSJ3b3Jrc3BhY2VfaWQiCgkJCWJhc2VUYWJsZU5hbWU9Im9wdGlvbl93b3Jrc3BhY2VfcHJvZHVjdCIgYmFzZVRhYmxlU2NoZW1hTmFtZT0icHVibGljIgoJCQljb25zdHJhaW50TmFtZT0iZmtfb3B0d29ya3Byb2R1Y3Rfd2lkIiBkZWZlcnJhYmxlPSJmYWxzZSIKCQkJb25EZWxldGU9IkNBU0NBREUiIG9uVXBkYXRlPSJOTyBBQ1RJT04iCgkJCXJlZmVyZW5jZWRDb2x1bW5OYW1lcz0id29ya3NwYWNlX2lkIiByZWZlcmVuY2VkVGFibGVOYW1lPSJ3b3Jrc3BhY2UiCgkJCXJlZmVyZW5jZWRUYWJsZVNjaGVtYU5hbWU9InB1YmxpYyIgLz4KCQk8YWRkRm9yZWlnbktleUNvbnN0cmFpbnQKCQkJYmFzZUNvbHVtbk5hbWVzPSJwcm9kdWN0X2lkIiBiYXNlVGFibGVOYW1lPSJvcHRpb25fd29ya3NwYWNlX3Byb2R1Y3QiCgkJCWJhc2VUYWJsZVNjaGVtYU5hbWU9InB1YmxpYyIgY29uc3RyYWludE5hbWU9ImZrX29wdHdvcmtwcm9kdWN0X3BpZCIKCQkJZGVmZXJyYWJsZT0iZmFsc2UiIG9uRGVsZXRlPSJSRVNUUklDVCIgb25VcGRhdGU9IlJFU1RSSUNUIgoJCQlyZWZlcmVuY2VkQ29sdW1uTmFtZXM9InByb2R1Y3RfaWQiIHJlZmVyZW5jZWRUYWJsZU5hbWU9InByb2R1Y3QiCgkJCXJlZmVyZW5jZWRUYWJsZVNjaGVtYU5hbWU9InB1YmxpYyIgLz4KCQk8Y3JlYXRlSW5kZXggaW5kZXhOYW1lPSJpZHhfb3dwX3BpZF93aWRfb3B0bmFtZSIKCQkJc2NoZW1hTmFtZT0icHVibGljIiB0YWJsZU5hbWU9Im9wdGlvbl93b3Jrc3BhY2VfcHJvZHVjdCIKCQkJdW5pcXVlPSJ0cnVlIj4KCQkJPGNvbHVtbiBuYW1lPSJwcm9kdWN0X2lkIiAvPgoJCQk8Y29sdW1uIG5hbWU9IndvcmtzcGFjZV9pZCIgLz4KCQkJPGNvbHVtbiBuYW1lPSJvcHRpb25fbmFtZSIgLz4KCQk8L2NyZWF0ZUluZGV4PgoJPC9jaGFuZ2VTZXQ+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SNAPSHOT</text>
       </register>
       <register name="-" type="4">
-        <text>18</text>
+        <text>SNAPSHOT</text>
       </register>
       <register name="/" type="4">
         <text>public.space</text>
