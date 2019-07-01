@@ -136,11 +136,6 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/DeleteUser.java" timestamp="1561646947337">
-        <mark key="'" line="43" column="51" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="125" column="49" />
-      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/changelogs/asgard-AsgardUserAccountDb-master.xml" timestamp="1561713255030">
         <mark key="'" line="86" column="55" />
       </file>
@@ -243,11 +238,6 @@
         <mark key="^" line="58" column="86" />
         <mark key="." line="58" column="86" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserTrackingProvisioning.java" timestamp="1561628900988">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="162" column="5" />
-      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/RobotRepository.java" timestamp="1561646284171">
         <mark key="'" line="17" column="62" />
         <mark key="[" line="39" column="55" />
@@ -291,11 +281,11 @@
         <mark key="^" line="10" column="86" />
         <mark key="." line="10" column="86" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepository.java" timestamp="1561710457308">
-        <mark key="[" line="56" column="44" />
-        <mark key="]" line="56" column="44" />
-        <mark key="^" line="56" column="43" />
-        <mark key="." line="56" column="44" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepository.java" timestamp="1561992116085">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="15" />
+        <mark key="^" line="44" column="15" />
+        <mark key="." line="44" column="15" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/dao/PasswordDAO.java" timestamp="1558534707040">
         <mark key="[" line="15" column="11" />
@@ -321,12 +311,12 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1561711105174">
+      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1561991799412">
         <mark key="'" line="266" column="0" />
-        <mark key="[" line="49" column="44" />
-        <mark key="]" line="49" column="45" />
-        <mark key="." line="49" column="45" />
-        <mark key="^" line="49" column="42" />
+        <mark key="[" line="35" column="33" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+        <mark key="^" line="35" column="34" />
       </file>
       <file name="$USER_HOME$/work/heimdall-server/README.md" timestamp="1560522169155">
         <mark key="[" line="6" column="26" />
@@ -547,12 +537,9 @@
         <mark key="^" line="74" column="9" />
         <mark key="." line="74" column="9" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" timestamp="1561710624475">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="65" column="19" />
-        <mark key="]" line="65" column="34" />
-        <mark key="." line="65" column="34" />
-        <mark key="^" line="65" column="34" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepository.java" timestamp="1561992170374">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="69" column="67" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/resources/close_users_test.xml" timestamp="1561550884288">
         <mark key="'" line="48" column="25" />
@@ -703,10 +690,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SNAPSHOT</text>
+        <text>account_terination</text>
       </register>
       <register name="-" type="4">
-        <text>SNAPSHOT</text>
+        <text>account_terination</text>
       </register>
       <register name="/" type="4">
         <text>public.space</text>
