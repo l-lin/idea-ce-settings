@@ -424,6 +424,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="37" column="7" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/dto/user/UserDTO.java" timestamp="1562933301884">
+        <mark key="[" line="73" column="4" />
+        <mark key="]" line="74" column="28" />
+        <mark key="^" line="74" column="28" />
+        <mark key="." line="74" column="28" />
+      </file>
       <file name="$USER_HOME$/work/guidelines/src/docs/asciidoc/documentations.adoc" timestamp="1562577493044">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="26" />
@@ -747,10 +753,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>front.version</text>
