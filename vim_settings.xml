@@ -84,6 +84,9 @@
         <mark key="^" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/contact/ContactBeanInfoMapper.java" timestamp="1562919690324">
+        <mark key="'" line="246" column="98" />
+      </file>
       <file name="$USER_HOME$/work/poei/poei-file-storage/src/main/java/com/oodrive/poei/filestorage/storage/FileSystemStorage.java" timestamp="1561018001533">
         <mark key="[" line="54" column="0" />
         <mark key="]" line="59" column="13" />
@@ -293,6 +296,7 @@
         <mark key="]" line="15" column="22" />
         <mark key="." line="15" column="22" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/starter/application.yml.j2" timestamp="1562921522408" />
       <file name="$USER_HOME$/work/poei/poei-password-manager/src/main/java/com/oodrive/poei/passwordmanager/dao/PasswordDAO.java" timestamp="1558534707040">
         <mark key="[" line="15" column="11" />
         <mark key="]" line="15" column="17" />
@@ -305,7 +309,7 @@
         <mark key="^" line="12" column="51" />
         <mark key="." line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/starter/application.yml" timestamp="1562579839764">
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/starter/application.yml" timestamp="1562921486062">
         <mark key="'" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/Dockerfile" timestamp="1558518310476">
@@ -319,6 +323,12 @@
         <mark key="]" line="30" column="4" />
         <mark key="." line="30" column="4" />
         <mark key="^" line="30" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1562919450320">
+        <mark key="[" line="36" column="35" />
+        <mark key="]" line="36" column="43" />
+        <mark key="." line="36" column="43" />
+        <mark key="^" line="36" column="43" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/usecase/UserReopeningListener.java" timestamp="1562315436819">
         <mark key="[" line="56" column="0" />
@@ -620,12 +630,11 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1562859546552">
+      <file name="/fragment.java" timestamp="1562920931620">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="836" column="26" filename="$MAVEN_REPOSITORY$/com/oodrive/asgard/asgard-user-provisioning-api-impl/3.6.12/asgard-user-provisioning-api-impl-3.6.12-sources.jar!/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" />
       <jump line="850" column="26" filename="$MAVEN_REPOSITORY$/com/oodrive/asgard/asgard-user-provisioning-api-impl/3.6.12/asgard-user-provisioning-api-impl-3.6.12-sources.jar!/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" />
       <jump line="869" column="26" filename="$MAVEN_REPOSITORY$/com/oodrive/asgard/asgard-user-provisioning-api-impl/3.6.12/asgard-user-provisioning-api-impl-3.6.12-sources.jar!/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" />
       <jump line="899" column="26" filename="$MAVEN_REPOSITORY$/com/oodrive/asgard/asgard-user-provisioning-api-impl/3.6.12/asgard-user-provisioning-api-impl-3.6.12-sources.jar!/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" />
@@ -725,6 +734,7 @@
       <jump line="55" column="49" filename="/ProvisioningExecutorImpl.java" />
       <jump line="61" column="49" filename="/ProvisioningExecutorImpl.java" />
       <jump line="39" column="62" filename="/ProvisioningExecutorImpl.java" />
+      <jump line="246" column="98" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/contact/ContactBeanInfoMapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
