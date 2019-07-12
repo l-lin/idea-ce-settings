@@ -111,6 +111,13 @@
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/PreparedUser.java" timestamp="1562939764155">
+        <mark key="'" line="23" column="19" />
+        <mark key="[" line="85" column="25" />
+        <mark key="]" line="85" column="32" />
+        <mark key="." line="85" column="32" />
+        <mark key="^" line="85" column="32" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/utils/Capacity.java" timestamp="1562935192942">
         <mark key="^" line="23" column="12" />
       </file>
@@ -351,8 +358,12 @@
         <mark key="^" line="12" column="51" />
         <mark key="." line="12" column="38" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/transformer/GetLegacyUserRepositoryMapper.java" timestamp="1562937014019">
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/transformer/GetLegacyUserRepositoryMapper.java" timestamp="1562939891119">
         <mark key="'" line="173" column="11" />
+        <mark key="[" line="173" column="110" />
+        <mark key="]" line="174" column="20" />
+        <mark key="^" line="174" column="20" />
+        <mark key="." line="174" column="20" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/Dockerfile" timestamp="1558518310476">
         <mark key="[" line="0" column="13" />
@@ -641,6 +652,12 @@
         <mark key="^" line="60" column="12" />
         <mark key="." line="60" column="12" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/User.java" timestamp="1562939713989">
+        <mark key="[" line="202" column="11" />
+        <mark key="]" line="202" column="18" />
+        <mark key="." line="202" column="18" />
+        <mark key="^" line="202" column="18" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/handling/UserFunctionFieldHandling.java" timestamp="1562315264882">
         <mark key="[" line="39" column="79" />
         <mark key="]" line="39" column="78" />
@@ -706,7 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/Robot.java" />
       <jump line="19" column="25" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/Robot.java" />
       <jump line="17" column="37" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/RobotRepository.java" />
       <jump line="15" column="62" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/RobotRepository.java" />
@@ -806,13 +822,14 @@
       <jump line="50" column="19" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserBeanInfoMapper.java" />
       <jump line="148" column="50" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/XLSXUserDetailDTOMapper.java" />
       <jump line="157" column="42" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserBeanInfoMapper.java" />
+      <jump line="24" column="19" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/PreparedUser.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIERldGFpbFVzZXJSZXBvc2l0b3J5TWFwcGVyPFVzZXI+IHNldENhcGFjaXR5VXNlZChsb25nIGNhcGFjaXR5VXNlZCkgewogICAgCS8vIFRPRE8gKGwubGluKTogaW1wbGVtZW50cyBtZT8KCQlyZXR1cm4gdGhpczsKCX0K</text>
+        <text encoding="base64">ICAgIAlpZiAoY3VycmVudEluc3RhbmNlLmdldFNwYWNlKCkgIT0gbnVsbCkgewoKCQl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>SPACE_MAX</text>
+        <text>cur</text>
       </register>
       <register name="/" type="4">
         <text>front.version</text>
@@ -821,31 +838,31 @@
         <text encoding="base64">CQljcmVhdGVTdHJpbmdDZWxsKFVzZXJFeHBvcnRIZWFkZXJzLlNQQUNFX01BWCwKCQkJCUJ5dGVTaXplRm9ybWF0LmdldEJ5dGVTaXplSW5zdGFuY2UoTG9jYWxlLkVOR0xJU0gpLmZvcm1hdE51bWJlcihjYXBhY2l0eSkgKyAiICIKCQkJCQkJKyBCeXRlU2l6ZUZvcm1hdC5nZXRCeXRlU2l6ZUluc3RhbmNlKExvY2FsZS5FTkdMSVNIKS5mb3JtYXRVbml0KGNhcGFjaXR5KSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIERldGFpbFVzZXJSZXBvc2l0b3J5TWFwcGVyPFVzZXI+IHNldENhcGFjaXR5VXNlZChsb25nIGNhcGFjaXR5VXNlZCkgewogICAgCS8vIFRPRE8gKGwubGluKTogaW1wbGVtZW50cyBtZT8KCQlyZXR1cm4gdGhpczsKCX0K</text>
+        <text encoding="base64">ICAgIAlpZiAoY3VycmVudEluc3RhbmNlLmdldFNwYWNlKCkgIT0gbnVsbCkgewoKCQl9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8qKgoJICogQHJldHVybgoJICovCg==</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIERldGFpbFVzZXJSZXBvc2l0b3J5TWFwcGVyPFVzZXI+IHNldENhcGFjaXR5VXNlZChsb25nIGNhcGFjaXR5VXNlZCkgewogICAgCS8vIFRPRE8gKGwubGluKTogaW1wbGVtZW50cyBtZT8KCQlyZXR1cm4gdGhpczsKCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8qKgoJICogQHJldHVybgoJICogQHRocm93cyB7QGxpbmsgVW5saW1pdGVkVmFsdWVFeGNlcHRpb259CgkgKi8K</text>
+        <text encoding="base64">CS8qKgoJICogQHJldHVybgoJICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIERldGFpbFVzZXJSZXBvc2l0b3J5TWFwcGVyPFZvaWQ+IHNldENhcGFjaXR5VXNlZChsb25nIGNhcGFjaXR5VXNlZCkgewoJCXJldHVybiB0aGlzOwoJfQo=</text>
+        <text encoding="base64">CS8qKgoJICogQHJldHVybgoJICogQHRocm93cyB7QGxpbmsgVW5saW1pdGVkVmFsdWVFeGNlcHRpb259CgkgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIHZvaWQgdHJhY2soT2JqZWN0IHBheWxvYWQsIExpc3RlbmFibGVGdXR1cmVDYWxsYmFjazxTZW5kUmVzdWx0PFN0cmluZywgT2JqZWN0Pj4gY2FsbGJhY2spIHsKCQlsb2dnZXIuZGVidWcoInRyYWNraW5nIG9iamVjdCB7fSIsIHBheWxvYWQpOwoJCWthZmthVGVtcGxhdGUuc2VuZChidWlsZE1lc3NhZ2UocGF5bG9hZCkpLmFkZENhbGxiYWNrKGNhbGxiYWNrKTsK</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIERldGFpbFVzZXJSZXBvc2l0b3J5TWFwcGVyPFZvaWQ+IHNldENhcGFjaXR5VXNlZChsb25nIGNhcGFjaXR5VXNlZCkgewoJCXJldHVybiB0aGlzOwoJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBCZWFuCglAU2NvcGUodmFsdWUgPSBXZWJBcHBsaWNhdGlvbkNvbnRleHQuU0NPUEVfUkVRVUVTVCwgcHJveHlNb2RlID0gU2NvcGVkUHJveHlNb2RlLkRFRkFVTFQpCglQcm92aXNpb25pbmdMaXN0ZW5lciBjb250YWN0UHJvdmlzaW9uaW5nVHJhY2tpbmcoVHJhY2tpbmdDbGllbnQgdHJhY2tpbmdDbGllbnQsCgkJCVNlc3Npb25JbmZvIGV2ZW50SW5mbywKCQkJRGV0YWlsQ29udGFjdFJlYWRSZXBvc2l0b3J5IGNvbnRhY3RSZWFkUmVwb3NpdG9yeSkgewoJCXJldHVybiBuZXcgQ29udGFjdFRyYWNraW5nUHJvdmlzaW9uaW5nKHRyYWNraW5nQ2xpZW50LCBldmVudEluZm8sIGNvbnRhY3RSZWFkUmVwb3NpdG9yeSk7Cgl9CgoJQEJlYW4KCUBTY29wZSh2YWx1ZSA9IFdlYkFwcGxpY2F0aW9uQ29udGV4dC5TQ09QRV9SRVFVRVNULCBwcm94eU1vZGUgPSBTY29wZWRQcm94eU1vZGUuREVGQVVMVCkKCVByb3Zpc2lvbmluZ0xpc3RlbmVyIHVzZXJQcm92aXNpb25pbmdUcmFja2luZyhUcmFja2luZ0NsaWVudCB0cmFja2luZ0NsaWVudCwKCQkJU2Vzc2lvbkluZm8gZXZlbnRJbmZvLAoJCQlEZXRhaWxVc2VyUmVhZFJlcG9zaXRvcnkgdXNlclJlYWRSZXBvc2l0b3J5LAoJCQlBY2NvdW50QXBwbGljYXRpb25SZWFkUmVwb3NpdG9yeSBhcHBsaWNhdGlvbkFjY2VzcykgewoJCXJldHVybiBuZXcgVXNlclRyYWNraW5nUHJvdmlzaW9uaW5nKHRyYWNraW5nQ2xpZW50LCBldmVudEluZm8sIHVzZXJSZWFkUmVwb3NpdG9yeSwgYXBwbGljYXRpb25BY2Nlc3MpOwoJfQo=</text>
+        <text encoding="base64">CUBPdmVycmlkZQoJcHVibGljIHZvaWQgdHJhY2soT2JqZWN0IHBheWxvYWQsIExpc3RlbmFibGVGdXR1cmVDYWxsYmFjazxTZW5kUmVzdWx0PFN0cmluZywgT2JqZWN0Pj4gY2FsbGJhY2spIHsKCQlsb2dnZXIuZGVidWcoInRyYWNraW5nIG9iamVjdCB7fSIsIHBheWxvYWQpOwoJCWthZmthVGVtcGxhdGUuc2VuZChidWlsZE1lc3NhZ2UocGF5bG9hZCkpLmFkZENhbGxiYWNrKGNhbGxiYWNrKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KiBUZWNobmljYWwgQXJjaGl0ZWN0dXJlIERvY3VtZW50Cg==</text>
+        <text encoding="base64">CUBCZWFuCglAU2NvcGUodmFsdWUgPSBXZWJBcHBsaWNhdGlvbkNvbnRleHQuU0NPUEVfUkVRVUVTVCwgcHJveHlNb2RlID0gU2NvcGVkUHJveHlNb2RlLkRFRkFVTFQpCglQcm92aXNpb25pbmdMaXN0ZW5lciBjb250YWN0UHJvdmlzaW9uaW5nVHJhY2tpbmcoVHJhY2tpbmdDbGllbnQgdHJhY2tpbmdDbGllbnQsCgkJCVNlc3Npb25JbmZvIGV2ZW50SW5mbywKCQkJRGV0YWlsQ29udGFjdFJlYWRSZXBvc2l0b3J5IGNvbnRhY3RSZWFkUmVwb3NpdG9yeSkgewoJCXJldHVybiBuZXcgQ29udGFjdFRyYWNraW5nUHJvdmlzaW9uaW5nKHRyYWNraW5nQ2xpZW50LCBldmVudEluZm8sIGNvbnRhY3RSZWFkUmVwb3NpdG9yeSk7Cgl9CgoJQEJlYW4KCUBTY29wZSh2YWx1ZSA9IFdlYkFwcGxpY2F0aW9uQ29udGV4dC5TQ09QRV9SRVFVRVNULCBwcm94eU1vZGUgPSBTY29wZWRQcm94eU1vZGUuREVGQVVMVCkKCVByb3Zpc2lvbmluZ0xpc3RlbmVyIHVzZXJQcm92aXNpb25pbmdUcmFja2luZyhUcmFja2luZ0NsaWVudCB0cmFja2luZ0NsaWVudCwKCQkJU2Vzc2lvbkluZm8gZXZlbnRJbmZvLAoJCQlEZXRhaWxVc2VyUmVhZFJlcG9zaXRvcnkgdXNlclJlYWRSZXBvc2l0b3J5LAoJCQlBY2NvdW50QXBwbGljYXRpb25SZWFkUmVwb3NpdG9yeSBhcHBsaWNhdGlvbkFjY2VzcykgewoJCXJldHVybiBuZXcgVXNlclRyYWNraW5nUHJvdmlzaW9uaW5nKHRyYWNraW5nQ2xpZW50LCBldmVudEluZm8sIHVzZXJSZWFkUmVwb3NpdG9yeSwgYXBwbGljYXRpb25BY2Nlc3MpOwoJfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KiBUZWNobmljYWwgSW5zdGFsbGF0aW9uIERvY3VtZW50CiogVGVjaG5pY2FsIEFyY2hpdGVjdHVyZSBEb2N1bWVudAo=</text>
+        <text encoding="base64">KiBUZWNobmljYWwgQXJjaGl0ZWN0dXJlIERvY3VtZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Tk9URTogVE9ETwoKQ29udHJhY3QgYmV0d2VlbiB0aGUgSVQgYW5kIHRoZSBkZXZlbG9wZXJzLgoKPT09PSBIb3cgdG8gcmVhZCB0aGUgVElEPwoKCgoqKkRlbGl2ZXJ5KioKCkV4cGVjdGVkIGNvbnRlbnQgdG8gYmUgZGVsaXZlcmVkIHRvIHRoZSBJVCAob2Z0ZW4gaW4gZm9ybSBvZiBiaW5hcmllcywgYXJjaGl2ZSBmaWxlcywgLi4uKQoKKipJbnRlZ3JhdGlvbioqCgpDb21tb24gcHJvcGVydGllcyB0aGF0IG11c3QgYmUgY29uZmlndXJlZCwgc3BlY2lmaWMgdG8gZWFjaCBlbnZpcm9ubWVudAoKKipNb25pdG9yaW5nKioKCkhvdyB0byBvYnNlcnZlIHRoZSBhcHAgaGVhbHRoCgoqKkxvZ2dpbmcqKgoKSG93IHRvIGNvbmZpZ3VyZSBsb2dzCgo9PT09IEhvdyB0byB3cml0ZSBhIFRJRD8KClRCRAoKPT09IFRlY2huaWNhbCBBcmNoaXRlY3R1cmUgRG9jdW1lbnRhdGlvbgoKTk9URTogVE9ETwo=</text>
+        <text encoding="base64">KiBUZWNobmljYWwgSW5zdGFsbGF0aW9uIERvY3VtZW50CiogVGVjaG5pY2FsIEFyY2hpdGVjdHVyZSBEb2N1bWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/2018-04-18/2019-07-07/g</text>
