@@ -391,11 +391,11 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1563184032978">
-        <mark key="'" line="36" column="43" />
+      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1563195827893">
+        <mark key="'" line="0" column="1" />
         <mark key="[" line="36" column="35" />
-        <mark key="]" line="36" column="43" />
-        <mark key="." line="36" column="43" />
+        <mark key="]" line="36" column="35" />
+        <mark key="." line="36" column="35" />
         <mark key="^" line="36" column="43" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/usecase/UserReopeningListener.java" timestamp="1562315436819">
@@ -754,7 +754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="9" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepositoryTest.java" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.1.RELEASE/spring-boot-dependencies-2.0.1.RELEASE.pom" />
       <jump line="31" column="31" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="54" column="0" filename="$USER_HOME$/work/geppetto-client-parent/CHANGELOG.md" />
@@ -854,16 +853,17 @@
       <jump line="91" column="16" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactoryBuilder.java" />
       <jump line="94" column="16" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactoryBuilder.java" />
       <jump line="43" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserFieldTypes.java" />
+      <jump line="0" column="1" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>max</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>STATUS</text>
+        <text>asgard-users</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJTG9uZyBsb25nVmFsdWUgPSBudWxsOwoJCQl0cnkgewoJCQkJaWYgKFVOTElNSVRFRF9URVhULmVxdWFsc0lnbm9yZUNhc2UodmFsdWUpKSB7CgkJCQkJLy8gdW5saW1pdGVkCgkJCQl9IGVsc2UgewoJCQkJCUJ5dGVTaXplSW5mbyBieXRlU2l6ZUluZm8gPSBCeXRlU2l6ZUZvcm1hdC5wYXJzZShsb2NhbGUgIT0gbnVsbCA/IGxvY2FsZSA6IExvY2FsZS5FTkdMSVNILCB2YWx1ZSk7CgkJCQkJaWYgKGJ5dGVTaXplSW5mbyAhPSBudWxsKSB7CgkJCQkJCWxvbmdWYWx1ZSA9IGJ5dGVTaXplSW5mby5nZXRTaXplKCk7CgkJCQkJfSBlbHNlIHsKCQkJCQkJbG9uZ1ZhbHVlID0gTG9uZy5wYXJzZUxvbmcodmFsdWUpOwoJCQkJCQlpZiAobG9uZ1ZhbHVlIDwgMCkgewoJCQkJCQkJdGhyb3cgbmV3IFBhcnNlRXhjZXB0aW9uKHRoaXMsIFByb2JsZW1UeXBlLklOVkFMSURfQ0FQQUNJVFksIHZhbHVlKTsKCQkJCQkJfQoJCQkJCX0KCQkJCX0KCQkJfSBjYXRjaCAoUGFyc2VFeGNlcHRpb24gZSkgewoJCQkJdGhyb3cgZTsKCQkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkJCXRocm93IG5ldyBQYXJzZUV4Y2VwdGlvbih0aGlzLCBQcm9ibGVtVHlwZS5JTlZBTElEX0NBUEFDSVRZLCB2YWx1ZSwgZSk7CgkJCX0KCQkJZmluYWwgTG9uZyBtYXggPSBsb25nVmFsdWU7CgkJCXJldHVybiBuZXcgQ2FwYWNpdHkoMCwgbWF4KTsK</text>
@@ -901,9 +901,9 @@
       </register>
     </registers>
     <search>
-      <last-search>STATUS</last-search>
+      <last-search>asgard-users</last-search>
       <last-offset />
-      <last-pattern>STATUS</last-pattern>
+      <last-pattern>asgard-users</last-pattern>
       <last-replace>2019-07-07</last-replace>
       <last-substitute>2018-04-18</last-substitute>
       <last-dir>1</last-dir>
@@ -911,7 +911,6 @@
     </search>
     <history>
       <history-search>
-        <entry>2018-04-18</entry>
         <entry encoding="base64">XDxnZXRDYWNoZWRVVUlERnJvbUlkXD4=</entry>
         <entry>CREATION</entry>
         <entry>PASSWORD</entry>
@@ -931,6 +930,7 @@
         <entry encoding="base64">XDxhY2NvdW50TW9kaWZpZXJJZFw+</entry>
         <entry encoding="base64">XDxjcmVhdG9yQWNjb3VudElkXD4=</entry>
         <entry>STATUS</entry>
+        <entry>asgard-users</entry>
       </history-search>
       <history-cmd>
         <entry>%s/file-storage/secured-box/g</entry>
