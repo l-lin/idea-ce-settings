@@ -380,7 +380,8 @@
         <mark key="." line="30" column="4" />
         <mark key="^" line="30" column="4" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1562936975278">
+      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1563184032978">
+        <mark key="'" line="36" column="43" />
         <mark key="[" line="36" column="35" />
         <mark key="]" line="36" column="43" />
         <mark key="." line="36" column="43" />
@@ -507,11 +508,6 @@
         <mark key="]" line="48" column="65" />
         <mark key="." line="48" column="65" />
         <mark key="^" line="48" column="65" />
-      </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-read/src/main/java/com/oodrive/asgard/user/read/account/repository/detailuser/DetailUserRepositoryMapper.java" timestamp="1562934074453">
-        <mark key="[" line="61" column="4" />
-        <mark key="]" line="61" column="4" />
-        <mark key="." line="61" column="4" />
       </file>
       <file name="$USER_HOME$/work/poei/poei-secured-box/src/test/java/com/oodrive/poei/securedbox/secret/salt/RandomSaltGeneratorTest.java" timestamp="1558519074926">
         <mark key="[" line="11" column="12" />
@@ -739,7 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="29" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/pom.xml" />
       <jump line="192" column="12" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="24" column="8" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="266" column="0" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
@@ -839,6 +834,7 @@
       <jump line="19" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/utils/Limit.java" />
       <jump line="24" column="19" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/PreparedUser.java" />
       <jump line="272" column="16" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/field/FieldFormats.java" />
+      <jump line="36" column="43" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -848,7 +844,7 @@
         <text>max</text>
       </register>
       <register name="/" type="4">
-        <text>front.version</text>
+        <text>cronos</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJTG9uZyBsb25nVmFsdWUgPSBudWxsOwoJCQl0cnkgewoJCQkJaWYgKFVOTElNSVRFRF9URVhULmVxdWFsc0lnbm9yZUNhc2UodmFsdWUpKSB7CgkJCQkJLy8gdW5saW1pdGVkCgkJCQl9IGVsc2UgewoJCQkJCUJ5dGVTaXplSW5mbyBieXRlU2l6ZUluZm8gPSBCeXRlU2l6ZUZvcm1hdC5wYXJzZShsb2NhbGUgIT0gbnVsbCA/IGxvY2FsZSA6IExvY2FsZS5FTkdMSVNILCB2YWx1ZSk7CgkJCQkJaWYgKGJ5dGVTaXplSW5mbyAhPSBudWxsKSB7CgkJCQkJCWxvbmdWYWx1ZSA9IGJ5dGVTaXplSW5mby5nZXRTaXplKCk7CgkJCQkJfSBlbHNlIHsKCQkJCQkJbG9uZ1ZhbHVlID0gTG9uZy5wYXJzZUxvbmcodmFsdWUpOwoJCQkJCQlpZiAobG9uZ1ZhbHVlIDwgMCkgewoJCQkJCQkJdGhyb3cgbmV3IFBhcnNlRXhjZXB0aW9uKHRoaXMsIFByb2JsZW1UeXBlLklOVkFMSURfQ0FQQUNJVFksIHZhbHVlKTsKCQkJCQkJfQoJCQkJCX0KCQkJCX0KCQkJfSBjYXRjaCAoUGFyc2VFeGNlcHRpb24gZSkgewoJCQkJdGhyb3cgZTsKCQkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkJCXRocm93IG5ldyBQYXJzZUV4Y2VwdGlvbih0aGlzLCBQcm9ibGVtVHlwZS5JTlZBTElEX0NBUEFDSVRZLCB2YWx1ZSwgZSk7CgkJCX0KCQkJZmluYWwgTG9uZyBtYXggPSBsb25nVmFsdWU7CgkJCXJldHVybiBuZXcgQ2FwYWNpdHkoMCwgbWF4KTsK</text>
@@ -886,9 +882,9 @@
       </register>
     </registers>
     <search>
-      <last-search>front.version</last-search>
+      <last-search>cronos</last-search>
       <last-offset />
-      <last-pattern>front.version</last-pattern>
+      <last-pattern>cronos</last-pattern>
       <last-replace>2019-07-07</last-replace>
       <last-substitute>2018-04-18</last-substitute>
       <last-dir>1</last-dir>
@@ -896,7 +892,6 @@
     </search>
     <history>
       <history-search>
-        <entry>.space</entry>
         <entry>public.space</entry>
         <entry encoding="base64">XDxJTlNFUlRfT1JfVVBEQVRFX0FDQ09VTlRfU0VTU0lPTl9MQVNUXD4=</entry>
         <entry encoding="base64">XDxwcmV2aW91c1VzZXJEYXRhXD4=</entry>
@@ -916,6 +911,7 @@
         <entry>build</entry>
         <entry encoding="base64">XDxidWlsZFw+</entry>
         <entry>front.version</entry>
+        <entry>cronos</entry>
       </history-search>
       <history-cmd>
         <entry>%s/file-storage/secured-box/g</entry>
