@@ -217,8 +217,11 @@
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/support/bean/SupportBeanInfoFactoryBuilder.java" timestamp="1563193665794">
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/support/bean/SupportBeanInfoFactoryBuilder.java" timestamp="1563194416807">
         <mark key="'" line="52" column="42" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="39" column="78" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/workspace/Workspace.java" timestamp="1562320169860">
         <mark key="[" line="24" column="0" />
@@ -630,7 +633,8 @@
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/bean/ContactFieldTypes.java" timestamp="1562855566778">
         <mark key="'" line="21" column="105" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserFieldTypes.java" timestamp="1563180592129">
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserFieldTypes.java" timestamp="1563194619833">
+        <mark key="'" line="43" column="0" />
         <mark key="[" line="64" column="30" />
         <mark key="]" line="64" column="38" />
         <mark key="." line="64" column="38" />
@@ -750,7 +754,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="12" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/liquibase-master.xml" />
       <jump line="68" column="9" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepositoryTest.java" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.1.RELEASE/spring-boot-dependencies-2.0.1.RELEASE.pom" />
       <jump line="31" column="31" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
@@ -850,56 +853,57 @@
       <jump line="83" column="12" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactoryBuilder.java" />
       <jump line="91" column="16" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactoryBuilder.java" />
       <jump line="94" column="16" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactoryBuilder.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserFieldTypes.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>max</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>max</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdG9yQWNjb3VudElkXD4=</text>
+        <text>STATUS</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJTG9uZyBsb25nVmFsdWUgPSBudWxsOwoJCQl0cnkgewoJCQkJaWYgKFVOTElNSVRFRF9URVhULmVxdWFsc0lnbm9yZUNhc2UodmFsdWUpKSB7CgkJCQkJLy8gdW5saW1pdGVkCgkJCQl9IGVsc2UgewoJCQkJCUJ5dGVTaXplSW5mbyBieXRlU2l6ZUluZm8gPSBCeXRlU2l6ZUZvcm1hdC5wYXJzZShsb2NhbGUgIT0gbnVsbCA/IGxvY2FsZSA6IExvY2FsZS5FTkdMSVNILCB2YWx1ZSk7CgkJCQkJaWYgKGJ5dGVTaXplSW5mbyAhPSBudWxsKSB7CgkJCQkJCWxvbmdWYWx1ZSA9IGJ5dGVTaXplSW5mby5nZXRTaXplKCk7CgkJCQkJfSBlbHNlIHsKCQkJCQkJbG9uZ1ZhbHVlID0gTG9uZy5wYXJzZUxvbmcodmFsdWUpOwoJCQkJCQlpZiAobG9uZ1ZhbHVlIDwgMCkgewoJCQkJCQkJdGhyb3cgbmV3IFBhcnNlRXhjZXB0aW9uKHRoaXMsIFByb2JsZW1UeXBlLklOVkFMSURfQ0FQQUNJVFksIHZhbHVlKTsKCQkJCQkJfQoJCQkJCX0KCQkJCX0KCQkJfSBjYXRjaCAoUGFyc2VFeGNlcHRpb24gZSkgewoJCQkJdGhyb3cgZTsKCQkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkJCXRocm93IG5ldyBQYXJzZUV4Y2VwdGlvbih0aGlzLCBQcm9ibGVtVHlwZS5JTlZBTElEX0NBUEFDSVRZLCB2YWx1ZSwgZSk7CgkJCX0KCQkJZmluYWwgTG9uZyBtYXggPSBsb25nVmFsdWU7CgkJCXJldHVybiBuZXcgQ2FwYWNpdHkoMCwgbWF4KTsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CQkJCWlmIChVTkxJTUlURURfVEVYVC5lcXVhbHNJZ25vcmVDYXNlKHZhbHVlKSkgewoJCQkJCS8vIHVubGltaXRlZAoJCQkJfSBlbHNlIHsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>value.isUnlimited()
 					? UNLIMITED_TEXT</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJcmV0dXJuIG5ldyBMaW1pdCgpIHsKCgkJCQlAT3ZlcnJpZGUKCQkJCXB1YmxpYyBib29sZWFuIGlzVW5saW1pdGVkKCkgewoJCQkJCXJldHVybiBtYXggPT0gbnVsbDsKCQkJCX0KCgkJCQlAT3ZlcnJpZGUKCQkJCXB1YmxpYyBsb25nIGdldE1heCgpIHsKCQkJCQlpZiAobWF4ID09IG51bGwpIHsKCQkJCQkJcmV0dXJuIC0xOwoJCQkJCX0KCQkJCQlyZXR1cm4gbWF4OwoJCQkJfQoKCQkJfTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCS8qKgoJCQkJICogQHNlZSBjb20ub29kcml2ZS5hc2dhcmQudXNlci5wMTBnLmxlZ2FjeS51dGlscy5wMTFnLmVudGl0eS5MaW1pdCNnZXRNYXgoKQoJCQkJICovCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJCS8qKgoJCQkJICogQHNlZSBjb20ub29kcml2ZS5hc2dhcmQudXNlci5wMTBnLmxlZ2FjeS51dGlscy5wMTFnLmVudGl0eS5MaW1pdCNpc1VubGltaXRlZCgpCgkJCQkgKi8K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBAc2VlIGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuYnVzaW5lc3NyZWYuRmllbGRGb3JtYXQjdG9TdHJpbmcoamF2YS5sYW5nLk9iamVjdCkKCQkgKi8K</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBAc2VlIGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuYnVzaW5lc3NyZWYuRmllbGRGb3JtYXQjcGFyc2UoamF2YS5sYW5nLlN0cmluZykKCQkgKi8K</text>
+        <text encoding="base64">CQkvKioKCQkgKiBAc2VlIGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuYnVzaW5lc3NyZWYuRmllbGRGb3JtYXQjdG9TdHJpbmcoamF2YS5sYW5nLk9iamVjdCkKCQkgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CS8qKgoJICoKCSAqLwo=</text>
+        <text encoding="base64">CQkvKioKCQkgKiBAc2VlIGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuYnVzaW5lc3NyZWYuRmllbGRGb3JtYXQjcGFyc2UoamF2YS5sYW5nLlN0cmluZykKCQkgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBAc2VlIGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuYnVzaW5lc3NyZWYuRmllbGRGb3JtYXQjdG9TdHJpbmcoamF2YS5sYW5nLk9iamVjdCkKCQkgKi8K</text>
+        <text encoding="base64">CS8qKgoJICoKCSAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/2018-04-18/2019-07-07/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdG9yQWNjb3VudElkXD4=</last-search>
+      <last-search>STATUS</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdG9yQWNjb3VudElkXD4=</last-pattern>
+      <last-pattern>STATUS</last-pattern>
       <last-replace>2019-07-07</last-replace>
       <last-substitute>2018-04-18</last-substitute>
       <last-dir>1</last-dir>
@@ -907,7 +911,6 @@
     </search>
     <history>
       <history-search>
-        <entry>metadata</entry>
         <entry>2018-04-18</entry>
         <entry encoding="base64">XDxnZXRDYWNoZWRVVUlERnJvbUlkXD4=</entry>
         <entry>CREATION</entry>
@@ -927,6 +930,7 @@
         <entry encoding="base64">XDx0aHJvd3NcPg==</entry>
         <entry encoding="base64">XDxhY2NvdW50TW9kaWZpZXJJZFw+</entry>
         <entry encoding="base64">XDxjcmVhdG9yQWNjb3VudElkXD4=</entry>
+        <entry>STATUS</entry>
       </history-search>
       <history-cmd>
         <entry>%s/file-storage/secured-box/g</entry>
