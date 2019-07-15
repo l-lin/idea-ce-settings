@@ -139,11 +139,21 @@
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/changelogs/asgard-AsgardUserAccountDb-master.xml" timestamp="1561713255030">
         <mark key="'" line="86" column="55" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactoryBuilder.java" timestamp="1563193807931">
+        <mark key="'" line="94" column="16" />
+      </file>
       <file name="$USER_HOME$/work/test-spring-rest-docs/src/main/java/com/oodrive/demo/testspringrestdocs/PersonController.java" timestamp="1561101980034">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="22" />
         <mark key="^" line="21" column="22" />
         <mark key="." line="21" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/SupportServiceImpl.java" timestamp="1563193738599">
+        <mark key="'" line="103" column="48" />
+        <mark key="[" line="86" column="114" />
+        <mark key="]" line="86" column="65" />
+        <mark key="^" line="86" column="65" />
+        <mark key="." line="86" column="65" />
       </file>
       <file name="$USER_HOME$/work/heimdall-server/pom.xml" timestamp="1562923775059">
         <mark key="[" line="64" column="35" />
@@ -206,6 +216,9 @@
         <mark key="]" line="6" column="20" />
         <mark key="." line="6" column="20" />
         <mark key="^" line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/support/bean/SupportBeanInfoFactoryBuilder.java" timestamp="1563193665794">
+        <mark key="'" line="52" column="42" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/workspace/Workspace.java" timestamp="1562320169860">
         <mark key="[" line="24" column="0" />
@@ -337,9 +350,6 @@
         <mark key="." line="3" column="56" />
         <mark key="^" line="3" column="56" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/UserExportHeaders.java" timestamp="1562935802491">
-        <mark key="[" line="21" column="40" />
-      </file>
       <file name="/UpdateContactBeanInfo.java" timestamp="1562832146196">
         <mark key="'" line="40" column="35" />
       </file>
@@ -412,8 +422,8 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gSupportRepository.java" timestamp="1563186486031">
-        <mark key="'" line="99" column="41" />
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gSupportRepository.java" timestamp="1563192649870">
+        <mark key="'" line="100" column="24" />
         <mark key="[" line="64" column="35" />
         <mark key="]" line="64" column="34" />
         <mark key="^" line="64" column="34" />
@@ -467,7 +477,10 @@
         <mark key="^" line="30" column="32" />
         <mark key="." line="30" column="32" />
       </file>
-      <file name="/P10gSupportRepository.java" timestamp="1563186261510" />
+      <file name="/P10gSupportRepository.java" timestamp="1563192171355" />
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/transformer/GetLegacySupportRepositoryMapper.java" timestamp="1563193387990">
+        <mark key="'" line="211" column="4" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/field/FieldFormats.java" timestamp="1563180854192">
         <mark key="'" line="288" column="16" />
         <mark key="[" line="268" column="38" />
@@ -504,10 +517,6 @@
         <mark key="]" line="24" column="5" />
         <mark key="^" line="18" column="4" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/transformer/user/GetUserRepositoryMapper.java" timestamp="1562935575430">
-        <mark key="'" line="161" column="4" />
-        <mark key="[" line="159" column="78" />
       </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/usecase/addressbook/ImportContact.java" timestamp="1561391264637">
         <mark key="[" line="48" column="62" />
@@ -651,6 +660,9 @@
         <mark key="." line="33" column="31" />
         <mark key="^" line="33" column="31" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/support/bean/SupportInfo.java" timestamp="1563193683889">
+        <mark key="'" line="33" column="32" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/Client.java" timestamp="1562320454666">
         <mark key="[" line="21" column="39" />
         <mark key="]" line="22" column="111" />
@@ -736,30 +748,8 @@
         <mark key="^" line="2" column="23" />
         <mark key="." line="2" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1562924090923">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/changelogs/asgard-AsgardUserAccountDb-master.xml" />
-      <jump line="83" column="59" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/changelogs/asgard-AsgardUserAccountDb-master.xml" />
-      <jump line="84" column="72" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/changelogs/asgard-AsgardUserAccountDb-master.xml" />
-      <jump line="85" column="56" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/changelogs/asgard-AsgardUserAccountDb-master.xml" />
-      <jump line="86" column="55" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/changelogs/asgard-AsgardUserAccountDb-master.xml" />
-      <jump line="57" column="28" filename="$USER_HOME$/work/asgard-users/asgard-user-write/src/main/java/com/oodrive/asgard/user/write/accountsession/AccountSessionWriteRepository.java" />
-      <jump line="32" column="32" filename="$USER_HOME$/work/asgard-users/asgard-user-write/src/main/java/com/oodrive/asgard/user/write/accountsession/AccountSessionWriteRepository.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-account-db/src/main/resources/db/updates/master.xml" />
-      <jump line="86" column="16" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserTrackingProvisioning.java" />
-      <jump line="62" column="53" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserReopeningListener.java" />
-      <jump line="44" column="38" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/handling/UserVisibilityFieldHandling.java" />
-      <jump line="35" column="19" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/configuration/ProvisioningConfiguration.java" />
-      <jump line="48" column="58" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/configuration/ProvisioningConfiguration.java" />
-      <jump line="33" column="6" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ClosedUserRepositoryTest.java" />
-      <jump line="15" column="12" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/liquibase-master.xml" />
-      <jump line="80" column="55" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/liquibase-master.xml" />
-      <jump line="81" column="58" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/liquibase-master.xml" />
-      <jump line="82" column="52" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/liquibase-master.xml" />
-      <jump line="83" column="51" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/liquibase-master.xml" />
       <jump line="302" column="12" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/liquibase-master.xml" />
       <jump line="68" column="9" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/test/java/com/oodrive/asgard/admin/ecstasy/repository/ExpiredUserRepositoryTest.java" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.0.1.RELEASE/spring-boot-dependencies-2.0.1.RELEASE.pom" />
@@ -841,6 +831,25 @@
       <jump line="74" column="36" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gSupportRepository.java" />
       <jump line="94" column="15" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gSupportRepository.java" />
       <jump line="99" column="41" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gSupportRepository.java" />
+      <jump line="92" column="29" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gSupportRepository.java" />
+      <jump line="83" column="63" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gSupportRepository.java" />
+      <jump line="85" column="12" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gSupportRepository.java" />
+      <jump line="100" column="24" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gSupportRepository.java" />
+      <jump line="211" column="4" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/transformer/GetLegacySupportRepositoryMapper.java" />
+      <jump line="128" column="34" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/SupportServiceImpl.java" />
+      <jump line="114" column="11" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/SupportServiceImpl.java" />
+      <jump line="115" column="15" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/SupportServiceImpl.java" />
+      <jump line="41" column="13" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/support/bean/SupportBeanInfoFactoryBuilder.java" />
+      <jump line="43" column="12" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/support/bean/SupportBeanInfoFactoryBuilder.java" />
+      <jump line="47" column="16" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/support/bean/SupportBeanInfoFactoryBuilder.java" />
+      <jump line="51" column="56" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/support/bean/SupportBeanInfoFactoryBuilder.java" />
+      <jump line="52" column="42" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/support/bean/SupportBeanInfoFactoryBuilder.java" />
+      <jump line="33" column="32" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/support/bean/SupportInfo.java" />
+      <jump line="103" column="48" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/SupportServiceImpl.java" />
+      <jump line="80" column="13" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactoryBuilder.java" />
+      <jump line="83" column="12" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactoryBuilder.java" />
+      <jump line="91" column="16" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactoryBuilder.java" />
+      <jump line="94" column="16" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactoryBuilder.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -850,7 +859,7 @@
         <text>max</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWVyeVw+</text>
+        <text encoding="base64">XDxjcmVhdG9yQWNjb3VudElkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJTG9uZyBsb25nVmFsdWUgPSBudWxsOwoJCQl0cnkgewoJCQkJaWYgKFVOTElNSVRFRF9URVhULmVxdWFsc0lnbm9yZUNhc2UodmFsdWUpKSB7CgkJCQkJLy8gdW5saW1pdGVkCgkJCQl9IGVsc2UgewoJCQkJCUJ5dGVTaXplSW5mbyBieXRlU2l6ZUluZm8gPSBCeXRlU2l6ZUZvcm1hdC5wYXJzZShsb2NhbGUgIT0gbnVsbCA/IGxvY2FsZSA6IExvY2FsZS5FTkdMSVNILCB2YWx1ZSk7CgkJCQkJaWYgKGJ5dGVTaXplSW5mbyAhPSBudWxsKSB7CgkJCQkJCWxvbmdWYWx1ZSA9IGJ5dGVTaXplSW5mby5nZXRTaXplKCk7CgkJCQkJfSBlbHNlIHsKCQkJCQkJbG9uZ1ZhbHVlID0gTG9uZy5wYXJzZUxvbmcodmFsdWUpOwoJCQkJCQlpZiAobG9uZ1ZhbHVlIDwgMCkgewoJCQkJCQkJdGhyb3cgbmV3IFBhcnNlRXhjZXB0aW9uKHRoaXMsIFByb2JsZW1UeXBlLklOVkFMSURfQ0FQQUNJVFksIHZhbHVlKTsKCQkJCQkJfQoJCQkJCX0KCQkJCX0KCQkJfSBjYXRjaCAoUGFyc2VFeGNlcHRpb24gZSkgewoJCQkJdGhyb3cgZTsKCQkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkJCXRocm93IG5ldyBQYXJzZUV4Y2VwdGlvbih0aGlzLCBQcm9ibGVtVHlwZS5JTlZBTElEX0NBUEFDSVRZLCB2YWx1ZSwgZSk7CgkJCX0KCQkJZmluYWwgTG9uZyBtYXggPSBsb25nVmFsdWU7CgkJCXJldHVybiBuZXcgQ2FwYWNpdHkoMCwgbWF4KTsK</text>
@@ -888,9 +897,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWVyeVw+</last-search>
+      <last-search encoding="base64">XDxjcmVhdG9yQWNjb3VudElkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWVyeVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdG9yQWNjb3VudElkXD4=</last-pattern>
       <last-replace>2019-07-07</last-replace>
       <last-substitute>2018-04-18</last-substitute>
       <last-dir>1</last-dir>
@@ -898,13 +907,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTlNFUlRfT1JfVVBEQVRFX0FDQ09VTlRfU0VTU0lPTl9MQVNUXD4=</entry>
-        <entry encoding="base64">XDxwcmV2aW91c1VzZXJEYXRhXD4=</entry>
-        <entry encoding="base64">XDxhcHBOYW1lXD4=</entry>
-        <entry>termination</entry>
-        <entry>tableName=&quot;workspace&quot;</entry>
-        <entry>option_workspace_product</entry>
-        <entry>jupiter</entry>
         <entry>metadata</entry>
         <entry>2018-04-18</entry>
         <entry encoding="base64">XDxnZXRDYWNoZWRVVUlERnJvbUlkXD4=</entry>
@@ -918,6 +920,13 @@
         <entry>front.version</entry>
         <entry>cronos</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
+        <entry encoding="base64">XDxiZWFuTWFwXD4=</entry>
+        <entry encoding="base64">XDxiZWFuXD4=</entry>
+        <entry encoding="base64">XDxwZXJzb25cPg==</entry>
+        <entry encoding="base64">XDwsXD4=</entry>
+        <entry encoding="base64">XDx0aHJvd3NcPg==</entry>
+        <entry encoding="base64">XDxhY2NvdW50TW9kaWZpZXJJZFw+</entry>
+        <entry encoding="base64">XDxjcmVhdG9yQWNjb3VudElkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/file-storage/secured-box/g</entry>
