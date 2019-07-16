@@ -19,6 +19,7 @@
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/changelogs/geppetto-GeppettoClientJDBC-master.xml" timestamp="1561713138193">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="/SendCreationMail.java" timestamp="1563270333163" />
       <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1562923925786">
         <mark key="'" line="444" column="47" />
       </file>
@@ -97,6 +98,7 @@
         <mark key="^" line="268" column="38" />
         <mark key="." line="268" column="38" />
       </file>
+      <file name="/DeleteSupport.java" timestamp="1563270768069" />
       <file name="$USER_HOME$/work/asgard-users/asgard-user-write/src/main/java/com/oodrive/asgard/user/write/accountsession/AccountSessionWriteRepository.java" timestamp="1562140389126">
         <mark key="'" line="32" column="32" />
       </file>
@@ -161,6 +163,13 @@
       <file name="$MAVEN_REPOSITORY$/com/oodrive/asgard/json-schema-asgard-codegen/1.0.0-draft6/json-schema-asgard-codegen-1.0.0-draft6-sources.jar!/com/oodrive/provisioning/tracking/asgard/user/CreateUserEvent.java" timestamp="1563268823163">
         <mark key="'" line="68" column="59" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gClientRepository.java" timestamp="1563269959117">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="97" column="92" />
+        <mark key="]" line="97" column="97" />
+        <mark key="^" line="97" column="97" />
+        <mark key="." line="97" column="97" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserBeanInfoMapper.java" timestamp="1563178413166">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="162" column="104" />
@@ -173,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="117" filename="$USER_HOME$/work/asgard-home/TID.md" />
       <jump line="17" column="14" filename="$USER_HOME$/work/heimdall-server/TID.md" />
       <jump line="13" column="26" filename="$USER_HOME$/work/cronos-trigger-app/TID.md" />
       <jump line="0" column="0" filename="$USER_HOME$/work/heimdall-server/TID.md" />
@@ -273,47 +281,52 @@
       <jump line="25" column="152" filename="$MAVEN_REPOSITORY$/com/oodrive/asgard/json-schema-asgard-codegen/1.0.0-draft6/json-schema-asgard-codegen-1.0.0-draft6-sources.jar!/com/oodrive/provisioning/tracking/asgard/user/CreateUserEvent.java" />
       <jump line="65" column="14" filename="$MAVEN_REPOSITORY$/com/oodrive/asgard/json-schema-asgard-codegen/1.0.0-draft6/json-schema-asgard-codegen-1.0.0-draft6-sources.jar!/com/oodrive/provisioning/tracking/asgard/user/CreateUserEvent.java" />
       <jump line="68" column="59" filename="$MAVEN_REPOSITORY$/com/oodrive/asgard/json-schema-asgard-codegen/1.0.0-draft6/json-schema-asgard-codegen-1.0.0-draft6-sources.jar!/com/oodrive/provisioning/tracking/asgard/user/CreateUserEvent.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gClientRepository.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlGdW5jdGlvbjxSZXN1bHRTZXQsIENsaWVudEVudGl0eT4gY2xpZW50TWFwcGVyID0gKHJzLCByb3cpIC0+IHsKCQkJQ2xpZW50RW50aXR5IGVudGl0eSA9IG5ldyBDbGllbnRFbnRpdHkoKTsKCQkJdHJ5IHsKCQkJCWVudGl0eS5zZXRJZChycy5nZXRJbnQoImFjY291bnRfaWQiKSk7CgkJCQllbnRpdHkuc2V0VXVpZChVVUlELmZyb21TdHJpbmcocnMuZ2V0U3RyaW5nKCJ1dWlkIikpKTsKCQkJCWVudGl0eS5zZXRBY2NvdW50U3RhdHVzSWQocnMuZ2V0SW50KCJhY2NvdW50X3N0YXR1c19pZCIpKTsKCQkJfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsKCQkJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwoJCQl9CgkJCXJldHVybiBlbnRpdHk7CgkJfTsK</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJTG9uZyBsb25nVmFsdWUgPSBudWxsOwoJCQl0cnkgewoJCQkJaWYgKFVOTElNSVRFRF9URVhULmVxdWFsc0lnbm9yZUNhc2UodmFsdWUpKSB7CgkJCQkJLy8gdW5saW1pdGVkCgkJCQl9IGVsc2UgewoJCQkJCUJ5dGVTaXplSW5mbyBieXRlU2l6ZUluZm8gPSBCeXRlU2l6ZUZvcm1hdC5wYXJzZShsb2NhbGUgIT0gbnVsbCA/IGxvY2FsZSA6IExvY2FsZS5FTkdMSVNILCB2YWx1ZSk7CgkJCQkJaWYgKGJ5dGVTaXplSW5mbyAhPSBudWxsKSB7CgkJCQkJCWxvbmdWYWx1ZSA9IGJ5dGVTaXplSW5mby5nZXRTaXplKCk7CgkJCQkJfSBlbHNlIHsKCQkJCQkJbG9uZ1ZhbHVlID0gTG9uZy5wYXJzZUxvbmcodmFsdWUpOwoJCQkJCQlpZiAobG9uZ1ZhbHVlIDwgMCkgewoJCQkJCQkJdGhyb3cgbmV3IFBhcnNlRXhjZXB0aW9uKHRoaXMsIFByb2JsZW1UeXBlLklOVkFMSURfQ0FQQUNJVFksIHZhbHVlKTsKCQkJCQkJfQoJCQkJCX0KCQkJCX0KCQkJfSBjYXRjaCAoUGFyc2VFeGNlcHRpb24gZSkgewoJCQkJdGhyb3cgZTsKCQkJfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKCQkJCXRocm93IG5ldyBQYXJzZUV4Y2VwdGlvbih0aGlzLCBQcm9ibGVtVHlwZS5JTlZBTElEX0NBUEFDSVRZLCB2YWx1ZSwgZSk7CgkJCX0KCQkJZmluYWwgTG9uZyBtYXggPSBsb25nVmFsdWU7CgkJCXJldHVybiBuZXcgQ2FwYWNpdHkoMCwgbWF4KTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">cnMgLT4gewoJCQlDbGllbnRFbnRpdHkgZW50aXR5ID0gbmV3IENsaWVudEVudGl0eSgpOwoJCQllbnRpdHkuc2V0SWQocnMuZ2V0SW50KCJhY2NvdW50X2lkIikpOwoJCQllbnRpdHkuc2V0VXVpZChVVUlELmZyb21TdHJpbmcocnMuZ2V0U3RyaW5nKCJ1dWlkIikpKTsKCQkJZW50aXR5LnNldEFjY291bnRTdGF0dXNJZChycy5nZXRJbnQoImFjY291bnRfc3RhdHVzX2lkIikpOwoJCQlyZXR1cm4gZW50aXR5OwoJCX0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlGdW5jdGlvbjxSZXN1bHRTZXQsIENsaWVudEVudGl0eT4gY2xpZW50TWFwcGVyID0gKHJzLCByb3cpIC0+IHsKCQkJQ2xpZW50RW50aXR5IGVudGl0eSA9IG5ldyBDbGllbnRFbnRpdHkoKTsKCQkJdHJ5IHsKCQkJCWVudGl0eS5zZXRJZChycy5nZXRJbnQoImFjY291bnRfaWQiKSk7CgkJCQllbnRpdHkuc2V0VXVpZChVVUlELmZyb21TdHJpbmcocnMuZ2V0U3RyaW5nKCJ1dWlkIikpKTsKCQkJCWVudGl0eS5zZXRBY2NvdW50U3RhdHVzSWQocnMuZ2V0SW50KCJhY2NvdW50X3N0YXR1c19pZCIpKTsKCQkJfSBjYXRjaCAoU1FMRXhjZXB0aW9uIGUpIHsKCQkJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGUpOwoJCQl9CgkJCXJldHVybiBlbnRpdHk7CgkJfTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWlmIChVTkxJTUlURURfVEVYVC5lcXVhbHNJZ25vcmVDYXNlKHZhbHVlKSkgewoJCQkJCS8vIHVubGltaXRlZAoJCQkJfSBlbHNlIHsK</text>
+        <text encoding="base64">CQkJRSBlbnRpdHkgPSBtYXBwZXIuYXBwbHkocnMpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>value.isUnlimited()
-					? UNLIMITED_TEXT</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJRSBlbnRpdHkgPSBtYXBwZXIubWFwUm93KHJzLCByb3cpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIG5ldyBMaW1pdCgpIHsKCgkJCQlAT3ZlcnJpZGUKCQkJCXB1YmxpYyBib29sZWFuIGlzVW5saW1pdGVkKCkgewoJCQkJCXJldHVybiBtYXggPT0gbnVsbDsKCQkJCX0KCgkJCQlAT3ZlcnJpZGUKCQkJCXB1YmxpYyBsb25nIGdldE1heCgpIHsKCQkJCQlpZiAobWF4ID09IG51bGwpIHsKCQkJCQkJcmV0dXJuIC0xOwoJCQkJCX0KCQkJCQlyZXR1cm4gbWF4OwoJCQkJfQoKCQkJfTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">KHJzLCByb3cpIC0+IHsKCQkJaW50IGlkID0gcnMuZ2V0SW50KCJhY2NvdW50X2lkIik7CgkJCUUgZW50aXR5ID0gbWFwcGVyLmFwcGx5KHJzKTsKCQkJbWFwLnB1dChpZCwgZW50aXR5KTsKCQkJcmV0dXJuIGVudGl0eTsKCQl9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCS8qKgoJCQkJICogQHNlZSBjb20ub29kcml2ZS5hc2dhcmQudXNlci5wMTBnLmxlZ2FjeS51dGlscy5wMTFnLmVudGl0eS5MaW1pdCNnZXRNYXgoKQoJCQkJICovCg==</text>
+        <text encoding="base64">CQkJZW50aXR5LnNldFV1aWQoVVVJRC5mcm9tU3RyaW5nKHJzLmdldFN0cmluZygidXVpZCIpKSk7CgkJCWVudGl0eS5zZXRBY2NvdW50U3RhdHVzSWQocnMuZ2V0SW50KCJhY2NvdW50X3N0YXR1c19pZCIpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCS8qKgoJCQkJICogQHNlZSBjb20ub29kcml2ZS5hc2dhcmQudXNlci5wMTBnLmxlZ2FjeS51dGlscy5wMTFnLmVudGl0eS5MaW1pdCNpc1VubGltaXRlZCgpCgkJCQkgKi8K</text>
+        <text encoding="base64">CQkJfQoJCQllbnRpdHkuc2V0VXVpZChVVUlELmZyb21TdHJpbmcocnMuZ2V0U3RyaW5nKCJ1dWlkIikpKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBAc2VlIGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuYnVzaW5lc3NyZWYuRmllbGRGb3JtYXQjdG9TdHJpbmcoamF2YS5sYW5nLk9iamVjdCkKCQkgKi8K</text>
+      <register name="7" type="4">
+        <text encoding="base64">KHJzLCByb3cpIC0+IHsKCQkJaW50IGlkID0gcnMuZ2V0SW50KCJhY2NvdW50X2lkIik7CgkJCUUgZW50aXR5ID0gbWFwcGVyLmFwcGx5KHJzKTsKCQkJbWFwLnB1dChpZCwgZW50aXR5KTsKCQkJcmV0dXJuIGVudGl0eTsKCQl9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkvKioKCQkgKiBAc2VlIGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuYnVzaW5lc3NyZWYuRmllbGRGb3JtYXQjcGFyc2UoamF2YS5sYW5nLlN0cmluZykKCQkgKi8K</text>
+        <text encoding="base64">CQl9OwoK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CS8qKgoJICoKCSAqLwo=</text>
+      <register name="9" type="4">
+        <text>{
+			int id = rs.getInt(&quot;account_id&quot;);
+			E entity = mapper.apply(rs);
+			map.put(id, entity);
+			return entity;
+		}</text>
       </register>
       <register name=":" type="4">
         <text>%s/2018-04-18/2019-07-07/g</text>
