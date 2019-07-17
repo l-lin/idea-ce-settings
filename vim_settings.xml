@@ -13,11 +13,12 @@
       <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1562923925786">
         <mark key="'" line="444" column="47" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" timestamp="1563353879523">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="29" column="26" />
-        <mark key="^" line="29" column="26" />
-        <mark key="." line="29" column="26" />
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" timestamp="1563356122451">
+        <mark key="'" line="47" column="34" />
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="63" column="32" />
+        <mark key="^" line="63" column="32" />
+        <mark key="." line="63" column="32" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1563195827893">
         <mark key="'" line="0" column="1" />
@@ -89,12 +90,12 @@
       <file name="$USER_HOME$/work/asgard-users/asgard-user-write/src/main/java/com/oodrive/asgard/user/write/accountsession/AccountSessionWriteRepository.java" timestamp="1562140389126">
         <mark key="'" line="32" column="32" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/usecase/AuthFailuresService.java" timestamp="1563353612846">
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/usecase/AuthFailuresService.java" timestamp="1563355912388">
         <mark key="'" line="0" column="1" />
-        <mark key="[" line="84" column="4" />
-        <mark key="]" line="84" column="10" />
-        <mark key="^" line="84" column="10" />
-        <mark key="." line="84" column="10" />
+        <mark key="[" line="75" column="41" />
+        <mark key="]" line="75" column="48" />
+        <mark key="." line="75" column="48" />
+        <mark key="^" line="75" column="48" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-read/src/main/java/com/oodrive/asgard/user/read/account/repository/detailuser/DetailUserReadRepository.java" timestamp="1563178490709">
         <mark key="'" line="2" column="0" />
@@ -181,7 +182,7 @@
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/resources/application.yml" timestamp="1562579859493">
         <mark key="'" line="121" column="12" />
       </file>
-      <file name="$USER_HOME$/apps/jdk1.8.0_181/src.zip!/java/util/Comparator.java" timestamp="1563353169378">
+      <file name="$USER_HOME$/apps/jdk1.8.0_181/src.zip!/java/util/Comparator.java" timestamp="1563355041752">
         <mark key="'" line="210" column="5" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/GetNoSubscriptionUserMapper.java" timestamp="1562934040721">
@@ -235,12 +236,13 @@
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/dto/BlockedAccountListDTO.java" timestamp="1563288059655">
         <mark key="[" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/dto/AuthFailureFilterDTO.java" timestamp="1563352310266">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/dto/AuthFailureFilterDTO.java" timestamp="1563355884510">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
+      <file name="$USER_HOME$/apps/jdk1.8.0_181/src.zip!/java/util/Collections.java" timestamp="1563355190000" />
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/target/extract-liquibase/liquibase-master.xml" timestamp="1562165152717">
         <mark key="'" line="302" column="12" />
       </file>
@@ -303,24 +305,11 @@
       <file name="$MAVEN_REPOSITORY$/com/oodrive/asgard/json-schema-asgard-codegen/1.0.0-draft6/json-schema-asgard-codegen-1.0.0-draft6-sources.jar!/com/oodrive/provisioning/tracking/asgard/user/CreateUserEvent.java" timestamp="1563268823163">
         <mark key="'" line="68" column="59" />
       </file>
-      <file name="/fragment.java" timestamp="1563353730310">
+      <file name="/fragment.java" timestamp="1563355026100">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="8" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/CSVUserDetailDTOMapper.java" />
-      <jump line="69" column="29" filename="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/account/detailaccount/DetailAccount.java" />
-      <jump line="297" column="3" filename="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/account/detailaccount/DetailAccount.java" />
-      <jump line="23" column="24" filename="$USER_HOME$/work/asgard-users/asgard-user-read/src/main/java/com/oodrive/asgard/user/read/account/repository/detailuser/DefaultDetailUserRepositoryMapper.java" />
-      <jump line="186" column="51" filename="$USER_HOME$/work/asgard-users/asgard-user-read/src/main/java/com/oodrive/asgard/user/read/account/repository/detailuser/DefaultDetailUserRepositoryMapper.java" />
-      <jump line="173" column="11" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/transformer/GetLegacyUserRepositoryMapper.java" />
-      <jump line="161" column="4" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/transformer/user/GetUserRepositoryMapper.java" />
-      <jump line="163" column="67" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserBeanInfoMapper.java" />
-      <jump line="147" column="51" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/tracking/profile/UserProfileDataMapper.java" />
-      <jump line="50" column="19" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserBeanInfoMapper.java" />
-      <jump line="148" column="50" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/XLSXUserDetailDTOMapper.java" />
-      <jump line="157" column="42" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserBeanInfoMapper.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserBeanInfoMapper.java" />
       <jump line="32" column="49" filename="$USER_HOME$/work/asgard-users/asgard-user-read/src/main/java/com/oodrive/asgard/user/read/account/repository/detailuser/DetailUserReadRepository.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-read/src/main/java/com/oodrive/asgard/user/read/account/repository/detailuser/DetailUserReadRepository.java" />
       <jump line="2" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-read/src/main/java/com/oodrive/asgard/user/read/account/repository/detailuser/DetailUserReadRepository.java" />
@@ -408,65 +397,75 @@
       <jump line="210" column="5" filename="$USER_HOME$/apps/jdk1.8.0_181/src.zip!/java/util/Comparator.java" />
       <jump line="91" column="58" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/usecase/AuthFailuresService.java" />
       <jump line="0" column="1" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/usecase/AuthFailuresService.java" />
+      <jump line="8" column="26" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
+      <jump line="10" column="17" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
+      <jump line="22" column="5" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
+      <jump line="67" column="18" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
+      <jump line="91" column="56" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
+      <jump line="38" column="51" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
+      <jump line="17" column="52" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
+      <jump line="105" column="31" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
+      <jump line="15" column="15" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
+      <jump line="99" column="0" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
+      <jump line="47" column="34" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>getAny() = null;</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>getAny() = null;</text>
       </register>
       <register name="/" type="4">
-        <text>Comparators</text>
+        <text>getAny()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0X2dlbmVyYXRlS2V5UGF0dGVybl9lbXB0eSgpIHsKCQlBdXRoRmFpbHVyZUZpbHRlckRUTyBmaWx0ZXIgPSBuZXcgQXV0aEZhaWx1cmVGaWx0ZXJEVE8oKTsKCQlmaWx0ZXIucS5hbnkgPSAiIjsKCQlBc3NlcnQuYXNzZXJ0RXF1YWxzKCJsb2dpbkF0dGVtcHRDYWNoZSpiYXIiLCBBdXRoRmFpbHVyZXNTZXJ2aWNlLmdlbmVyYXRlS2V5UGF0dGVybigibG9naW5BdHRlbXB0Q2FjaGUqIiwgImJhciIsIGZpbHRlcikpOwoJfQo=</text>
+        <text encoding="base64">CglAVGVzdAoJcHVibGljIHZvaWQgdGVzdF9nZW5lcmF0ZUNvbXBhcmF0b3JfYXR0ZW1wdHMoKSB7CgkJLy8gR0lWRU4KCQlBdXRoRmFpbHVyZUZpbHRlckRUTyBmaWx0ZXIgPSBuZXcgQXV0aEZhaWx1cmVGaWx0ZXJEVE8oKTsKCQlmaWx0ZXIuc2V0U29ydCgiYXR0ZW1wdHMiKTsKCgkJLy8gV0hFTgoJCUxpc3Q8QXV0aEZhaWx1cmVEVE8+IHJlc3VsdCA9IGxpc3Quc3RyZWFtKCkKCQkJCS5zb3J0ZWQoQXV0aEZhaWx1cmVzU2VydmljZS5nZXRDb21wYXJhdG9yKGZpbHRlcikpCgkJCQkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCgkJLy8gVEhFTgoJCUFzc2VydC5hc3NlcnRFcXVhbHMocmVzdWx0LnNpemUoKSwgbGlzdC5zaXplKCkpOwoJCUFzc2VydC5hc3NlcnRFcXVhbHMoZmlyc3RBdHRlbXB0c1NlY29uZExvZ2luVGhpcmRTZXJ2ZXIuaWQsIHJlc3VsdC5nZXQoMCkuaWQpOwoJCUFzc2VydC5hc3NlcnRFcXVhbHMoc2Vjb25kQXR0ZW1wdHNGaXJzdExvZ2luU2Vjb25kU2VydmVyLmlkLCByZXN1bHQuZ2V0KDEpLmlkKTsKCQlBc3NlcnQuYXNzZXJ0RXF1YWxzKHRoaXJkQXR0ZW1wdHNUaGlyZExvZ2luRmlyc3RTZXJ2ZXIuaWQsIHJlc3VsdC5nZXQoMikuaWQpOwoJfQoKCUBUZXN0CglwdWJsaWMgdm9pZCB0ZXN0X2dlbmVyYXRlQ29tcGFyYXRvcl9hdHRlbXB0c19yZXZlcnNlKCkgewoJCS8vIEdJVkVOCgkJQXV0aEZhaWx1cmVGaWx0ZXJEVE8gZmlsdGVyID0gbmV3IEF1dGhGYWlsdXJlRmlsdGVyRFRPKCk7CgkJZmlsdGVyLnNldFNvcnQoImF0dGVtcHRzIik7CgkJZmlsdGVyLnNldE9yZGVyKFNvcnRPcmRlci5kZXNjKTsKCgkJLy8gV0hFTgoJCUxpc3Q8QXV0aEZhaWx1cmVEVE8+IHJlc3VsdCA9IGxpc3Quc3RyZWFtKCkKCQkJCS5zb3J0ZWQoQXV0aEZhaWx1cmVzU2VydmljZS5nZXRDb21wYXJhdG9yKGZpbHRlcikpCgkJCQkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCgkJLy8gVEhFTgoJCUFzc2VydC5hc3NlcnRFcXVhbHMocmVzdWx0LnNpemUoKSwgbGlzdC5zaXplKCkpOwoJCUFzc2VydC5hc3NlcnRFcXVhbHModGhpcmRBdHRlbXB0c1RoaXJkTG9naW5GaXJzdFNlcnZlci5pZCwgcmVzdWx0LmdldCgwKS5pZCk7CgkJQXNzZXJ0LmFzc2VydEVxdWFscyhzZWNvbmRBdHRlbXB0c0ZpcnN0TG9naW5TZWNvbmRTZXJ2ZXIuaWQsIHJlc3VsdC5nZXQoMSkuaWQpOwoJCUFzc2VydC5hc3NlcnRFcXVhbHMoZmlyc3RBdHRlbXB0c1NlY29uZExvZ2luVGhpcmRTZXJ2ZXIuaWQsIHJlc3VsdC5nZXQoMikuaWQpOwoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJQ29tcGFyYXRvcjxBdXRoRmFpbHVyZURUTz4gY29tcGFyYXRvciA9IENvbXBhcmF0b3IuY29tcGFyaW5nSW50KChBdXRoRmFpbHVyZURUTyBhdXRoRmFpbHVyZSkgLT4gYXV0aEZhaWx1cmUuYXR0ZW1wdHMpOwo=</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKHRoaXJkQXR0ZW1wdHNUaGlyZExvZ2luRmlyc3RTZXJ2ZXIuaWQsIHJlc3VsdC5nZXQoMCkuaWQpOwoJCUFzc2VydC5hc3NlcnRFcXVhbHMoc2Vjb25kQXR0ZW1wdHNGaXJzdExvZ2luU2Vjb25kU2VydmVyLmlkLCByZXN1bHQuZ2V0KDEpLmlkKTsKCQlBc3NlcnQuYXNzZXJ0RXF1YWxzKGZpcnN0QXR0ZW1wdHNTZWNvbmRMb2dpblRoaXJkU2VydmVyLmlkLCByZXN1bHQuZ2V0KDIpLmlkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlzd2l0Y2ggKGZpbHRlci5nZXRTb3J0KCkpIHsKCQkJY2FzZSAiYXR0ZW1wdCI6CgkJCWNhc2UgInNlcnZlciI6CgkJCQlicmVhazsKCQkJY2FzZSAibG9naW4iOgoJCQlkZWZhdWx0OgoJCQkJYnJlYWs7CgkJfQo=</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKGZpcnN0QXR0ZW1wdHNTZWNvbmRMb2dpblRoaXJkU2VydmVyLmlkLCByZXN1bHQuZ2V0KDApLmlkKTsKCQlBc3NlcnQuYXNzZXJ0RXF1YWxzKHNlY29uZEF0dGVtcHRzRmlyc3RMb2dpblNlY29uZFNlcnZlci5pZCwgcmVzdWx0LmdldCgxKS5pZCk7CgkJQXNzZXJ0LmFzc2VydEVxdWFscyh0aGlyZEF0dGVtcHRzVGhpcmRMb2dpbkZpcnN0U2VydmVyLmlkLCByZXN1bHQuZ2V0KDIpLmlkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXJldHVybiAoZHRvMSwgZHRvMikgLT4gewoJCQkJCUNvbXBhcmF0b3I8QXV0aEZhaWx1cmVEVE8+IGNvbXBhcmF0b3IgPSBDb21wYXJhdG9yLmNvbXBhcmluZ0ludCgoQXV0aEZhaWx1cmVEVE8gYXV0aEZhaWx1cmUpIC0+IGF1dGhGYWlsdXJlLmF0dGVtcHRzKTsKCQkJCQlpZiAoIWZpbHRlci5nZXRPcmRlcigpLmFzY2VuZGluZygpKSB7CgkJCQkJCWNvbXBhcmF0b3IucmV2ZXJzZWQoKTsKCQkJCQl9CgkJCQkJcmV0dXJuIGNvbXBhcmF0b3IuY29tcGFyZShkdG8xLCBkdG8yKTsKCQkJCX07Cg==</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKHRoaXJkQXR0ZW1wdHNUaGlyZExvZ2luRmlyc3RTZXJ2ZXIuaWQsIHJlc3VsdC5nZXQoMCkuaWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJY2FzZSAibG9naW4iOgoJCQkJYnJlYWs7Cg==</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKGZpcnN0QXR0ZW1wdHNTZWNvbmRMb2dpblRoaXJkU2VydmVyLmlkLCByZXN1bHQuZ2V0KDIpLmlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJY2FzZSAibG9naW4iOgoJCQkJYnJlYWs7Cg==</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKGZpcnN0QXR0ZW1wdHNTZWNvbmRMb2dpblRoaXJkU2VydmVyLmlkLCByZXN1bHQuZ2V0KDEpLmlkKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCS5zb3J0ZWQoKGR0bzEsIGR0bzIpIC0+IGR0bzIuYXR0ZW1wdHMgLSBkdG8xLmF0dGVtcHRzKQoJCQkJLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKGZpcnN0QXR0ZW1wdHNTZWNvbmRMb2dpblRoaXJkU2VydmVyLmlkLCByZXN1bHQuZ2V0KDEpLmlkKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwdWJsaWMgU3RyaW5nIGxvZ2luOwoKCQlwdWJsaWMgU3RyaW5nIHNlcnZlcjsK</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKHRoaXJkQXR0ZW1wdHNUaGlyZExvZ2luRmlyc3RTZXJ2ZXIsIHJlc3VsdC5nZXQoMCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+Y29tbW9ucy12YWxpZGF0b3I8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmNvbW1vbnMtdmFsaWRhdG9yPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQlBc3NlcnQuYXNzZXJ0RXF1YWxzKHNlY29uZEF0dGVtcHRzRmlyc3RMb2dpblNlY29uZFNlcnZlciwgcmVzdWx0LmdldCgyKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIAogKi8K</text>
+        <text encoding="base64">CQkJQ29tcGFyYXRvcjxBdXRoRmFpbHVyZURUTz4gY29tcGFyYXRvciA9IENvbXBhcmF0b3IuY29tcGFyaW5nSW50KChBdXRoRmFpbHVyZURUTyBhdXRoRmFpbHVyZSkgLT4gYXV0aEZhaWx1cmUuYXR0ZW1wdHMpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/2018-04-18/2019-07-07/g</text>
+        <text>%s/getAny()/setAny(\1);/gc</text>
       </register>
     </registers>
     <search>
-      <last-search>Comparators</last-search>
+      <last-search>getAny()</last-search>
       <last-offset />
-      <last-pattern>Comparators</last-pattern>
-      <last-replace>2019-07-07</last-replace>
-      <last-substitute>2018-04-18</last-substitute>
+      <last-pattern>getAny()</last-pattern>
+      <last-replace>setAny(\1);</last-replace>
+      <last-substitute>getAny()</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cronos</entry>
-        <entry encoding="base64">XDxxdWVyeVw+</entry>
-        <entry encoding="base64">XDxiZWFuTWFwXD4=</entry>
         <entry encoding="base64">XDxiZWFuXD4=</entry>
         <entry encoding="base64">XDxwZXJzb25cPg==</entry>
         <entry encoding="base64">XDwsXD4=</entry>
@@ -484,11 +483,11 @@
         <entry>ilike</entry>
         <entry>hidden_login</entry>
         <entry>Comparators</entry>
+        <entry>filter.q.any</entry>
+        <entry>getAny() = \(.+\);</entry>
+        <entry>getAny()</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/file-storage/secured-box/g</entry>
-        <entry>%s/new PasswordDTO(//g</entry>
-        <entry>%s/- mongo/- tyk_mongo/g</entry>
         <entry>%s/- redis/- tyk_redis/g</entry>
         <entry>%s/- gateway/- tyk_gateway/g</entry>
         <entry>%s/tyk_redis/redis/g</entry>
@@ -506,6 +505,9 @@
         <entry>%s/termination_date/suspension_date/g</entry>
         <entry>%s/idleUserIds/accountIds/gc</entry>
         <entry>%s/2018-04-18/2019-07-07/g</entry>
+        <entry>%s/filter.q.any/filter.getQ().getAny()/g</entry>
+        <entry>%s/getAny() = \(.+\);/setAny(\1);/gc</entry>
+        <entry>%s/getAny()/setAny(\1);/gc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
