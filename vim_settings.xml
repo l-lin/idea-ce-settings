@@ -10,6 +10,7 @@
         <mark key="^" line="182" column="33" />
         <mark key="." line="182" column="33" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-options/src/main/java/com/oodrive/asgard/options/internals/GeppettoAccountStatusManagerParameters.java" timestamp="1563377566469" />
       <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1562923925786">
         <mark key="'" line="444" column="47" />
       </file>
@@ -146,6 +147,12 @@
         <mark key="]" line="12" column="44" />
         <mark key="^" line="12" column="44" />
         <mark key="." line="12" column="44" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/dto/PreferencesDTO.java" timestamp="1563376630173">
+        <mark key="[" line="40" column="11" />
+        <mark key="]" line="40" column="14" />
+        <mark key="^" line="40" column="14" />
+        <mark key="." line="40" column="14" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserBeanInfoMapper.java" timestamp="1563178413166">
         <mark key="'" line="27" column="0" />
@@ -406,10 +413,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>filter</text>
+        <text>long</text>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text>getAny()</text>
