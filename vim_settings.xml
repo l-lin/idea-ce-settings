@@ -134,6 +134,12 @@
         <mark key="^" line="73" column="31" />
         <mark key="." line="73" column="31" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/dto/user/CreateUserDTO.java" timestamp="1563463002228">
+        <mark key="[" line="34" column="11" />
+        <mark key="]" line="34" column="14" />
+        <mark key="." line="34" column="14" />
+        <mark key="^" line="34" column="14" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/SupportServiceImpl.java" timestamp="1563193738599">
         <mark key="'" line="103" column="48" />
         <mark key="[" line="86" column="114" />
@@ -216,13 +222,6 @@
       <file name="$USER_HOME$/apps/jdk1.8.0_181/src.zip!/java/util/Comparator.java" timestamp="1563355041752">
         <mark key="'" line="210" column="5" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-options/src/main/java/com/oodrive/asgard/options/internals/GeppettoUserStorageMinParameters.java" timestamp="1563453064545">
-        <mark key="r" line="21" column="35" />
-        <mark key="[" line="14" column="54" />
-        <mark key="]" line="14" column="54" />
-        <mark key="." line="14" column="54" />
-        <mark key="^" line="14" column="54" />
-      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/GetNoSubscriptionUserMapper.java" timestamp="1562934040721">
         <mark key="'" line="178" column="51" />
         <mark key="[" line="179" column="8" />
@@ -252,7 +251,6 @@
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/dto/BlockedAccountDTO.java" timestamp="1563288034793">
         <mark key="[" line="7" column="13" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-lsd/src/main/java/com/oodrive/asgard/admin/lsd/controller/PreferencesController.java" timestamp="1563453472168" />
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserInfo.java" timestamp="1563460116104">
         <mark key="'" line="48" column="31" />
         <mark key="[" line="311" column="0" />
@@ -310,6 +308,12 @@
         <mark key="]" line="13" column="34" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/UserCapacity.java" timestamp="1563463057047">
+        <mark key="[" line="21" column="11" />
+        <mark key="]" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="^" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/utils/Limit.java" timestamp="1563180362095">
         <mark key="'" line="19" column="0" />
@@ -478,11 +482,11 @@
       <jump line="1279" column="29" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/resources/dictionary/dictionary_en.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJdXNlckluZm8ucHJvYmxlbUF0KFVzZXJGaWVsZFR5cGVzLlNQQUNFX01BWCkKCQkJCQkud2l0aFByb2JsZW0oKHBvcywgZmllbGQpIC0+IFByb2JsZW1zLnVzZXJTdG9yYWdlTWluKGZpZWxkLCBwb3MpKQoJCQkJCS5sb2cocG9zIC0+IGltcG9ydExvZ2dlci5lcnJvcigiVXNlciBzdG9yYWdlIG1pbiIpKQoJCQkJCS5hbmRUaHJvdygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>long</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bG9uZyBzdG9yYWdlTWF4U2V0IA==</text>
+        <text>long</text>
       </register>
       <register name="/" type="4">
         <text>QUOTA</text>
