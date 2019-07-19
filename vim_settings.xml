@@ -13,6 +13,9 @@
       <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1562923925786">
         <mark key="'" line="444" column="47" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/validator/MandatoryFieldsUserBeanInfoValidator.java" timestamp="1563457351999">
+        <mark key="[" line="31" column="61" />
+      </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/test/java/com/oodrive/heimdall/api/usecase/AuthFailureServiceTest.java" timestamp="1563358137895">
         <mark key="'" line="203" column="8" />
         <mark key="[" line="200" column="98" />
@@ -82,6 +85,11 @@
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/contact/ContactBeanInfoMapper.java" timestamp="1562919690324">
         <mark key="'" line="246" column="98" />
+      </file>
+      <file name="$USER_HOME$/work/loki-app/src/main/resources/themes/default/oodrive/theme.json" timestamp="1563543433490">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/transformer/GetLegacySupportRepositoryMapper.java" timestamp="1563193387990">
         <mark key="'" line="211" column="4" />
@@ -252,10 +260,8 @@
       <file name="/ContactTrackingTransformer.java" timestamp="1562855722372">
         <mark key="'" line="33" column="8" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserInfo.java" timestamp="1563460116104">
-        <mark key="'" line="48" column="31" />
-        <mark key="[" line="311" column="0" />
-        <mark key="]" line="311" column="55" />
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/dto/BlockedAccountDTO.java" timestamp="1563288034793">
+        <mark key="[" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" timestamp="1563460419841">
         <mark key="'" line="128" column="22" />
@@ -275,6 +281,9 @@
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/support/bean/SupportInfo.java" timestamp="1563193683889">
         <mark key="'" line="33" column="32" />
       </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/dto/BlockedAccountListDTO.java" timestamp="1563288059655">
+        <mark key="[" line="10" column="13" />
+      </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/dto/AuthFailureFilterDTO.java" timestamp="1563357476384">
         <mark key="'" line="9" column="27" />
         <mark key="[" line="33" column="5" />
@@ -293,6 +302,9 @@
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-options/src/main/java/com/oodrive/asgard/options/facade/AsgardOptionFacade.java" timestamp="1563461026224">
         <mark key="'" line="119" column="58" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/dto/AuthFailuresFilterDTO.java" timestamp="1563289302512">
+        <mark key="[" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-auth/src/main/java/com/oodrive/heimdall/server/auth/repository/AuthFailureRepository.java" timestamp="1563292873890">
         <mark key="[" line="8" column="4" />
@@ -341,6 +353,12 @@
         <mark key="^" line="99" column="16" />
         <mark key="." line="99" column="16" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/UserExportHeaders.java" timestamp="1562935802491">
+        <mark key="[" line="21" column="40" />
+      </file>
+      <file name="$USER_HOME$/work/loki-app/src/main/resources/application.yml" timestamp="1563543771056">
+        <mark key="'" line="50" column="19" />
+      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/UpdateUser.java" timestamp="1563454859225">
         <mark key="'" line="96" column="22" />
       </file>
@@ -356,9 +374,11 @@
       <file name="$MAVEN_REPOSITORY$/com/oodrive/asgard/json-schema-asgard-codegen/1.0.0-draft6/json-schema-asgard-codegen-1.0.0-draft6-sources.jar!/com/oodrive/provisioning/tracking/asgard/user/CreateUserEvent.java" timestamp="1563268823163">
         <mark key="'" line="68" column="59" />
       </file>
+      <file name="/fragment.java" timestamp="1563543724784">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="411" column="25" filename="$USER_HOME$/work/asgard-users/pom.xml" />
       <jump line="412" column="24" filename="$USER_HOME$/work/asgard-users/pom.xml" />
       <jump line="22" column="40" filename="$USER_HOME$/work/asgard-users/pom.xml" />
       <jump line="40" column="45" filename="$USER_HOME$/work/asgard-users/pom.xml" />
@@ -458,16 +478,17 @@
       <jump line="47" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/problem/ProblemType.java" />
       <jump line="58" column="87" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/problem/ProblemType.java" />
       <jump line="1279" column="29" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/resources/dictionary/dictionary_en.properties" />
+      <jump line="50" column="19" filename="$USER_HOME$/work/loki-app/src/main/resources/application.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DEFAULT_TRUE</text>
+        <text>5BD1A0</text>
       </register>
       <register name="-" type="4">
-        <text>DEFAULT_TRUE</text>
+        <text>5BD1A0</text>
       </register>
       <register name="/" type="4">
-        <text>QUOTA</text>
+        <text>front.path</text>
       </register>
       <register name="0" type="4">
         <text>ProvisioningContext provisioningContext</text>
@@ -504,9 +525,9 @@
       </register>
     </registers>
     <search>
-      <last-search>QUOTA</last-search>
+      <last-search>front.path</last-search>
       <last-offset />
-      <last-pattern>QUOTA</last-pattern>
+      <last-pattern>front.path</last-pattern>
       <last-replace>setAny(\1);</last-replace>
       <last-substitute>getAny()</last-substitute>
       <last-dir>1</last-dir>
@@ -514,7 +535,6 @@
     </search>
     <history>
       <history-search>
-        <entry>queue</entry>
         <entry>user</entry>
         <entry>spring</entry>
         <entry>asgard-user</entry>
@@ -534,6 +554,7 @@
         <entry encoding="base64">XDxvcHRpb25SZXBvc2l0b3J5XD4=</entry>
         <entry>workspace</entry>
         <entry>QUOTA</entry>
+        <entry>front.path</entry>
       </history-search>
       <history-cmd>
         <entry>%s/- redis/- tyk_redis/g</entry>
