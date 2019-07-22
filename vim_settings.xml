@@ -73,6 +73,7 @@
         <mark key="^" line="64" column="34" />
         <mark key="." line="64" column="34" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/CommonPreparedAccount.java" timestamp="1563787662287" />
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/business/UserProvisioningBusiness.java" timestamp="1563460438816">
         <mark key="'" line="89" column="37" />
       </file>
@@ -116,6 +117,11 @@
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-write/src/main/java/com/oodrive/asgard/user/write/accountsession/AccountSessionWriteRepository.java" timestamp="1562140389126">
         <mark key="'" line="32" column="32" />
+      </file>
+      <file name="$USER_HOME$/work/loki-app/src/main/java/com/oodrive/loki/app/version/updates/Update3.java" timestamp="1563787733289">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
       </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/usecase/AuthFailuresService.java" timestamp="1563358679508">
         <mark key="[" line="110" column="4" />
@@ -312,6 +318,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/AccountServiceImpl.java" timestamp="1563787482278" />
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/UserCapacity.java" timestamp="1563463057047">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="21" column="14" />
@@ -374,7 +381,7 @@
       <file name="$MAVEN_REPOSITORY$/com/oodrive/asgard/json-schema-asgard-codegen/1.0.0-draft6/json-schema-asgard-codegen-1.0.0-draft6-sources.jar!/com/oodrive/provisioning/tracking/asgard/user/CreateUserEvent.java" timestamp="1563268823163">
         <mark key="'" line="68" column="59" />
       </file>
-      <file name="/fragment.java" timestamp="1563543724784">
+      <file name="/fragment.java" timestamp="1563787716024">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -482,10 +489,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5BD1A0</text>
+        <text encoding="base64">ImJhY2tncm91bmQuanBnIiwgImJhbm5lci5wbmciLCAibG9nby5wbmciLCAibG9nby1zbWFsbC5wbmciLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>5BD1A0</text>
+        <text encoding="base64">ImJhY2tncm91bmQuanBnIiwgImJhbm5lci5wbmciLCAibG9nby5wbmciLCAibG9nby1zbWFsbC5wbmciLCA=</text>
       </register>
       <register name="/" type="4">
         <text>front.path</text>
@@ -494,31 +501,31 @@
         <text>ProvisioningContext provisioningContext</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJdXNlckluZm8ucHJvYmxlbUF0KFVzZXJGaWVsZFR5cGVzLlNQQUNFX01BWCkKCQkJCQkud2l0aFByb2JsZW0oKHBvcywgZmllbGQpIC0+IFByb2JsZW1zLnVzZXJTdG9yYWdlTWluKGZpZWxkLCBwb3MpKQoJCQkJCS5sb2cocG9zIC0+IGltcG9ydExvZ2dlci5lcnJvcigiVXNlciBzdG9yYWdlIG1pbiIpKQoJCQkJCS5hbmRUaHJvdygpOwo=</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3Igai5hcnZlaWxsZXIKICogQGNyZWF0ZWQgMjAxOS8wMi8wNwogKi8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJaW50IHdvcmtzcGFjZUlkID0gcHJvdmlzaW9uaW5nQ29udGV4dC5nZXRDb250ZXh0KCkKCQkJCQkuZ2V0V29ya3NwYWNlSWQoKTsKCQkJaWYgKG9wdGlvbkZhY2FkZS5nZXRVc2VyU3RvcmFnZU1pbk9wdGlvblN0YXRlKHdvcmtzcGFjZUlkKSkgewoJCQkJbG9uZyB1c2VyU3RvcmFnZU1pbiA9IG9wdGlvbkZhY2FkZS5nZXRVc2VyU3RvcmFnZU1pbih3b3Jrc3BhY2VJZCk7CgkJCQl1c2VySW5mby5wcm9ibGVtQXQoVXNlckZpZWxkVHlwZXMuU1BBQ0VfTUFYKQoJCQkJCQkud2l0aFByb2JsZW0oKHBvcywgZmllbGQpIC0+IFByb2JsZW1zLnVzZXJTdG9yYWdlTWluKGZpZWxkLCBwb3MpKQoJCQkJCQkubG9nKHBvcyAtPiBpbXBvcnRMb2dnZXIuZXJyb3IoIlVzZXIgc3RvcmFnZSBtaW4iKSkKCQkJCQkJLmFuZFRocm93KCk7CgkJCX0K</text>
+        <text encoding="base64">CQkJdXNlckluZm8ucHJvYmxlbUF0KFVzZXJGaWVsZFR5cGVzLlNQQUNFX01BWCkKCQkJCQkud2l0aFByb2JsZW0oKHBvcywgZmllbGQpIC0+IFByb2JsZW1zLnVzZXJTdG9yYWdlTWluKGZpZWxkLCBwb3MpKQoJCQkJCS5sb2cocG9zIC0+IGltcG9ydExvZ2dlci5lcnJvcigiVXNlciBzdG9yYWdlIG1pbiIpKQoJCQkJCS5hbmRUaHJvdygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXVzZXJJbmZvLnByb2JsZW1BdCgpCgkJCQkJCS53aXRoUHJvYmxlbShQcm9ibGVtczo6c3Vic2NyaXB0aW9uTm90Rm91bmQpCgkJCQkJCS5sb2cocG9zIC0+IGltcG9ydExvZ2dlci5lcnJvcigiU3Vic2NyaXB0aW9uIG5vdCBmb3VuZCIpKQoJCQkJCQkuYW5kVGhyb3coKTsK</text>
+        <text encoding="base64">CQkJaW50IHdvcmtzcGFjZUlkID0gcHJvdmlzaW9uaW5nQ29udGV4dC5nZXRDb250ZXh0KCkKCQkJCQkuZ2V0V29ya3NwYWNlSWQoKTsKCQkJaWYgKG9wdGlvbkZhY2FkZS5nZXRVc2VyU3RvcmFnZU1pbk9wdGlvblN0YXRlKHdvcmtzcGFjZUlkKSkgewoJCQkJbG9uZyB1c2VyU3RvcmFnZU1pbiA9IG9wdGlvbkZhY2FkZS5nZXRVc2VyU3RvcmFnZU1pbih3b3Jrc3BhY2VJZCk7CgkJCQl1c2VySW5mby5wcm9ibGVtQXQoVXNlckZpZWxkVHlwZXMuU1BBQ0VfTUFYKQoJCQkJCQkud2l0aFByb2JsZW0oKHBvcywgZmllbGQpIC0+IFByb2JsZW1zLnVzZXJTdG9yYWdlTWluKGZpZWxkLCBwb3MpKQoJCQkJCQkubG9nKHBvcyAtPiBpbXBvcnRMb2dnZXIuZXJyb3IoIlVzZXIgc3RvcmFnZSBtaW4iKSkKCQkJCQkJLmFuZFRocm93KCk7CgkJCX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJb3B0aW9uRmFjYWRlLmdldFVzZXJTdG9yYWdlTWluKCkK</text>
+        <text encoding="base64">CQkJCXVzZXJJbmZvLnByb2JsZW1BdCgpCgkJCQkJCS53aXRoUHJvYmxlbShQcm9ibGVtczo6c3Vic2NyaXB0aW9uTm90Rm91bmQpCgkJCQkJCS5sb2cocG9zIC0+IGltcG9ydExvZ2dlci5lcnJvcigiU3Vic2NyaXB0aW9uIG5vdCBmb3VuZCIpKQoJCQkJCQkuYW5kVGhyb3coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CS8qKgoJICogQHBhcmFtIGFjY291bnRTZXJ2aWNlCgkgKiBAcGFyYW0gcDExZ1N1YnNjcmlwdGlvblNlcnZpY2UKCSAqIEBwYXJhbSBzMTBnU3Vic2NyaXB0aW9uU2VydmljZQoJICogQHBhcmFtIHNDYWNoZVJlcG9zaXRvcnkKCSAqLwo=</text>
+        <text encoding="base64">CQkJb3B0aW9uRmFjYWRlLmdldFVzZXJTdG9yYWdlTWluKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CS8qKgoJICogQHNlZSBjb20ub29kcml2ZS5hc2dhcmQudXNlci5wMTBnLnZhbGlkYXRvci5CZWFuSW5mb1ZhbGlkYXRvciN2YWxpZGF0ZShjb20ub29kcml2ZS5hc2dhcmQudXNlci5wMTBnLlByb3Zpc2lvbmluZ0NvbnRleHQsCgkgKiBjb20ub29kcml2ZS5hc2dhcmQudXNlci5wMTBnLmJlYW4uQmVhbkluZm8pCgkgKi8K</text>
+        <text encoding="base64">CS8qKgoJICogQHBhcmFtIGFjY291bnRTZXJ2aWNlCgkgKiBAcGFyYW0gcDExZ1N1YnNjcmlwdGlvblNlcnZpY2UKCSAqIEBwYXJhbSBzMTBnU3Vic2NyaXB0aW9uU2VydmljZQoJICogQHBhcmFtIHNDYWNoZVJlcG9zaXRvcnkKCSAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CglwdWJsaWMgYm9vbGVhbiBjaGVja1N0b3JhZ2VNaW4oUHJvdmlzaW9uaW5nQ29udGV4dCBwcm92aXNpb25pbmdDb250ZXh0LCBVc2VySW5mbyB1c2VySW5mbykgewoJCXVzZXJJbmZvLmdldERlZmluZWRDYXBhY2l0eSgpCgoKCQlyZXR1cm4gdHJ1ZTsKCX0K</text>
+        <text encoding="base64">CS8qKgoJICogQHNlZSBjb20ub29kcml2ZS5hc2dhcmQudXNlci5wMTBnLnZhbGlkYXRvci5CZWFuSW5mb1ZhbGlkYXRvciN2YWxpZGF0ZShjb20ub29kcml2ZS5hc2dhcmQudXNlci5wMTBnLlByb3Zpc2lvbmluZ0NvbnRleHQsCgkgKiBjb20ub29kcml2ZS5hc2dhcmQudXNlci5wMTBnLmJlYW4uQmVhbkluZm8pCgkgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVXBkYXRlIGEgYmVhbgogICAgICogQHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiAKICAgICAqCiAgICAgKiBAc2VlIGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuQmVhbkluZm9GYWN0b3J5QnVpbGRlciNjcmVhdGVCZWFuRm9yVXBkYXRlKGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuUHJvdmlzaW9uaW5nQ29udGV4dCwKICAgICAqIGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuYmVhbi5Nb2RpZmllciwgY29tLm9vZHJpdmUuYXNnYXJkLnVzZXIucDEwZy5iZWFuLlBvc2l0aW9ubmVyLAogICAgICogY29tLm9vZHJpdmUuYXNnYXJkLnVzZXIucDEwZy5iZWFuLkJlYW5WZXJpZmllciwgaW50KQogICAgICovCg==</text>
+        <text encoding="base64">CglwdWJsaWMgYm9vbGVhbiBjaGVja1N0b3JhZ2VNaW4oUHJvdmlzaW9uaW5nQ29udGV4dCBwcm92aXNpb25pbmdDb250ZXh0LCBVc2VySW5mbyB1c2VySW5mbykgewoJCXVzZXJJbmZvLmdldERlZmluZWRDYXBhY2l0eSgpCgoKCQlyZXR1cm4gdHJ1ZTsKCX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHNlZSBjb20ub29kcml2ZS5hc2dhcmQudXNlci5wMTBnLmJlYW4uQmVhbkluZm9GYWN0b3J5I2dldEJlYW5JbmZvQ2xhc3MoKQogICAgICovCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVXBkYXRlIGEgYmVhbgogICAgICogQHRocm93cyBOb3RGb3VuZEV4Y2VwdGlvbiAKICAgICAqCiAgICAgKiBAc2VlIGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuQmVhbkluZm9GYWN0b3J5QnVpbGRlciNjcmVhdGVCZWFuRm9yVXBkYXRlKGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuUHJvdmlzaW9uaW5nQ29udGV4dCwKICAgICAqIGNvbS5vb2RyaXZlLmFzZ2FyZC51c2VyLnAxMGcuYmVhbi5Nb2RpZmllciwgY29tLm9vZHJpdmUuYXNnYXJkLnVzZXIucDEwZy5iZWFuLlBvc2l0aW9ubmVyLAogICAgICogY29tLm9vZHJpdmUuYXNnYXJkLnVzZXIucDEwZy5iZWFuLkJlYW5WZXJpZmllciwgaW50KQogICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/getAny()/setAny(\1);/gc</text>
