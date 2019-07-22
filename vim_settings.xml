@@ -335,6 +335,12 @@
       <file name="$USER_HOME$/work/hermod-app/src/main/resources/application.yml" timestamp="1563204981436">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/loki-app/src/main/java/com/oodrive/loki/app/listener/OnStartup.java" timestamp="1563789044421">
+        <mark key="[" line="47" column="85" />
+        <mark key="]" line="47" column="85" />
+        <mark key="." line="47" column="85" />
+        <mark key="^" line="47" column="84" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/problem/ProblemTypeEnum.java" timestamp="1563461360346">
         <mark key="[" line="45" column="22" />
         <mark key="]" line="46" column="19" />
@@ -381,7 +387,7 @@
       <file name="$MAVEN_REPOSITORY$/com/oodrive/asgard/json-schema-asgard-codegen/1.0.0-draft6/json-schema-asgard-codegen-1.0.0-draft6-sources.jar!/com/oodrive/provisioning/tracking/asgard/user/CreateUserEvent.java" timestamp="1563268823163">
         <mark key="'" line="68" column="59" />
       </file>
-      <file name="/fragment.java" timestamp="1563787716024">
+      <file name="/fragment.java" timestamp="1563788919392">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -489,10 +495,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ImJhY2tncm91bmQuanBnIiwgImJhbm5lci5wbmciLCAibG9nby5wbmciLCAibG9nby1zbWFsbC5wbmciLCA=</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ImJhY2tncm91bmQuanBnIiwgImJhbm5lci5wbmciLCAibG9nby5wbmciLCAibG9nby1zbWFsbC5wbmciLCA=</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>front.path</text>
