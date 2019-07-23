@@ -187,6 +187,9 @@
         <mark key="^" line="163" column="67" />
         <mark key="." line="163" column="67" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/avatar/AvatarService.java" timestamp="1563872605148">
+        <mark key="'" line="276" column="16" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserFieldTypes.java" timestamp="1563194619833">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="64" column="30" />
@@ -318,7 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="8" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/usecase/AuthFailuresService.java" />
       <jump line="227" column="12" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/repository/addressbook/AddressBookQueryBuilder.java" />
       <jump line="115" column="46" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/repository/addressbook/AddressBookQueryBuilder.java" />
       <jump line="207" column="46" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/repository/addressbook/AddressBookQueryBuilder.java" />
@@ -418,6 +420,7 @@
       <jump line="23" column="29" filename="$USER_HOME$/work/deploy-j2-maker/src/main/java/com/oodrive/tools/deployj2maker/DeployJ2MakerApplication.java" />
       <jump line="15" column="29" filename="$USER_HOME$/work/deploy-j2-maker/src/main/resources/asgard-home.yml.j2" />
       <jump line="7" column="27" filename="$USER_HOME$/work/deploy-j2-maker/src/main/resources/asgard-home.yml.j2" />
+      <jump line="276" column="16" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/avatar/AvatarService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -427,7 +430,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>}}</text>
+        <text encoding="base64">XDxhY2NvdW50SWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VkIC1pICIveyUgaWYgaHR0cHNfY2xpZW50X2F1dGggaXMgZGVmaW5lZCAlfS9kIiByZXNvdXJjZXMvKi5qMgo=</text>
@@ -464,9 +467,9 @@
       </register>
     </registers>
     <search>
-      <last-search>}}</last-search>
+      <last-search encoding="base64">XDxhY2NvdW50SWRcPg==</last-search>
       <last-offset />
-      <last-pattern>}}</last-pattern>
+      <last-pattern encoding="base64">XDxhY2NvdW50SWRcPg==</last-pattern>
       <last-replace>}}&quot;</last-replace>
       <last-substitute>}}</last-substitute>
       <last-dir>1</last-dir>
@@ -474,7 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ilike</entry>
         <entry>hidden_login</entry>
         <entry>Comparators</entry>
         <entry>filter.q.any</entry>
@@ -494,6 +496,7 @@
         <entry>{</entry>
         <entry>{{</entry>
         <entry>}}</entry>
+        <entry encoding="base64">XDxhY2NvdW50SWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/tyk_mongo/mongo/g</entry>
