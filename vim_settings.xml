@@ -27,10 +27,12 @@
         <mark key="." line="36" column="43" />
         <mark key="^" line="36" column="43" />
       </file>
-      <file name="$USER_HOME$/work/deploy-j2-maker/src/main/java/com/oodrive/tools/deployj2maker/DeployJ2MakerApplication.java" timestamp="1563810886878">
-        <mark key="'" line="25" column="29" />
-        <mark key="[" line="35" column="13" />
-        <mark key="l" line="26" column="36" />
+      <file name="$USER_HOME$/work/deploy-j2-maker/src/main/java/com/oodrive/tools/deployj2maker/DeployJ2MakerApplication.java" timestamp="1563876124876">
+        <mark key="'" line="80" column="8" />
+        <mark key="[" line="62" column="56" />
+        <mark key="]" line="63" column="83" />
+        <mark key="^" line="63" column="83" />
+        <mark key="." line="63" column="83" />
       </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/controller/support/WorkspaceBlockedAccountController.java" timestamp="1563287959646">
         <mark key="'" line="57" column="44" />
@@ -76,6 +78,7 @@
         <mark key="." line="83" column="18" />
         <mark key="^" line="83" column="18" />
       </file>
+      <file name="$USER_HOME$/work/deploy-j2-maker/Dockerfile" timestamp="1563874922186" />
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/repository/AuthFailureRepository.java" timestamp="1563351198259">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="11" column="34" />
@@ -88,6 +91,12 @@
         <mark key="]" line="268" column="38" />
         <mark key="^" line="268" column="38" />
         <mark key="." line="268" column="38" />
+      </file>
+      <file name="$USER_HOME$/work/deploy-j2-maker/sanitize_input_files.sh" timestamp="1563876157297">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="4" column="56" />
       </file>
       <file name="$USER_HOME$/work/loki-app/src/main/java/com/oodrive/loki/app/version/updates/Update3.java" timestamp="1563787733289">
         <mark key="[" line="20" column="12" />
@@ -155,11 +164,12 @@
         <mark key="^" line="46" column="72" />
         <mark key="." line="46" column="72" />
       </file>
-      <file name="$USER_HOME$/work/deploy-j2-maker/pom.xml" timestamp="1563803768326">
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="26" />
-        <mark key="^" line="36" column="46" />
-        <mark key="." line="38" column="26" />
+      <file name="$USER_HOME$/work/deploy-j2-maker/pom.xml" timestamp="1563874533775">
+        <mark key="'" line="33" column="35" />
+        <mark key="[" line="47" column="11" />
+        <mark key="]" line="48" column="33" />
+        <mark key="^" line="48" column="33" />
+        <mark key="." line="48" column="33" />
       </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/controller/support/WorkspaceAuthFailuresController.java" timestamp="1563292039853">
         <mark key="[" line="37" column="48" />
@@ -260,6 +270,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/work/deploy-j2-maker/README.md" timestamp="1563876382207">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="18" />
+        <mark key="^" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/UserCapacity.java" timestamp="1563463057047">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="21" column="14" />
@@ -278,6 +294,12 @@
         <mark key="]" line="47" column="85" />
         <mark key="." line="47" column="85" />
         <mark key="^" line="47" column="84" />
+      </file>
+      <file name="$USER_HOME$/work/deploy-j2-maker/src/main/resources/application.yml" timestamp="1563875593029">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+        <mark key="^" line="5" column="2" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/problem/ProblemTypeEnum.java" timestamp="1563461360346">
         <mark key="[" line="45" column="22" />
@@ -321,9 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="227" column="12" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/repository/addressbook/AddressBookQueryBuilder.java" />
-      <jump line="115" column="46" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/repository/addressbook/AddressBookQueryBuilder.java" />
-      <jump line="207" column="46" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/repository/addressbook/AddressBookQueryBuilder.java" />
       <jump line="48" column="0" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/usecase/AuthFailuresService.java" />
       <jump line="67" column="17" filename="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/usecase/AuthFailuresService.java" />
       <jump line="210" column="5" filename="$USER_HOME$/apps/jdk1.8.0_181/src.zip!/java/util/Comparator.java" />
@@ -421,13 +440,16 @@
       <jump line="15" column="29" filename="$USER_HOME$/work/deploy-j2-maker/src/main/resources/asgard-home.yml.j2" />
       <jump line="7" column="27" filename="$USER_HOME$/work/deploy-j2-maker/src/main/resources/asgard-home.yml.j2" />
       <jump line="276" column="16" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/avatar/AvatarService.java" />
+      <jump line="33" column="35" filename="$USER_HOME$/work/deploy-j2-maker/pom.xml" />
+      <jump line="48" column="8" filename="$USER_HOME$/work/deploy-j2-maker/src/main/java/com/oodrive/tools/deployj2maker/DeployJ2MakerApplication.java" />
+      <jump line="70" column="8" filename="$USER_HOME$/work/deploy-j2-maker/src/main/java/com/oodrive/tools/deployj2maker/DeployJ2MakerApplication.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NvdW50SWRcPg==</text>
@@ -436,31 +458,31 @@
         <text encoding="base64">c2VkIC1pICIveyUgaWYgaHR0cHNfY2xpZW50X2F1dGggaXMgZGVmaW5lZCAlfS9kIiByZXNvdXJjZXMvKi5qMgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VkIC1pICJzLzoge3soLikrfX0vOid7e1wxfX0nL2ciIHJlc291cmNlcy8qLmoyCnNlZCAtaSAicy99fS97eycvZyIgcmVzb3VyY2VzLyouajIK</text>
+        <text encoding="base64">CQkJCVByb3BlcnR5U291cmNlPE1hcDxTdHJpbmcsIE9yaWdpblRyYWNrZWRNYXBQcm9wZXJ0eVNvdXJjZT4+IHByb3BlcnR5U291cmNlID0KCQkJCQkJKFByb3BlcnR5U291cmNlPE1hcDxTdHJpbmcsIE9yaWdpblRyYWNrZWRNYXBQcm9wZXJ0eVNvdXJjZT4+KSByZXN1bHQuZ2V0KDApOwoKCQkJCXRtcE1hcC5wdXRBbGwocHJvcGVydHlTb3VyY2UuZ2V0U291cmNlKCkKCQkJCQkJLmVudHJ5U2V0KCkKCQkJCQkJLnN0cmVhbSgpCgkJCQkJCS5jb2xsZWN0KAoJCQkJCQkJCUNvbGxlY3RvcnMudG9NYXAoTWFwLkVudHJ5OjpnZXRLZXksIGUgLT4gU3RyaW5nLmZvcm1hdCgiJXMiLCBlLmdldFZhbHVlKCkpKQoJCQkJCQkpCgkJCQkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I2ppbmphMjogdHJpbV9ibG9ja3M6IFRydWUsIGxzdHJpcF9ibG9ja3M6IFRydWUKIyBFbnZpcm9ubWVudC1zcGVjaWZpYyBjb25maWd1cmF0aW9uIGZpbGUgdG8gdXBkYXRlIGF0IGRlcGxveS10aW1lLiBQdXQgaW4gdGhlc2UgZmlsZSBwcm9wZXJ0aWVzIHdoaWNoIGFyZSAob3IgY291bGQgYmUpIGRpZmZlcmVudCBmb3IgZWFjaCBlbnZpcm9ubWVudAo=</text>
+        <text encoding="base64">CQkJCVJlc291cmNlIHJlc291cmNlID0gbmV3IEZpbGVTeXN0ZW1SZXNvdXJjZShmKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlMaXN0PFByb3BlcnR5U291cmNlPD8+PiByZXN1bHQgPSB5YW1sUHJvcGVydHlTb3VyY2VMb2FkZXIubG9hZCgiYXNnYXJkLWFkbWluLnltbC5qMiIsIHJlc291cmNlKTsKCQlQcm9wZXJ0eVNvdXJjZTxNYXA8U3RyaW5nLCBPcmlnaW5UcmFja2VkTWFwUHJvcGVydHlTb3VyY2U+PiBwcm9wZXJ0eVNvdXJjZSA9CgkJCQkoUHJvcGVydHlTb3VyY2U8TWFwPFN0cmluZywgT3JpZ2luVHJhY2tlZE1hcFByb3BlcnR5U291cmNlPj4pIHJlc3VsdC5nZXQoMCk7CgkJU3lzdGVtLm91dC5wcmludGxuKHByb3BlcnR5U291cmNlLmdldFNvdXJjZSgpKTsKCgkJTWFwPFN0cmluZywgU3RyaW5nPiBvdXQgPSBwcm9wZXJ0eVNvdXJjZS5nZXRTb3VyY2UoKQoJCQkJLmVudHJ5U2V0KCkuc3RyZWFtKCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTWFwKE1hcC5FbnRyeTo6Z2V0S2V5LCBlIC0+IFN0cmluZy5mb3JtYXQoIiVzIiwgZS5nZXRWYWx1ZSgpKSkpOwo=</text>
+        <text encoding="base64">CQkJUmVzb3VyY2UgcmVzb3VyY2UgPSBuZXcgRmlsZVN5c3RlbVJlc291cmNlKGYpOwoJCQlMaXN0PFByb3BlcnR5U291cmNlPD8+PiByZXN1bHQgPSB5YW1sUHJvcGVydHlTb3VyY2VMb2FkZXIubG9hZChmLmdldE5hbWUoKSwgcmVzb3VyY2UpOwoJCQlQcm9wZXJ0eVNvdXJjZTxNYXA8U3RyaW5nLCBPcmlnaW5UcmFja2VkTWFwUHJvcGVydHlTb3VyY2U+PiBwcm9wZXJ0eVNvdXJjZSA9CgkJCQkJKFByb3BlcnR5U291cmNlPE1hcDxTdHJpbmcsIE9yaWdpblRyYWNrZWRNYXBQcm9wZXJ0eVNvdXJjZT4+KSByZXN1bHQuZ2V0KDApOwoKCQkJdG1wTWFwLnB1dEFsbChwcm9wZXJ0eVNvdXJjZS5nZXRTb3VyY2UoKQoJCQkJCS5lbnRyeVNldCgpCgkJCQkJLnN0cmVhbSgpCgkJCQkJLmNvbGxlY3QoCgkJCQkJCQlDb2xsZWN0b3JzLnRvTWFwKE1hcC5FbnRyeTo6Z2V0S2V5LCBlIC0+IFN0cmluZy5mb3JtYXQoIiVzIiwgZS5nZXRWYWx1ZSgpKSkKCQkJCQkpCgkJCSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlSZXNvdXJjZSByZXNvdXJjZSA9IG5ldyBDbGFzc1BhdGhSZXNvdXJjZSgiYXNnYXJkLWFkbWluLnltbC5qMiIpOwo=</text>
+        <text encoding="base64">CQlZYW1sUHJvcGVydHlTb3VyY2VMb2FkZXIgeWFtbFByb3BlcnR5U291cmNlTG9hZGVyID0gbmV3IFlhbWxQcm9wZXJ0eVNvdXJjZUxvYWRlcigpOwoKCQlVUkwgdXJsID0gRGVwbG95SjJNYWtlckFwcGxpY2F0aW9uLmNsYXNzLmdldENsYXNzTG9hZGVyKCkuZ2V0UmVzb3VyY2UoImlucHV0cy9hc2dhcmQtYWRtaW4ueW1sLmoyIik7CgkJUGF0aCBwYXRoID0gUGF0aHMuZ2V0KHVybC5nZXRQYXRoKCkpOwoKCQlNYXA8U3RyaW5nLCBTdHJpbmc+IHRtcE1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKCQlmb3IgKEZpbGUgZmlsZSA6IHBhdGguZ2V0UGFyZW50KCkudG9GaWxlKCkubGlzdEZpbGVzKCkpIHsKCQkJaWYgKGZpbGUuaXNEaXJlY3RvcnkoKSkgewoJCQkJY29udGludWU7CgkJCX0KCQkJUmVzb3VyY2UgcmVzb3VyY2UgPSBuZXcgRmlsZVN5c3RlbVJlc291cmNlKGZpbGUpOwoJCQlMaXN0PFByb3BlcnR5U291cmNlPD8+PiByZXN1bHQgPSB5YW1sUHJvcGVydHlTb3VyY2VMb2FkZXIubG9hZChmaWxlLmdldE5hbWUoKSwgcmVzb3VyY2UpOwoJCQlQcm9wZXJ0eVNvdXJjZTxNYXA8U3RyaW5nLCBPcmlnaW5UcmFja2VkTWFwUHJvcGVydHlTb3VyY2U+PiBwcm9wZXJ0eVNvdXJjZSA9CgkJCQkJKFByb3BlcnR5U291cmNlPE1hcDxTdHJpbmcsIE9yaWdpblRyYWNrZWRNYXBQcm9wZXJ0eVNvdXJjZT4+KSByZXN1bHQuZ2V0KDApOwoKCQkJdG1wTWFwLnB1dEFsbChwcm9wZXJ0eVNvdXJjZS5nZXRTb3VyY2UoKQoJCQkJCS5lbnRyeVNldCgpCgkJCQkJLnN0cmVhbSgpCgkJCQkJLmNvbGxlY3QoCgkJCQkJCQlDb2xsZWN0b3JzLnRvTWFwKE1hcC5FbnRyeTo6Z2V0S2V5LCBlIC0+IFN0cmluZy5mb3JtYXQoIiVzIiwgZS5nZXRWYWx1ZSgpKSkKCQkJCQkpCgkJCSk7CgkJfQoKCQlNYXA8U3RyaW5nLCBTdHJpbmc+IHNvcnRlZCA9IG5ldyBUcmVlTWFwPD4odG1wTWFwKTsKCQlPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcihuZXcgWUFNTEZhY3RvcnkoKSk7CgkJb2JqZWN0TWFwcGVyLndyaXRlVmFsdWUobmV3IEZpbGUoIi90bXAvZm9vYmFyLnltbCIpLCBzb3J0ZWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlwYXRoLnRvRmlsZSgpLmxpc3RGaWxlcygpCg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXRlc3Q8L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIExpc3Q8U3RyaW5nPiBGSUxFUyA9IEFycmF5cy5hc0xpc3QoCgkJCSIiCgkpCg==</text>
+        <text encoding="base64">c2VkIC1pICJzLzoge3soLikrfX0vOid7e1wxfX0nL2ciIHJlc291cmNlcy8qLmoyCnNlZCAtaSAicy99fS97eycvZyIgcmVzb3VyY2VzLyouajIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlmb3IoU3RyaW5nIGlucHV0IDogYXJncykgewoKCQl9Cg==</text>
+        <text encoding="base64">I2ppbmphMjogdHJpbV9ibG9ja3M6IFRydWUsIGxzdHJpcF9ibG9ja3M6IFRydWUKIyBFbnZpcm9ubWVudC1zcGVjaWZpYyBjb25maWd1cmF0aW9uIGZpbGUgdG8gdXBkYXRlIGF0IGRlcGxveS10aW1lLiBQdXQgaW4gdGhlc2UgZmlsZSBwcm9wZXJ0aWVzIHdoaWNoIGFyZSAob3IgY291bGQgYmUpIGRpZmZlcmVudCBmb3IgZWFjaCBlbnZpcm9ubWVudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoYXJncyA9PSBudWxsIHx8IGFyZ3MubGVuZ3RoID09IDApIHsKCQkJU3lzdGVtLmVyci5wcmludGxuKCJZb3UgbXVzdCBnaXZlIGFyZ3VtZW50cyB0byB0aGUgcHJvZ3JhbSEiKTsKCQkJU3lzdGVtLmV4aXQoMSk7CgkJfQo=</text>
+        <text encoding="base64">CQlMaXN0PFByb3BlcnR5U291cmNlPD8+PiByZXN1bHQgPSB5YW1sUHJvcGVydHlTb3VyY2VMb2FkZXIubG9hZCgiYXNnYXJkLWFkbWluLnltbC5qMiIsIHJlc291cmNlKTsKCQlQcm9wZXJ0eVNvdXJjZTxNYXA8U3RyaW5nLCBPcmlnaW5UcmFja2VkTWFwUHJvcGVydHlTb3VyY2U+PiBwcm9wZXJ0eVNvdXJjZSA9CgkJCQkoUHJvcGVydHlTb3VyY2U8TWFwPFN0cmluZywgT3JpZ2luVHJhY2tlZE1hcFByb3BlcnR5U291cmNlPj4pIHJlc3VsdC5nZXQoMCk7CgkJU3lzdGVtLm91dC5wcmludGxuKHByb3BlcnR5U291cmNlLmdldFNvdXJjZSgpKTsKCgkJTWFwPFN0cmluZywgU3RyaW5nPiBvdXQgPSBwcm9wZXJ0eVNvdXJjZS5nZXRTb3VyY2UoKQoJCQkJLmVudHJ5U2V0KCkuc3RyZWFtKCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTWFwKE1hcC5FbnRyeTo6Z2V0S2V5LCBlIC0+IFN0cmluZy5mb3JtYXQoIiVzIiwgZS5nZXRWYWx1ZSgpKSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlNYXA8U3RyaW5nLCBTdHJpbmc+IHNvcnRlZCA9IG5ldyBUcmVlTWFwPD4ob3V0KTsK</text>
+        <text encoding="base64">CQlSZXNvdXJjZSByZXNvdXJjZSA9IG5ldyBDbGFzc1BhdGhSZXNvdXJjZSgiYXNnYXJkLWFkbWluLnltbC5qMiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/}}/}}&quot;/g</text>
