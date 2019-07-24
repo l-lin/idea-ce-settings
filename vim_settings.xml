@@ -20,11 +20,11 @@
         <mark key="^" line="200" column="102" />
         <mark key="." line="200" column="102" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1563438899442">
+      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1563962900179">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="36" column="35" />
-        <mark key="]" line="36" column="43" />
-        <mark key="." line="36" column="43" />
+        <mark key="]" line="36" column="35" />
+        <mark key="." line="36" column="35" />
         <mark key="^" line="36" column="43" />
       </file>
       <file name="$USER_HOME$/work/deploy-j2-maker/src/main/java/com/oodrive/tools/deployj2maker/DeployJ2MakerApplication.java" timestamp="1563876124876">
@@ -78,7 +78,6 @@
         <mark key="." line="83" column="18" />
         <mark key="^" line="83" column="18" />
       </file>
-      <file name="$USER_HOME$/work/deploy-j2-maker/Dockerfile" timestamp="1563874922186" />
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/repository/AuthFailureRepository.java" timestamp="1563351198259">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="11" column="34" />
@@ -371,7 +370,6 @@
       <jump line="25" column="16" filename="$USER_HOME$/work/geppetto-client-parent/geppetto-jdbc/src/main/java/com/oodrive/geppetto/jdbc/dao/impl/TemplateCopyDAOImpl.java" />
       <jump line="107" column="0" filename="$USER_HOME$/work/geppetto-client-parent/geppetto-jdbc/src/main/java/com/oodrive/geppetto/jdbc/dao/impl/TemplateCopyDAOImpl.java" />
       <jump line="96" column="26" filename="$USER_HOME$/work/geppetto-client-parent/geppetto-jdbc/src/main/java/com/oodrive/geppetto/jdbc/dao/impl/TemplateCopyDAOImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="43" column="57" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/UpdatePreferences.java" />
       <jump line="266" column="36" filename="$USER_HOME$/work/asgard-users/asgard-user-options/src/main/java/com/oodrive/asgard/options/facade/AsgardOptionFacade.java" />
       <jump line="22" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-options/src/main/java/com/oodrive/asgard/options/facade/AsgardOptionFacade.java" />
@@ -443,6 +441,7 @@
       <jump line="33" column="35" filename="$USER_HOME$/work/deploy-j2-maker/pom.xml" />
       <jump line="48" column="8" filename="$USER_HOME$/work/deploy-j2-maker/src/main/java/com/oodrive/tools/deployj2maker/DeployJ2MakerApplication.java" />
       <jump line="70" column="8" filename="$USER_HOME$/work/deploy-j2-maker/src/main/java/com/oodrive/tools/deployj2maker/DeployJ2MakerApplication.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -452,7 +451,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY2NvdW50SWRcPg==</text>
+        <text>asgard-users</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2VkIC1pICIveyUgaWYgaHR0cHNfY2xpZW50X2F1dGggaXMgZGVmaW5lZCAlfS9kIiByZXNvdXJjZXMvKi5qMgo=</text>
@@ -489,9 +488,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY2NvdW50SWRcPg==</last-search>
+      <last-search>asgard-users</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY2NvdW50SWRcPg==</last-pattern>
+      <last-pattern>asgard-users</last-pattern>
       <last-replace>}}&quot;</last-replace>
       <last-substitute>}}</last-substitute>
       <last-dir>1</last-dir>
@@ -499,7 +498,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hidden_login</entry>
         <entry>Comparators</entry>
         <entry>filter.q.any</entry>
         <entry>getAny() = \(.+\);</entry>
@@ -519,6 +517,7 @@
         <entry>{{</entry>
         <entry>}}</entry>
         <entry encoding="base64">XDxhY2NvdW50SWRcPg==</entry>
+        <entry>asgard-users</entry>
       </history-search>
       <history-cmd>
         <entry>%s/tyk_mongo/mongo/g</entry>
