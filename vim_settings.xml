@@ -212,7 +212,9 @@
         <mark key="^" line="151" column="77" />
         <mark key="." line="151" column="77" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" timestamp="1564403504033" />
+      <file name="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" timestamp="1564404692595">
+        <mark key="'" line="127" column="14" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/contact/ContactDataBuilder.java" timestamp="1564133449320">
         <mark key="[" line="72" column="90" />
         <mark key="]" line="72" column="90" />
@@ -317,12 +319,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" timestamp="1564403426286">
-        <mark key="'" line="46" column="18" />
-        <mark key="[" line="37" column="126" />
-        <mark key="]" line="37" column="126" />
-        <mark key="." line="37" column="126" />
-        <mark key="^" line="37" column="126" />
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" timestamp="1564406026833">
+        <mark key="'" line="63" column="22" />
+        <mark key="[" line="90" column="22" />
+        <mark key="]" line="90" column="23" />
+        <mark key="." line="90" column="23" />
+        <mark key="^" line="90" column="23" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/CreateUser.java" timestamp="1564134300696">
         <mark key="[" line="36" column="25" />
@@ -425,8 +427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="651" column="36" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/resources/dictionary/dictionary_en.properties" />
-      <jump line="785" column="64" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/resources/dictionary/dictionary_en.properties" />
       <jump line="2272" column="13" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/resources/dictionary/dictionary_en.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/resources/dictionary/dictionary_en.properties" />
       <jump line="249" column="5" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/problem/Problems.java" />
@@ -523,48 +523,68 @@
       <jump line="76" column="64" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/usecase/CreateContactBeanInfo.java" />
       <jump line="58" column="62" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
       <jump line="60" column="20" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
       <jump line="46" column="18" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
+      <jump line="127" column="14" filename="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" />
+      <jump line="56" column="22" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
+      <jump line="63" column="22" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>userApi</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>userApi</text>
       </register>
       <register name="/" type="4">
         <text>hermod-swagger</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIAkJCSJMaWNlbnNlIG9mIEFQSSIsICJBUEkgbGljZW5zZSBVUkwiLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>new ApiInfo(
+						&quot;Asgard portal API&quot;,
+						&quot;Asgard portal API for backend services&quot;,
+						version,
+						&quot;&quot;,
+						CONTACT,
+						LICENSE, LICENSE_URL, Collections.emptyList())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJIiIK</text>
+        <text encoding="base64">CXByaXZhdGUgQXBpSW5mbyBhcGlJbmZvKCkgewoJCXJldHVybiBuZXcgQXBpSW5mbygKCQkJCSJBc2dhcmQgcG9ydGFsIEFQSSIsCgkJCQkiQVBJIHVzZWQgYnkgZnJvbnQtZW5kIiwKCQkJCSJBUEkgVE9TIiwKCQkJCSJUZXJtcyBvZiBzZXJ2aWNlIiwKCQkJCW5ldyBDb250YWN0KCJBc2dhcmQgdGVhbSIsICJhc2dhcmQub29naXQub29kcml2ZS5uZXQiLCAibm90aWZpY2F0aW9uQG9vZHJpdmUuY29tIiksCgkJCQkiTGljZW5zZSBvZiBBUEkiLCAiQVBJIGxpY2Vuc2UgVVJMIiwgQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwoJfQo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ewoJCQkJCQk=</text>
+        <text>Collections.singletonList(new ParameterBuilder()
+						.name(&quot;X-Client-Id&quot;)
+						.modelRef(new ModelRef(&quot;string&quot;))
+						.parameterType(&quot;header&quot;)
+						.required(false)
+						.defaultValue(&quot;portal-swagger&quot;)
+						.build())</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJbmV3IENvbnRhY3QoIkFzZ2FyZCB0ZWFtIiwgImFzZ2FyZC5vb2dpdC5vb2RyaXZlLm5ldCIsICJub3RpZmljYXRpb25zQG9vZHJpdmUuY29tIikK</text>
+        <text encoding="base64">CQkJCQkJLmJ1aWxkKCkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCS8vIHN1c3BlbnNpb24gZGF0ZQo=</text>
+        <text encoding="base64">CQkJCQkJLmJ1aWxkKCkpKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlFbnRpdHlTZXR0ZXIuYnVpbGQodXNlckluZm8sICkKCQkJCS8vIHN1c3BlbnNpb24gZGF0ZQoJCQkJLnNldCgodSwgc3VzcGVuc2lvbkRhdGUpIC0+IHsKCQkJCQlpZiAoc3VzcGVuc2lvbkRhdGUgIT0gbnVsbCkgewoJCQkJCQl1LnNldHNldENsb3NlRGF0ZShEYXRlLmZyb20oc3VzcGVuc2lvbkRhdGUuYXRTdGFydE9mRGF5KFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpLnRvSW5zdGFudCgpKSk7CgkJCQkJfSBlbHNlIHsKCQkJCQkJdS5zZXRDbG9zZURhdGUobnVsbCk7CgkJCQkJfQoJCQkJfSwgVXNlckZpZWxkVHlwZXMuU1VTUEVOU0lPTl9EQVRFKTsK</text>
+      <register name="5" type="4">
+        <text>Collections.singletonList(new ParameterBuilder()
+						.name(&quot;X-Client-Id&quot;)
+						.modelRef(new ModelRef(&quot;string&quot;))
+						.parameterType(&quot;header&quot;)
+						.required(false)
+						.defaultValue(&quot;portal-swagger&quot;)
+						.build())</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkKCQlFbnRpdHlTZXR0ZXIuYnVpbGQodXNlckluZm8sICkK</text>
+        <text encoding="base64">CQkJCQkJIiIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkvLyBzdXNwZW5zaW9uIGRhdGUK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ewoJCQkJCQk=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KHUsIHN1c3BlbnNpb25EYXRlKSAtPiB7CgkJCWlmIChzdXNwZW5zaW9uRGF0ZSAhPSBudWxsKSB7CgkJCQl1LnNldENsb3NlRGF0ZShEYXRlLmZyb20oc3VzcGVuc2lvbkRhdGUuYXRTdGFydE9mRGF5KFpvbmVJZC5zeXN0ZW1EZWZhdWx0KCkpLnRvSW5zdGFudCgpKSk7CgkJCX0gZWxzZSB7CgkJCQl1LnNldENsb3NlRGF0ZShudWxsKTsKCQkJfQoJCX0sIFVzZXJGaWVsZFR5cGVzLlNVU1BFTlNJT05fREFURQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJCQkJbmV3IENvbnRhY3QoIkFzZ2FyZCB0ZWFtIiwgImFzZ2FyZC5vb2dpdC5vb2RyaXZlLm5ldCIsICJub3RpZmljYXRpb25zQG9vZHJpdmUuY29tIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS5zZXRJZk5vdE51bGwoKHUsIHN1c3BlbnNpb25EYXRlKSAtPiB7CgkJCWlmIChzdXNwZW5zaW9uRGF0ZSAhPSBudWxsKSB7Cg==</text>
+        <text encoding="base64">CQkJCS8vIHN1c3BlbnNpb24gZGF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/hermod-swagger/portal-swagger/gc</text>
