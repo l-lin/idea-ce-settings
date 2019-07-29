@@ -319,12 +319,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" timestamp="1564406026833">
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" timestamp="1564407305211">
         <mark key="'" line="63" column="22" />
-        <mark key="[" line="90" column="22" />
-        <mark key="]" line="90" column="23" />
-        <mark key="." line="90" column="23" />
-        <mark key="^" line="90" column="23" />
+        <mark key="[" line="110" column="70" />
+        <mark key="]" line="111" column="12" />
+        <mark key="." line="111" column="12" />
+        <mark key="^" line="111" column="12" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/CreateUser.java" timestamp="1564134300696">
         <mark key="[" line="36" column="25" />
@@ -419,7 +419,7 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1564127486164">
+      <file name="/fragment.java" timestamp="1564407939716">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -530,25 +530,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>userApi</text>
+        <text encoding="base64">bmV3IEFwaUluZm8oCgkJCQkJCSJBc2dhcmQgcG9ydGFsIEFQSSBmb3IgY2xpZW50cyAoaS5lLiBtb2JpbGUgb3IgZGVza3RvcCkiLAoJCQkJCQkiVGhlc2UgQVBJcyBhcmUgaW50ZW5kZWQgdG8gYmUgY29uc3VtZWQgYnkgZXh0ZXJuYWwgY2xpZW50cyBsaWtlIG1vYmlsZSBvciBkZXNrdG9wIGNsaWVudHMuPGJyPiIgCgkJCQkJCQkJKyAiVGhleSBhcmUgcHJvdGVjdGVkIiwKCQkJCQkJdmVyc2lvbiwKCQkJCQkJIiIsCgkJCQkJCUNPTlRBQ1QsCgkJCQkJCUxJQ0VOU0UsIExJQ0VOU0VfVVJMLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk=</text>
       </register>
       <register name="-" type="4">
-        <text>userApi</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>hermod-swagger</text>
       </register>
       <register name="0" type="4">
-        <text>new ApiInfo(
-						&quot;Asgard portal API&quot;,
-						&quot;Asgard portal API for backend services&quot;,
-						version,
-						&quot;&quot;,
-						CONTACT,
-						LICENSE, LICENSE_URL, Collections.emptyList())</text>
+        <text encoding="base64">bmV3IEFwaUluZm8oCgkJCQkJCSJBc2dhcmQgcG9ydGFsIEFQSSBmb3IgY2xpZW50cyAoaS5lLiBtb2JpbGUgb3IgZGVza3RvcCkiLAoJCQkJCQkiVGhlc2UgQVBJcyBhcmUgaW50ZW5kZWQgdG8gYmUgY29uc3VtZWQgYnkgZXh0ZXJuYWwgY2xpZW50cyBsaWtlIG1vYmlsZSBvciBkZXNrdG9wIGNsaWVudHMuPGJyPiIgCgkJCQkJCQkJKyAiVGhleSBhcmUgcHJvdGVjdGVkIiwKCQkJCQkJdmVyc2lvbiwKCQkJCQkJIiIsCgkJCQkJCUNPTlRBQ1QsCgkJCQkJCUxJQ0VOU0UsIExJQ0VOU0VfVVJMLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CXByaXZhdGUgQXBpSW5mbyBhcGlJbmZvKCkgewoJCXJldHVybiBuZXcgQXBpSW5mbygKCQkJCSJBc2dhcmQgcG9ydGFsIEFQSSIsCgkJCQkiQVBJIHVzZWQgYnkgZnJvbnQtZW5kIiwKCQkJCSJBUEkgVE9TIiwKCQkJCSJUZXJtcyBvZiBzZXJ2aWNlIiwKCQkJCW5ldyBDb250YWN0KCJBc2dhcmQgdGVhbSIsICJhc2dhcmQub29naXQub29kcml2ZS5uZXQiLCAibm90aWZpY2F0aW9uQG9vZHJpdmUuY29tIiksCgkJCQkiTGljZW5zZSBvZiBBUEkiLCAiQVBJIGxpY2Vuc2UgVVJMIiwgQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwoJfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">bmV3IEFwaUluZm8oCgkJCQkJCSJBc2dhcmQgcG9ydGFsIEFQSSBmb3IgY2xpZW50cyAoaS5lLiBtb2JpbGUgb3IgZGVza3RvcCkiLAoJCQkJCQkiVGhlc2UgQVBJcyBhcmUgaW50ZW5kZWQgdG8gYmUgY29uc3VtZWQgYnkgZXh0ZXJuYWwgY2xpZW50cyBsaWtlIG1vYmlsZSBvciBkZXNrdG9wIGNsaWVudHMuPGJyPiIgCgkJCQkJCQkJKyAiVGhleSBhcmUgcHJvdGVjdGVkIiwKCQkJCQkJdmVyc2lvbiwKCQkJCQkJIiIsCgkJCQkJCUNPTlRBQ1QsCgkJCQkJCUxJQ0VOU0UsIExJQ0VOU0VfVVJMLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk=</text>
       </register>
       <register name="2" type="4">
         <text>Collections.singletonList(new ParameterBuilder()
@@ -559,11 +553,14 @@
 						.defaultValue(&quot;portal-swagger&quot;)
 						.build())</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJLmJ1aWxkKCkpKQo=</text>
+      <register name="3" type="4">
+        <text>UserInfo.class,
+						AuthenticationPrincipal.class,
+						EffectiveUserInfo.class,
+						EffectivePrincipaleUserInfo.class</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJLmJ1aWxkKCkpKQo=</text>
+        <text encoding="base64">CXByaXZhdGUgQXBpSW5mbyBhcGlJbmZvKCkgewoJCXJldHVybiBuZXcgQXBpSW5mbygKCQkJCSJBc2dhcmQgcG9ydGFsIEFQSSIsCgkJCQkiQVBJIHVzZWQgYnkgZnJvbnQtZW5kIiwKCQkJCSJBUEkgVE9TIiwKCQkJCSJUZXJtcyBvZiBzZXJ2aWNlIiwKCQkJCW5ldyBDb250YWN0KCJBc2dhcmQgdGVhbSIsICJhc2dhcmQub29naXQub29kcml2ZS5uZXQiLCAibm90aWZpY2F0aW9uQG9vZHJpdmUuY29tIiksCgkJCQkiTGljZW5zZSBvZiBBUEkiLCAiQVBJIGxpY2Vuc2UgVVJMIiwgQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpOwoJfQo=</text>
       </register>
       <register name="5" type="4">
         <text>Collections.singletonList(new ParameterBuilder()
@@ -575,16 +572,22 @@
 						.build())</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJIiIK</text>
+        <text encoding="base64">CQkJCQkJLmJ1aWxkKCkpKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ewoJCQkJCQk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCQkJLmJ1aWxkKCkpKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJbmV3IENvbnRhY3QoIkFzZ2FyZCB0ZWFtIiwgImFzZ2FyZC5vb2dpdC5vb2RyaXZlLm5ldCIsICJub3RpZmljYXRpb25zQG9vZHJpdmUuY29tIikK</text>
+      <register name="8" type="4">
+        <text>Collections.singletonList(new ParameterBuilder()
+						.name(&quot;X-Client-Id&quot;)
+						.modelRef(new ModelRef(&quot;string&quot;))
+						.parameterType(&quot;header&quot;)
+						.required(false)
+						.defaultValue(&quot;portal-swagger&quot;)
+						.build())</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCS8vIHN1c3BlbnNpb24gZGF0ZQo=</text>
+        <text encoding="base64">CQkJCQkJIiIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/hermod-swagger/portal-swagger/gc</text>
