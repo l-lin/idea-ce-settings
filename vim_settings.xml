@@ -15,6 +15,9 @@
         <mark key="^" line="112" column="40" />
         <mark key="." line="112" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1564502523059">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/utils/ValidateAvatar.java" timestamp="1564498576098">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="7" column="20" />
@@ -26,6 +29,15 @@
         <mark key="]" line="49" column="35" />
         <mark key="^" line="49" column="35" />
         <mark key="." line="49" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/exception/AsgardAdminExceptionHandler.java" timestamp="1564503038097">
+        <mark key="[" line="89" column="5" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
+        <mark key="^" line="90" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/ContactsController.java" timestamp="1564478931701">
+        <mark key="[" line="225" column="116" />
       </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/repository/AuthFailureRepository.java" timestamp="1563351198259">
         <mark key="[" line="6" column="0" />
@@ -64,18 +76,21 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/DelegationController.java" timestamp="1564479040017">
+        <mark key="[" line="63" column="33" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/utils/ValidateAvatarColor.java" timestamp="1564500263021">
         <mark key="[" line="5" column="66" />
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/AsgardHomeExceptionHandler.java" timestamp="1564501085928">
-        <mark key="'" line="67" column="24" />
-        <mark key="[" line="70" column="62" />
-        <mark key="]" line="70" column="62" />
-        <mark key="." line="70" column="62" />
-        <mark key="^" line="70" column="82" />
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/AsgardHomeExceptionHandler.java" timestamp="1564503023430">
+        <mark key="'" line="68" column="24" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="83" column="5" />
+        <mark key="^" line="80" column="105" />
+        <mark key="." line="80" column="105" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/support/bean/SupportFieldTypes.java" timestamp="1564134343045">
         <mark key="[" line="101" column="4" />
@@ -101,7 +116,7 @@
         <mark key="^" line="74" column="65" />
         <mark key="." line="74" column="65" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/exception/AsgardErrorCode.java" timestamp="1564501167363">
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/exception/AsgardErrorCode.java" timestamp="1564502344483">
         <mark key="'" line="12" column="12" />
         <mark key="[" line="62" column="98" />
         <mark key="]" line="63" column="0" />
@@ -132,11 +147,12 @@
         <mark key="^" line="64" column="65" />
         <mark key="." line="37" column="48" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" timestamp="1564501101127">
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="38" />
-        <mark key="." line="48" column="38" />
-        <mark key="^" line="48" column="38" />
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" timestamp="1564501757417">
+        <mark key="'" line="87" column="38" />
+        <mark key="[" line="56" column="24" />
+        <mark key="]" line="56" column="33" />
+        <mark key="." line="56" column="33" />
+        <mark key="^" line="56" column="33" />
       </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" timestamp="1564404692595">
         <mark key="'" line="127" column="14" />
@@ -146,6 +162,12 @@
         <mark key="]" line="72" column="90" />
         <mark key="." line="72" column="90" />
         <mark key="^" line="72" column="89" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/exception/AsgardAvatardException.java" timestamp="1564502309211">
+        <mark key="[" line="5" column="75" />
+        <mark key="]" line="7" column="37" />
+        <mark key="^" line="7" column="37" />
+        <mark key="." line="7" column="37" />
       </file>
       <file name="$USER_HOME$/work/asgard-event-schema/json-schema-validation/src/main/resources/com/oodrive/asgard/tracking/schema/user_definitions.schema.json" timestamp="1564127089570">
         <mark key="[" line="136" column="36" />
@@ -159,13 +181,16 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/client/ClientTrackingTransformer.java" timestamp="1564134443525">
+        <mark key="[" line="17" column="46" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/usecase/UpdateContactBeanInfo.java" timestamp="1564133478766">
         <mark key="[" line="87" column="89" />
         <mark key="]" line="87" column="103" />
         <mark key="." line="87" column="103" />
         <mark key="^" line="87" column="103" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/exception/AsgardUserErrorCode.java" timestamp="1564501152631">
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/exception/AsgardUserErrorCode.java" timestamp="1564502322426">
         <mark key="[" line="17" column="65" />
         <mark key="]" line="17" column="66" />
         <mark key="." line="17" column="66" />
@@ -200,12 +225,15 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-read/src/main/java/com/oodrive/asgard/user/read/usecase/avatar/GetAvatar.java" timestamp="1564500668199">
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-read/src/main/java/com/oodrive/asgard/user/read/usecase/avatar/GetAvatar.java" timestamp="1564502583778">
         <mark key="'" line="110" column="4" />
-        <mark key="[" line="87" column="28" />
-        <mark key="]" line="87" column="28" />
-        <mark key="." line="87" column="28" />
+        <mark key="[" line="87" column="54" />
+        <mark key="]" line="87" column="54" />
+        <mark key="." line="87" column="54" />
         <mark key="^" line="87" column="94" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/support/SupportTrackingTransformer.java" timestamp="1564134414431">
+        <mark key="[" line="17" column="47" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/client/ClientDataBuilder.java" timestamp="1564068702326">
         <mark key="[" line="73" column="17" />
@@ -285,7 +313,6 @@
         <mark key="^" line="73" column="72" />
         <mark key="." line="73" column="72" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-xauth-autoconfig/src/main/java/com/oodrive/heimdall/client/xauth/autoconfig/XAuthClientAutoConfiguration.java" timestamp="1564477592987" />
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/bean/ContactInfo.java" timestamp="1564389092011">
         <mark key="[" line="425" column="27" />
         <mark key="]" line="425" column="32" />
@@ -297,6 +324,9 @@
         <mark key="]" line="17" column="25" />
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="25" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/support/CreateSupport.java" timestamp="1564134295498">
+        <mark key="[" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/work/asgard-event-schema/json-schema-validation/src/test/resources/examples/asgard/user/user_update_full.json" timestamp="1564127111977">
         <mark key="[" line="70" column="13" />
@@ -327,6 +357,9 @@
         <mark key="]" line="41" column="23" />
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/ApplicationController.java" timestamp="1564479014343">
+        <mark key="[" line="27" column="36" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/CommonAccount.java" timestamp="1564132447757">
         <mark key="[" line="90" column="9" />
@@ -399,9 +432,6 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" timestamp="1564479821473">
-        <mark key="'" line="73" column="8" />
-      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/CreateUser.java" timestamp="1564134300696">
         <mark key="[" line="36" column="25" />
         <mark key="]" line="133" column="62" />
@@ -413,6 +443,9 @@
         <mark key="]" line="21" column="14" />
         <mark key="." line="21" column="14" />
         <mark key="^" line="21" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/client/UpdateClient.java" timestamp="1564134405537">
+        <mark key="[" line="33" column="25" />
       </file>
       <file name="$USER_HOME$/work/loki-app/src/main/java/com/oodrive/loki/app/listener/OnStartup.java" timestamp="1563806722149">
         <mark key="[" line="47" column="85" />
@@ -450,7 +483,11 @@
         <mark key="." line="83" column="98" />
         <mark key="^" line="83" column="98" />
       </file>
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/exception/AsgardUserRuntimeException.java" timestamp="1564500803061" />
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/exception/AsgardUserRuntimeException.java" timestamp="1564502095001">
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/work/asgard-event-schema/json-schema-validation/src/test/resources/examples/asgard/contact/contact_creation_full.json" timestamp="1564127145901">
         <mark key="[" line="48" column="9" />
         <mark key="]" line="48" column="23" />
@@ -465,12 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="86" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactoryBuilder.java" />
-      <jump line="669" column="43" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" />
-      <jump line="670" column="38" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" />
-      <jump line="865" column="47" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" />
-      <jump line="128" column="22" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/Provisioning.java" />
-      <jump line="50" column="150" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/business/UserProvisioningBusiness.java" />
       <jump line="65" column="37" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/business/UserProvisioningBusiness.java" />
       <jump line="74" column="18" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/business/UserProvisioningBusiness.java" />
       <jump line="89" column="37" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/business/UserProvisioningBusiness.java" />
@@ -564,20 +595,26 @@
       <jump line="68" column="77" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/AsgardHomeExceptionHandler.java" />
       <jump line="4" column="47" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/AsgardHomeExceptionHandler.java" />
       <jump line="67" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/AsgardHomeExceptionHandler.java" />
+      <jump line="23" column="27" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" />
+      <jump line="38" column="13" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" />
+      <jump line="48" column="13" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" />
+      <jump line="55" column="40" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" />
+      <jump line="56" column="20" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" />
+      <jump line="87" column="38" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" />
       <jump line="12" column="12" filename="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/exception/AsgardErrorCode.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUBFeGNlcHRpb25IYW5kbGVyKHsgQXNnYXJkQmFkUmVxdWVzdEV4Y2VwdGlvbi5jbGFzcyB9KQoJcHVibGljIFJlc3BvbnNlRW50aXR5PEFwaUVycm9yc0RUTz4gaGFuZGxlQXNnYXJkVXNlckJhZFJlcXVlc3RFeGNlcHRpb25zKEFzZ2FyZEJhZFJlcXVlc3RFeGNlcHRpb24gZXhjZXB0aW9uLAoJCQlIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewoJCUFzZ2FyZEVycm9yQ29kZSBjb2RlID0gZXhjZXB0aW9uLmdldENvZGUoKTsKCQlBcGlFcnJvcnNEVE8gYXBpRXhjZXB0aW9uID0gbmV3IEFwaUVycm9yc0RUTyhjb2RlLCBjb2RlLmdldERlc2NyaXB0aW9uKCksIEh0dHBTdGF0dXMuQkFEX1JFUVVFU1QsIHBhdGgocmVxdWVzdCkpOwoJCUxPR0dFUi5lcnJvcihhcGlFeGNlcHRpb24udG9TdHJpbmcoKSk7CgkJcmV0dXJuIFJlc3BvbnNlRW50aXR5LmJhZFJlcXVlc3QoKS5ib2R5KGFwaUV4Y2VwdGlvbik7Cgl9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>USER_INVALID</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBc2dhcmRVc2VyQmFkUmVxdWVzdEV4Y2VwdGlvblw+</text>
+        <text>asgardbadrequest</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJdGhyb3cgbmV3IEFzZ2FyZFVzZXJCYWRSZXF1ZXN0RXhjZXB0aW9uKEFzZ2FyZFVzZXJFcnJvckNvZGUuQVZBVEFSX0NPTE9SX0lOVkFMSUQpOwo=</text>
+        <text encoding="base64">CUBFeGNlcHRpb25IYW5kbGVyKHsgQXNnYXJkQmFkUmVxdWVzdEV4Y2VwdGlvbi5jbGFzcyB9KQoJcHVibGljIFJlc3BvbnNlRW50aXR5PEFwaUVycm9yc0RUTz4gaGFuZGxlQXNnYXJkVXNlckJhZFJlcXVlc3RFeGNlcHRpb25zKEFzZ2FyZEJhZFJlcXVlc3RFeGNlcHRpb24gZXhjZXB0aW9uLAoJCQlIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewoJCUFzZ2FyZEVycm9yQ29kZSBjb2RlID0gZXhjZXB0aW9uLmdldENvZGUoKTsKCQlBcGlFcnJvcnNEVE8gYXBpRXhjZXB0aW9uID0gbmV3IEFwaUVycm9yc0RUTyhjb2RlLCBjb2RlLmdldERlc2NyaXB0aW9uKCksIEh0dHBTdGF0dXMuQkFEX1JFUVVFU1QsIHBhdGgocmVxdWVzdCkpOwoJCUxPR0dFUi5lcnJvcihhcGlFeGNlcHRpb24udG9TdHJpbmcoKSk7CgkJcmV0dXJuIFJlc3BvbnNlRW50aXR5LmJhZFJlcXVlc3QoKS5ib2R5KGFwaUV4Y2VwdGlvbik7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CUFWQVRBUl9DT0xPUl9JTlZBTElEKCJhdmF0YXIuY29sb3IuaW52YWxpZCIsICJUaGUgY29sb3Igb2YgdGhlIGF2YXRhciBpcyBub3QgdmFsaWQiLCAiYyIpLAoJQVZBVEFSX0lOSVRJQUxTX0lOVkFMSUQoImF2YXRhci5pbml0aWFscy5pbnZhbGlkIiwgIlRoZSBpbml0aWFscyBvZiB0aGUgYXZhdGFyIGlzIG5vdCB2YWxpZCIsICJpIik7Cg==</text>
@@ -586,21 +623,24 @@
         <text encoding="base64">CUFWQVRBUl9DT0xPUl9JTlZBTElEKCJhdmF0YXIuY29sb3IuaW52YWxpZCIsICJUaGUgY29sb3Igb2YgdGhlIGF2YXRhciBpcyBub3QgdmFsaWQiLCAiYyIpLAoJQVZBVEFSX0lOSVRJQUxTX0lOVkFMSUQoImF2YXRhci5pbml0aWFscy5pbnZhbGlkIiwgIlRoZSBpbml0aWFscyBvZiB0aGUgYXZhdGFyIGlzIG5vdCB2YWxpZCIsICJpIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CVN0cmluZyBzYW5pdGl6ZUNvbG9yKFN0cmluZyBjb2xvcikgewoJCXJldHVybiAiIjsKCX0KCglTdHJpbmcgc2FuaXRpemVJbml0aWFscyhTdHJpbmcgaW5pdGlhbHMpIHsKCQlyZXR1cm4gIiI7Cgl9Cg==</text>
+        <text encoding="base64">CUFWQVRBUl9DT0xPUl9JTlZBTElEKCJhdmF0YXIuY29sb3IuaW52YWxpZCIsICJUaGUgY29sb3Igb2YgdGhlIGF2YXRhciBpcyBub3QgdmFsaWQiLCAiYyIpLAoJQVZBVEFSX0lOSVRJQUxTX0lOVkFMSUQoImF2YXRhci5pbml0aWFscy5pbnZhbGlkIiwgIlRoZSBpbml0aWFscyBvZiB0aGUgYXZhdGFyIGlzIG5vdCB2YWxpZCIsICJpIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlpZiAoY29sb3IgIT0gbnVsbCAmJiBjb2xvci5pc0VtcHR5KCkpIHsKCQkJCgkJfQo=</text>
+        <text encoding="base64">CVN0cmluZyBzYW5pdGl6ZUNvbG9yKFN0cmluZyBjb2xvcikgewoJCXJldHVybiAiIjsKCX0KCglTdHJpbmcgc2FuaXRpemVJbml0aWFscyhTdHJpbmcgaW5pdGlhbHMpIHsKCQlyZXR1cm4gIiI7Cgl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUFWQVRBUl9DT0xPUl9JTlZBTElEKCJhdmF0YXIuY29sb3IuaW52YWxpZCIsICJUaGUgY29sb3Igb2YgdGhlIGF2YXRhciBpcyBub3QgdmFsaWQiKSwKCUFWQVRBUl9DT0xPUl9JTlZBTElEKCJhdmF0YXIuY29sb3IuaW52YWxpZCIsICJUaGUgY29sb3Igb2YgdGhlIGF2YXRhciBpcyBub3QgdmFsaWQiKSwK</text>
+        <text encoding="base64">CQlpZiAoY29sb3IgIT0gbnVsbCAmJiBjb2xvci5pc0VtcHR5KCkpIHsKCQkJCgkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUFWQVRBUl9DT0xPUl9JTlZBTElEKCJhdmF0YXIuY29sb3IuaW52YWxpZCIsICJUaGUgY29sb3Igb2YgdGhlIGF2YXRhciBpcyBub3QgdmFsaWQiKSwKCUFWQVRBUl9JTklUSUFMU19JTlZBTElEKCJhdmF0YXIuaW5pdGlhbHMuaW52YWxpZCIsICJUaGUgaW5pdGlhbHMgb2YgdGhlIGF2YXRhciBpcyBub3QgdmFsaWQiKTsK</text>
+        <text encoding="base64">CUFWQVRBUl9DT0xPUl9JTlZBTElEKCJhdmF0YXIuY29sb3IuaW52YWxpZCIsICJUaGUgY29sb3Igb2YgdGhlIGF2YXRhciBpcyBub3QgdmFsaWQiKSwKCUFWQVRBUl9DT0xPUl9JTlZBTElEKCJhdmF0YXIuY29sb3IuaW52YWxpZCIsICJUaGUgY29sb3Igb2YgdGhlIGF2YXRhciBpcyBub3QgdmFsaWQiKSwK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">CUFWQVRBUl9DT0xPUl9JTlZBTElEKCJhdmF0YXIuY29sb3IuaW52YWxpZCIsICJUaGUgY29sb3Igb2YgdGhlIGF2YXRhciBpcyBub3QgdmFsaWQiKSwKCUFWQVRBUl9JTklUSUFMU19JTlZBTElEKCJhdmF0YXIuaW5pdGlhbHMuaW52YWxpZCIsICJUaGUgaW5pdGlhbHMgb2YgdGhlIGF2YXRhciBpcyBub3QgdmFsaWQiKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CUBTYWZlVmFyYXJncwoJcHJpdmF0ZSBmaW5hbCBQcmVkaWNhdGU8UmVxdWVzdEhhbmRsZXI+IGJ1aWxkUHJlZGljYXRlKGZpbmFsIENsYXNzPD8gZXh0ZW5kcyBBbm5vdGF0aW9uPi4uLiBjbGF6eikgewoJCXJldHVybiBvcihBcnJheXMuc3RyZWFtKGNsYXp6KQoJCQkJLm1hcChjIC0+IGlucHV0IC0+IFJlcXVlc3RIYW5kbGVyU2VsZWN0b3JzLndpdGhDbGFzc0Fubm90YXRpb24oYykuYXBwbHkoaW5wdXQpIHx8IFJlcXVlc3RIYW5kbGVyU2VsZWN0b3JzLndpdGhNZXRob2RBbm5vdGF0aW9uKGMpLmFwcGx5KGlucHV0KSkKCQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9TZXQoKSkpOwoJfQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>singletonList(
 						SecurityContext.builder()
 								.securityReferences(
@@ -614,29 +654,14 @@
 								//.forPaths(ant(&quot;/services/**&quot;))
 								.build()</text>
       </register>
-      <register name="9" type="4">
-        <text>singletonList(
-						SecurityContext.builder()
-								.securityReferences(
-										singletonList(
-												SecurityReference.builder()
-														.reference(&quot;Heimdall OAuth2&quot;)
-														.scopes(new AuthorizationScope[] {})
-														.build()
-										)
-								)
-								//.forPaths(ant(&quot;/services/**&quot;))
-								.build()
-				)</text>
-      </register>
       <register name=":" type="4">
         <text>%s/ValidateAvatarColor/ValidateAvatarInitials/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBc2dhcmRVc2VyQmFkUmVxdWVzdEV4Y2VwdGlvblw+</last-search>
+      <last-search>asgardbadrequest</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBc2dhcmRVc2VyQmFkUmVxdWVzdEV4Y2VwdGlvblw+</last-pattern>
+      <last-pattern>asgardbadrequest</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -644,9 +669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>json-schema</entry>
-        <entry>junit</entry>
-        <entry>core3-file-identi</entry>
         <entry>core3-file-iden</entry>
         <entry>agard-user-write</entry>
         <entry>asgard-user-write</entry>
@@ -664,6 +686,9 @@
         <entry>img</entry>
         <entry>asgard-users</entry>
         <entry encoding="base64">XDxBc2dhcmRVc2VyQmFkUmVxdWVzdEV4Y2VwdGlvblw+</entry>
+        <entry encoding="base64">XDxjb2RlXD4=</entry>
+        <entry>AsgardException</entry>
+        <entry>asgardbadrequest</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
