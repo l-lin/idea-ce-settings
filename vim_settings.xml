@@ -57,11 +57,11 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1564500319166">
         <mark key="'" line="116" column="31" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/exception/AsgardAdminExceptionHandler.java" timestamp="1564503038097">
-        <mark key="[" line="24" column="5" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="80" column="0" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/exception/AsgardAdminExceptionHandler.java" timestamp="1564573440798">
+        <mark key="[" line="88" column="42" />
+        <mark key="]" line="88" column="49" />
+        <mark key="." line="88" column="49" />
+        <mark key="^" line="88" column="49" />
       </file>
       <file name="$USER_HOME$/work/asgard-event-schema/json-schema-validation/src/test/resources/examples/asgard/user/user_creation_full.json" timestamp="1564127122852">
         <mark key="[" line="54" column="9" />
@@ -203,7 +203,7 @@
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
       </file>
-      <file name="$USER_HOME$/work/hermod-app/src/main/java/com/oodrive/hermod/app/message/MailSubjectUtils.java" timestamp="1564567482384" />
+      <file name="$USER_HOME$/work/hermod-app/src/main/java/com/oodrive/hermod/app/message/MailSubjectUtils.java" timestamp="1564573336029" />
       <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/usecase/addressbook/CreateContact.java" timestamp="1564066100312">
         <mark key="[" line="74" column="52" />
         <mark key="]" line="74" column="65" />
@@ -363,11 +363,11 @@
         <mark key="^" line="109" column="38" />
         <mark key="." line="109" column="38" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/controller/AvatarController.java" timestamp="1564503260097">
-        <mark key="[" line="11" column="78" />
-        <mark key="]" line="11" column="104" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/controller/AvatarController.java" timestamp="1564573482457">
+        <mark key="[" line="39" column="65" />
+        <mark key="]" line="39" column="65" />
         <mark key="^" line="11" column="104" />
-        <mark key="." line="11" column="104" />
+        <mark key="." line="39" column="65" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/dto/user/GetUserDTO.java" timestamp="1563285821548">
         <mark key="[" line="56" column="25" />
@@ -469,7 +469,6 @@
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/usecase/CreateContactBeanInfo.java" timestamp="1564389806457">
         <mark key="'" line="76" column="64" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/UpdateUser.java" timestamp="1564565977642" />
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/controller/MyInformationController.java" timestamp="1564479145693">
         <mark key="[" line="23" column="26" />
         <mark key="]" line="23" column="8" />
@@ -616,10 +615,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tirgg</text>
+        <text>, MediaType.APPLICATION_JSON_UTF8_VALUE}</text>
       </register>
       <register name="-" type="4">
-        <text>tirgg</text>
+        <text>, MediaType.APPLICATION_JSON_UTF8_VALUE}</text>
       </register>
       <register name="/" type="4">
         <text>expiration</text>
