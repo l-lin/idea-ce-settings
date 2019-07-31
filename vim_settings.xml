@@ -264,8 +264,8 @@
         <mark key="." line="56" column="33" />
         <mark key="^" line="56" column="33" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" timestamp="1564562772110">
-        <mark key="'" line="60" column="94" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" timestamp="1564563524219">
+        <mark key="'" line="97" column="65" />
       </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" timestamp="1564404692595">
         <mark key="'" line="127" column="14" />
@@ -505,8 +505,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="37" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/business/UserProvisioningBusiness.java" />
-      <jump line="36" column="35" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/UserTerminator.java" />
       <jump line="44" column="29" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/UserTerminator.java" />
       <jump line="48" column="32" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/UserTerminator.java" />
       <jump line="85" column="25" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/bean/UserBeanInfoFactoryBuilder.java" />
@@ -605,6 +603,8 @@
       <jump line="12" column="12" filename="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/exception/AsgardErrorCode.java" />
       <jump line="52" column="46" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleUserSuspender.java" />
       <jump line="60" column="94" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" />
+      <jump line="79" column="24" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" />
+      <jump line="97" column="65" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -614,7 +614,7 @@
         <text>-SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpZ25vcmVFeHBpcmF0aW9uXD4=</text>
+        <text>expiration</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUBFeGNlcHRpb25IYW5kbGVyKHsgQXNnYXJkQmFkUmVxdWVzdEV4Y2VwdGlvbi5jbGFzcyB9KQoJcHVibGljIFJlc3BvbnNlRW50aXR5PEFwaUVycm9yc0RUTz4gaGFuZGxlQXNnYXJkVXNlckJhZFJlcXVlc3RFeGNlcHRpb25zKEFzZ2FyZEJhZFJlcXVlc3RFeGNlcHRpb24gZXhjZXB0aW9uLAoJCQlIdHRwU2VydmxldFJlcXVlc3QgcmVxdWVzdCkgewoJCUFzZ2FyZEVycm9yQ29kZSBjb2RlID0gZXhjZXB0aW9uLmdldENvZGUoKTsKCQlBcGlFcnJvcnNEVE8gYXBpRXhjZXB0aW9uID0gbmV3IEFwaUVycm9yc0RUTyhjb2RlLCBjb2RlLmdldERlc2NyaXB0aW9uKCksIEh0dHBTdGF0dXMuQkFEX1JFUVVFU1QsIHBhdGgocmVxdWVzdCkpOwoJCUxPR0dFUi5lcnJvcihhcGlFeGNlcHRpb24udG9TdHJpbmcoKSk7CgkJcmV0dXJuIFJlc3BvbnNlRW50aXR5LmJhZFJlcXVlc3QoKS5ib2R5KGFwaUV4Y2VwdGlvbik7Cgl9Cg==</text>
@@ -662,9 +662,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpZ25vcmVFeHBpcmF0aW9uXD4=</last-search>
+      <last-search>expiration</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpZ25vcmVFeHBpcmF0aW9uXD4=</last-pattern>
+      <last-pattern>expiration</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -672,8 +672,6 @@
     </search>
     <history>
       <history-search>
-        <entry>agard-user-write</entry>
-        <entry>asgard-user-write</entry>
         <entry>Preset</entry>
         <entry encoding="base64">XDxleHBpcmF0aW9uRGF0ZVw+</entry>
         <entry>Suspen</entry>
@@ -691,7 +689,9 @@
         <entry encoding="base64">XDxjb2RlXD4=</entry>
         <entry>AsgardException</entry>
         <entry>asgardbadrequest</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxpZ25vcmVFeHBpcmF0aW9uXD4=</entry>
+        <entry>expiration</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
