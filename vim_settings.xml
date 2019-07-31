@@ -93,12 +93,6 @@
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/support/CreateSupport.java" timestamp="1564134295498">
         <mark key="[" line="32" column="25" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleUserSuspender.java" timestamp="1564562254212">
-        <mark key="'" line="52" column="46" />
-        <mark key="]" line="54" column="12" />
-        <mark key="^" line="54" column="12" />
-        <mark key="." line="54" column="12" />
-      </file>
       <file name="$USER_HOME$/work/asgard-event-schema/json-schema-validation/src/test/resources/examples/asgard/user/user_update_full.json" timestamp="1564127111977">
         <mark key="[" line="70" column="13" />
         <mark key="]" line="70" column="27" />
@@ -203,6 +197,12 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/controller/AlarmController.java" timestamp="1564566429684">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="18" column="28" />
+        <mark key="^" line="18" column="28" />
+        <mark key="." line="18" column="28" />
+      </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/usecase/addressbook/CreateContact.java" timestamp="1564066100312">
         <mark key="[" line="74" column="52" />
         <mark key="]" line="74" column="65" />
@@ -275,6 +275,12 @@
         <mark key="]" line="151" column="77" />
         <mark key="^" line="151" column="77" />
         <mark key="." line="151" column="77" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/AlarmController.java" timestamp="1564566350629">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="25" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/contact/ContactDataBuilder.java" timestamp="1564133449320">
         <mark key="[" line="72" column="90" />
@@ -462,6 +468,7 @@
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/usecase/CreateContactBeanInfo.java" timestamp="1564389806457">
         <mark key="'" line="76" column="64" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/UpdateUser.java" timestamp="1564565977642" />
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/controller/MyInformationController.java" timestamp="1564479145693">
         <mark key="[" line="23" column="26" />
         <mark key="]" line="23" column="8" />
@@ -497,7 +504,7 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="/fragment.java" timestamp="1564499131900">
+      <file name="/fragment.java" timestamp="1564566313870">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -608,10 +615,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-SNAPSHOT</text>
+        <text>tirgg</text>
       </register>
       <register name="-" type="4">
-        <text>-SNAPSHOT</text>
+        <text>tirgg</text>
       </register>
       <register name="/" type="4">
         <text>expiration</text>
