@@ -89,11 +89,11 @@
         <mark key="^" line="110" column="10" />
         <mark key="." line="110" column="10" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/redis/LettuceClientOptionConfigurationBuilder.java" timestamp="1564646587465">
-        <mark key="[" line="22" column="35" />
-        <mark key="]" line="22" column="34" />
-        <mark key="^" line="22" column="34" />
-        <mark key="." line="22" column="34" />
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/redis/LettuceClientOptionConfigurationBuilder.java" timestamp="1564661874507">
+        <mark key="[" line="23" column="43" />
+        <mark key="]" line="23" column="43" />
+        <mark key="^" line="22" column="9" />
+        <mark key="." line="23" column="43" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/dto/user/CreateUserDTO.java" timestamp="1563463002228">
         <mark key="[" line="34" column="11" />
@@ -246,6 +246,7 @@
         <mark key="'" line="76" column="64" />
       </file>
       <file name="/application.yml" timestamp="1564648257416" />
+      <file name="/LettuceClientOptionConfigurationBuilder.java" timestamp="1564661835281" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1564574554747">
         <mark key="'" line="60" column="47" />
       </file>
@@ -598,16 +599,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
-      <register name="0" type="4">
-        <text>./classes/:./resources/:./libs/*</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQljbGllbnRDb25maWd1cmF0aW9uQnVpbGRlci5jb21tYW5kVGltZW91dChEdXJhdGlvbi5vZlNlY29uZHMoMSkpLnNodXRkb3duVGltZW91dChEdXJhdGlvbi5vZlNlY29uZHMoMikpLmNsaWVudE9wdGlvbnMoQ2x1c3RlckNsaWVudE9wdGlvbnMuYnVpbGRlcigpCg==</text>
       </register>
       <register name="1" type="8">
         <text>1-SNAPSHOT
