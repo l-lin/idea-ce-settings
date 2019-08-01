@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1564651124133">
-        <mark key="[" line="45" column="18" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1564652930799">
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="46" column="9" />
+        <mark key="." line="46" column="9" />
         <mark key="^" line="51" column="0" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/usecase/CreateUserBeanInfo.java" timestamp="1564390295623">
@@ -195,6 +195,10 @@
         <mark key="]" line="109" column="38" />
         <mark key="^" line="109" column="38" />
         <mark key="." line="109" column="38" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.0.14.RELEASE/spring-data-redis-2.0.14.RELEASE-sources.jar!/org/springframework/data/redis/connection/lettuce/LettuceHashCommands.java" timestamp="1564652937624">
+        <mark key="[" line="173" column="0" />
+        <mark key="]" line="172" column="5" />
       </file>
       <file name="$USER_HOME$/work/deploy-j2-maker/src/main/java/com/oodrive/tools/deployj2maker/StringToResource.java" timestamp="1563808780827">
         <mark key="[" line="9" column="28" />
@@ -424,6 +428,7 @@
         <mark key="^" line="58" column="28" />
         <mark key="." line="58" column="28" />
       </file>
+      <file name="$USER_HOME$/work/heimdall-commons/heimdall-session/src/main/java/com/oodrive/heimdall/session/configuration/SessionConfig.java" timestamp="1564653591908" />
       <file name="$USER_HOME$/work/deploy-j2-maker/README.md" timestamp="1563876382207">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="18" />
@@ -591,13 +596,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBTExcPg==</text>
+        <text>redis</text>
       </register>
       <register name="0" type="4">
         <text>./classes/:./resources/:./libs/*</text>
@@ -635,9 +640,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBTExcPg==</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBTExcPg==</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -645,7 +650,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHBpcmF0aW9uRGF0ZVw+</entry>
         <entry>Suspen</entry>
         <entry>suspension</entry>
         <entry encoding="base64">XDxjb250YWN0SW5mb1w+</entry>
@@ -665,6 +669,7 @@
         <entry encoding="base64">XDxpZ25vcmVFeHBpcmF0aW9uXD4=</entry>
         <entry>expiration</entry>
         <entry encoding="base64">XDxBTExcPg==</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
