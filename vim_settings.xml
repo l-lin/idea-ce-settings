@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1564673751058">
-        <mark key="'" line="567" column="50" />
+        <mark key="'" line="561" column="50" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/usecase/CreateUserBeanInfo.java" timestamp="1564390295623">
         <mark key="[" line="112" column="0" />
@@ -101,6 +101,9 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" timestamp="1564755254654">
+        <mark key="'" line="50" column="24" />
+      </file>
       <file name="/TabularFileBeanDataSource.java" timestamp="1564672309947">
         <mark key="'" line="93" column="32" />
       </file>
@@ -129,10 +132,10 @@
         <mark key="^" line="1044" column="14" />
       </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/MySessionController.java" timestamp="1564479157837">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="22" column="16" />
-        <mark key="^" line="22" column="16" />
-        <mark key="." line="22" column="16" />
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="24" column="16" />
+        <mark key="^" line="24" column="16" />
+        <mark key="." line="24" column="16" />
       </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/OpenAPIConfig.java" timestamp="1564663882539">
         <mark key="[" line="9" column="0" />
@@ -460,6 +463,13 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" timestamp="1564755966213">
+        <mark key="'" line="77" column="24" />
+        <mark key="[" line="157" column="0" />
+        <mark key="]" line="157" column="0" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="77" column="32" />
+      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/CreateUser.java" timestamp="1564134300696">
         <mark key="[" line="36" column="25" />
         <mark key="]" line="133" column="62" />
@@ -527,17 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="23" filename="$USER_HOME$/work/asgard-users/pom.xml" />
-      <jump line="225" column="27" filename="$USER_HOME$/work/asgard-users/pom.xml" />
-      <jump line="35" column="9" filename="$USER_HOME$/work/asgard-users/pom.xml" />
-      <jump line="48" column="50" filename="$USER_HOME$/work/asgard-users/pom.xml" />
-      <jump line="163" column="28" filename="$USER_HOME$/work/asgard-users/pom.xml" />
-      <jump line="164" column="27" filename="$USER_HOME$/work/asgard-users/pom.xml" />
-      <jump line="223" column="28" filename="$USER_HOME$/work/asgard-users/pom.xml" />
-      <jump line="224" column="27" filename="$USER_HOME$/work/asgard-users/pom.xml" />
-      <jump line="47" column="9" filename="$USER_HOME$/work/asgard-users/pom.xml" />
-      <jump line="289" column="24" filename="$USER_HOME$/work/asgard-users/pom.xml" />
-      <jump line="56" column="16" filename="$USER_HOME$/work/asgard-users/pom.xml" />
       <jump line="287" column="28" filename="$USER_HOME$/work/asgard-users/pom.xml" />
       <jump line="103" column="28" filename="$USER_HOME$/work/asgard-users/pom.xml" />
       <jump line="20" column="46" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/tracking/ProvisioningEventInfo.java" />
@@ -627,55 +626,66 @@
       <jump line="96" column="52" filename="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.8.2/univocity-parsers-2.8.2-sources.jar!/com/univocity/parsers/common/input/concurrent/ConcurrentCharInputReader.java" />
       <jump line="99" column="25" filename="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.8.2/univocity-parsers-2.8.2-sources.jar!/com/univocity/parsers/common/input/concurrent/ConcurrentCharInputReader.java" />
       <jump line="13" column="25" filename="$USER_HOME$/work/asgard-home/src/main/resources/application-timeout-redis.yml" />
+      <jump line="111" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
+      <jump line="143" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
+      <jump line="172" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
+      <jump line="49" column="33" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
+      <jump line="82" column="14" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
+      <jump line="90" column="19" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
+      <jump line="109" column="11" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
+      <jump line="39" column="24" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
+      <jump line="43" column="35" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
+      <jump line="50" column="24" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
+      <jump line="86" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>timeout</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCS5hcGlJbmZvKG5ldyBBcGlJbmZvKAoJCQkJCQkiQXNnYXJkIHBvcnRhbCBBUEkgZm9yIGJhY2tlbmQgc2VydmljZXMiLAoJCQkJCQksCgkJCQkJCXZlcnNpb24sCgkJCQkJCSIiLAoJCQkJCQlDT05UQUNULAoJCQkJCQlMSUNFTlNFLCBMSUNFTlNFX1VSTCwgQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpCgkJCQkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>timeout</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWFkZXJcPg==</text>
+        <text encoding="base64">XDxjb250YWN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQk8aGVpbWRhbGwtY2xpZW50LnZlcnNpb24+Mi44LjMtU05BUFNIT1Q8L2hlaW1kYWxsLWNsaWVudC52ZXJzaW9uPgo=</text>
+      <register name="0" type="4">
+        <text>&quot;Asgard portal API for backend services&quot;</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">MQogICAgICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJCS5hcGlJbmZvKG5ldyBBcGlJbmZvKAoJCQkJCQkiQXNnYXJkIHBvcnRhbCBBUEkgZm9yIGJhY2tlbmQgc2VydmljZXMiLAoJCQkJCQksCgkJCQkJCXZlcnNpb24sCgkJCQkJCSIiLAoJCQkJCQlDT05UQUNULAoJCQkJCQlMSUNFTlNFLCBMSUNFTlNFX1VSTCwgQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpCgkJCQkpCg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">OgogICAgICA=</text>
+        <text encoding="base64">IlRoZXNlIEFQSXMgYXJlIGludGVuZGVkIHRvIGJlIGNvbnN1bWVkIGJ5IG90aGVyIGJhY2tlbmQgc2VydmljZXMuPGJyPiIKCQkJCQkJCQkrICJUaGV5IGFyZSBwcm90ZWN0ZWQgYW5kIG5lZWQgYSBIZWltZGFsbCBKV1QgdG9rZW4gdG8gYmUgYWJsZSB0byBjYWxsIHRoZW0uPGJyPiIKCQkJCQkJCQkrICJJZiB5b3Ugd2FudCBtb3JlIGRldGFpbCwgY2hlY2sgdGhlIHNlY3VyaXR5IGNvbmZpZ3VyYXRpb246IGh0dHBzOi8vb29naXQub29kcml2ZS5uZXQvYXV0aC9oZWltZGFsbC1jbGllbnQvYmxvYi9tYXN0ZXIvaGVpbWRhbGwtY2xpZW50LXhhdXRoLWF1dG9jb25maWcvc3JjL21haW4vamF2YS9jb20vb29kcml2ZS9oZWltZGFsbC9jbGllbnQveGF1dGgvYXV0b2NvbmZpZy9YQXV0aFNlcnZlckF1dG9Db25maWd1cmF0aW9uLmphdmEi</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29va2llOgogICAgICAgIG0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">IlRoZXNlIEFQSXMgYXJlIGludGVuZGVkIHRvIGJlIGNvbnN1bWVkIGJ5IGV4dGVybmFsIGNsaWVudHMgbGlrZSBtb2JpbGUgb3IgZGVza3RvcCBjbGllbnRzLjxicj4iCgkJCQkJCQkJKyAiVGhleSBhcmUgYWNjZXNzaWJsZSBlaXRoZXIgYnkgT2F1dGgyIG9yIHVzaW5nIGEgXCJjbGFzc2ljXCIgYXV0aGVudGljYXRpb24gdmlhIGEgU0VTU0lPTiBjb29raWUuIg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJTWFwPEZpZWxkVHlwZTxCLCA/PiwgU3RyaW5nPiBjb2x1bW5NYXBwaW5nID0gbnVsbDsK</text>
+        <text encoding="base64">CQkJCS5hcGlJbmZvKG5ldyBBcGlJbmZvKAoJCQkJCQkiQXNnYXJkIHBvcnRhbCBBUEkgZm9yIGNsaWVudHMgKGkuZS4gbW9iaWxlIG9yIGRlc2t0b3ApIiwKCQkJCQkJIlRoZXNlIEFQSXMgYXJlIGludGVuZGVkIHRvIGJlIGNvbnN1bWVkIGJ5IGV4dGVybmFsIGNsaWVudHMgbGlrZSBtb2JpbGUgb3IgZGVza3RvcCBjbGllbnRzLjxicj4iCgkJCQkJCQkJKyAiVGhleSBhcmUgYWNjZXNzaWJsZSBlaXRoZXIgYnkgT2F1dGgyIG9yIHVzaW5nIGEgXCJjbGFzc2ljXCIgYXV0aGVudGljYXRpb24gdmlhIGEgU0VTU0lPTiBjb29raWUuIiwKCQkJCQkJdmVyc2lvbiwKCQkJCQkJIiIsCgkJCQkJCUNPTlRBQ1QsCgkJCQkJCUxJQ0VOU0UsIExJQ0VOU0VfVVJMLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSkKCQkJCSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJdHJ5IHsKCQkJCXJlYWRlci5jbG9zZSgpOwoJCQl9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CgkJCQkvLyBjbG9zZSBxdWlldGx5CgkJCX0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">IlRoZXNlIEFQSXMgYXJlIGNvbnN1bWVkIGJ5IG91ciBmcm9udGVuZCBodHRwczovL29vZ2l0Lm9vZHJpdmUubmV0L2FzZ2FyZC9hc2dhcmQtaG9tZS1mcm9udGVuZC48YnI+IgoJCQkJCQkJCSsgIlRoZXkgYXJlIHByb3RlY3RlZCB3aXRoIGEgXCJjbGFzc2ljXCIgYXV0aGVudGljYXRpb24gdGhyb3VnaCBTRVNTSU9OIGNvb2tpZXMuIg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQlpbml0UGFyc2VyKHJlYWRlcik7CgoJCVN0cmluZ1tdIGhlYWRlcnMgPSBjc3ZQYXJzZXIuZ2V0Q29udGV4dCgpLmhlYWRlcnMoKTsKCQlNYXA8RmllbGRUeXBlPEIsID8+LCBTdHJpbmc+IGNvbHVtbk1hcHBpbmcgPSBudWxsOwoJCWJvb2xlYW4gaGVhZGVySXNPayA9IEFycmF5cy5zdHJlYW0oaGVhZGVycykubm9uZU1hdGNoKE9iamVjdHM6OmlzTnVsbCk7CgkJaWYgKGhlYWRlcklzT2spIHsKCQkJY29sdW1uTWFwcGluZyA9IGZpbmRDb2x1bW5zKGhlYWRlcnMpOwoJCQlpZiAoY29sdW1uTWFwcGluZy5pc0VtcHR5KCkpIHsKCQkJCWxvZ0Vycm9yKCJDb2x1bW5zIG5vdCBmb3VuZCAhIik7CgkJCQloZWFkZXJJc09rID0gZmFsc2U7CgkJCX0KCQl9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">bmV3IEFwaUluZm8oCgkJCQkJCSJBc2dhcmQgcG9ydGFsIHVzZXIgQVBJIGZvciBvdXIgZnJvbnRlbmQiLAoJCQkJCQkiVGhlc2UgQVBJcyBhcmUgY29uc3VtZWQgYnkgb3VyIGZyb250ZW5kIGh0dHBzOi8vb29naXQub29kcml2ZS5uZXQvYXNnYXJkL2FzZ2FyZC1ob21lLWZyb250ZW5kLjxicj4iCgkJCQkJCQkJKyAiVGhleSBhcmUgcHJvdGVjdGVkIHdpdGggYSBcImNsYXNzaWNcIiBhdXRoZW50aWNhdGlvbiB0aHJvdWdoIFNFU1NJT04gY29va2llcy4iLAoJCQkJCQl2ZXJzaW9uLAoJCQkJCQkiIiwKCQkJCQkJQ09OVEFDVCwKCQkJCQkJTElDRU5TRSwKCQkJCQkJTElDRU5TRV9VUkwsCgkJCQkJCUNvbGxlY3Rpb25zLmVtcHR5TGlzdCgpKQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCS5hcGlzKG5vdChSZXF1ZXN0SGFuZGxlclNlbGVjdG9ycy53aXRoQ2xhc3NBbm5vdGF0aW9uKFJvbGVVc2VyLmNsYXNzKSkpCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IlRoZXNlIEFQSXMgYXJlIGNvbnN1bWVkIGJ5IG91ciBmcm9udGVuZCBodHRwczovL29vZ2l0Lm9vZHJpdmUubmV0L2FzZ2FyZC9hc2dhcmQtaG9tZS1mcm9udGVuZC48YnI+IgoJCQkJCQkJCSsgIlRoZXkgYXJlIHByb3RlY3RlZCB3aXRoIGEgXCJjbGFzc2ljXCIgYXV0aGVudGljYXRpb24gdGhyb3VnaCBTRVNTSU9OIGNvb2tpZXMuIg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2RvYzwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nZG9jLW9wZW5hcGktdWk8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjEuMS40PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQkJCQkJIiIsCgkJCQkJCUNPTlRBQ1QsCgkJCQkJCUxJQ0VOU0UsCgkJCQkJCUxJQ0VOU0VfVVJMLAoJCQkJCQlDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2RvYzwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nZG9jLW9wZW5hcGktY29yZTwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+MS4xLjQ8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">MQogICAgICAgIA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ValidateAvatarColor/ValidateAvatarInitials/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWFkZXJcPg==</last-search>
+      <last-search encoding="base64">XDxjb250YWN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWFkZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjb250YWN0XD4=</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -683,8 +693,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ValidateAvatarColor</entry>
-        <entry>img*</entry>
         <entry>img</entry>
         <entry>asgard-users</entry>
         <entry encoding="base64">XDxBc2dhcmRVc2VyQmFkUmVxdWVzdEV4Y2VwdGlvblw+</entry>
@@ -703,6 +711,8 @@
         <entry encoding="base64">XDxjb2x1bW5NYXBwaW5nXD4=</entry>
         <entry>univocity</entry>
         <entry encoding="base64">XDxyZWFkZXJcPg==</entry>
+        <entry encoding="base64">XDxDT05UQUNUXD4=</entry>
+        <entry encoding="base64">XDxjb250YWN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
