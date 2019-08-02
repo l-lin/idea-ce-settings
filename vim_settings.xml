@@ -463,12 +463,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" timestamp="1564755966213">
-        <mark key="'" line="77" column="24" />
-        <mark key="[" line="157" column="0" />
-        <mark key="]" line="157" column="0" />
-        <mark key="." line="157" column="0" />
-        <mark key="^" line="77" column="32" />
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" timestamp="1564757242895">
+        <mark key="'" line="102" column="8" />
+        <mark key="[" line="153" column="42" />
+        <mark key="]" line="153" column="45" />
+        <mark key="." line="153" column="45" />
+        <mark key="^" line="153" column="45" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/CreateUser.java" timestamp="1564134300696">
         <mark key="[" line="36" column="25" />
@@ -537,7 +537,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="28" filename="$USER_HOME$/work/asgard-users/pom.xml" />
       <jump line="103" column="28" filename="$USER_HOME$/work/asgard-users/pom.xml" />
       <jump line="20" column="46" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/tracking/ProvisioningEventInfo.java" />
       <jump line="129" column="12" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/ProvisioningEventInfo.java" />
@@ -637,13 +636,14 @@
       <jump line="43" column="35" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
       <jump line="50" column="24" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
       <jump line="86" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
+      <jump line="102" column="8" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCS5hcGlJbmZvKG5ldyBBcGlJbmZvKAoJCQkJCQkiQXNnYXJkIHBvcnRhbCBBUEkgZm9yIGJhY2tlbmQgc2VydmljZXMiLAoJCQkJCQksCgkJCQkJCXZlcnNpb24sCgkJCQkJCSIiLAoJCQkJCQlDT05UQUNULAoJCQkJCQlMSUNFTlNFLCBMSUNFTlNFX1VSTCwgQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpCgkJCQkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>want</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>want</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb250YWN0XD4=</text>
