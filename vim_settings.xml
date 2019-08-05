@@ -225,6 +225,9 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/GetGroup.java" timestamp="1564993414389">
+        <mark key="'" line="63" column="34" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/client/ClientDataBuilder.java" timestamp="1564068702326">
         <mark key="[" line="73" column="17" />
         <mark key="]" line="73" column="34" />
@@ -326,6 +329,12 @@
         <mark key="]" line="17" column="25" />
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="25" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/usecase/group/GetGroup.java" timestamp="1564993725378">
+        <mark key="[" line="88" column="23" />
+        <mark key="]" line="88" column="28" />
+        <mark key="^" line="88" column="28" />
+        <mark key="." line="88" column="28" />
       </file>
       <file name="$USER_HOME$/work/asgard-event-schema/json-schema-validation/src/test/resources/examples/asgard/user/user_update_full.json" timestamp="1564127111977">
         <mark key="[" line="70" column="13" />
@@ -463,13 +472,6 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" timestamp="1564757242895">
-        <mark key="'" line="102" column="8" />
-        <mark key="[" line="153" column="42" />
-        <mark key="]" line="153" column="45" />
-        <mark key="." line="153" column="45" />
-        <mark key="^" line="153" column="45" />
-      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/CreateUser.java" timestamp="1564134300696">
         <mark key="[" line="36" column="25" />
         <mark key="]" line="133" column="62" />
@@ -537,9 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="28" filename="$USER_HOME$/work/asgard-users/pom.xml" />
-      <jump line="20" column="46" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/tracking/ProvisioningEventInfo.java" />
-      <jump line="129" column="12" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/ProvisioningEventInfo.java" />
       <jump line="133" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/ProvisioningEventInfo.java" />
       <jump line="11" column="17" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/SessionInfo.java" />
       <jump line="19" column="56" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/ProvisioningEventInfo.java" />
@@ -637,6 +636,9 @@
       <jump line="50" column="24" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
       <jump line="86" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
       <jump line="102" column="8" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
+      <jump line="67" column="40" filename="/GetGroup.java" />
+      <jump line="62" column="34" filename="/GetGroup.java" />
+      <jump line="63" column="34" filename="/GetGroup.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -646,7 +648,7 @@
         <text>want</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWN0XD4=</text>
+        <text encoding="base64">XDxjb3VudE1hcFw+</text>
       </register>
       <register name="0" type="4">
         <text>&quot;Asgard portal API for backend services&quot;</text>
@@ -683,9 +685,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250YWN0XD4=</last-search>
+      <last-search encoding="base64">XDxjb3VudE1hcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb3VudE1hcFw+</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -693,7 +695,6 @@
     </search>
     <history>
       <history-search>
-        <entry>img</entry>
         <entry>asgard-users</entry>
         <entry encoding="base64">XDxBc2dhcmRVc2VyQmFkUmVxdWVzdEV4Y2VwdGlvblw+</entry>
         <entry encoding="base64">XDxjb2RlXD4=</entry>
@@ -713,6 +714,7 @@
         <entry encoding="base64">XDxyZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxDT05UQUNUXD4=</entry>
         <entry encoding="base64">XDxjb250YWN0XD4=</entry>
+        <entry encoding="base64">XDxjb3VudE1hcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
