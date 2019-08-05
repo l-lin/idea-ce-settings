@@ -12,11 +12,6 @@
         <mark key="^" line="112" column="40" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/annotation/FrontAPI.java" timestamp="1564670016074">
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/utils/ValidateAvatar.java" timestamp="1564498576098">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="7" column="20" />
@@ -533,16 +528,17 @@
         <mark key="." line="48" column="23" />
         <mark key="^" line="48" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1564650853565">
+      <file name="/fragment.java" timestamp="1565017271883">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/resources/application-dev.yml" timestamp="1564733273375">
-        <mark key="]" line="37" column="12" />
-        <mark key="." line="37" column="12" />
-        <mark key="^" line="37" column="12" />
+      <file name="$USER_HOME$/work/asgard-home/src/main/resources/application-dev.yml" timestamp="1565017109805">
+        <mark key="[" line="17" column="13" />
+        <mark key="]" line="17" column="32" />
+        <mark key="." line="17" column="32" />
+        <mark key="^" line="17" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -649,10 +645,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>want</text>
+        <text>redis-int01.oodrivegroup.net:6379,redis-int01.oodrivegroup.net:6380,redis-int01.oodrivegroup.net:6381,redis-int01.oodrivegroup.net:6382,redis-int01.oodrivegroup.net:6383,redis-int01.oodrivegroup.net:6384</text>
       </register>
       <register name="-" type="4">
-        <text>want</text>
+        <text>redis-int01.oodrivegroup.net:6379,redis-int01.oodrivegroup.net:6380,redis-int01.oodrivegroup.net:6381,redis-int01.oodrivegroup.net:6382,redis-int01.oodrivegroup.net:6383,redis-int01.oodrivegroup.net:6384</text>
       </register>
       <register name="/" type="4">
         <text>clean</text>
