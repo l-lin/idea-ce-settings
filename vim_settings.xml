@@ -366,7 +366,9 @@
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-commons/heimdall-springsession-fork/src/main/java/org/springframework/session/data/redis/HeimdallRedisOperationsSessionRepository.java" timestamp="1564997921295" />
+      <file name="$USER_HOME$/work/heimdall-commons/heimdall-springsession-fork/src/main/java/org/springframework/session/data/redis/HeimdallRedisOperationsSessionRepository.java" timestamp="1565000248051">
+        <mark key="'" line="85" column="27" />
+      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/controller/AlarmController.java" timestamp="1564566429684">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="18" column="28" />
@@ -467,6 +469,9 @@
         <mark key="^" line="9" column="70" />
         <mark key="." line="9" column="70" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/2.1.4.RELEASE/spring-session-data-redis-2.1.4.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.java" timestamp="1565000258834">
+        <mark key="'" line="246" column="13" />
+      </file>
       <file name="$USER_HOME$/work/deploy-j2-maker/README.md" timestamp="1563876382207">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="18" />
@@ -541,8 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/ProvisioningEventInfo.java" />
-      <jump line="11" column="17" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/SessionInfo.java" />
       <jump line="19" column="56" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/ProvisioningEventInfo.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/ProvisioningEventInfo.java" />
       <jump line="130" column="4" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/ProvisioningEventInfo.java" />
@@ -641,6 +644,8 @@
       <jump line="67" column="40" filename="/GetGroup.java" />
       <jump line="62" column="34" filename="/GetGroup.java" />
       <jump line="63" column="34" filename="/GetGroup.java" />
+      <jump line="85" column="27" filename="$USER_HOME$/work/heimdall-commons/heimdall-springsession-fork/src/main/java/org/springframework/session/data/redis/HeimdallRedisOperationsSessionRepository.java" />
+      <jump line="246" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/2.1.4.RELEASE/spring-session-data-redis-2.1.4.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -650,7 +655,7 @@
         <text>want</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3VudE1hcFw+</text>
+        <text>clean</text>
       </register>
       <register name="0" type="4">
         <text>&quot;Asgard portal API for backend services&quot;</text>
@@ -687,9 +692,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3VudE1hcFw+</last-search>
+      <last-search>clean</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3VudE1hcFw+</last-pattern>
+      <last-pattern>clean</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -697,7 +702,6 @@
     </search>
     <history>
       <history-search>
-        <entry>asgard-users</entry>
         <entry encoding="base64">XDxBc2dhcmRVc2VyQmFkUmVxdWVzdEV4Y2VwdGlvblw+</entry>
         <entry encoding="base64">XDxjb2RlXD4=</entry>
         <entry>AsgardException</entry>
@@ -717,6 +721,7 @@
         <entry encoding="base64">XDxDT05UQUNUXD4=</entry>
         <entry encoding="base64">XDxjb250YWN0XD4=</entry>
         <entry encoding="base64">XDxjb3VudE1hcFw+</entry>
+        <entry>clean</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
