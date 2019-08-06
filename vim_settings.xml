@@ -39,11 +39,12 @@
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="31" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/ContactsController.java" timestamp="1564671032509">
-        <mark key="[" line="161" column="5" />
-        <mark key="]" line="161" column="15" />
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/ContactsController.java" timestamp="1565082923146">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="16" />
         <mark key="^" line="161" column="15" />
-        <mark key="." line="161" column="15" />
+        <mark key="." line="274" column="0" />
       </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/repository/AuthFailureRepository.java" timestamp="1563351198259">
         <mark key="[" line="6" column="0" />
@@ -153,10 +154,6 @@
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" timestamp="1564563524219">
         <mark key="'" line="97" column="65" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" timestamp="1564733063624">
-        <mark key="'" line="139" column="44" />
-        <mark key="[" line="114" column="38" />
-      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/AlarmController.java" timestamp="1564566350629">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="7" column="25" />
@@ -246,6 +243,11 @@
         <mark key="." line="73" column="34" />
         <mark key="^" line="73" column="34" />
       </file>
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/PersonsController.java" timestamp="1565083062848">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="12" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/problem/ProblemTypeEnum.java" timestamp="1563461360346">
         <mark key="[" line="45" column="22" />
         <mark key="]" line="46" column="19" />
@@ -257,6 +259,11 @@
         <mark key="]" line="1044" column="14" />
         <mark key="." line="1044" column="14" />
         <mark key="^" line="1044" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/MyInformationController.java" timestamp="1565083496248">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="16" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/UserExportHeaders.java" timestamp="1564065641919">
         <mark key="[" line="37" column="4" />
@@ -401,6 +408,11 @@
         <mark key="]" line="91" column="33" />
         <mark key="^" line="91" column="33" />
         <mark key="." line="91" column="33" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/GroupController.java" timestamp="1565082965639">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="16" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/dto/AuthFailuresListDTO.java" timestamp="1563289279911">
         <mark key="[" line="10" column="13" />
@@ -555,7 +567,7 @@
         <mark key="." line="48" column="23" />
         <mark key="^" line="48" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1565079705089">
+      <file name="/fragment.java" timestamp="1565083531557">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
@@ -569,8 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="56" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/ProvisioningEventInfo.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/ProvisioningEventInfo.java" />
       <jump line="130" column="4" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/tracking/ProvisioningEventInfo.java" />
       <jump line="0" column="19" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/contact/UpdateContactDataBuilder.java" />
       <jump line="16" column="19" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/user/UserTrackingTransformer.java" />
@@ -669,10 +679,12 @@
       <jump line="63" column="34" filename="/GetGroup.java" />
       <jump line="85" column="27" filename="$USER_HOME$/work/heimdall-commons/heimdall-springsession-fork/src/main/java/org/springframework/session/data/redis/HeimdallRedisOperationsSessionRepository.java" />
       <jump line="246" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/2.1.4.RELEASE/spring-session-data-redis-2.1.4.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.java" />
+      <jump line="282" column="4" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/ContactsController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/ContactsController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>redis-int01.oodrivegroup.net:6379,redis-int01.oodrivegroup.net:6380,redis-int01.oodrivegroup.net:6381,redis-int01.oodrivegroup.net:6382,redis-int01.oodrivegroup.net:6383,redis-int01.oodrivegroup.net:6384</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUBBcGlGb3JGcm9udAo=</text>
       </register>
       <register name="-" type="4">
         <text>redis-int01.oodrivegroup.net:6379,redis-int01.oodrivegroup.net:6380,redis-int01.oodrivegroup.net:6381,redis-int01.oodrivegroup.net:6382,redis-int01.oodrivegroup.net:6383,redis-int01.oodrivegroup.net:6384</text>
@@ -680,8 +692,8 @@
       <register name="/" type="4">
         <text>clean</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;Asgard portal API for backend services&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">CUBBcGlGb3JGcm9udAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCS5hcGlJbmZvKG5ldyBBcGlJbmZvKAoJCQkJCQkiQXNnYXJkIHBvcnRhbCBBUEkgZm9yIGJhY2tlbmQgc2VydmljZXMiLAoJCQkJCQksCgkJCQkJCXZlcnNpb24sCgkJCQkJCSIiLAoJCQkJCQlDT05UQUNULAoJCQkJCQlMSUNFTlNFLCBMSUNFTlNFX1VSTCwgQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpCgkJCQkpCg==</text>
