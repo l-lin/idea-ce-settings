@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1564673751058">
+        <mark key="'" line="561" column="50" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/usecase/CreateUserBeanInfo.java" timestamp="1564390295623">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="26" />
         <mark key="^" line="112" column="40" />
         <mark key="." line="112" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1565098061746">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/utils/ValidateAvatar.java" timestamp="1564498576098">
         <mark key="[" line="5" column="4" />
@@ -27,6 +33,9 @@
         <mark key="^" line="39" column="97" />
         <mark key="." line="39" column="97" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.8.2/univocity-parsers-2.8.2-sources.jar!/com/univocity/parsers/common/AbstractParser.java" timestamp="1564734016657">
+        <mark key="'" line="242" column="12" />
+      </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/controller/ChangePasswordController.java" timestamp="1565084414250">
         <mark key="[" line="44" column="66" />
       </file>
@@ -35,13 +44,6 @@
         <mark key="]" line="9" column="31" />
         <mark key="." line="9" column="31" />
         <mark key="^" line="9" column="31" />
-      </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/ContactsController.java" timestamp="1565082923146">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="274" column="0" />
-        <mark key="]" line="274" column="16" />
-        <mark key="^" line="161" column="15" />
-        <mark key="." line="274" column="0" />
       </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/repository/AuthFailureRepository.java" timestamp="1563351198259">
         <mark key="[" line="6" column="0" />
@@ -79,6 +81,9 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/AsgardHomeExceptionHandler.java" timestamp="1564579204608">
+        <mark key="'" line="3" column="24" />
+      </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/ApiForClient.java" timestamp="1565084019590">
         <mark key="[" line="9" column="66" />
         <mark key="]" line="9" column="96" />
@@ -103,6 +108,12 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="14" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" timestamp="1564755254654">
+        <mark key="'" line="50" column="24" />
+      </file>
+      <file name="/TabularFileBeanDataSource.java" timestamp="1564672309947">
+        <mark key="'" line="93" column="32" />
+      </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/usecase/addressbook/CreateContact.java" timestamp="1564066100312">
         <mark key="[" line="74" column="52" />
         <mark key="]" line="74" column="65" />
@@ -120,6 +131,17 @@
         <mark key="]" line="35" column="45" />
         <mark key="." line="35" column="45" />
         <mark key="^" line="35" column="45" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/controller/PublicController.java" timestamp="1565094240198">
+        <mark key="[" line="27" column="77" />
+        <mark key="]" line="27" column="77" />
+        <mark key="^" line="20" column="72" />
+        <mark key="." line="27" column="77" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/TokenEndpoint.java" timestamp="1565097480602">
+        <mark key="'" line="86" column="54" />
+        <mark key="[" line="54" column="3" />
+        <mark key="]" line="54" column="61" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/resources/dictionary/dictionary_fr.properties" timestamp="1564066336775">
         <mark key="[" line="1044" column="0" />
@@ -145,10 +167,8 @@
         <mark key="^" line="64" column="65" />
         <mark key="." line="37" column="48" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" timestamp="1565084827260">
-        <mark key="'" line="139" column="44" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="32" />
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" timestamp="1564563524219">
+        <mark key="'" line="97" column="65" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/AlarmController.java" timestamp="1564566350629">
         <mark key="[" line="6" column="30" />
@@ -180,16 +200,14 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2-sources.jar!/springfox/documentation/spring/web/readers/parameter/ExpandedParameterBuilder.java" timestamp="1565096249998">
+        <mark key="'" line="83" column="31" />
+      </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/resources/application-redis-timeout.yml" timestamp="1564648270700">
         <mark key="[" line="5" column="25" />
         <mark key="]" line="7" column="40" />
         <mark key="^" line="7" column="40" />
         <mark key="." line="7" column="40" />
-      </file>
-      <file name="$USER_HOME$/work/hermod-app/src/main/resources/application-dev.yml" timestamp="1565080575988">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/usecase/UpdateContactBeanInfo.java" timestamp="1564133478766">
         <mark key="[" line="87" column="89" />
@@ -202,6 +220,9 @@
         <mark key="]" line="109" column="38" />
         <mark key="^" line="109" column="38" />
         <mark key="." line="109" column="38" />
+      </file>
+      <file name="/ExcelBeanDataSource.java" timestamp="1564672187706">
+        <mark key="'" line="136" column="37" />
       </file>
       <file name="$USER_HOME$/work/deploy-j2-maker/src/main/java/com/oodrive/tools/deployj2maker/StringToResource.java" timestamp="1563808780827">
         <mark key="[" line="9" column="28" />
@@ -221,6 +242,9 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/GetGroup.java" timestamp="1564993414389">
+        <mark key="'" line="63" column="34" />
+      </file>
       <file name="$USER_HOME$/work/loki-app/src/main/resources/application-dev.yml" timestamp="1565081270563">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="31" />
@@ -237,11 +261,6 @@
         <mark key="[" line="37" column="33" />
         <mark key="]" line="37" column="57" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/PersonsController.java" timestamp="1565083062848">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="12" />
-        <mark key="." line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/problem/ProblemTypeEnum.java" timestamp="1563461360346">
         <mark key="[" line="45" column="22" />
         <mark key="]" line="46" column="19" />
@@ -254,22 +273,36 @@
         <mark key="." line="1044" column="14" />
         <mark key="^" line="1044" column="14" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/MyInformationController.java" timestamp="1565083496248">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="16" />
-        <mark key="." line="100" column="0" />
-      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/UserExportHeaders.java" timestamp="1564065641919">
         <mark key="[" line="37" column="4" />
         <mark key="]" line="37" column="18" />
         <mark key="." line="37" column="18" />
         <mark key="^" line="37" column="18" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/usecase/CreateContactBeanInfo.java" timestamp="1564389806457">
+        <mark key="'" line="76" column="64" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1564574554747">
+        <mark key="'" line="60" column="47" />
+      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/java/com/oodrive/asgard/admin/app/controller/MyInformationController.java" timestamp="1564479145693">
         <mark key="[" line="23" column="26" />
         <mark key="]" line="23" column="8" />
         <mark key="^" line="23" column="8" />
         <mark key="." line="23" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/AuthorizationEndpointDoc.java" timestamp="1565097007459">
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="45" column="30" />
+        <mark key="." line="45" column="30" />
+        <mark key="^" line="45" column="30" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application.yml" timestamp="1565100079200">
+        <mark key="'" line="7" column="31" />
+        <mark key="[" line="199" column="2" />
+        <mark key="]" line="199" column="3" />
+        <mark key="." line="199" column="3" />
+        <mark key="^" line="199" column="3" />
       </file>
       <file name="$USER_HOME$/work/asgard-home/Dockerfile" timestamp="1564650135914">
         <mark key="[" line="3" column="17" />
@@ -301,11 +334,17 @@
         <mark key="^" line="17" column="26" />
         <mark key="." line="17" column="26" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1564500319166">
+        <mark key="'" line="116" column="31" />
+      </file>
       <file name="$USER_HOME$/work/asgard-event-schema/json-schema-validation/src/test/resources/examples/asgard/user/user_creation_full.json" timestamp="1564127122852">
         <mark key="[" line="54" column="9" />
         <mark key="]" line="54" column="23" />
         <mark key="." line="54" column="23" />
         <mark key="^" line="54" column="23" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.8.2/univocity-parsers-2.8.2-sources.jar!/com/univocity/parsers/common/input/concurrent/ConcurrentCharInputReader.java" timestamp="1564734035592">
+        <mark key="'" line="99" column="25" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/support/UpdateSupport.java" timestamp="1564134423364">
         <mark key="[" line="33" column="25" />
@@ -361,6 +400,9 @@
         <mark key="." line="5" column="33" />
         <mark key="^" line="4" column="56" />
       </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/pom.xml" timestamp="1565100003951">
+        <mark key="'" line="114" column="44" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/RequestHandler.java" timestamp="1565085962395">
         <mark key="[" line="47" column="2" />
         <mark key="]" line="47" column="25" />
@@ -371,18 +413,30 @@
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" timestamp="1565093039343">
-        <mark key="'" line="87" column="16" />
-        <mark key="[" line="110" column="5" />
-        <mark key="]" line="116" column="65" />
-        <mark key="." line="116" column="65" />
-        <mark key="^" line="116" column="65" />
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" timestamp="1565099568469">
+        <mark key="'" line="133" column="24" />
+        <mark key="[" line="75" column="34" />
+        <mark key="l" line="76" column="68" />
+        <mark key="]" line="75" column="34" />
+        <mark key="." line="75" column="34" />
+        <mark key="^" line="75" column="59" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.java" timestamp="1565095606041">
+        <mark key="'" line="143" column="101" />
+        <mark key="[" line="74" column="25" />
+        <mark key="]" line="74" column="76" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-commons/heimdall-springsession-fork/src/main/java/org/springframework/session/data/redis/HeimdallRedisOperationsSessionRepository.java" timestamp="1565000248051">
+        <mark key="'" line="85" column="27" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/controller/AlarmController.java" timestamp="1564566429684">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="18" column="28" />
         <mark key="^" line="18" column="28" />
         <mark key="." line="18" column="28" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.4.RELEASE/lettuce-core-5.1.4.RELEASE-sources.jar!/io/lettuce/core/LettuceFutures.java" timestamp="1564647344108">
+        <mark key="'" line="27" column="21" />
       </file>
       <file name="$USER_HOME$/work/cronos-trigger-app/src/main/resources/application-dev.yml" timestamp="1565080566189">
         <mark key="[" line="7" column="13" />
@@ -396,11 +450,6 @@
         <mark key="^" line="91" column="33" />
         <mark key="." line="91" column="33" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/GroupController.java" timestamp="1565082965639">
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="16" />
-        <mark key="." line="177" column="0" />
-      </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/dto/AuthFailuresListDTO.java" timestamp="1563289279911">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="12" column="44" />
@@ -413,16 +462,20 @@
         <mark key="." line="9" column="70" />
         <mark key="^" line="9" column="70" />
       </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/OAuth2EndpointsSwaggerDoc.java" timestamp="1565100287220">
+        <mark key="[" line="150" column="89" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/bean/ContactFieldTypes.java" timestamp="1564065902835">
         <mark key="[" line="151" column="63" />
         <mark key="]" line="151" column="77" />
         <mark key="^" line="151" column="77" />
         <mark key="." line="151" column="77" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application-dev.yml" timestamp="1565080568371">
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application-dev.yml" timestamp="1565099988131">
+        <mark key="'" line="16" column="13" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/client/CreateClient.java" timestamp="1564134287387">
         <mark key="[" line="27" column="25" />
@@ -457,6 +510,12 @@
         <mark key="^" line="434" column="33" />
         <mark key="." line="434" column="33" />
       </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/OAuth2EndpointsDoc.java" timestamp="1565097032673">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="30" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="33" column="30" />
+      </file>
       <file name="$USER_HOME$/work/heimdall-client/pom.xml" timestamp="1564649516843">
         <mark key="[" line="43" column="39" />
         <mark key="]" line="43" column="47" />
@@ -475,13 +534,6 @@
         <mark key="." line="104" column="31" />
         <mark key="^" line="104" column="31" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/resources/application-timeout-redis.yml" timestamp="1565008191849">
-        <mark key="'" line="13" column="25" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/dto/user/GetUserDTO.java" timestamp="1563285821548">
         <mark key="[" line="56" column="25" />
         <mark key="]" line="58" column="28" />
@@ -493,6 +545,12 @@
         <mark key="]" line="12" column="35" />
         <mark key="^" line="8" column="70" />
         <mark key="." line="8" column="3" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/2.1.4.RELEASE/spring-session-data-redis-2.1.4.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.java" timestamp="1565000258834">
+        <mark key="'" line="246" column="13" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/AuthorizationRequest.java" timestamp="1565096902372">
+        <mark key="'" line="119" column="33" />
       </file>
       <file name="$USER_HOME$/work/deploy-j2-maker/README.md" timestamp="1563876382207">
         <mark key="[" line="9" column="0" />
@@ -511,18 +569,21 @@
         <mark key="." line="133" column="62" />
         <mark key="^" line="133" column="62" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerApiListingScannerPlugin.java" timestamp="1565092955925">
-        <mark key="'" line="97" column="4" />
-        <mark key="[" line="27" column="63" />
-        <mark key="]" line="27" column="63" />
-        <mark key="^" line="27" column="63" />
-        <mark key="." line="27" column="63" />
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerApiListingScannerPlugin.java" timestamp="1565096063191">
+        <mark key="'" line="38" column="40" />
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="32" column="4" />
+        <mark key="^" line="73" column="59" />
+        <mark key="." line="32" column="4" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/UserCapacity.java" timestamp="1563463057047">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="21" column="14" />
         <mark key="." line="21" column="14" />
         <mark key="^" line="21" column="14" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/request/DefaultOAuth2RequestFactory.java" timestamp="1565096893368">
+        <mark key="'" line="73" column="20" />
       </file>
       <file name="$USER_HOME$/work/loki-app/src/main/java/com/oodrive/loki/app/listener/OnStartup.java" timestamp="1563806722149">
         <mark key="[" line="47" column="85" />
@@ -542,17 +603,23 @@
         <mark key="^" line="87" column="58" />
         <mark key="." line="101" column="4" />
       </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/field/AbstractFieldType.java" timestamp="1564672698032">
+        <mark key="'" line="140" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/CSVUserDetailDTOMapper.java" timestamp="1564672826773">
+        <mark key="'" line="30" column="28" />
+      </file>
       <file name="$USER_HOME$/work/deploy-j2-maker/src/main/sanitize.sh" timestamp="1563810777005">
         <mark key="[" line="5" column="18" />
         <mark key="]" line="5" column="18" />
         <mark key="." line="5" column="18" />
         <mark key="^" line="5" column="18" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/controller/LoginController.java" timestamp="1565084247071">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="17" />
-        <mark key="^" line="87" column="16" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/controller/LoginController.java" timestamp="1565094221947">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="^" line="86" column="88" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/usecase/UpdateUserBeanInfo.java" timestamp="1564390219544">
         <mark key="[" line="81" column="0" />
@@ -580,40 +647,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="20" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="46" column="18" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="127" column="14" filename="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" />
-      <jump line="56" column="22" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="129" column="36" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/resources/application.yml" />
-      <jump line="46" column="0" filename="$USER_HOME$/work/asgard-admin/asgard-admin-lsd/src/main/java/com/oodrive/asgard/admin/lsd/configuration/ProvisioningFanoutConfiguration.java" />
-      <jump line="132" column="57" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="131" column="0" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="127" column="57" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="53" column="4" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="63" column="41" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="118" column="34" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="75" column="19" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="79" column="8" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="102" column="4" filename="$USER_HOME$/work/asgard-users/asgard-user-read/src/main/java/com/oodrive/asgard/user/read/usecase/avatar/GetAvatar.java" />
-      <jump line="14" column="24" filename="$USER_HOME$/work/asgard-users/asgard-user-model/src/test/java/com/oodrive/asgard/user/model/utils/ValidateAvatarInitialsTest.java" />
-      <jump line="116" column="31" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/http/MediaType.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
-      <jump line="68" column="77" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/AsgardHomeExceptionHandler.java" />
-      <jump line="4" column="47" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/AsgardHomeExceptionHandler.java" />
-      <jump line="67" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/AsgardHomeExceptionHandler.java" />
-      <jump line="23" column="27" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" />
-      <jump line="38" column="13" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" />
-      <jump line="48" column="13" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" />
-      <jump line="55" column="40" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" />
-      <jump line="56" column="20" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" />
-      <jump line="87" column="38" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/ApiErrorsDTO.java" />
-      <jump line="12" column="12" filename="$USER_HOME$/work/asgard-users/asgard-user-model/src/main/java/com/oodrive/asgard/user/model/exception/AsgardErrorCode.java" />
-      <jump line="52" column="46" filename="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/user/IdleUserSuspender.java" />
-      <jump line="60" column="94" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" />
-      <jump line="79" column="24" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" />
-      <jump line="97" column="65" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" />
       <jump line="57" column="34" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/MediaType.java" />
       <jump line="60" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/MediaType.java" />
       <jump line="84" column="31" filename="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" />
@@ -673,63 +706,108 @@
       <jump line="109" column="0" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
       <jump line="162" column="15" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
       <jump line="44" column="41" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
-      <jump line="79" column="102" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
       <jump line="86" column="0" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
       <jump line="22" column="0" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
       <jump line="145" column="75" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
       <jump line="87" column="16" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
       <jump line="21" column="4" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerApiListingScannerPlugin.java" />
       <jump line="90" column="4" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerApiListingScannerPlugin.java" />
+      <jump line="35" column="30" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerApiListingScannerPlugin.java" />
+      <jump line="175" column="16" filename="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.java" />
+      <jump line="183" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.java" />
+      <jump line="121" column="54" filename="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.java" />
+      <jump line="143" column="101" filename="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.java" />
+      <jump line="37" column="40" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerApiListingScannerPlugin.java" />
+      <jump line="91" column="76" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
+      <jump line="94" column="41" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2-sources.jar!/springfox/documentation/spring/web/readers/parameter/ExpandedParameterBuilder.java" />
+      <jump line="83" column="31" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2-sources.jar!/springfox/documentation/spring/web/readers/parameter/ExpandedParameterBuilder.java" />
+      <jump line="73" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/request/DefaultOAuth2RequestFactory.java" />
+      <jump line="104" column="24" filename="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/AuthorizationRequest.java" />
+      <jump line="118" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/AuthorizationRequest.java" />
+      <jump line="119" column="33" filename="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/AuthorizationRequest.java" />
+      <jump line="146" column="38" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
+      <jump line="89" column="31" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
+      <jump line="45" column="28" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/OAuth2EndpointsSwaggerDoc.java" />
+      <jump line="86" column="54" filename="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/TokenEndpoint.java" />
+      <jump line="100" column="32" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/OAuth2EndpointsSwaggerDoc.java" />
+      <jump line="83" column="84" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
+      <jump line="79" column="46" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
+      <jump line="82" column="42" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
+      <jump line="52" column="71" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
+      <jump line="76" column="34" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
+      <jump line="128" column="15" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
+      <jump line="134" column="24" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application-dev.yml" />
+      <jump line="16" column="13" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application-dev.yml" />
+      <jump line="13" column="16" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/pom.xml" />
+      <jump line="100" column="49" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/pom.xml" />
+      <jump line="114" column="44" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/pom.xml" />
+      <jump line="156" column="20" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application.yml" />
+      <jump line="157" column="30" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application.yml" />
+      <jump line="199" column="7" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application.yml" />
+      <jump line="7" column="31" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHBhdHRlcm5zLmNvbnRhaW5zKCIvb2F1dGgvdG9rZW4iKSAmJiBzdXBwb3J0ZWRNZXRob2RzLmNvbnRhaW5zKFJlcXVlc3RNZXRob2QuUE9TVCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJLmNvbXBsZXhFeGFtcGxlcyhNdWx0aW1hcEJ1aWxkZXIuKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>Multim</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbnB1dFw+</text>
+        <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIHBhdHRlcm5zLmNvbnRhaW5zKCIvb2F1dGgvdG9rZW4iKSAmJiBzdXBwb3J0ZWRNZXRob2RzLmNvbnRhaW5zKFJlcXVlc3RNZXRob2QuUE9TVCk7Cg==</text>
+        <text encoding="base64">CQkJCQkJc2VjdXJpdHlDb250ZXh0cygiSGVpbWRhbGwgT0F1dGgyIiwgIi9hcGkvKioiKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJYm9vbGVhbiBpc1Rva2VuRW5kcG9pbnQgPSAKCQkJYm9vbGVhbiBpc0F1dGhvcml6YXRpb25FbmRwb2ludCA9IHBhdHRlcm5zLmNvbnRhaW5zKCIvb2F1dGgvYXV0aG9yaXplIikKCQkJCQkmJiAoc3VwcG9ydGVkTWV0aG9kcy5jb250YWlucyhSZXF1ZXN0TWV0aG9kLkdFVCkgfHwgc3VwcG9ydGVkTWV0aG9kcy5pc0VtcHR5KCkpOwoJCQlyZXR1cm4gaXNUb2tlbkVuZHBvaW50IHx8IGlzQXV0aG9yaXphdGlvbkVuZHBvaW50Owo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJLmNvbXBsZXhFeGFtcGxlcyhNdWx0aW1hcEJ1aWxkZXIuKQo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">cGF0dGVybnMuY29udGFpbnMoIi9vYXV0aC90b2tlbiIpCgkJCQkJJiYgc3VwcG9ydGVkTWV0aG9kcy5jb250YWlucyhSZXF1ZXN0TWV0aG9kLlBPU1QpOw==</text>
+        <text>singletonList(
+				SecurityContext.builder()
+						.securityReferences(
+								singletonList(
+										SecurityReference.builder()
+												.reference(securityReferenceName)
+												.scopes(new AuthorizationScope[] {})
+												.build()
+								)
+						)
+						.forPaths(ant(&quot;/api/**&quot;))
+						.build()
+		)</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LmFwaUluZm8obmV3IEFwaUluZm9CdWlsZGVyKCkKCQkJCQkJLnRpdGxlKCJBc2dhcmQgcG9ydGFsIGNvbnRhY3QgQVBJIGZvciBvdXIgZnJvbnRlbmQiKQoJCQkJCQkuZGVzY3JpcHRpb24oCgkJCQkJCQkJIlRoZXNlIEFQSXMgYXJlIGNvbnN1bWVkIGJ5IG91ciBmcm9udGVuZCBodHRwczovL29vZ2l0Lm9vZHJpdmUubmV0L2FzZ2FyZC9hc2dhcmQtaG9tZS1mcm9udGVuZC48YnI+IgoJCQkJCQkJCQkJKyAiVGhleSBhcmUgcHJvdGVjdGVkIHdpdGggYSBcImNsYXNzaWNcIiBhdXRoZW50aWNhdGlvbiB0aHJvdWdoIFNFU1NJT04gY29va2llcy4iKQoJCQkJCQkudmVyc2lvbih2ZXJzaW9uKQoJCQkJCQkuYnVpbGQoKQoJCQkJKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cglwcml2YXRlIFByZWRpY2F0ZTxSZXF1ZXN0SGFuZGxlcj4gZmlsdGVyQXBpc0ZvckNsaWVudCgpIHsKCQlyZXR1cm4gaW5wdXQgLT4gewoJCQlpZiAoUmVxdWVzdEhhbmRsZXJTZWxlY3RvcnMud2l0aE1ldGhvZEFubm90YXRpb24oQXBpRm9yQ2xpZW50LmNsYXNzKS5hcHBseShpbnB1dCkgfHwKCQkJCQlSZXF1ZXN0SGFuZGxlclNlbGVjdG9ycy53aXRoQ2xhc3NBbm5vdGF0aW9uKEFwaUZvckNsaWVudC5jbGFzcykuYXBwbHkoaW5wdXQpKSB7CgkJCQlyZXR1cm4gdHJ1ZTsKCQkJfQoJCQlQYXR0ZXJuc1JlcXVlc3RDb25kaXRpb24gcGF0dGVybnNSZXF1ZXN0Q29uZGl0aW9uID0gaW5wdXQuZ2V0UGF0dGVybnNDb25kaXRpb24oKTsKCQkJU2V0PFN0cmluZz4gcGF0dGVybnMgPSBwYXR0ZXJuc1JlcXVlc3RDb25kaXRpb24uZ2V0UGF0dGVybnMoKTsKCQkJU2V0PFJlcXVlc3RNZXRob2Q+IHN1cHBvcnRlZE1ldGhvZHMgPSBpbnB1dC5zdXBwb3J0ZWRNZXRob2RzKCk7CgkJCXJldHVybiBwYXR0ZXJucy5jb250YWlucygiL29hdXRoL3Rva2VuIikgJiYgc3VwcG9ydGVkTWV0aG9kcy5jb250YWlucyhSZXF1ZXN0TWV0aG9kLlBPU1QpOwoJCX07Cgl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXByaXZhdGUgUHJlZGljYXRlPFJlcXVlc3RIYW5kbGVyPiBmaWx0ZXJBcGlzRm9yQ2xpZW50KCkgewoJCXJldHVybiBpbnB1dCAtPiBSZXF1ZXN0SGFuZGxlclNlbGVjdG9ycy53aXRoTWV0aG9kQW5ub3RhdGlvbihBcGlGb3JDbGllbnQuY2xhc3MpLmFwcGx5KGlucHV0KSB8fAoJCQkJCQlSZXF1ZXN0SGFuZGxlclNlbGVjdG9ycy53aXRoQ2xhc3NBbm5vdGF0aW9uKEFwaUZvckNsaWVudC5jbGFzcykuYXBwbHkoaW5wdXQpOwoJfQo=</text>
+        <text encoding="base64">CXByaXZhdGUgQXBpRGVzY3JpcHRpb24gYXV0aG9yaXphdGlvbkVuZHBvaW50KCkgewoJCXJldHVybiBuZXcgQXBpRGVzY3JpcHRpb24oCgkJCQkib2F1dGgyLWVuZHBvaW50IiwKCQkJCSIvb2F1dGgvYXV0aG9yaXplIiwKCQkJCSJBdXRob3JpemF0aW9uIEVuZHBvaW50IGZyb20gdGhlIE9BdXRoMiBzcGVjaWZpY2F0aW9uIiwKCQkJCUNvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoCgkJCQkJCW5ldyBPcGVyYXRpb25CdWlsZGVyKG9wZXJhdGlvbk5hbWVzKQoJCQkJCQkJCS5hdXRob3JpemF0aW9ucyhDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSkKCQkJCQkJCQkuY29kZWdlbk1ldGhvZE5hbWVTdGVtKCJhdXRob3JpemUiKQoJCQkJCQkJCS5tZXRob2QoSHR0cE1ldGhvZC5HRVQpCgkJCQkJCQkJLm5vdGVzKCJBdXRob3JpemF0aW9uIEVuZHBvaW50IGZyb20gdGhlIE9BdXRoMiBzcGVjaWZpY2F0aW9uIikKCQkJCQkJCQkudGFncyhzaW5nbGV0b24oIm9hdXRoMi1lbmRwb2ludCIpKQoJCQkJCQkJCS5wYXJhbWV0ZXJzKEFycmF5cy5hc0xpc3QoCgkJCQkJCQkJCQluZXcgUGFyYW1ldGVyQnVpbGRlcigpCgkJCQkJCQkJCQkJCS50eXBlKG5ldyBUeXBlUmVzb2x2ZXIoKS5yZXNvbHZlKFN0cmluZy5jbGFzcykpCgkJCQkJCQkJCQkJCS5uYW1lKCJ3b3Jrc3BhY2UiKQoJCQkJCQkJCQkJCQkucGFyYW1ldGVyVHlwZSgicXVlcnkiKQoJCQkJCQkJCQkJCQkubW9kZWxSZWYobmV3IE1vZGVsUmVmKCJzdHJpbmciKSkKCQkJCQkJCQkJCQkJLnJlcXVpcmVkKHRydWUpCgkJCQkJCQkJCQkJCS5idWlsZCgpLAoJCQkJCQkJCQkJbmV3IFBhcmFtZXRlckJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkudHlwZShuZXcgVHlwZVJlc29sdmVyKCkucmVzb2x2ZShTdHJpbmcuY2xhc3MpKQoJCQkJCQkJCQkJCQkubmFtZSgicmVzcG9uc2VfdHlwZSIpCgkJCQkJCQkJCQkJCS5kZXNjcmlwdGlvbigiQXZhaWxhYmxlIHZhbHVlczogY29kZSwgdG9rZW4iKQoJCQkJCQkJCQkJCQkucGFyYW1ldGVyVHlwZSgicXVlcnkiKQoJCQkJCQkJCQkJCQkubW9kZWxSZWYobmV3IE1vZGVsUmVmKCJzdHJpbmciKSkKCQkJCQkJCQkJCQkJLnJlcXVpcmVkKHRydWUpCgkJCQkJCQkJCQkJCS5idWlsZCgpLAoJCQkJCQkJCQkJbmV3IFBhcmFtZXRlckJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkudHlwZShuZXcgVHlwZVJlc29sdmVyKCkucmVzb2x2ZShTdHJpbmcuY2xhc3MpKQoJCQkJCQkJCQkJCQkubmFtZSgiY2xpZW50X2lkIikKCQkJCQkJCQkJCQkJLnBhcmFtZXRlclR5cGUoInF1ZXJ5IikKCQkJCQkJCQkJCQkJLm1vZGVsUmVmKG5ldyBNb2RlbFJlZigic3RyaW5nIikpCgkJCQkJCQkJCQkJCS5yZXF1aXJlZCh0cnVlKQoJCQkJCQkJCQkJCQkuYnVpbGQoKSwKCQkJCQkJCQkJCW5ldyBQYXJhbWV0ZXJCdWlsZGVyKCkKCQkJCQkJCQkJCQkJLnR5cGUobmV3IFR5cGVSZXNvbHZlcigpLnJlc29sdmUoU3RyaW5nLmNsYXNzKSkKCQkJCQkJCQkJCQkJLm5hbWUoInJlZGlyZWN0X3VyaSIpCgkJCQkJCQkJCQkJCS5wYXJhbWV0ZXJUeXBlKCJxdWVyeSIpCgkJCQkJCQkJCQkJCS5tb2RlbFJlZihuZXcgTW9kZWxSZWYoInN0cmluZyIpKQoJCQkJCQkJCQkJCQkucmVxdWlyZWQodHJ1ZSkKCQkJCQkJCQkJCQkJLmJ1aWxkKCksCgkJCQkJCQkJCQluZXcgUGFyYW1ldGVyQnVpbGRlcigpCgkJCQkJCQkJCQkJCS50eXBlKG5ldyBUeXBlUmVzb2x2ZXIoKS5yZXNvbHZlKFN0cmluZy5jbGFzcykpCgkJCQkJCQkJCQkJCS5uYW1lKCJzdGF0ZSIpCgkJCQkJCQkJCQkJCS5wYXJhbWV0ZXJUeXBlKCJxdWVyeSIpCgkJCQkJCQkJCQkJCS5tb2RlbFJlZihuZXcgTW9kZWxSZWYoInN0cmluZyIpKQoJCQkJCQkJCQkJCQkuYnVpbGQoKQoJCQkJCQkJCSkpCgkJCQkJCQkJLnJlc3BvbnNlTWVzc2FnZXMoQ29sbGVjdGlvbnMuc2luZ2xldG9uKAoJCQkJCQkJCQkJbmV3IFJlc3BvbnNlTWVzc2FnZUJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkuY29kZShIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCgkJCQkJCQkJCQkJCS5tZXNzYWdlKEh0dHBTdGF0dXMuT0suZ2V0UmVhc29uUGhyYXNlKCkpCgkJCQkJCQkJCQkJCS5yZXNwb25zZU1vZGVsKG5ldyBNb2RlbFJlZigiTW9kZWxBbmRWaWV3IikpCgkJCQkJCQkJCQkJCS5idWlsZCgpCgkJCQkJCQkJKSkKCQkJCQkJCQkuYnVpbGQoKSksCgkJCQlmYWxzZSk7Cgl9Cgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aW5wdXQgLT4gUmVxdWVzdEhhbmRsZXJTZWxlY3RvcnMud2l0aE1ldGhvZEFubm90YXRpb24oQXBpRm9yQ2xpZW50LmNsYXNzKS5hcHBseShpbnB1dCkgfHwKCQkJCQkJUmVxdWVzdEhhbmRsZXJTZWxlY3RvcnMud2l0aENsYXNzQW5ub3RhdGlvbihBcGlGb3JDbGllbnQuY2xhc3MpLmFwcGx5KGlucHV0KQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJbmV3IFBhcmFtZXRlckJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkJCS50eXBlKG5ldyBUeXBlUmVzb2x2ZXIoKS5yZXNvbHZlKFN0cmluZy5jbGFzcykpCgkJCQkJCQkJCQkJCQkJLm5hbWUoInN0YXRlIikKCQkJCQkJCQkJCQkJCQkucGFyYW1ldGVyVHlwZSgicXVlcnkiKQoJCQkJCQkJCQkJCQkJCS5tb2RlbFJlZihuZXcgTW9kZWxSZWYoInN0cmluZyIpKQoJCQkJCQkJCQkJCQkJCS5idWlsZCgpCg==</text>
       </register>
-      <register name="6" type="8">
-        <text>//
-//</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCS50YWdzKHNpbmdsZXRvbigib2F1dGgyLWVuZHBvaW50IikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CglAU2FmZVZhcmFyZ3MKCXByaXZhdGUgZmluYWwgUHJlZGljYXRlPFJlcXVlc3RIYW5kbGVyPiBidWlsZFByZWRpY2F0ZShmaW5hbCBDbGFzczw/IGV4dGVuZHMgQW5ub3RhdGlvbj4uLi4gY2xhenopIHsKCQlyZXR1cm4gUHJlZGljYXRlcy47Cgl9Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCS50YWdzKHNpbmdsZXRvbigib2F1dGgyLWVuZHBvaW50IikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCS5hcGlJbmZvKG5ldyBBcGlJbmZvKAoJCQkJCQkiQXNnYXJkIHBvcnRhbCBBUEkgZm9yIGJhY2tlbmQgc2VydmljZXMiLAoJCQkJCQksCgkJCQkJCXZlcnNpb24sCgkJCQkJCSIiLAoJCQkJCQlDT05UQUNULAoJCQkJCQlMSUNFTlNFLCBMSUNFTlNFX1VSTCwgQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpCgkJCQkpCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCQkJbmV3IFBhcmFtZXRlckJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkJCS50eXBlKG5ldyBUeXBlUmVzb2x2ZXIoKS5yZXNvbHZlKE9iamVjdC5jbGFzcykpCgkJCQkJCQkJCQkJCQkJLm5hbWUoIm1vZGVsIikKCQkJCQkJCQkJCQkJCQkucGFyYW1ldGVyVHlwZSgicXVlcnkiKQoJCQkJCQkJCQkJCQkJCS5tb2RlbFJlZihuZXcgTW9kZWxSZWYoIm9iamVjdCIpKQoJCQkJCQkJCQkJCQkJCS5idWlsZCgpLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IlRoZXNlIEFQSXMgYXJlIGludGVuZGVkIHRvIGJlIGNvbnN1bWVkIGJ5IG90aGVyIGJhY2tlbmQgc2VydmljZXMuPGJyPiIKCQkJCQkJCQkrICJUaGV5IGFyZSBwcm90ZWN0ZWQgYW5kIG5lZWQgYSBIZWltZGFsbCBKV1QgdG9rZW4gdG8gYmUgYWJsZSB0byBjYWxsIHRoZW0uPGJyPiIKCQkJCQkJCQkrICJJZiB5b3Ugd2FudCBtb3JlIGRldGFpbCwgY2hlY2sgdGhlIHNlY3VyaXR5IGNvbmZpZ3VyYXRpb246IGh0dHBzOi8vb29naXQub29kcml2ZS5uZXQvYXV0aC9oZWltZGFsbC1jbGllbnQvYmxvYi9tYXN0ZXIvaGVpbWRhbGwtY2xpZW50LXhhdXRoLWF1dG9jb25maWcvc3JjL21haW4vamF2YS9jb20vb29kcml2ZS9oZWltZGFsbC9jbGllbnQveGF1dGgvYXV0b2NvbmZpZy9YQXV0aFNlcnZlckF1dG9Db25maWd1cmF0aW9uLmphdmEi</text>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCQkJCQkJCQkJbmV3IFJlc3BvbnNlTWVzc2FnZUJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkuY29kZShIdHRwU3RhdHVzLlVOQVVUSE9SSVpFRC52YWx1ZSgpKQoJCQkJCQkJCQkJCQkJCS5tZXNzYWdlKEh0dHBTdGF0dXMuVU5BVVRIT1JJWkVELmdldFJlYXNvblBocmFzZSgpKQoJCQkJCQkJCQkJCQkuYnVpbGQoKSwKCQkJCQkJCQkJCQkJbmV3IFJlc3BvbnNlTWVzc2FnZUJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkJCS5jb2RlKEh0dHBTdGF0dXMuRk9SQklEREVOLnZhbHVlKCkpCgkJCQkJCQkJCQkJCQkJLm1lc3NhZ2UoSHR0cFN0YXR1cy5GT1JCSURERU4uZ2V0UmVhc29uUGhyYXNlKCkpCgkJCQkJCQkJCQkJCQkJLmJ1aWxkKCkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/ValidateAvatarColor/ValidateAvatarInitials/g</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbnB1dFw+</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbnB1dFw+</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -737,17 +815,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb2RlXD4=</entry>
-        <entry>AsgardException</entry>
-        <entry>asgardbadrequest</entry>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry encoding="base64">XDxpZ25vcmVFeHBpcmF0aW9uXD4=</entry>
-        <entry>expiration</entry>
-        <entry encoding="base64">XDxBTExcPg==</entry>
-        <entry>redis</entry>
-        <entry>swagger</entry>
-        <entry>RowMap</entry>
-        <entry encoding="base64">XDxjb2x1bW5UeXBlXD4=</entry>
         <entry encoding="base64">XDxUWVBFX01BUFw+</entry>
         <entry encoding="base64">XDxjb2x1bW5NYXBwaW5nXD4=</entry>
         <entry>univocity</entry>
@@ -757,6 +824,17 @@
         <entry encoding="base64">XDxjb3VudE1hcFw+</entry>
         <entry>clean</entry>
         <entry encoding="base64">XDxpbnB1dFw+</entry>
+        <entry>model</entry>
+        <entry>complete</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxpdGVtTW9kZWxcPg==</entry>
+        <entry encoding="base64">XDxpdGVtVHlwZU5hbWVcPg==</entry>
+        <entry encoding="base64">XDxyZXNwb25zZVR5cGVzXD4=</entry>
+        <entry encoding="base64">XDxmaWx0ZXJBcGlzRm9yQ2xpZW50XD4=</entry>
+        <entry encoding="base64">XDxzZWN1cml0eUNvbnRleHRzXD4=</entry>
+        <entry>Heimdall OAuth2</entry>
+        <entry>singletonList</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
