@@ -371,12 +371,12 @@
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" timestamp="1565087067033">
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" timestamp="1565093039343">
         <mark key="'" line="87" column="16" />
-        <mark key="[" line="142" column="93" />
-        <mark key="]" line="149" column="16" />
-        <mark key="." line="149" column="16" />
-        <mark key="^" line="149" column="16" />
+        <mark key="[" line="110" column="5" />
+        <mark key="]" line="116" column="65" />
+        <mark key="." line="116" column="65" />
+        <mark key="^" line="116" column="65" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/controller/AlarmController.java" timestamp="1564566429684">
         <mark key="[" line="17" column="4" />
@@ -511,6 +511,13 @@
         <mark key="." line="133" column="62" />
         <mark key="^" line="133" column="62" />
       </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerApiListingScannerPlugin.java" timestamp="1565092955925">
+        <mark key="'" line="97" column="4" />
+        <mark key="[" line="27" column="63" />
+        <mark key="]" line="27" column="63" />
+        <mark key="^" line="27" column="63" />
+        <mark key="." line="27" column="63" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/UserCapacity.java" timestamp="1563463057047">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="21" column="14" />
@@ -573,8 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="64" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/usecase/CreateContactBeanInfo.java" />
-      <jump line="58" column="62" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
       <jump line="60" column="20" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
       <jump line="46" column="18" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
       <jump line="127" column="14" filename="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" />
@@ -673,47 +678,49 @@
       <jump line="22" column="0" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
       <jump line="145" column="75" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
       <jump line="87" column="16" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerConfiguration.java" />
+      <jump line="21" column="4" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerApiListingScannerPlugin.java" />
+      <jump line="90" column="4" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerApiListingScannerPlugin.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJcmV0dXJuIHBhdHRlcm5zLmNvbnRhaW5zKCIvb2F1dGgvdG9rZW4iKSAmJiBzdXBwb3J0ZWRNZXRob2RzLmNvbnRhaW5zKFJlcXVlc3RNZXRob2QuUE9TVCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnB1dFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCS5pZ25vcmVkUGFyYW1ldGVyVHlwZXMoSUdOT1JFRF9QQVJBTUVURVJfVFlQRVMpCgkJCQkuZ2xvYmFsT3BlcmF0aW9uUGFyYW1ldGVycyhHTE9CQUxfT1BFUkFUSU9OX1BBUkFNRVRFUlMpCg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIHBhdHRlcm5zLmNvbnRhaW5zKCIvb2F1dGgvdG9rZW4iKSAmJiBzdXBwb3J0ZWRNZXRob2RzLmNvbnRhaW5zKFJlcXVlc3RNZXRob2QuUE9TVCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LmFwaUluZm8obmV3IEFwaUluZm9CdWlsZGVyKCkKCQkJCQkJLnRpdGxlKCJBc2dhcmQgcG9ydGFsIGNvbnRhY3QgQVBJIGZvciBvdXIgZnJvbnRlbmQiKQoJCQkJCQkuZGVzY3JpcHRpb24oCgkJCQkJCQkJIlRoZXNlIEFQSXMgYXJlIGNvbnN1bWVkIGJ5IG91ciBmcm9udGVuZCBodHRwczovL29vZ2l0Lm9vZHJpdmUubmV0L2FzZ2FyZC9hc2dhcmQtaG9tZS1mcm9udGVuZC48YnI+IgoJCQkJCQkJCQkJKyAiVGhleSBhcmUgcHJvdGVjdGVkIHdpdGggYSBcImNsYXNzaWNcIiBhdXRoZW50aWNhdGlvbiB0aHJvdWdoIFNFU1NJT04gY29va2llcy4iKQoJCQkJCQkudmVyc2lvbih2ZXJzaW9uKQoJCQkJCQkuYnVpbGQoKQoJCQkJKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CQkJYm9vbGVhbiBpc1Rva2VuRW5kcG9pbnQgPSAKCQkJYm9vbGVhbiBpc0F1dGhvcml6YXRpb25FbmRwb2ludCA9IHBhdHRlcm5zLmNvbnRhaW5zKCIvb2F1dGgvYXV0aG9yaXplIikKCQkJCQkmJiAoc3VwcG9ydGVkTWV0aG9kcy5jb250YWlucyhSZXF1ZXN0TWV0aG9kLkdFVCkgfHwgc3VwcG9ydGVkTWV0aG9kcy5pc0VtcHR5KCkpOwoJCQlyZXR1cm4gaXNUb2tlbkVuZHBvaW50IHx8IGlzQXV0aG9yaXphdGlvbkVuZHBvaW50Owo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgUHJlZGljYXRlPFJlcXVlc3RIYW5kbGVyPiBmaWx0ZXJBcGlzRm9yQ2xpZW50KCkgewoJCXJldHVybiBpbnB1dCAtPiBSZXF1ZXN0SGFuZGxlclNlbGVjdG9ycy53aXRoTWV0aG9kQW5ub3RhdGlvbihBcGlGb3JDbGllbnQuY2xhc3MpLmFwcGx5KGlucHV0KSB8fAoJCQkJCQlSZXF1ZXN0SGFuZGxlclNlbGVjdG9ycy53aXRoQ2xhc3NBbm5vdGF0aW9uKEFwaUZvckNsaWVudC5jbGFzcykuYXBwbHkoaW5wdXQpOwoJfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">cGF0dGVybnMuY29udGFpbnMoIi9vYXV0aC90b2tlbiIpCgkJCQkJJiYgc3VwcG9ydGVkTWV0aG9kcy5jb250YWlucyhSZXF1ZXN0TWV0aG9kLlBPU1QpOw==</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">LmFwaUluZm8obmV3IEFwaUluZm9CdWlsZGVyKCkKCQkJCQkJLnRpdGxlKCJBc2dhcmQgcG9ydGFsIGNvbnRhY3QgQVBJIGZvciBvdXIgZnJvbnRlbmQiKQoJCQkJCQkuZGVzY3JpcHRpb24oCgkJCQkJCQkJIlRoZXNlIEFQSXMgYXJlIGNvbnN1bWVkIGJ5IG91ciBmcm9udGVuZCBodHRwczovL29vZ2l0Lm9vZHJpdmUubmV0L2FzZ2FyZC9hc2dhcmQtaG9tZS1mcm9udGVuZC48YnI+IgoJCQkJCQkJCQkJKyAiVGhleSBhcmUgcHJvdGVjdGVkIHdpdGggYSBcImNsYXNzaWNcIiBhdXRoZW50aWNhdGlvbiB0aHJvdWdoIFNFU1NJT04gY29va2llcy4iKQoJCQkJCQkudmVyc2lvbih2ZXJzaW9uKQoJCQkJCQkuYnVpbGQoKQoJCQkJKQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CXByaXZhdGUgUHJlZGljYXRlPFJlcXVlc3RIYW5kbGVyPiBmaWx0ZXJBcGlzRm9yQ2xpZW50KCkgewoJCXJldHVybiBpbnB1dCAtPiBSZXF1ZXN0SGFuZGxlclNlbGVjdG9ycy53aXRoTWV0aG9kQW5ub3RhdGlvbihBcGlGb3JDbGllbnQuY2xhc3MpLmFwcGx5KGlucHV0KSB8fAoJCQkJCQlSZXF1ZXN0SGFuZGxlclNlbGVjdG9ycy53aXRoQ2xhc3NBbm5vdGF0aW9uKEFwaUZvckNsaWVudC5jbGFzcykuYXBwbHkoaW5wdXQpOwoJfQo=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">aW5wdXQgLT4gUmVxdWVzdEhhbmRsZXJTZWxlY3RvcnMud2l0aE1ldGhvZEFubm90YXRpb24oQXBpRm9yQ2xpZW50LmNsYXNzKS5hcHBseShpbnB1dCkgfHwKCQkJCQkJUmVxdWVzdEhhbmRsZXJTZWxlY3RvcnMud2l0aENsYXNzQW5ub3RhdGlvbihBcGlGb3JDbGllbnQuY2xhc3MpLmFwcGx5KGlucHV0KQ==</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text>//
 //</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CglAU2FmZVZhcmFyZ3MKCXByaXZhdGUgZmluYWwgUHJlZGljYXRlPFJlcXVlc3RIYW5kbGVyPiBidWlsZFByZWRpY2F0ZShmaW5hbCBDbGFzczw/IGV4dGVuZHMgQW5ub3RhdGlvbj4uLi4gY2xhenopIHsKCQlyZXR1cm4gUHJlZGljYXRlcy47Cgl9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCS5hcGlJbmZvKG5ldyBBcGlJbmZvKAoJCQkJCQkiQXNnYXJkIHBvcnRhbCBBUEkgZm9yIGJhY2tlbmQgc2VydmljZXMiLAoJCQkJCQksCgkJCQkJCXZlcnNpb24sCgkJCQkJCSIiLAoJCQkJCQlDT05UQUNULAoJCQkJCQlMSUNFTlNFLCBMSUNFTlNFX1VSTCwgQ29sbGVjdGlvbnMuZW1wdHlMaXN0KCkpCgkJCQkpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IlRoZXNlIEFQSXMgYXJlIGludGVuZGVkIHRvIGJlIGNvbnN1bWVkIGJ5IG90aGVyIGJhY2tlbmQgc2VydmljZXMuPGJyPiIKCQkJCQkJCQkrICJUaGV5IGFyZSBwcm90ZWN0ZWQgYW5kIG5lZWQgYSBIZWltZGFsbCBKV1QgdG9rZW4gdG8gYmUgYWJsZSB0byBjYWxsIHRoZW0uPGJyPiIKCQkJCQkJCQkrICJJZiB5b3Ugd2FudCBtb3JlIGRldGFpbCwgY2hlY2sgdGhlIHNlY3VyaXR5IGNvbmZpZ3VyYXRpb246IGh0dHBzOi8vb29naXQub29kcml2ZS5uZXQvYXV0aC9oZWltZGFsbC1jbGllbnQvYmxvYi9tYXN0ZXIvaGVpbWRhbGwtY2xpZW50LXhhdXRoLWF1dG9jb25maWcvc3JjL21haW4vamF2YS9jb20vb29kcml2ZS9oZWltZGFsbC9jbGllbnQveGF1dGgvYXV0b2NvbmZpZy9YQXV0aFNlcnZlckF1dG9Db25maWd1cmF0aW9uLmphdmEi</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">IlRoZXNlIEFQSXMgYXJlIGludGVuZGVkIHRvIGJlIGNvbnN1bWVkIGJ5IGV4dGVybmFsIGNsaWVudHMgbGlrZSBtb2JpbGUgb3IgZGVza3RvcCBjbGllbnRzLjxicj4iCgkJCQkJCQkJKyAiVGhleSBhcmUgYWNjZXNzaWJsZSBlaXRoZXIgYnkgT2F1dGgyIG9yIHVzaW5nIGEgXCJjbGFzc2ljXCIgYXV0aGVudGljYXRpb24gdmlhIGEgU0VTU0lPTiBjb29raWUuIg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCS5hcGlJbmZvKG5ldyBBcGlJbmZvKAoJCQkJCQkiQXNnYXJkIHBvcnRhbCBBUEkgZm9yIGNsaWVudHMgKGkuZS4gbW9iaWxlIG9yIGRlc2t0b3ApIiwKCQkJCQkJIlRoZXNlIEFQSXMgYXJlIGludGVuZGVkIHRvIGJlIGNvbnN1bWVkIGJ5IGV4dGVybmFsIGNsaWVudHMgbGlrZSBtb2JpbGUgb3IgZGVza3RvcCBjbGllbnRzLjxicj4iCgkJCQkJCQkJKyAiVGhleSBhcmUgYWNjZXNzaWJsZSBlaXRoZXIgYnkgT2F1dGgyIG9yIHVzaW5nIGEgXCJjbGFzc2ljXCIgYXV0aGVudGljYXRpb24gdmlhIGEgU0VTU0lPTiBjb29raWUuIiwKCQkJCQkJdmVyc2lvbiwKCQkJCQkJIiIsCgkJCQkJCUNPTlRBQ1QsCgkJCQkJCUxJQ0VOU0UsIExJQ0VOU0VfVVJMLCBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSkKCQkJCSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/ValidateAvatarColor/ValidateAvatarInitials/g</text>
