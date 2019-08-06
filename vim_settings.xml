@@ -234,6 +234,12 @@
       <file name="/GetGroup.java" timestamp="1564993414389">
         <mark key="'" line="63" column="34" />
       </file>
+      <file name="$USER_HOME$/work/loki-app/src/main/resources/application-dev.yml" timestamp="1565081270563">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-tracking-integration/src/main/java/com/oodrive/asgard/user/p10g/tracking/client/ClientDataBuilder.java" timestamp="1564068702326">
         <mark key="[" line="73" column="17" />
         <mark key="]" line="73" column="34" />
@@ -666,10 +672,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>redis-int01.oodrivegroup.net:6384, redis-int01.oodrivegroup.net:6381, redis-int01.oodrivegroup.net:6379</text>
+        <text>redis-int01.oodrivegroup.net:6379,redis-int01.oodrivegroup.net:6380,redis-int01.oodrivegroup.net:6381,redis-int01.oodrivegroup.net:6382,redis-int01.oodrivegroup.net:6383,redis-int01.oodrivegroup.net:6384</text>
       </register>
       <register name="-" type="4">
-        <text>redis-int01.oodrivegroup.net:6384, redis-int01.oodrivegroup.net:6381, redis-int01.oodrivegroup.net:6379</text>
+        <text>redis-int01.oodrivegroup.net:6379,redis-int01.oodrivegroup.net:6380,redis-int01.oodrivegroup.net:6381,redis-int01.oodrivegroup.net:6382,redis-int01.oodrivegroup.net:6383,redis-int01.oodrivegroup.net:6384</text>
       </register>
       <register name="/" type="4">
         <text>clean</text>
