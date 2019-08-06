@@ -33,6 +33,12 @@
       <file name="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.8.2/univocity-parsers-2.8.2-sources.jar!/com/univocity/parsers/common/AbstractParser.java" timestamp="1564734016657">
         <mark key="'" line="242" column="12" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/resources/application-dev.yml" timestamp="1565080551981">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
+      </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/ContactsController.java" timestamp="1564671032509">
         <mark key="[" line="161" column="5" />
         <mark key="]" line="161" column="15" />
@@ -186,6 +192,11 @@
         <mark key="]" line="7" column="40" />
         <mark key="^" line="7" column="40" />
         <mark key="." line="7" column="40" />
+      </file>
+      <file name="$USER_HOME$/work/hermod-app/src/main/resources/application-dev.yml" timestamp="1565080575988">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/usecase/UpdateContactBeanInfo.java" timestamp="1564133478766">
         <mark key="[" line="87" column="89" />
@@ -373,6 +384,12 @@
       <file name="$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.4.RELEASE/lettuce-core-5.1.4.RELEASE-sources.jar!/io/lettuce/core/LettuceFutures.java" timestamp="1564647344108">
         <mark key="'" line="27" column="21" />
       </file>
+      <file name="$USER_HOME$/work/cronos-trigger-app/src/main/resources/application-dev.yml" timestamp="1565080566189">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/CommonAccount.java" timestamp="1564132447757">
         <mark key="[" line="90" column="9" />
         <mark key="]" line="91" column="33" />
@@ -396,6 +413,11 @@
         <mark key="]" line="151" column="77" />
         <mark key="^" line="151" column="77" />
         <mark key="." line="151" column="77" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application-dev.yml" timestamp="1565080568371">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/client/CreateClient.java" timestamp="1564134287387">
         <mark key="[" line="27" column="25" />
@@ -533,10 +555,10 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/resources/application-dev.yml" timestamp="1565017109805">
+      <file name="$USER_HOME$/work/asgard-home/src/main/resources/application-dev.yml" timestamp="1565080555589">
         <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="32" />
-        <mark key="." line="17" column="32" />
+        <mark key="]" line="17" column="13" />
+        <mark key="." line="17" column="13" />
         <mark key="^" line="17" column="32" />
       </file>
     </filemarks>
@@ -644,10 +666,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>redis-int01.oodrivegroup.net:6379,redis-int01.oodrivegroup.net:6380,redis-int01.oodrivegroup.net:6381,redis-int01.oodrivegroup.net:6382,redis-int01.oodrivegroup.net:6383,redis-int01.oodrivegroup.net:6384</text>
+        <text>redis-int01.oodrivegroup.net:6384, redis-int01.oodrivegroup.net:6381, redis-int01.oodrivegroup.net:6379</text>
       </register>
       <register name="-" type="4">
-        <text>redis-int01.oodrivegroup.net:6379,redis-int01.oodrivegroup.net:6380,redis-int01.oodrivegroup.net:6381,redis-int01.oodrivegroup.net:6382,redis-int01.oodrivegroup.net:6383,redis-int01.oodrivegroup.net:6384</text>
+        <text>redis-int01.oodrivegroup.net:6384, redis-int01.oodrivegroup.net:6381, redis-int01.oodrivegroup.net:6379</text>
       </register>
       <register name="/" type="4">
         <text>clean</text>
