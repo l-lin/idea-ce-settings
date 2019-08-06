@@ -200,8 +200,8 @@
         <mark key="^" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2-sources.jar!/springfox/documentation/spring/web/readers/parameter/ExpandedParameterBuilder.java" timestamp="1565096249998">
-        <mark key="'" line="83" column="31" />
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2-sources.jar!/springfox/documentation/spring/web/readers/parameter/ExpandedParameterBuilder.java" timestamp="1565101946259">
+        <mark key="'" line="101" column="27" />
       </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/resources/application-redis-timeout.yml" timestamp="1564648270700">
         <mark key="[" line="5" column="25" />
@@ -462,8 +462,14 @@
         <mark key="." line="9" column="70" />
         <mark key="^" line="9" column="70" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/OAuth2EndpointsSwaggerDoc.java" timestamp="1565100287220">
-        <mark key="[" line="150" column="89" />
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2-sources.jar!/springfox/documentation/swagger/readers/operation/VendorExtensionsReader.java" timestamp="1565102282911">
+        <mark key="'" line="68" column="47" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/OAuth2EndpointsSwaggerDoc.java" timestamp="1565102394419">
+        <mark key="[" line="151" column="145" />
+        <mark key="]" line="151" column="145" />
+        <mark key="." line="151" column="145" />
+        <mark key="^" line="151" column="143" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/bean/ContactFieldTypes.java" timestamp="1564065902835">
         <mark key="[" line="151" column="63" />
@@ -647,11 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="34" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/MediaType.java" />
-      <jump line="60" column="47" filename="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/MediaType.java" />
-      <jump line="84" column="31" filename="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" />
-      <jump line="82" column="0" filename="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" />
-      <jump line="27" column="21" filename="$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.4.RELEASE/lettuce-core-5.1.4.RELEASE-sources.jar!/io/lettuce/core/LettuceFutures.java" />
       <jump line="98" column="7" filename="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" />
       <jump line="88" column="4" filename="$USER_HOME$/work/heimdall-commons/heimdall-session/src/main/java/com/oodrive/heimdall/session/configuration/SessionConfig.java" />
       <jump line="60" column="19" filename="$USER_HOME$/work/asgard-home/pom.xml" />
@@ -747,16 +748,21 @@
       <jump line="157" column="30" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application.yml" />
       <jump line="199" column="7" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application.yml" />
       <jump line="7" column="31" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application.yml" />
+      <jump line="106" column="39" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2-sources.jar!/springfox/documentation/spring/web/readers/parameter/ExpandedParameterBuilder.java" />
+      <jump line="102" column="39" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2-sources.jar!/springfox/documentation/spring/web/readers/parameter/ExpandedParameterBuilder.java" />
+      <jump line="101" column="27" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2-sources.jar!/springfox/documentation/spring/web/readers/parameter/ExpandedParameterBuilder.java" />
+      <jump line="65" column="19" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2-sources.jar!/springfox/documentation/swagger/readers/operation/VendorExtensionsReader.java" />
+      <jump line="68" column="47" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2-sources.jar!/springfox/documentation/swagger/readers/operation/VendorExtensionsReader.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJLmNvbXBsZXhFeGFtcGxlcyhNdWx0aW1hcEJ1aWxkZXIuKQo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>Multim</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>redis</text>
+        <text encoding="base64">XDx0b1ZlbmRvckV4dGVuc2lvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJc2VjdXJpdHlDb250ZXh0cygiSGVpbWRhbGwgT0F1dGgyIiwgIi9hcGkvKioiKSkK</text>
@@ -805,9 +811,9 @@
       </register>
     </registers>
     <search>
-      <last-search>redis</last-search>
+      <last-search encoding="base64">XDx0b1ZlbmRvckV4dGVuc2lvblw+</last-search>
       <last-offset />
-      <last-pattern>redis</last-pattern>
+      <last-pattern encoding="base64">XDx0b1ZlbmRvckV4dGVuc2lvblw+</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -815,8 +821,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUWVBFX01BUFw+</entry>
-        <entry encoding="base64">XDxjb2x1bW5NYXBwaW5nXD4=</entry>
         <entry>univocity</entry>
         <entry encoding="base64">XDxyZWFkZXJcPg==</entry>
         <entry encoding="base64">XDxDT05UQUNUXD4=</entry>
@@ -835,6 +839,8 @@
         <entry>Heimdall OAuth2</entry>
         <entry>singletonList</entry>
         <entry>redis</entry>
+        <entry>Type</entry>
+        <entry encoding="base64">XDx0b1ZlbmRvckV4dGVuc2lvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
