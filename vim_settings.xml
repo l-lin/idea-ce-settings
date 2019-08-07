@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1564673751058">
-        <mark key="'" line="561" column="50" />
+      <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1565170015336">
+        <mark key="'" line="152" column="24" />
+        <mark key="[" line="34" column="38" />
+        <mark key="]" line="34" column="46" />
+        <mark key="." line="34" column="46" />
+        <mark key="^" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/usecase/CreateUserBeanInfo.java" timestamp="1564390295623">
         <mark key="[" line="112" column="0" />
@@ -150,11 +154,6 @@
         <mark key="^" line="20" column="72" />
         <mark key="." line="27" column="77" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/TokenEndpoint.java" timestamp="1565097480602">
-        <mark key="'" line="86" column="54" />
-        <mark key="[" line="54" column="3" />
-        <mark key="]" line="54" column="61" />
-      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/resources/dictionary/dictionary_fr.properties" timestamp="1564066336775">
         <mark key="[" line="1044" column="0" />
         <mark key="]" line="1044" column="14" />
@@ -227,6 +226,11 @@
         <mark key="." line="87" column="103" />
         <mark key="^" line="87" column="103" />
       </file>
+      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-session-autoconfig/src/main/java/com/oodrive/heimdall/client/session/autoconfig/LettuceClientOptionConfigurationBuilder.java" timestamp="1565169042143">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/Contact.java" timestamp="1564132421020">
         <mark key="[" line="108" column="9" />
         <mark key="]" line="109" column="38" />
@@ -292,6 +296,12 @@
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/usecase/CreateContactBeanInfo.java" timestamp="1564389806457">
         <mark key="'" line="76" column="64" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-client/README.md" timestamp="1565169255302">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="13" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1564574554747">
         <mark key="'" line="60" column="47" />
@@ -408,25 +418,24 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="65" />
       </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/redis/LettuceClientOptionConfigurationBuilder.java" timestamp="1565168810898">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="52" />
+      </file>
       <file name="$USER_HOME$/work/deploy-j2-maker/sanitize_input_files.sh" timestamp="1563876157297">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="5" column="33" />
         <mark key="." line="5" column="33" />
         <mark key="^" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/pom.xml" timestamp="1565100003951">
-        <mark key="'" line="114" column="44" />
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/pom.xml" timestamp="1565169308154">
+        <mark key="'" line="257" column="30" />
       </file>
       <file name="$USER_HOME$/work/asgard-event-schema/json-schema-validation/src/test/resources/examples/asgard/user/user_delete.json" timestamp="1564127118118">
         <mark key="[" line="41" column="9" />
         <mark key="]" line="41" column="23" />
         <mark key="." line="41" column="23" />
         <mark key="^" line="41" column="23" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/endpoint/AuthorizationEndpoint.java" timestamp="1565095606041">
-        <mark key="'" line="143" column="101" />
-        <mark key="[" line="74" column="25" />
-        <mark key="]" line="74" column="76" />
       </file>
       <file name="$USER_HOME$/work/heimdall-commons/heimdall-springsession-fork/src/main/java/org/springframework/session/data/redis/HeimdallRedisOperationsSessionRepository.java" timestamp="1565000248051">
         <mark key="'" line="85" column="27" />
@@ -479,12 +488,6 @@
         <mark key="^" line="151" column="77" />
         <mark key="." line="151" column="77" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application-dev.yml" timestamp="1565099988131">
-        <mark key="'" line="16" column="13" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/usecase/client/CreateClient.java" timestamp="1564134287387">
         <mark key="[" line="27" column="25" />
         <mark key="]" line="27" column="30" />
@@ -521,7 +524,8 @@
         <mark key="^" line="33" column="30" />
         <mark key="." line="33" column="30" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-client/pom.xml" timestamp="1564649516843">
+      <file name="$USER_HOME$/work/heimdall-client/pom.xml" timestamp="1565169111161">
+        <mark key="'" line="30" column="4" />
         <mark key="[" line="43" column="39" />
         <mark key="]" line="43" column="47" />
         <mark key="." line="43" column="47" />
@@ -562,11 +566,6 @@
         <mark key="]" line="9" column="18" />
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
-      </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" timestamp="1565085065087">
-        <mark key="'" line="162" column="15" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="49" column="6" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/CreateUser.java" timestamp="1564134300696">
         <mark key="[" line="36" column="25" />
@@ -641,7 +640,13 @@
         <mark key="." line="48" column="23" />
         <mark key="^" line="48" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1565167528241">
+      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-session-autoconfig/src/main/java/com/oodrive/heimdall/client/session/autoconfig/SessionAutoConfiguration.java" timestamp="1565170289525">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="29" />
+        <mark key="^" line="81" column="55" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1565168907560">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/resources/application-dev.yml" timestamp="1565080555589">
@@ -652,15 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="320" column="38" filename="$USER_HOME$/work/asgard-home/pom.xml" />
-      <jump line="321" column="37" filename="$USER_HOME$/work/asgard-home/pom.xml" />
-      <jump line="23" column="53" filename="$USER_HOME$/work/asgard-home/pom.xml" />
-      <jump line="152" column="34" filename="$USER_HOME$/work/asgard-home/pom.xml" />
-      <jump line="157" column="34" filename="$USER_HOME$/work/asgard-home/pom.xml" />
-      <jump line="314" column="38" filename="$USER_HOME$/work/asgard-home/pom.xml" />
-      <jump line="139" column="44" filename="$USER_HOME$/work/asgard-home/src/main/resources/application.yml" />
-      <jump line="82" column="46" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="366" column="0" filename="/ExcelBeanDataSource.java" />
       <jump line="0" column="0" filename="/ExcelBeanDataSource.java" />
       <jump line="133" column="45" filename="/ExcelBeanDataSource.java" />
       <jump line="136" column="37" filename="/ExcelBeanDataSource.java" />
@@ -752,24 +748,39 @@
       <jump line="36" column="14" filename="$USER_HOME$/work/heimdall-client/redis_cluster_view_error.md" />
       <jump line="38" column="11" filename="$USER_HOME$/work/heimdall-client/redis_cluster_view_error.md" />
       <jump line="55" column="14" filename="$USER_HOME$/work/heimdall-client/redis_cluster_view_error.md" />
+      <jump line="30" column="4" filename="$USER_HOME$/work/heimdall-client/pom.xml" />
+      <jump line="182" column="30" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/pom.xml" />
+      <jump line="248" column="33" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/pom.xml" />
+      <jump line="257" column="30" filename="$USER_HOME$/work/heimdall-server/heimdall-server-app/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/asgard-home/pom.xml" />
+      <jump line="34" column="40" filename="$USER_HOME$/work/asgard-home/pom.xml" />
+      <jump line="93" column="24" filename="$USER_HOME$/work/asgard-home/pom.xml" />
+      <jump line="98" column="24" filename="$USER_HOME$/work/asgard-home/pom.xml" />
+      <jump line="152" column="24" filename="$USER_HOME$/work/asgard-home/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.validateClusterNodeMembership(false)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CUBDb25kaXRpb25hbE9uTWlzc2luZ0JlYW4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>inf</text>
+        <text>heimdall-client</text>
       </register>
-      <register name="0" type="4">
-        <text>.validateClusterNodeMembership(false)</text>
+      <register name="0" type="2">
+        <text encoding="base64">CUBDb25kaXRpb25hbE9uTWlzc2luZ0JlYW4K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Ondhcm5pbmc6ICoqSWYgeW91IGFyZSB1c2luZyBTcHJpbmcgQm9vdCAyLjAueCwgUmVkaXMgY2xpZW50IExldHR1Y2UgdGhyb3dzIGEgY2x1c3RlciB2aWV3IGVycm9yIGlmIGNsdXN0ZXIgdG9wb2xvZ3kgY2hhbmdlcy4qKgogICAgICAgICAgKipZb3UgbmVlZCB0byBhZGQgQ2x1c3RlclRvcG9sb2d5UmVmcmVzaE9wdGlvbnMgdG8gTGV0dHVjZSBjbHVzdGVyIGNvbmZpZ3VyYXRpb24sIGJ5IGltcGxlbWVudGluZyBMZXR0dWNlQ2xpZW50Q29uZmlndXJhdGlvbkJ1aWxkZXJDdXN0b21pemVyKioKYGBgamF2YQpAQ29tcG9uZW50CnB1YmxpYyBjbGFzcyBMZXR0dWNlQ2xpZW50T3B0aW9uQ29uZmlndXJhdGlvbkJ1aWxkZXIgaW1wbGVtZW50cyBMZXR0dWNlQ2xpZW50Q29uZmlndXJhdGlvbkJ1aWxkZXJDdXN0b21pemVyIHsKCglAT3ZlcnJpZGUKCXB1YmxpYyB2b2lkIGN1c3RvbWl6ZShMZXR0dWNlQ2xpZW50Q29uZmlndXJhdGlvbkJ1aWxkZXIgY2xpZW50Q29uZmlndXJhdGlvbkJ1aWxkZXIpIHsKCQlDbHVzdGVyVG9wb2xvZ3lSZWZyZXNoT3B0aW9ucyB0b3BvbG9neVJlZnJlc2hPcHRpb25zID0gQ2x1c3RlclRvcG9sb2d5UmVmcmVzaE9wdGlvbnMuZW5hYmxlZCgpOwoJCWNsaWVudENvbmZpZ3VyYXRpb25CdWlsZGVyLmNsaWVudE9wdGlvbnMoQ2x1c3RlckNsaWVudE9wdGlvbnMuYnVpbGRlcigpCgkJCQkudG9wb2xvZ3lSZWZyZXNoT3B0aW9ucyh0b3BvbG9neVJlZnJlc2hPcHRpb25zKQoJCQkJLmJ1aWxkKCkpOwoJfQp9CgpgYGAKCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">LyoqICogQGF1dGhvciBPb2RyaXZlCiAqIEBhdXRob3Igcy5qYW1tYWxpCiAqIEBjcmVhdGVkIDA3LzAyLzIwMTkKICovCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQkJCQkJCQkJCQkJLmNvbXBsZXhFeGFtcGxlcyhNdWx0aW1hcEJ1aWxkZXIuKQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>singletonList(
 				SecurityContext.builder()
 						.securityReferences(
@@ -784,35 +795,29 @@
 						.build()
 		)</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cglwcml2YXRlIFByZWRpY2F0ZTxSZXF1ZXN0SGFuZGxlcj4gZmlsdGVyQXBpc0ZvckNsaWVudCgpIHsKCQlyZXR1cm4gaW5wdXQgLT4gewoJCQlpZiAoUmVxdWVzdEhhbmRsZXJTZWxlY3RvcnMud2l0aE1ldGhvZEFubm90YXRpb24oQXBpRm9yQ2xpZW50LmNsYXNzKS5hcHBseShpbnB1dCkgfHwKCQkJCQlSZXF1ZXN0SGFuZGxlclNlbGVjdG9ycy53aXRoQ2xhc3NBbm5vdGF0aW9uKEFwaUZvckNsaWVudC5jbGFzcykuYXBwbHkoaW5wdXQpKSB7CgkJCQlyZXR1cm4gdHJ1ZTsKCQkJfQoJCQlQYXR0ZXJuc1JlcXVlc3RDb25kaXRpb24gcGF0dGVybnNSZXF1ZXN0Q29uZGl0aW9uID0gaW5wdXQuZ2V0UGF0dGVybnNDb25kaXRpb24oKTsKCQkJU2V0PFN0cmluZz4gcGF0dGVybnMgPSBwYXR0ZXJuc1JlcXVlc3RDb25kaXRpb24uZ2V0UGF0dGVybnMoKTsKCQkJU2V0PFJlcXVlc3RNZXRob2Q+IHN1cHBvcnRlZE1ldGhvZHMgPSBpbnB1dC5zdXBwb3J0ZWRNZXRob2RzKCk7CgkJCXJldHVybiBwYXR0ZXJucy5jb250YWlucygiL29hdXRoL3Rva2VuIikgJiYgc3VwcG9ydGVkTWV0aG9kcy5jb250YWlucyhSZXF1ZXN0TWV0aG9kLlBPU1QpOwoJCX07Cgl9Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CXByaXZhdGUgQXBpRGVzY3JpcHRpb24gYXV0aG9yaXphdGlvbkVuZHBvaW50KCkgewoJCXJldHVybiBuZXcgQXBpRGVzY3JpcHRpb24oCgkJCQkib2F1dGgyLWVuZHBvaW50IiwKCQkJCSIvb2F1dGgvYXV0aG9yaXplIiwKCQkJCSJBdXRob3JpemF0aW9uIEVuZHBvaW50IGZyb20gdGhlIE9BdXRoMiBzcGVjaWZpY2F0aW9uIiwKCQkJCUNvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoCgkJCQkJCW5ldyBPcGVyYXRpb25CdWlsZGVyKG9wZXJhdGlvbk5hbWVzKQoJCQkJCQkJCS5hdXRob3JpemF0aW9ucyhDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSkKCQkJCQkJCQkuY29kZWdlbk1ldGhvZE5hbWVTdGVtKCJhdXRob3JpemUiKQoJCQkJCQkJCS5tZXRob2QoSHR0cE1ldGhvZC5HRVQpCgkJCQkJCQkJLm5vdGVzKCJBdXRob3JpemF0aW9uIEVuZHBvaW50IGZyb20gdGhlIE9BdXRoMiBzcGVjaWZpY2F0aW9uIikKCQkJCQkJCQkudGFncyhzaW5nbGV0b24oIm9hdXRoMi1lbmRwb2ludCIpKQoJCQkJCQkJCS5wYXJhbWV0ZXJzKEFycmF5cy5hc0xpc3QoCgkJCQkJCQkJCQluZXcgUGFyYW1ldGVyQnVpbGRlcigpCgkJCQkJCQkJCQkJCS50eXBlKG5ldyBUeXBlUmVzb2x2ZXIoKS5yZXNvbHZlKFN0cmluZy5jbGFzcykpCgkJCQkJCQkJCQkJCS5uYW1lKCJ3b3Jrc3BhY2UiKQoJCQkJCQkJCQkJCQkucGFyYW1ldGVyVHlwZSgicXVlcnkiKQoJCQkJCQkJCQkJCQkubW9kZWxSZWYobmV3IE1vZGVsUmVmKCJzdHJpbmciKSkKCQkJCQkJCQkJCQkJLnJlcXVpcmVkKHRydWUpCgkJCQkJCQkJCQkJCS5idWlsZCgpLAoJCQkJCQkJCQkJbmV3IFBhcmFtZXRlckJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkudHlwZShuZXcgVHlwZVJlc29sdmVyKCkucmVzb2x2ZShTdHJpbmcuY2xhc3MpKQoJCQkJCQkJCQkJCQkubmFtZSgicmVzcG9uc2VfdHlwZSIpCgkJCQkJCQkJCQkJCS5kZXNjcmlwdGlvbigiQXZhaWxhYmxlIHZhbHVlczogY29kZSwgdG9rZW4iKQoJCQkJCQkJCQkJCQkucGFyYW1ldGVyVHlwZSgicXVlcnkiKQoJCQkJCQkJCQkJCQkubW9kZWxSZWYobmV3IE1vZGVsUmVmKCJzdHJpbmciKSkKCQkJCQkJCQkJCQkJLnJlcXVpcmVkKHRydWUpCgkJCQkJCQkJCQkJCS5idWlsZCgpLAoJCQkJCQkJCQkJbmV3IFBhcmFtZXRlckJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkudHlwZShuZXcgVHlwZVJlc29sdmVyKCkucmVzb2x2ZShTdHJpbmcuY2xhc3MpKQoJCQkJCQkJCQkJCQkubmFtZSgiY2xpZW50X2lkIikKCQkJCQkJCQkJCQkJLnBhcmFtZXRlclR5cGUoInF1ZXJ5IikKCQkJCQkJCQkJCQkJLm1vZGVsUmVmKG5ldyBNb2RlbFJlZigic3RyaW5nIikpCgkJCQkJCQkJCQkJCS5yZXF1aXJlZCh0cnVlKQoJCQkJCQkJCQkJCQkuYnVpbGQoKSwKCQkJCQkJCQkJCW5ldyBQYXJhbWV0ZXJCdWlsZGVyKCkKCQkJCQkJCQkJCQkJLnR5cGUobmV3IFR5cGVSZXNvbHZlcigpLnJlc29sdmUoU3RyaW5nLmNsYXNzKSkKCQkJCQkJCQkJCQkJLm5hbWUoInJlZGlyZWN0X3VyaSIpCgkJCQkJCQkJCQkJCS5wYXJhbWV0ZXJUeXBlKCJxdWVyeSIpCgkJCQkJCQkJCQkJCS5tb2RlbFJlZihuZXcgTW9kZWxSZWYoInN0cmluZyIpKQoJCQkJCQkJCQkJCQkucmVxdWlyZWQodHJ1ZSkKCQkJCQkJCQkJCQkJLmJ1aWxkKCksCgkJCQkJCQkJCQluZXcgUGFyYW1ldGVyQnVpbGRlcigpCgkJCQkJCQkJCQkJCS50eXBlKG5ldyBUeXBlUmVzb2x2ZXIoKS5yZXNvbHZlKFN0cmluZy5jbGFzcykpCgkJCQkJCQkJCQkJCS5uYW1lKCJzdGF0ZSIpCgkJCQkJCQkJCQkJCS5wYXJhbWV0ZXJUeXBlKCJxdWVyeSIpCgkJCQkJCQkJCQkJCS5tb2RlbFJlZihuZXcgTW9kZWxSZWYoInN0cmluZyIpKQoJCQkJCQkJCQkJCQkuYnVpbGQoKQoJCQkJCQkJCSkpCgkJCQkJCQkJLnJlc3BvbnNlTWVzc2FnZXMoQ29sbGVjdGlvbnMuc2luZ2xldG9uKAoJCQkJCQkJCQkJbmV3IFJlc3BvbnNlTWVzc2FnZUJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkuY29kZShIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCgkJCQkJCQkJCQkJCS5tZXNzYWdlKEh0dHBTdGF0dXMuT0suZ2V0UmVhc29uUGhyYXNlKCkpCgkJCQkJCQkJCQkJCS5yZXNwb25zZU1vZGVsKG5ldyBNb2RlbFJlZigiTW9kZWxBbmRWaWV3IikpCgkJCQkJCQkJCQkJCS5idWlsZCgpCgkJCQkJCQkJKSkKCQkJCQkJCQkuYnVpbGQoKSksCgkJCQlmYWxzZSk7Cgl9Cgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCQkJCQkJCQkJbmV3IFBhcmFtZXRlckJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkJCS50eXBlKG5ldyBUeXBlUmVzb2x2ZXIoKS5yZXNvbHZlKFN0cmluZy5jbGFzcykpCgkJCQkJCQkJCQkJCQkJLm5hbWUoInN0YXRlIikKCQkJCQkJCQkJCQkJCQkucGFyYW1ldGVyVHlwZSgicXVlcnkiKQoJCQkJCQkJCQkJCQkJCS5tb2RlbFJlZihuZXcgTW9kZWxSZWYoInN0cmluZyIpKQoJCQkJCQkJCQkJCQkJCS5idWlsZCgpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCS50YWdzKHNpbmdsZXRvbigib2F1dGgyLWVuZHBvaW50IikpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCS50YWdzKHNpbmdsZXRvbigib2F1dGgyLWVuZHBvaW50IikpCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJbmV3IFBhcmFtZXRlckJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkJCS50eXBlKG5ldyBUeXBlUmVzb2x2ZXIoKS5yZXNvbHZlKE9iamVjdC5jbGFzcykpCgkJCQkJCQkJCQkJCQkJLm5hbWUoIm1vZGVsIikKCQkJCQkJCQkJCQkJCQkucGFyYW1ldGVyVHlwZSgicXVlcnkiKQoJCQkJCQkJCQkJCQkJCS5tb2RlbFJlZihuZXcgTW9kZWxSZWYoIm9iamVjdCIpKQoJCQkJCQkJCQkJCQkJCS5idWlsZCgpLAo=</text>
+        <text encoding="base64">CQkJCQkJCQkJCS50YWdzKHNpbmdsZXRvbigib2F1dGgyLWVuZHBvaW50IikpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJbmV3IFJlc3BvbnNlTWVzc2FnZUJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkuY29kZShIdHRwU3RhdHVzLlVOQVVUSE9SSVpFRC52YWx1ZSgpKQoJCQkJCQkJCQkJCQkJCS5tZXNzYWdlKEh0dHBTdGF0dXMuVU5BVVRIT1JJWkVELmdldFJlYXNvblBocmFzZSgpKQoJCQkJCQkJCQkJCQkuYnVpbGQoKSwKCQkJCQkJCQkJCQkJbmV3IFJlc3BvbnNlTWVzc2FnZUJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkJCS5jb2RlKEh0dHBTdGF0dXMuRk9SQklEREVOLnZhbHVlKCkpCgkJCQkJCQkJCQkJCQkJLm1lc3NhZ2UoSHR0cFN0YXR1cy5GT1JCSURERU4uZ2V0UmVhc29uUGhyYXNlKCkpCgkJCQkJCQkJCQkJCQkJLmJ1aWxkKCkK</text>
+        <text encoding="base64">CQkJCQkJCQkJCS50YWdzKHNpbmdsZXRvbigib2F1dGgyLWVuZHBvaW50IikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/ValidateAvatarColor/ValidateAvatarInitials/g</text>
       </register>
     </registers>
     <search>
-      <last-search>inf</last-search>
+      <last-search>heimdall-client</last-search>
       <last-offset />
-      <last-pattern>inf</last-pattern>
+      <last-pattern>heimdall-client</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -820,9 +825,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3VudE1hcFw+</entry>
-        <entry>clean</entry>
-        <entry encoding="base64">XDxpbnB1dFw+</entry>
         <entry>model</entry>
         <entry>complete</entry>
         <entry encoding="base64">XDwpXD4=</entry>
@@ -840,6 +842,9 @@
         <entry>available</entry>
         <entry encoding="base64">XDxhY2NvdW50SWRcPg==</entry>
         <entry>inf</entry>
+        <entry>spring</entry>
+        <entry>client</entry>
+        <entry>heimdall-client</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
