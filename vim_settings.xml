@@ -322,13 +322,6 @@
         <mark key="." line="45" column="30" />
         <mark key="^" line="45" column="30" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/resources/application.yml" timestamp="1565100079200">
-        <mark key="'" line="7" column="31" />
-        <mark key="[" line="199" column="2" />
-        <mark key="]" line="199" column="3" />
-        <mark key="." line="199" column="3" />
-        <mark key="^" line="199" column="3" />
-      </file>
       <file name="$USER_HOME$/work/asgard-home/Dockerfile" timestamp="1564650135914">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="49" />
@@ -341,7 +334,7 @@
         <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="45" />
       </file>
-      <file name="$USER_HOME$/work/loki-app/pom.xml" timestamp="1565171587738">
+      <file name="$USER_HOME$/work/loki-app/pom.xml" timestamp="1565603806358">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="37" />
         <mark key="]" line="28" column="38" />
@@ -472,6 +465,9 @@
         <mark key="." line="7" column="31" />
         <mark key="^" line="7" column="31" />
       </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/contact/AdminImportContact.java" timestamp="1565604098910">
+        <mark key="'" line="65" column="42" />
+      </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/legacy/data/CommonAccount.java" timestamp="1564132447757">
         <mark key="[" line="90" column="9" />
         <mark key="]" line="91" column="33" />
@@ -547,13 +543,6 @@
         <mark key="^" line="33" column="30" />
         <mark key="." line="33" column="30" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-client/pom.xml" timestamp="1565169111161">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="43" column="39" />
-        <mark key="]" line="43" column="47" />
-        <mark key="." line="43" column="47" />
-        <mark key="^" line="43" column="47" />
-      </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/AvatarController.java" timestamp="1564573495274">
         <mark key="[" line="38" column="65" />
         <mark key="]" line="38" column="65" />
@@ -595,13 +584,6 @@
         <mark key="]" line="133" column="62" />
         <mark key="." line="133" column="62" />
         <mark key="^" line="133" column="62" />
-      </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/src/main/java/com/oodrive/heimdall/server/app/configuration/swagger/SwaggerApiListingScannerPlugin.java" timestamp="1565096063191">
-        <mark key="'" line="38" column="40" />
-        <mark key="[" line="28" column="13" />
-        <mark key="]" line="32" column="4" />
-        <mark key="^" line="73" column="59" />
-        <mark key="." line="32" column="4" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/legacy/UserCapacity.java" timestamp="1563463057047">
         <mark key="[" line="21" column="11" />
@@ -674,7 +656,7 @@
         <mark key="^" line="81" column="55" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1565601657256">
+      <file name="/fragment.java" timestamp="1565603963343">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/resources/application-dev.yml" timestamp="1565080555589">
@@ -685,7 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="25" filename="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.8.2/univocity-parsers-2.8.2-sources.jar!/com/univocity/parsers/common/input/concurrent/ConcurrentCharInputReader.java" />
       <jump line="13" column="25" filename="$USER_HOME$/work/asgard-home/src/main/resources/application-timeout-redis.yml" />
       <jump line="111" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
       <jump line="143" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
@@ -785,6 +766,7 @@
       <jump line="138" column="34" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gContactRepository.java" />
       <jump line="63" column="12" filename="/ContactProvisioningBusiness.java" />
       <jump line="72" column="52" filename="/ContactProvisioningBusiness.java" />
+      <jump line="65" column="42" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/contact/AdminImportContact.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -794,7 +776,7 @@
         <text>SNAPSHOT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWN0SWRcPg==</text>
+        <text encoding="base64">XDxhY2NvdW50SWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUBDb25kaXRpb25hbE9uTWlzc2luZ0JlYW4K</text>
@@ -843,9 +825,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250YWN0SWRcPg==</last-search>
+      <last-search encoding="base64">XDxhY2NvdW50SWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWN0SWRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhY2NvdW50SWRcPg==</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -862,7 +844,6 @@
         <entry encoding="base64">XDx0b1ZlbmRvckV4dGVuc2lvblw+</entry>
         <entry>oauth</entry>
         <entry>available</entry>
-        <entry encoding="base64">XDxhY2NvdW50SWRcPg==</entry>
         <entry>inf</entry>
         <entry>spring</entry>
         <entry>client</entry>
@@ -873,6 +854,7 @@
         <entry encoding="base64">XDx1dWlkV2l0aG91dERhc2hlc1w+</entry>
         <entry encoding="base64">XDxwYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxjb250YWN0SWRcPg==</entry>
+        <entry encoding="base64">XDxhY2NvdW50SWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
