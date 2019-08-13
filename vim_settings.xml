@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1565338018884">
+      <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1565702372727">
         <mark key="'" line="152" column="24" />
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="22" column="34" />
-        <mark key="." line="22" column="34" />
+        <mark key="[" line="34" column="38" />
+        <mark key="]" line="34" column="46" />
+        <mark key="." line="34" column="46" />
+        <mark key="^" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/user/usecase/CreateUserBeanInfo.java" timestamp="1564390295623">
         <mark key="[" line="112" column="0" />
@@ -180,12 +181,12 @@
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" timestamp="1564563524219">
         <mark key="'" line="97" column="65" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-common/src/main/java/com/oodrive/heimdall/client/common/config/ClientCommonConfiguration.java" timestamp="1565698805647">
-        <mark key="'" line="44" column="19" />
-        <mark key="[" line="42" column="8" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="42" column="28" />
+      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-common/src/main/java/com/oodrive/heimdall/client/common/config/ClientCommonConfiguration.java" timestamp="1565702524721">
+        <mark key="'" line="46" column="19" />
+        <mark key="[" line="65" column="19" />
+        <mark key="]" line="65" column="38" />
+        <mark key="." line="65" column="38" />
+        <mark key="^" line="65" column="38" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/AlarmController.java" timestamp="1564566350629">
         <mark key="[" line="6" column="30" />
@@ -677,7 +678,7 @@
         <mark key="^" line="81" column="55" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1565683971115">
+      <file name="/fragment.java" timestamp="1565702445438">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/resources/application-dev.yml" timestamp="1565080555589">
@@ -791,55 +792,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>FullyAuthenticatedVoter</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>FullyAuthenticatedVoter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVbmFuaW1vdXNCYXNlZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBDb25kaXRpb25hbE9uTWlzc2luZ0JlYW4K</text>
+        <text encoding="base64">CQkJCQlhZGRWb3RlcihkZWNpc2lvblZvdGVycywgd2ViRXhwcmVzc2lvblZvdGVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTeXN0ZW0ub3V0LnByaW50bG4obmV3IFVVSUQoMCwgMCkpOwoJfQo=</text>
+        <text encoding="base64">CQkJCQlmb3IgKEFjY2Vzc0RlY2lzaW9uVm90ZXI8Pz4gZGVjaXNpb25Wb3RlclRvQWRkIDogZGVjaXNpb25Wb3RlcnNUb0FkZCkgewoJCQkJCQk7CgkJCQkJfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTeXN0ZW0ub3V0LnByaW50bG4obmV3IFVVSUQoMCwgMCkpOwoJfQo=</text>
+        <text encoding="base64">CQkJCQlhZGRWb3RlcihkZWNpc2lvblZvdGVycywgd2ViRXhwcmVzc2lvblZvdGVyLCBiZWFuTmFtZSk7CgkJCQkJYWRkVm90ZXIoZGVjaXNpb25Wb3RlcnMsIGZ1bGx5QXV0aGVudGljYXRlZFZvdGVyLCBiZWFuTmFtZSk7CgkJCQkJYWRkVm90ZXIoZGVjaXNpb25Wb3RlcnMsIGFwcGxpY2F0aW9uUm9sZVZvdGVyLCBiZWFuTmFtZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ondhcm5pbmc6ICoqSWYgeW91IGFyZSB1c2luZyBTcHJpbmcgQm9vdCAyLjAueCwgUmVkaXMgY2xpZW50IExldHR1Y2UgdGhyb3dzIGEgY2x1c3RlciB2aWV3IGVycm9yIGlmIGNsdXN0ZXIgdG9wb2xvZ3kgY2hhbmdlcy4qKgogICAgICAgICAgKipZb3UgbmVlZCB0byBhZGQgQ2x1c3RlclRvcG9sb2d5UmVmcmVzaE9wdGlvbnMgdG8gTGV0dHVjZSBjbHVzdGVyIGNvbmZpZ3VyYXRpb24sIGJ5IGltcGxlbWVudGluZyBMZXR0dWNlQ2xpZW50Q29uZmlndXJhdGlvbkJ1aWxkZXJDdXN0b21pemVyKioKYGBgamF2YQpAQ29tcG9uZW50CnB1YmxpYyBjbGFzcyBMZXR0dWNlQ2xpZW50T3B0aW9uQ29uZmlndXJhdGlvbkJ1aWxkZXIgaW1wbGVtZW50cyBMZXR0dWNlQ2xpZW50Q29uZmlndXJhdGlvbkJ1aWxkZXJDdXN0b21pemVyIHsKCglAT3ZlcnJpZGUKCXB1YmxpYyB2b2lkIGN1c3RvbWl6ZShMZXR0dWNlQ2xpZW50Q29uZmlndXJhdGlvbkJ1aWxkZXIgY2xpZW50Q29uZmlndXJhdGlvbkJ1aWxkZXIpIHsKCQlDbHVzdGVyVG9wb2xvZ3lSZWZyZXNoT3B0aW9ucyB0b3BvbG9neVJlZnJlc2hPcHRpb25zID0gQ2x1c3RlclRvcG9sb2d5UmVmcmVzaE9wdGlvbnMuZW5hYmxlZCgpOwoJCWNsaWVudENvbmZpZ3VyYXRpb25CdWlsZGVyLmNsaWVudE9wdGlvbnMoQ2x1c3RlckNsaWVudE9wdGlvbnMuYnVpbGRlcigpCgkJCQkudG9wb2xvZ3lSZWZyZXNoT3B0aW9ucyh0b3BvbG9neVJlZnJlc2hPcHRpb25zKQoJCQkJLmJ1aWxkKCkpOwoJfQp9CgpgYGAKCg==</text>
+        <text encoding="base64">CQkJCQlXZWJFeHByZXNzaW9uVm90ZXIgd2ViRXhwcmVzc2lvblZvdGVyID0gbmV3IFdlYkV4cHJlc3Npb25Wb3RlcigpOwoJCQkJCUZ1bGx5QXV0aGVudGljYXRlZFZvdGVyIGZ1bGx5QXV0aGVudGljYXRlZFZvdGVyID0gbmV3IEZ1bGx5QXV0aGVudGljYXRlZFZvdGVyKCk7CgkJCQkJQXBwbGljYXRpb25Sb2xlVm90ZXIgYXBwbGljYXRpb25Sb2xlVm90ZXIgPSBuZXcgQXBwbGljYXRpb25Sb2xlVm90ZXIoc3NvUHJvcGVydGllcygpLmdldFJvbGVzKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqICogQGF1dGhvciBPb2RyaXZlCiAqIEBhdXRob3Igcy5qYW1tYWxpCiAqIEBjcmVhdGVkIDA3LzAyLzIwMTkKICovCg==</text>
+        <text encoding="base64">CQkJCQlMT0dHRVIuZGVidWcoIkFkZCBGdWxseUF1dGhlbnRpY2F0ZWRWb3RlciBhbmQgV2ViRXhwcmVzc2lvblZvdGVyIHRvIHRoZSBBY2Nlc3NEZWNpc2lvbk1hbmFnZXIiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJLmNvbXBsZXhFeGFtcGxlcyhNdWx0aW1hcEJ1aWxkZXIuKQo=</text>
+        <text encoding="base64">CQkJCQlkZWNpc2lvblZvdGVycy5hZGQod2ViRXhwcmVzc2lvblZvdGVyKTsKCQkJCQlkZWNpc2lvblZvdGVycy5hZGQoZnVsbHlBdXRoZW50aWNhdGVkVm90ZXIpOwoJCQkJCWRlY2lzaW9uVm90ZXJzLmFkZChhcHBsaWNhdGlvblJvbGVWb3Rlcik7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>singletonList(
-				SecurityContext.builder()
-						.securityReferences(
-								singletonList(
-										SecurityReference.builder()
-												.reference(securityReferenceName)
-												.scopes(new AuthorizationScope[] {})
-												.build()
-								)
-						)
-						.forPaths(ant(&quot;/api/**&quot;))
-						.build()
-		)</text>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCWRlY2lzaW9uVm90ZXJzLmFkZChhY2Nlc3NEZWNpc2lvblZvdGVyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cglwcml2YXRlIFByZWRpY2F0ZTxSZXF1ZXN0SGFuZGxlcj4gZmlsdGVyQXBpc0ZvckNsaWVudCgpIHsKCQlyZXR1cm4gaW5wdXQgLT4gewoJCQlpZiAoUmVxdWVzdEhhbmRsZXJTZWxlY3RvcnMud2l0aE1ldGhvZEFubm90YXRpb24oQXBpRm9yQ2xpZW50LmNsYXNzKS5hcHBseShpbnB1dCkgfHwKCQkJCQlSZXF1ZXN0SGFuZGxlclNlbGVjdG9ycy53aXRoQ2xhc3NBbm5vdGF0aW9uKEFwaUZvckNsaWVudC5jbGFzcykuYXBwbHkoaW5wdXQpKSB7CgkJCQlyZXR1cm4gdHJ1ZTsKCQkJfQoJCQlQYXR0ZXJuc1JlcXVlc3RDb25kaXRpb24gcGF0dGVybnNSZXF1ZXN0Q29uZGl0aW9uID0gaW5wdXQuZ2V0UGF0dGVybnNDb25kaXRpb24oKTsKCQkJU2V0PFN0cmluZz4gcGF0dGVybnMgPSBwYXR0ZXJuc1JlcXVlc3RDb25kaXRpb24uZ2V0UGF0dGVybnMoKTsKCQkJU2V0PFJlcXVlc3RNZXRob2Q+IHN1cHBvcnRlZE1ldGhvZHMgPSBpbnB1dC5zdXBwb3J0ZWRNZXRob2RzKCk7CgkJCXJldHVybiBwYXR0ZXJucy5jb250YWlucygiL29hdXRoL3Rva2VuIikgJiYgc3VwcG9ydGVkTWV0aG9kcy5jb250YWlucyhSZXF1ZXN0TWV0aG9kLlBPU1QpOwoJCX07Cgl9Cg==</text>
+        <text encoding="base64">CQkJCQkJZGVjaXNpb25Wb3RlcnMuYWRkKHdlYkV4cHJlc3Npb25Wb3Rlcik7CgkJCQkJCWRlY2lzaW9uVm90ZXJzLmFkZChmdWxseUF1dGhlbnRpY2F0ZWRWb3Rlcik7CgkJCQkJCWRlY2lzaW9uVm90ZXJzLmFkZChhcHBsaWNhdGlvblJvbGVWb3Rlcik7CgkJCQkJCUxPR0dFUi5kZWJ1ZygiQWRkIEZ1bGx5QXV0aGVudGljYXRlZFZvdGVyIGFuZCBXZWJFeHByZXNzaW9uVm90ZXIgdG8gdGhlIEFjY2Vzc0RlY2lzaW9uTWFuYWdlciIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgQXBpRGVzY3JpcHRpb24gYXV0aG9yaXphdGlvbkVuZHBvaW50KCkgewoJCXJldHVybiBuZXcgQXBpRGVzY3JpcHRpb24oCgkJCQkib2F1dGgyLWVuZHBvaW50IiwKCQkJCSIvb2F1dGgvYXV0aG9yaXplIiwKCQkJCSJBdXRob3JpemF0aW9uIEVuZHBvaW50IGZyb20gdGhlIE9BdXRoMiBzcGVjaWZpY2F0aW9uIiwKCQkJCUNvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QoCgkJCQkJCW5ldyBPcGVyYXRpb25CdWlsZGVyKG9wZXJhdGlvbk5hbWVzKQoJCQkJCQkJCS5hdXRob3JpemF0aW9ucyhDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSkKCQkJCQkJCQkuY29kZWdlbk1ldGhvZE5hbWVTdGVtKCJhdXRob3JpemUiKQoJCQkJCQkJCS5tZXRob2QoSHR0cE1ldGhvZC5HRVQpCgkJCQkJCQkJLm5vdGVzKCJBdXRob3JpemF0aW9uIEVuZHBvaW50IGZyb20gdGhlIE9BdXRoMiBzcGVjaWZpY2F0aW9uIikKCQkJCQkJCQkudGFncyhzaW5nbGV0b24oIm9hdXRoMi1lbmRwb2ludCIpKQoJCQkJCQkJCS5wYXJhbWV0ZXJzKEFycmF5cy5hc0xpc3QoCgkJCQkJCQkJCQluZXcgUGFyYW1ldGVyQnVpbGRlcigpCgkJCQkJCQkJCQkJCS50eXBlKG5ldyBUeXBlUmVzb2x2ZXIoKS5yZXNvbHZlKFN0cmluZy5jbGFzcykpCgkJCQkJCQkJCQkJCS5uYW1lKCJ3b3Jrc3BhY2UiKQoJCQkJCQkJCQkJCQkucGFyYW1ldGVyVHlwZSgicXVlcnkiKQoJCQkJCQkJCQkJCQkubW9kZWxSZWYobmV3IE1vZGVsUmVmKCJzdHJpbmciKSkKCQkJCQkJCQkJCQkJLnJlcXVpcmVkKHRydWUpCgkJCQkJCQkJCQkJCS5idWlsZCgpLAoJCQkJCQkJCQkJbmV3IFBhcmFtZXRlckJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkudHlwZShuZXcgVHlwZVJlc29sdmVyKCkucmVzb2x2ZShTdHJpbmcuY2xhc3MpKQoJCQkJCQkJCQkJCQkubmFtZSgicmVzcG9uc2VfdHlwZSIpCgkJCQkJCQkJCQkJCS5kZXNjcmlwdGlvbigiQXZhaWxhYmxlIHZhbHVlczogY29kZSwgdG9rZW4iKQoJCQkJCQkJCQkJCQkucGFyYW1ldGVyVHlwZSgicXVlcnkiKQoJCQkJCQkJCQkJCQkubW9kZWxSZWYobmV3IE1vZGVsUmVmKCJzdHJpbmciKSkKCQkJCQkJCQkJCQkJLnJlcXVpcmVkKHRydWUpCgkJCQkJCQkJCQkJCS5idWlsZCgpLAoJCQkJCQkJCQkJbmV3IFBhcmFtZXRlckJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkudHlwZShuZXcgVHlwZVJlc29sdmVyKCkucmVzb2x2ZShTdHJpbmcuY2xhc3MpKQoJCQkJCQkJCQkJCQkubmFtZSgiY2xpZW50X2lkIikKCQkJCQkJCQkJCQkJLnBhcmFtZXRlclR5cGUoInF1ZXJ5IikKCQkJCQkJCQkJCQkJLm1vZGVsUmVmKG5ldyBNb2RlbFJlZigic3RyaW5nIikpCgkJCQkJCQkJCQkJCS5yZXF1aXJlZCh0cnVlKQoJCQkJCQkJCQkJCQkuYnVpbGQoKSwKCQkJCQkJCQkJCW5ldyBQYXJhbWV0ZXJCdWlsZGVyKCkKCQkJCQkJCQkJCQkJLnR5cGUobmV3IFR5cGVSZXNvbHZlcigpLnJlc29sdmUoU3RyaW5nLmNsYXNzKSkKCQkJCQkJCQkJCQkJLm5hbWUoInJlZGlyZWN0X3VyaSIpCgkJCQkJCQkJCQkJCS5wYXJhbWV0ZXJUeXBlKCJxdWVyeSIpCgkJCQkJCQkJCQkJCS5tb2RlbFJlZihuZXcgTW9kZWxSZWYoInN0cmluZyIpKQoJCQkJCQkJCQkJCQkucmVxdWlyZWQodHJ1ZSkKCQkJCQkJCQkJCQkJLmJ1aWxkKCksCgkJCQkJCQkJCQluZXcgUGFyYW1ldGVyQnVpbGRlcigpCgkJCQkJCQkJCQkJCS50eXBlKG5ldyBUeXBlUmVzb2x2ZXIoKS5yZXNvbHZlKFN0cmluZy5jbGFzcykpCgkJCQkJCQkJCQkJCS5uYW1lKCJzdGF0ZSIpCgkJCQkJCQkJCQkJCS5wYXJhbWV0ZXJUeXBlKCJxdWVyeSIpCgkJCQkJCQkJCQkJCS5tb2RlbFJlZihuZXcgTW9kZWxSZWYoInN0cmluZyIpKQoJCQkJCQkJCQkJCQkuYnVpbGQoKQoJCQkJCQkJCSkpCgkJCQkJCQkJLnJlc3BvbnNlTWVzc2FnZXMoQ29sbGVjdGlvbnMuc2luZ2xldG9uKAoJCQkJCQkJCQkJbmV3IFJlc3BvbnNlTWVzc2FnZUJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkuY29kZShIdHRwU3RhdHVzLk9LLnZhbHVlKCkpCgkJCQkJCQkJCQkJCS5tZXNzYWdlKEh0dHBTdGF0dXMuT0suZ2V0UmVhc29uUGhyYXNlKCkpCgkJCQkJCQkJCQkJCS5yZXNwb25zZU1vZGVsKG5ldyBNb2RlbFJlZigiTW9kZWxBbmRWaWV3IikpCgkJCQkJCQkJCQkJCS5idWlsZCgpCgkJCQkJCQkJKSkKCQkJCQkJCQkuYnVpbGQoKSksCgkJCQlmYWxzZSk7Cgl9Cgo=</text>
+        <text encoding="base64">CQkJCQkJZGVjaXNpb25Wb3RlcnMuYWRkKHdlYkV4cHJlc3Npb25Wb3Rlcik7CgkJCQkJCWRlY2lzaW9uVm90ZXJzLmFkZChmdWxseUF1dGhlbnRpY2F0ZWRWb3Rlcik7CgkJCQkJCWRlY2lzaW9uVm90ZXJzLmFkZChhcHBsaWNhdGlvblJvbGVWb3Rlcik7CgkJCQkJCUxPR0dFUi5kZWJ1ZygiQWRkIEZ1bGx5QXV0aGVudGljYXRlZFZvdGVyIGFuZCBXZWJFeHByZXNzaW9uVm90ZXIgdG8gdGhlIEFjY2Vzc0RlY2lzaW9uTWFuYWdlciIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCQkJbmV3IFBhcmFtZXRlckJ1aWxkZXIoKQoJCQkJCQkJCQkJCQkJCS50eXBlKG5ldyBUeXBlUmVzb2x2ZXIoKS5yZXNvbHZlKFN0cmluZy5jbGFzcykpCgkJCQkJCQkJCQkJCQkJLm5hbWUoInN0YXRlIikKCQkJCQkJCQkJCQkJCQkucGFyYW1ldGVyVHlwZSgicXVlcnkiKQoJCQkJCQkJCQkJCQkJCS5tb2RlbFJlZihuZXcgTW9kZWxSZWYoInN0cmluZyIpKQoJCQkJCQkJCQkJCQkJCS5idWlsZCgpCg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTeXN0ZW0ub3V0LnByaW50bG4obmV3IFVVSUQoMCwgMCkpOwoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/ValidateAvatarColor/ValidateAvatarInitials/g</text>
