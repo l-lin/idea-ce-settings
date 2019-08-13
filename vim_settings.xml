@@ -180,6 +180,13 @@
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" timestamp="1564563524219">
         <mark key="'" line="97" column="65" />
       </file>
+      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-common/src/main/java/com/oodrive/heimdall/client/common/config/ClientCommonConfiguration.java" timestamp="1565698805647">
+        <mark key="'" line="44" column="19" />
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="28" />
+        <mark key="." line="42" column="28" />
+        <mark key="^" line="42" column="28" />
+      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/AlarmController.java" timestamp="1564566350629">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="7" column="25" />
@@ -304,8 +311,8 @@
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/usecase/CreateContactBeanInfo.java" timestamp="1564389806457">
         <mark key="'" line="76" column="64" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-client/README.md" timestamp="1565169255302">
-        <mark key="[" line="29" column="0" />
+      <file name="$USER_HOME$/work/heimdall-client/README.md" timestamp="1565698618910">
+        <mark key="[" line="171" column="3" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="13" column="14" />
@@ -681,7 +688,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="14" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
       <jump line="90" column="19" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
       <jump line="109" column="11" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
       <jump line="39" column="24" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
@@ -781,16 +787,17 @@
       <jump line="110" column="4" filename="/P10gContactRepository.java" />
       <jump line="108" column="19" filename="/P10gContactRepository.java" />
       <jump line="25" column="8" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
+      <jump line="44" column="19" filename="$USER_HOME$/work/heimdall-client/heimdall-client-common/src/main/java/com/oodrive/heimdall/client/common/config/ClientCommonConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;'&quot; + accountUuids.toString() + &quot;'&quot;</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;'&quot; + accountUuids.toString() + &quot;'&quot;</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>asgard-users</text>
+        <text encoding="base64">XDxVbmFuaW1vdXNCYXNlZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUBDb25kaXRpb25hbE9uTWlzc2luZ0JlYW4K</text>
@@ -839,9 +846,9 @@
       </register>
     </registers>
     <search>
-      <last-search>asgard-users</last-search>
+      <last-search encoding="base64">XDxVbmFuaW1vdXNCYXNlZFw+</last-search>
       <last-offset />
-      <last-pattern>asgard-users</last-pattern>
+      <last-pattern encoding="base64">XDxVbmFuaW1vdXNCYXNlZFw+</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -849,7 +856,6 @@
     </search>
     <history>
       <history-search>
-        <entry>singletonList</entry>
         <entry>redis</entry>
         <entry>Type</entry>
         <entry encoding="base64">XDx0b1ZlbmRvckV4dGVuc2lvblw+</entry>
@@ -869,6 +875,7 @@
         <entry encoding="base64">XDxiZWFuTGlzdFw+</entry>
         <entry>uuidWithoutDashes</entry>
         <entry>asgard-users</entry>
+        <entry encoding="base64">XDxVbmFuaW1vdXNCYXNlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
