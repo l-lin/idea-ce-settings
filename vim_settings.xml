@@ -355,10 +355,11 @@
         <mark key="." line="76" column="18" />
         <mark key="^" line="76" column="18" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1565683704274">
+      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1565686351050">
+        <mark key="'" line="25" column="8" />
         <mark key="[" line="36" column="36" />
-        <mark key="]" line="36" column="44" />
-        <mark key="." line="36" column="44" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
         <mark key="^" line="36" column="44" />
       </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/dto/AuthFailureDTO.java" timestamp="1563288054683">
@@ -387,9 +388,9 @@
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/common/repository/P10gContactRepository.java" timestamp="1565602691476">
         <mark key="'" line="3" column="34" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/bean/ContactInfo.java" timestamp="1564389092011">
         <mark key="[" line="425" column="27" />
@@ -450,6 +451,9 @@
       </file>
       <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/pom.xml" timestamp="1565169308154">
         <mark key="'" line="257" column="30" />
+      </file>
+      <file name="/P10gContactRepository.java" timestamp="1565686213595">
+        <mark key="'" line="108" column="19" />
       </file>
       <file name="$USER_HOME$/work/asgard-event-schema/json-schema-validation/src/test/resources/examples/asgard/user/user_delete.json" timestamp="1564127118118">
         <mark key="[" line="41" column="9" />
@@ -677,9 +681,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="172" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
-      <jump line="49" column="33" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
       <jump line="82" column="14" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
       <jump line="90" column="19" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
       <jump line="109" column="11" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
@@ -777,6 +778,9 @@
       <jump line="65" column="42" filename="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/contact/AdminImportContact.java" />
       <jump line="49" column="26" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/validator/IdContactBeanInfoValidator.java" />
       <jump line="64" column="52" filename="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/validator/IdContactBeanInfoValidator.java" />
+      <jump line="110" column="4" filename="/P10gContactRepository.java" />
+      <jump line="108" column="19" filename="/P10gContactRepository.java" />
+      <jump line="25" column="8" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -786,7 +790,7 @@
         <text>&quot;'&quot; + accountUuids.toString() + &quot;'&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiZWFuTGlzdFw+</text>
+        <text>asgard-users</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CUBDb25kaXRpb25hbE9uTWlzc2luZ0JlYW4K</text>
@@ -835,9 +839,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiZWFuTGlzdFw+</last-search>
+      <last-search>asgard-users</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiZWFuTGlzdFw+</last-pattern>
+      <last-pattern>asgard-users</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -845,8 +849,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWN1cml0eUNvbnRleHRzXD4=</entry>
-        <entry>Heimdall OAuth2</entry>
         <entry>singletonList</entry>
         <entry>redis</entry>
         <entry>Type</entry>
@@ -865,6 +867,8 @@
         <entry encoding="base64">XDxjb250YWN0SWRcPg==</entry>
         <entry encoding="base64">XDxhY2NvdW50SWRcPg==</entry>
         <entry encoding="base64">XDxiZWFuTGlzdFw+</entry>
+        <entry>uuidWithoutDashes</entry>
+        <entry>asgard-users</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
