@@ -40,7 +40,7 @@
       <file name="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.8.2/univocity-parsers-2.8.2-sources.jar!/com/univocity/parsers/common/AbstractParser.java" timestamp="1564734016657">
         <mark key="'" line="242" column="12" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-session-autoconfig/src/main/java/com/oodrive/heimdall/client/session/security/WorkspaceAccessDeniedHandler.java" timestamp="1565788660104" />
+      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-session-autoconfig/src/main/java/com/oodrive/heimdall/client/session/security/WorkspaceAccessDeniedHandler.java" timestamp="1565795940374" />
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-app/src/main/resources/application-dev.yml" timestamp="1565080551981">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="31" />
@@ -53,6 +53,7 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="12" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE-sources.jar!/org/springframework/security/access/vote/AffirmativeBased.java" timestamp="1565796665461" />
       <file name="$USER_HOME$/work/heimdall-server/heimdall-api/src/main/java/com/oodrive/heimdall/api/repository/AuthFailureRepository.java" timestamp="1563351198259">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="11" column="34" />
@@ -159,6 +160,7 @@
         <mark key="^" line="20" column="72" />
         <mark key="." line="27" column="77" />
       </file>
+      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-common/src/main/java/com/oodrive/heimdall/client/common/filter/HeimdallXClientIdFilter.java" timestamp="1565795826411" />
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/resources/dictionary/dictionary_fr.properties" timestamp="1564066336775">
         <mark key="[" line="1044" column="0" />
         <mark key="]" line="1044" column="14" />
@@ -186,7 +188,7 @@
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" timestamp="1564563524219">
         <mark key="'" line="97" column="65" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-common/src/main/java/com/oodrive/heimdall/client/common/config/ClientCommonConfiguration.java" timestamp="1565704094125">
+      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-common/src/main/java/com/oodrive/heimdall/client/common/config/ClientCommonConfiguration.java" timestamp="1565795815088">
         <mark key="'" line="42" column="19" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -237,11 +239,6 @@
         <mark key="]" line="87" column="103" />
         <mark key="." line="87" column="103" />
         <mark key="^" line="87" column="103" />
-      </file>
-      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-session-autoconfig/src/main/java/com/oodrive/heimdall/client/session/autoconfig/LettuceClientOptionConfigurationBuilder.java" timestamp="1565169042143">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="/ContactProvisioningBusiness.java" timestamp="1565602088699">
         <mark key="'" line="72" column="52" />
@@ -656,11 +653,6 @@
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/CSVUserDetailDTOMapper.java" timestamp="1564672826773">
         <mark key="'" line="30" column="28" />
       </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/UpdateUser.java" timestamp="1565602714028">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/controller/WorkspaceController.java" timestamp="1565787045318">
         <mark key="[" line="129" column="60" />
       </file>
@@ -814,7 +806,7 @@
         <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxVbmFuaW1vdXNCYXNlZFw+</text>
+        <text>Affirmative</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlhZGRWb3RlcihkZWNpc2lvblZvdGVycywgd2ViRXhwcmVzc2lvblZvdGVyKTsK</text>
@@ -851,9 +843,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxVbmFuaW1vdXNCYXNlZFw+</last-search>
+      <last-search>Affirmative</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxVbmFuaW1vdXNCYXNlZFw+</last-pattern>
+      <last-pattern>Affirmative</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -861,8 +853,6 @@
     </search>
     <history>
       <history-search>
-        <entry>redis</entry>
-        <entry>Type</entry>
         <entry encoding="base64">XDx0b1ZlbmRvckV4dGVuc2lvblw+</entry>
         <entry>oauth</entry>
         <entry>available</entry>
@@ -881,6 +871,8 @@
         <entry>uuidWithoutDashes</entry>
         <entry>asgard-users</entry>
         <entry encoding="base64">XDxVbmFuaW1vdXNCYXNlZFw+</entry>
+        <entry>2004</entry>
+        <entry>Affirmative</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
