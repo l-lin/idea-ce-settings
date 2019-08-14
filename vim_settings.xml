@@ -185,12 +185,12 @@
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" timestamp="1564563524219">
         <mark key="'" line="97" column="65" />
       </file>
-      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-common/src/main/java/com/oodrive/heimdall/client/common/config/ClientCommonConfiguration.java" timestamp="1565703932124">
-        <mark key="'" line="46" column="19" />
-        <mark key="[" line="46" column="84" />
-        <mark key="]" line="46" column="84" />
-        <mark key="." line="46" column="84" />
-        <mark key="^" line="74" column="54" />
+      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-common/src/main/java/com/oodrive/heimdall/client/common/config/ClientCommonConfiguration.java" timestamp="1565704094125">
+        <mark key="'" line="42" column="19" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="70" column="54" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/AlarmController.java" timestamp="1564566350629">
         <mark key="[" line="6" column="30" />
@@ -210,7 +210,6 @@
         <mark key="^" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
-      <file name="/SubscriptionCapacities.java" timestamp="1565684637044" />
       <file name="$USER_HOME$/work/asgard-event-schema/json-schema-validation/src/main/resources/com/oodrive/asgard/tracking/schema/user_definitions.schema.json" timestamp="1564127089570">
         <mark key="[" line="136" column="36" />
         <mark key="]" line="136" column="45" />
@@ -506,6 +505,9 @@
         <mark key="^" line="12" column="44" />
         <mark key="." line="12" column="44" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/oodrive/logging/correlation/correlation-web/1.1.0/correlation-web-1.1.0-sources.jar!/com/oodrive/logging/correlation/filter/RequestIdFilter.java" timestamp="1565786439812">
+        <mark key="'" line="24" column="13" />
+      </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/annotation/ApiForFrontEndPoint.java" timestamp="1564670003300">
         <mark key="[" line="13" column="18" />
         <mark key="]" line="9" column="70" />
@@ -686,7 +688,7 @@
         <mark key="^" line="81" column="55" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1565702445438">
+      <file name="/fragment.java" timestamp="1565704077329">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/asgard-home/src/main/resources/application-dev.yml" timestamp="1565080555589">
@@ -697,7 +699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="19" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
       <jump line="109" column="11" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
       <jump line="39" column="24" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
       <jump line="43" column="35" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
@@ -797,13 +798,14 @@
       <jump line="108" column="19" filename="/P10gContactRepository.java" />
       <jump line="25" column="8" filename="$USER_HOME$/work/asgard-admin/pom.xml" />
       <jump line="44" column="19" filename="$USER_HOME$/work/heimdall-client/heimdall-client-common/src/main/java/com/oodrive/heimdall/client/common/config/ClientCommonConfiguration.java" />
+      <jump line="24" column="13" filename="$MAVEN_REPOSITORY$/com/oodrive/logging/correlation/correlation-web/1.1.0/correlation-web-1.1.0-sources.jar!/com/oodrive/logging/correlation/filter/RequestIdFilter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgZi5icm9zc2FyZAogKiBAY3JlYXRlZCAxOSBhdnIuIDIwMTgKICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVbmFuaW1vdXNCYXNlZFw+</text>
@@ -812,28 +814,28 @@
         <text encoding="base64">CQkJCQlhZGRWb3RlcihkZWNpc2lvblZvdGVycywgd2ViRXhwcmVzc2lvblZvdGVyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCXJldHVybjsKCg==</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgZi5icm9zc2FyZAogKiBAY3JlYXRlZCAxOSBhdnIuIDIwMTgKICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQlmb3IgKEFjY2Vzc0RlY2lzaW9uVm90ZXI8Pz4gZGVjaXNpb25Wb3RlclRvQWRkIDogZGVjaXNpb25Wb3RlcnNUb0FkZCkgewoJCQkJCQk7CgkJCQkJfQo=</text>
+        <text encoding="base64">CQkJCXJldHVybjsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQlhZGRWb3RlcihkZWNpc2lvblZvdGVycywgd2ViRXhwcmVzc2lvblZvdGVyLCBiZWFuTmFtZSk7CgkJCQkJYWRkVm90ZXIoZGVjaXNpb25Wb3RlcnMsIGZ1bGx5QXV0aGVudGljYXRlZFZvdGVyLCBiZWFuTmFtZSk7CgkJCQkJYWRkVm90ZXIoZGVjaXNpb25Wb3RlcnMsIGFwcGxpY2F0aW9uUm9sZVZvdGVyLCBiZWFuTmFtZSk7Cg==</text>
+        <text encoding="base64">CQkJCQlmb3IgKEFjY2Vzc0RlY2lzaW9uVm90ZXI8Pz4gZGVjaXNpb25Wb3RlclRvQWRkIDogZGVjaXNpb25Wb3RlcnNUb0FkZCkgewoJCQkJCQk7CgkJCQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQlXZWJFeHByZXNzaW9uVm90ZXIgd2ViRXhwcmVzc2lvblZvdGVyID0gbmV3IFdlYkV4cHJlc3Npb25Wb3RlcigpOwoJCQkJCUZ1bGx5QXV0aGVudGljYXRlZFZvdGVyIGZ1bGx5QXV0aGVudGljYXRlZFZvdGVyID0gbmV3IEZ1bGx5QXV0aGVudGljYXRlZFZvdGVyKCk7CgkJCQkJQXBwbGljYXRpb25Sb2xlVm90ZXIgYXBwbGljYXRpb25Sb2xlVm90ZXIgPSBuZXcgQXBwbGljYXRpb25Sb2xlVm90ZXIoc3NvUHJvcGVydGllcygpLmdldFJvbGVzKCkpOwo=</text>
+        <text encoding="base64">CQkJCQlhZGRWb3RlcihkZWNpc2lvblZvdGVycywgd2ViRXhwcmVzc2lvblZvdGVyLCBiZWFuTmFtZSk7CgkJCQkJYWRkVm90ZXIoZGVjaXNpb25Wb3RlcnMsIGZ1bGx5QXV0aGVudGljYXRlZFZvdGVyLCBiZWFuTmFtZSk7CgkJCQkJYWRkVm90ZXIoZGVjaXNpb25Wb3RlcnMsIGFwcGxpY2F0aW9uUm9sZVZvdGVyLCBiZWFuTmFtZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlMT0dHRVIuZGVidWcoIkFkZCBGdWxseUF1dGhlbnRpY2F0ZWRWb3RlciBhbmQgV2ViRXhwcmVzc2lvblZvdGVyIHRvIHRoZSBBY2Nlc3NEZWNpc2lvbk1hbmFnZXIiKTsK</text>
+        <text encoding="base64">CQkJCQlXZWJFeHByZXNzaW9uVm90ZXIgd2ViRXhwcmVzc2lvblZvdGVyID0gbmV3IFdlYkV4cHJlc3Npb25Wb3RlcigpOwoJCQkJCUZ1bGx5QXV0aGVudGljYXRlZFZvdGVyIGZ1bGx5QXV0aGVudGljYXRlZFZvdGVyID0gbmV3IEZ1bGx5QXV0aGVudGljYXRlZFZvdGVyKCk7CgkJCQkJQXBwbGljYXRpb25Sb2xlVm90ZXIgYXBwbGljYXRpb25Sb2xlVm90ZXIgPSBuZXcgQXBwbGljYXRpb25Sb2xlVm90ZXIoc3NvUHJvcGVydGllcygpLmdldFJvbGVzKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlkZWNpc2lvblZvdGVycy5hZGQod2ViRXhwcmVzc2lvblZvdGVyKTsKCQkJCQlkZWNpc2lvblZvdGVycy5hZGQoZnVsbHlBdXRoZW50aWNhdGVkVm90ZXIpOwoJCQkJCWRlY2lzaW9uVm90ZXJzLmFkZChhcHBsaWNhdGlvblJvbGVWb3Rlcik7Cg==</text>
+        <text encoding="base64">CQkJCQlMT0dHRVIuZGVidWcoIkFkZCBGdWxseUF1dGhlbnRpY2F0ZWRWb3RlciBhbmQgV2ViRXhwcmVzc2lvblZvdGVyIHRvIHRoZSBBY2Nlc3NEZWNpc2lvbk1hbmFnZXIiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWRlY2lzaW9uVm90ZXJzLmFkZChhY2Nlc3NEZWNpc2lvblZvdGVyKTsK</text>
+        <text encoding="base64">CQkJCQlkZWNpc2lvblZvdGVycy5hZGQod2ViRXhwcmVzc2lvblZvdGVyKTsKCQkJCQlkZWNpc2lvblZvdGVycy5hZGQoZnVsbHlBdXRoZW50aWNhdGVkVm90ZXIpOwoJCQkJCWRlY2lzaW9uVm90ZXJzLmFkZChhcHBsaWNhdGlvblJvbGVWb3Rlcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJZGVjaXNpb25Wb3RlcnMuYWRkKHdlYkV4cHJlc3Npb25Wb3Rlcik7CgkJCQkJCWRlY2lzaW9uVm90ZXJzLmFkZChmdWxseUF1dGhlbnRpY2F0ZWRWb3Rlcik7CgkJCQkJCWRlY2lzaW9uVm90ZXJzLmFkZChhcHBsaWNhdGlvblJvbGVWb3Rlcik7CgkJCQkJCUxPR0dFUi5kZWJ1ZygiQWRkIEZ1bGx5QXV0aGVudGljYXRlZFZvdGVyIGFuZCBXZWJFeHByZXNzaW9uVm90ZXIgdG8gdGhlIEFjY2Vzc0RlY2lzaW9uTWFuYWdlciIpOwo=</text>
+        <text encoding="base64">CQkJCWRlY2lzaW9uVm90ZXJzLmFkZChhY2Nlc3NEZWNpc2lvblZvdGVyKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CQkJCQkJZGVjaXNpb25Wb3RlcnMuYWRkKHdlYkV4cHJlc3Npb25Wb3Rlcik7CgkJCQkJCWRlY2lzaW9uVm90ZXJzLmFkZChmdWxseUF1dGhlbnRpY2F0ZWRWb3Rlcik7CgkJCQkJCWRlY2lzaW9uVm90ZXJzLmFkZChhcHBsaWNhdGlvblJvbGVWb3Rlcik7CgkJCQkJCUxPR0dFUi5kZWJ1ZygiQWRkIEZ1bGx5QXV0aGVudGljYXRlZFZvdGVyIGFuZCBXZWJFeHByZXNzaW9uVm90ZXIgdG8gdGhlIEFjY2Vzc0RlY2lzaW9uTWFuYWdlciIpOwo=</text>
