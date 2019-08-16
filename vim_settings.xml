@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2-sources.jar!/springfox/documentation/swagger/readers/operation/VendorExtensionsReader.java" timestamp="1565102282911">
+        <mark key="'" line="68" column="47" />
+      </file>
       <file name="$USER_HOME$/work/asgard-home/pom.xml" timestamp="1565702372727">
         <mark key="'" line="152" column="24" />
         <mark key="[" line="34" column="38" />
@@ -10,33 +13,6 @@
         <mark key="." line="34" column="46" />
         <mark key="^" line="34" column="46" />
       </file>
-      <file name="/a.dummy" timestamp="1565098061746">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.8.2/univocity-parsers-2.8.2-sources.jar!/com/univocity/parsers/common/AbstractParser.java" timestamp="1564734016657">
-        <mark key="'" line="242" column="12" />
-      </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-core/src/main/java/com/oodrive/heimdall/server/core/utils/RoleUtils.java" timestamp="1565798102180" />
-      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-session-autoconfig/src/main/java/com/oodrive/heimdall/client/session/security/WorkspaceAccessDeniedHandler.java" timestamp="1565797297130" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.1.5.RELEASE/spring-security-core-5.1.5.RELEASE-sources.jar!/org/springframework/security/access/vote/AffirmativeBased.java" timestamp="1565796665461" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.8.RELEASE/spring-security-core-5.0.8.RELEASE-sources.jar!/org/springframework/security/access/vote/UnanimousBased.java" timestamp="1565703751247">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/AsgardHomeExceptionHandler.java" timestamp="1564579204608">
-        <mark key="'" line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/DelegationController.java" timestamp="1565164998180">
-        <mark key="'" line="105" column="4" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" timestamp="1564755254654">
-        <mark key="'" line="50" column="24" />
-      </file>
-      <file name="/TabularFileBeanDataSource.java" timestamp="1564672309947">
-        <mark key="'" line="93" column="32" />
-      </file>
-      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-session-autoconfig/src/main/java/com/oodrive/heimdall/client/session/security/SessionWebSecurityConfigurerAdapter.java" timestamp="1565797304628" />
-      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-common/src/main/java/com/oodrive/heimdall/client/common/filter/HeimdallXClientIdFilter.java" timestamp="1565795826411" />
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/NotifySupervisors.java" timestamp="1564563524219">
         <mark key="'" line="97" column="65" />
       </file>
@@ -47,8 +23,30 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="70" column="54" />
       </file>
+      <file name="/a.dummy" timestamp="1565098061746">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1565686351050">
+        <mark key="'" line="25" column="8" />
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="36" column="36" />
+        <mark key="." line="36" column="36" />
+        <mark key="^" line="36" column="44" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1564500319166">
+        <mark key="'" line="116" column="31" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.8.2/univocity-parsers-2.8.2-sources.jar!/com/univocity/parsers/common/AbstractParser.java" timestamp="1564734016657">
+        <mark key="'" line="242" column="12" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.8.2/univocity-parsers-2.8.2-sources.jar!/com/univocity/parsers/common/input/concurrent/ConcurrentCharInputReader.java" timestamp="1564734035592">
+        <mark key="'" line="99" column="25" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-spring-web/2.9.2/springfox-spring-web-2.9.2-sources.jar!/springfox/documentation/spring/web/readers/parameter/ExpandedParameterBuilder.java" timestamp="1565101946259">
         <mark key="'" line="101" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-legacy/src/main/java/com/oodrive/heimdall/legacy/tracking/TrackingMessageFactory.java" timestamp="1565600097257">
+        <mark key="'" line="83" column="48" />
       </file>
       <file name="/ContactProvisioningBusiness.java" timestamp="1565602088699">
         <mark key="'" line="72" column="52" />
@@ -56,12 +54,61 @@
       <file name="/ExcelBeanDataSource.java" timestamp="1564672187706">
         <mark key="'" line="136" column="37" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/oodrive/heimdall/commons/heimdall-common/2.1.3/heimdall-common-2.1.3-sources.jar!/com/oodrive/heimdall/common/web/WorkspaceUrlUtils.java" timestamp="1565789683375" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/2.1.4.RELEASE/spring-session-data-redis-2.1.4.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.java" timestamp="1565000258834">
+        <mark key="'" line="246" column="13" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.8.RELEASE/spring-security-core-5.0.8.RELEASE-sources.jar!/org/springframework/security/access/vote/UnanimousBased.java" timestamp="1565703751247">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/pom.xml" timestamp="1565169308154">
+        <mark key="'" line="257" column="30" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/AuthorizationRequest.java" timestamp="1565096902372">
+        <mark key="'" line="119" column="33" />
+      </file>
+      <file name="/P10gContactRepository.java" timestamp="1565686213595">
+        <mark key="'" line="108" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.8.RELEASE/spring-security-core-5.0.8.RELEASE-sources.jar!/org/springframework/security/access/vote/AffirmativeBased.java" timestamp="1565703916081">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/exception/AsgardHomeExceptionHandler.java" timestamp="1564579204608">
+        <mark key="'" line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/controller/api/DelegationController.java" timestamp="1565164998180">
+        <mark key="'" line="105" column="4" />
+      </file>
       <file name="/GetGroup.java" timestamp="1564993414389">
         <mark key="'" line="63" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/request/DefaultOAuth2RequestFactory.java" timestamp="1565096893368">
+        <mark key="'" line="73" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-client/redis_cluster_view_error.md" timestamp="1565167054594">
+        <mark key="'" line="55" column="14" />
+      </file>
       <file name="/GetMyAddressBook.java" timestamp="1565165894600">
         <mark key="'" line="94" column="52" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-commons/heimdall-springsession-fork/src/main/java/org/springframework/session/data/redis/HeimdallRedisOperationsSessionRepository.java" timestamp="1565000248051">
+        <mark key="'" line="85" column="27" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" timestamp="1564755254654">
+        <mark key="'" line="50" column="24" />
+      </file>
+      <file name="/TabularFileBeanDataSource.java" timestamp="1564672309947">
+        <mark key="'" line="93" column="32" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/field/AbstractFieldType.java" timestamp="1564672698032">
+        <mark key="'" line="140" column="37" />
+      </file>
+      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/CSVUserDetailDTOMapper.java" timestamp="1564672826773">
+        <mark key="'" line="30" column="28" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.4.RELEASE/lettuce-core-5.1.4.RELEASE-sources.jar!/io/lettuce/core/LettuceFutures.java" timestamp="1564647344108">
+        <mark key="'" line="27" column="21" />
       </file>
       <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api-impl/src/main/java/com/oodrive/asgard/user/p10g/api/impl/contact/usecase/CreateContactBeanInfo.java" timestamp="1564389806457">
         <mark key="'" line="76" column="64" />
@@ -73,83 +120,26 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1564574554747">
-        <mark key="'" line="60" column="47" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.0.4.RELEASE/spring-security-web-5.0.4.RELEASE-sources.jar!/org/springframework/security/web/access/AccessDeniedHandlerImpl.java" timestamp="1565788708450" />
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-users/src/main/java/com/oodrive/heimdall/users/service/UserInfoAuthority.java" timestamp="1565797746115" />
-      <file name="$USER_HOME$/work/asgard-admin/pom.xml" timestamp="1565686351050">
-        <mark key="'" line="25" column="8" />
-        <mark key="[" line="36" column="36" />
-        <mark key="]" line="36" column="36" />
-        <mark key="." line="36" column="36" />
-        <mark key="^" line="36" column="44" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1564500319166">
-        <mark key="'" line="116" column="31" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/univocity/univocity-parsers/2.8.2/univocity-parsers-2.8.2-sources.jar!/com/univocity/parsers/common/input/concurrent/ConcurrentCharInputReader.java" timestamp="1564734035592">
-        <mark key="'" line="99" column="25" />
-      </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-legacy/src/main/java/com/oodrive/heimdall/legacy/tracking/TrackingMessageFactory.java" timestamp="1565600097257">
-        <mark key="'" line="83" column="48" />
-      </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-server-app/pom.xml" timestamp="1565169308154">
-        <mark key="'" line="257" column="30" />
-      </file>
-      <file name="/P10gContactRepository.java" timestamp="1565686213595">
-        <mark key="'" line="108" column="19" />
-      </file>
-      <file name="$USER_HOME$/work/heimdall-commons/heimdall-springsession-fork/src/main/java/org/springframework/session/data/redis/HeimdallRedisOperationsSessionRepository.java" timestamp="1565000248051">
-        <mark key="'" line="85" column="27" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/lettuce/lettuce-core/5.1.4.RELEASE/lettuce-core-5.1.4.RELEASE-sources.jar!/io/lettuce/core/LettuceFutures.java" timestamp="1564647344108">
-        <mark key="'" line="27" column="21" />
-      </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/usecase/contact/AdminImportContact.java" timestamp="1565604098910">
         <mark key="'" line="65" column="42" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/oodrive/logging/correlation/correlation-web/1.1.0/correlation-web-1.1.0-sources.jar!/com/oodrive/logging/correlation/filter/RequestIdFilter.java" timestamp="1565786439812">
-        <mark key="'" line="24" column="13" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/springfox/springfox-swagger-common/2.9.2/springfox-swagger-common-2.9.2-sources.jar!/springfox/documentation/swagger/readers/operation/VendorExtensionsReader.java" timestamp="1565102282911">
-        <mark key="'" line="68" column="47" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/session/spring-session-data-redis/2.1.4.RELEASE/spring-session-data-redis-2.1.4.RELEASE-sources.jar!/org/springframework/session/data/redis/RedisOperationsSessionRepository.java" timestamp="1565000258834">
-        <mark key="'" line="246" column="13" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/AuthorizationRequest.java" timestamp="1565096902372">
-        <mark key="'" line="119" column="33" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/5.0.8.RELEASE/spring-security-core-5.0.8.RELEASE-sources.jar!/org/springframework/security/access/vote/AffirmativeBased.java" timestamp="1565703916081">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/security/oauth/spring-security-oauth2/2.3.6.RELEASE/spring-security-oauth2-2.3.6.RELEASE-sources.jar!/org/springframework/security/oauth2/provider/request/DefaultOAuth2RequestFactory.java" timestamp="1565096893368">
-        <mark key="'" line="73" column="20" />
-      </file>
-      <file name="$USER_HOME$/work/heimdall-client/redis_cluster_view_error.md" timestamp="1565167054594">
-        <mark key="'" line="55" column="14" />
-      </file>
-      <file name="$USER_HOME$/work/heimdall-server/heimdall-step/src/main/java/com/oodrive/heimdall/step/security/StepTerminationFilter.java" timestamp="1565797782128" />
-      <file name="$USER_HOME$/work/asgard-users/asgard-user-provisioning-api/src/main/java/com/oodrive/asgard/user/p10g/field/AbstractFieldType.java" timestamp="1564672698032">
-        <mark key="'" line="140" column="37" />
-      </file>
-      <file name="$USER_HOME$/work/asgard-admin/asgard-admin-common/src/main/java/com/oodrive/asgard/admin/common/transformer/CSVUserDetailDTOMapper.java" timestamp="1564672826773">
-        <mark key="'" line="30" column="28" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.5.RELEASE/spring-web-5.0.5.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1564574554747">
+        <mark key="'" line="60" column="47" />
       </file>
       <file name="$USER_HOME$/work/asgard-admin/asgard-admin-ecstasy/src/main/java/com/oodrive/asgard/admin/ecstasy/controller/WorkspaceController.java" timestamp="1565787045318">
         <mark key="[" line="129" column="60" />
+      </file>
+      <file name="$USER_HOME$/work/heimdall-client/heimdall-client-session-autoconfig/src/main/java/com/oodrive/heimdall/client/session/security/SessionWebSecurityConfigurerAdapter.java" timestamp="1565948344729">
+        <mark key="'" line="46" column="37" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/oodrive/logging/correlation/correlation-web/1.1.0/correlation-web-1.1.0-sources.jar!/com/oodrive/logging/correlation/filter/RequestIdFilter.java" timestamp="1565786439812">
+        <mark key="'" line="24" column="13" />
       </file>
       <file name="/fragment.java" timestamp="1565704077329">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="24" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
-      <jump line="43" column="35" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
-      <jump line="50" column="24" filename="$MAVEN_REPOSITORY$/io/springfox/springfox-core/2.9.2/springfox-core-2.9.2-sources.jar!/springfox/documentation/service/ApiInfo.java" />
-      <jump line="86" column="24" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
       <jump line="102" column="8" filename="$USER_HOME$/work/asgard-home/src/main/java/com/oodrive/asgard/home/configuration/SwaggerConfiguration.java" />
       <jump line="67" column="40" filename="/GetGroup.java" />
       <jump line="62" column="34" filename="/GetGroup.java" />
@@ -246,6 +236,10 @@
       <jump line="44" column="19" filename="$USER_HOME$/work/heimdall-client/heimdall-client-common/src/main/java/com/oodrive/heimdall/client/common/config/ClientCommonConfiguration.java" />
       <jump line="24" column="13" filename="$MAVEN_REPOSITORY$/com/oodrive/logging/correlation/correlation-web/1.1.0/correlation-web-1.1.0-sources.jar!/com/oodrive/logging/correlation/filter/RequestIdFilter.java" />
       <jump line="252" column="22" filename="$USER_HOME$/work/heimdall-client/README.md" />
+      <jump line="60" column="39" filename="$USER_HOME$/work/heimdall-client/heimdall-client-session-autoconfig/src/main/java/com/oodrive/heimdall/client/session/security/SessionWebSecurityConfigurerAdapter.java" />
+      <jump line="31" column="40" filename="$USER_HOME$/work/heimdall-client/heimdall-client-session-autoconfig/src/main/java/com/oodrive/heimdall/client/session/security/SessionWebSecurityConfigurerAdapter.java" />
+      <jump line="43" column="147" filename="$USER_HOME$/work/heimdall-client/heimdall-client-session-autoconfig/src/main/java/com/oodrive/heimdall/client/session/security/SessionWebSecurityConfigurerAdapter.java" />
+      <jump line="46" column="37" filename="$USER_HOME$/work/heimdall-client/heimdall-client-session-autoconfig/src/main/java/com/oodrive/heimdall/client/session/security/SessionWebSecurityConfigurerAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -255,7 +249,7 @@
         <text encoding="base64">dGhlIA==</text>
       </register>
       <register name="/" type="4">
-        <text>WebSecurityConfigurerAdapter</text>
+        <text encoding="base64">XDxhY2Nlc3NEZWNpc2lvbk1hbmFnZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJCQlhZGRWb3RlcihkZWNpc2lvblZvdGVycywgd2ViRXhwcmVzc2lvblZvdGVyKTsK</text>
@@ -292,9 +286,9 @@
       </register>
     </registers>
     <search>
-      <last-search>WebSecurityConfigurerAdapter</last-search>
+      <last-search encoding="base64">XDxhY2Nlc3NEZWNpc2lvbk1hbmFnZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>WebSecurityConfigurerAdapter</last-pattern>
+      <last-pattern encoding="base64">XDxhY2Nlc3NEZWNpc2lvbk1hbmFnZXJcPg==</last-pattern>
       <last-replace>ValidateAvatarInitials</last-replace>
       <last-substitute>ValidateAvatarColor</last-substitute>
       <last-dir>1</last-dir>
@@ -302,7 +296,6 @@
     </search>
     <history>
       <history-search>
-        <entry>oauth</entry>
         <entry>available</entry>
         <entry>inf</entry>
         <entry>spring</entry>
@@ -322,6 +315,7 @@
         <entry>2004</entry>
         <entry>Affirmative</entry>
         <entry>WebSecurityConfigurerAdapter</entry>
+        <entry encoding="base64">XDxhY2Nlc3NEZWNpc2lvbk1hbmFnZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/inactive_user/idle_user/g</entry>
