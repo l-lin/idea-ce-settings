@@ -1,8 +1,13 @@
 <templateSet group="LLIN">
-  <template name="logger" value="private static final Logger LOGGER = LoggerFactory.getLogger($CLASS_NAME$.class);" description="Logger" toReformat="false" toShortenFQNames="true">
-    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+  <template name="log" value="private final Logger logger = LoggerFactory.getLogger(getClass());" description="Logger" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="fixme" value="// FIXME (l.lin): " description="fixme" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="// TODO (l.lin): " description="todo" toReformat="false" toShortenFQNames="true" />
 </templateSet>
