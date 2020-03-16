@@ -27,6 +27,10 @@
     <keyboard-shortcut first-keystroke="shift alt #10000e8" />
   </action>
   <action id="InsertLiveTemplate" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="shift colon" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
