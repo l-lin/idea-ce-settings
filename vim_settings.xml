@@ -143,6 +143,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/factory/HBInputBuilderTest.java" timestamp="1586620615799">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="26" column="28" />
+        <mark key="]" line="26" column="48" />
+        <mark key="." line="26" column="47" />
+        <mark key="^" line="26" column="48" />
+      </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/repository/kafka/KafkaHRFluxRepositoryTest.java" timestamp="1586608953359">
         <mark key="[" line="105" column="23" />
         <mark key="]" line="105" column="23" />
@@ -195,12 +202,6 @@
         <mark key="]" line="32" column="14" />
         <mark key="." line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/service/HRFetcher.java" timestamp="1586608945412">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="21" />
-        <mark key="." line="19" column="20" />
-        <mark key="^" line="19" column="21" />
-      </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-models/src/main/resources/avro/HeartBeats.avsc" timestamp="1586613068675">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="24" column="3" />
@@ -214,12 +215,12 @@
       <file name="$USER_HOME$/perso/poc-kafka/docker-compose-local.yml" timestamp="1586609353924">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/factory/HBInputBuilder.java" timestamp="1586619616556">
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/factory/HBInputBuilder.java" timestamp="1586620450306">
         <mark key="'" line="34" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="71" column="5" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="81" column="29" />
+        <mark key="[" line="46" column="42" />
+        <mark key="]" line="46" column="55" />
+        <mark key="." line="46" column="54" />
+        <mark key="^" line="46" column="55" />
       </file>
       <file name="/fragment.java" timestamp="1586615524798">
         <mark key="[" line="0" column="0" />
@@ -238,10 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.6.RELEASE/spring-boot-autoconfigure-2.2.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" />
-      <jump line="148" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.6.RELEASE/spring-boot-autoconfigure-2.2.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" />
-      <jump line="151" column="12" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.6.RELEASE/spring-boot-autoconfigure-2.2.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" />
-      <jump line="153" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.6.RELEASE/spring-boot-autoconfigure-2.2.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" />
       <jump line="154" column="42" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.6.RELEASE/spring-boot-autoconfigure-2.2.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" />
       <jump line="155" column="35" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.6.RELEASE/spring-boot-autoconfigure-2.2.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" />
       <jump line="157" column="15" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.2.6.RELEASE/spring-boot-autoconfigure-2.2.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/kafka/KafkaProperties.java" />
@@ -338,44 +335,54 @@
       <jump line="32" column="4" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/factory/HBInputBuilder.java" />
       <jump line="16" column="18" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/factory/HBInputBuilder.java" />
       <jump line="34" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/factory/HBInputBuilder.java" />
+      <jump line="21" column="88" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/factory/HBInputBuilderTest.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/factory/HBInputBuilderTest.java" />
+      <jump line="20" column="26" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/factory/HBInputBuilderTest.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/factory/HBInputBuilderTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text encoding="base64">bmV3IEFycmF5TGlzdDxIZWFydEJlYXQ+KCk7CgkJLy8gdXNpbmcgaGVhcnQgYmVhdCB2YWx1ZSB0byBjaGVjawoJCWZvciAoaW50IGkgPSAwOyBpIDwgMjA7IGkrKykgewoJCQlhbGxIZWFydEJlYXRzLmFkZCgKCQkJCQluZXcgSGVhcnRCZWF0KAoJCQkJCQkJVVNFUl9JRCwKCQkJCQkJCWksCgkJCQkJCQlIZWFydEJlYXRRUlMuQSwKCQkJCQkJCUxvY2FsRGF0ZVRpbWUub2YoMjAyMCwgTW9udGguQVBSSUwsIDExLCAxNywgNDcsIGkpLnRvSW5zdGFudChab25lT2Zmc2V0LlVUQykKCQkJCQkpCgkJCSk7CgkJfQ==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCWhlYXJ0QmVhdFF1ZXVlLmFkZChoZWFydEJlYXRzLmdldChpKSk7Cg==</text>
+        <text encoding="base64">CQl2YXIgYWxsSGVhcnRCZWF0cyA9IG5ldyBBcnJheUxpc3Q8SGVhcnRCZWF0PigpOwoJCS8vIHVzaW5nIGhlYXJ0IGJlYXQgdmFsdWUgdG8gY2hlY2sKCQlmb3IgKGludCBpID0gMDsgaSA8IDIwOyBpKyspIHsKCQkJYWxsSGVhcnRCZWF0cy5hZGQoCgkJCQkJbmV3IEhlYXJ0QmVhdCgKCQkJCQkJCVVTRVJfSUQsCgkJCQkJCQlpLAoJCQkJCQkJSGVhcnRCZWF0UVJTLkEsCgkJCQkJCQlMb2NhbERhdGVUaW1lLm9mKDIwMjAsIE1vbnRoLkFQUklMLCAxMSwgMTcsIDQ3LCBpKS50b0luc3RhbnQoWm9uZU9mZnNldC5VVEMpCgkJCQkJKQoJCQkpOwoJCX0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJdmFyIGluZGV4T2Zmc2V0ID0gZmluZEluZGV4T2Zmc2V0KGhlYXJ0QmVhdHMpOwoJCQl2YXIgc3RhcnRJbmRleCA9IDA7CgkJCWlmIChpbmRleE9mZnNldCA+PSBuYkhlYXJ0QmVhdHMgLSAxKSB7CgkJCQl2YXIgbmV4dEhCVG9Db21wdXRlID0gaW5kZXhPZmZzZXQgKyAxOwoJCQkJc3RhcnRJbmRleCA9IG5leHRIQlRvQ29tcHV0ZSAtIG5iSGVhcnRCZWF0cyArIDE7CgkJCX0KCQkJaWYgKHN0YXJ0SW5kZXggKyBuYkhlYXJ0QmVhdHMgLSAxID49IGhlYXJ0QmVhdHMuc2l6ZSgpKSB7CgkJCQlmb3IgKHZhciBpID0gaGVhcnRCZWF0cy5zaXplKCkgLSAxIC0gbmJIZWFydEJlYXRzOyBpIDwgaGVhcnRCZWF0cy5zaXplKCkgLSAxOyBpKyspIHsKCQkJCQloZWFydEJlYXRRdWV1ZS5hZGQoaGVhcnRCZWF0cy5nZXQoaSkpOwoJCQkJfQoJCQkJaGVhcnRSYXRlcy5hZGQoaHJGYWN0b3J5LmNyZWF0ZSh1c2VySWQsIGhlYXJ0QmVhdFF1ZXVlKSk7CgkJCX0gZWxzZSB7CgkJCQlmb3IgKHZhciBpID0gc3RhcnRJbmRleDsgaSA8IHN0YXJ0SW5kZXggKyBuYkhlYXJ0QmVhdHM7IGkrKykgewoJCQkJCWhlYXJ0QmVhdFF1ZXVlLmFkZChoZWFydEJlYXRzLmdldChpKSk7CgkJCQl9CgkJCQloZWFydFJhdGVzLmFkZChockZhY3RvcnkuY3JlYXRlKHVzZXJJZCwgaGVhcnRCZWF0UXVldWUpKTsKCQkJCXZhciBpID0gc3RhcnRJbmRleCArIG5iSGVhcnRCZWF0czsKCQkJCXdoaWxlIChpIDwgaGVhcnRCZWF0cy5zaXplKCkpIHsKCQkJCQloZWFydEJlYXRRdWV1ZS5hZGQoaGVhcnRCZWF0cy5nZXQoaSkpOwoJCQkJCWhlYXJ0UmF0ZXMuYWRkKGhyRmFjdG9yeS5jcmVhdGUodXNlcklkLCBoZWFydEJlYXRRdWV1ZSkpOwoJCQkJCWkrKzsKCQkJCX0KCQkJfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">bmV3IEFycmF5TGlzdDxIZWFydEJlYXQ+KCk7CgkJLy8gdXNpbmcgaGVhcnQgYmVhdCB2YWx1ZSB0byBjaGVjawoJCWZvciAoaW50IGkgPSAwOyBpIDwgMjA7IGkrKykgewoJCQlhbGxIZWFydEJlYXRzLmFkZCgKCQkJCQluZXcgSGVhcnRCZWF0KAoJCQkJCQkJVVNFUl9JRCwKCQkJCQkJCWksCgkJCQkJCQlIZWFydEJlYXRRUlMuQSwKCQkJCQkJCUxvY2FsRGF0ZVRpbWUub2YoMjAyMCwgTW9udGguQVBSSUwsIDExLCAxNywgNDcsIGkpLnRvSW5zdGFudChab25lT2Zmc2V0LlVUQykKCQkJCQkpCgkJCSk7CgkJfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgaW50IGZpbmRJbmRleE9mZnNldChMaXN0PEhlYXJ0QmVhdD4gaGVhcnRCZWF0cykgewoJCWZvciAoaW50IGkgPSAwOyBpIDwgaGVhcnRCZWF0cy5zaXplKCk7IGkrKykgewoJCQl2YXIgaGVhcnRCZWF0ID0gaGVhcnRCZWF0cy5nZXQoaSk7CgkJCWlmIChoZWFydEJlYXRPZmZzZXQuaXNCZWZvcmUoaGVhcnRCZWF0LmdldFRpbWVzdGFtcCgpKQoJCQkJCXx8IGhlYXJ0QmVhdE9mZnNldC5lcXVhbHMoaGVhcnRCZWF0LmdldFRpbWVzdGFtcCgpKSkgewoJCQkJcmV0dXJuIGk7CgkJCX0KCQl9CgkJcmV0dXJuIGhlYXJ0QmVhdHMuc2l6ZSgpIC0gMTsKCX0K</text>
+        <text encoding="base64">CQkJCW5ldyBIZWFydEJlYXQoVVNFUl9JRCwgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlsaXN0LnNvcnQoQ29tcGFyYXRvci5jb21wYXJpbmcoSGVhcnRCZWF0OjpnZXRUaW1lc3RhbXApKTsK</text>
+        <text encoding="base64">CQkJdmFyIGluZGV4T2Zmc2V0ID0gZmluZEluZGV4T2Zmc2V0KGhlYXJ0QmVhdHMpOwoJCQl2YXIgc3RhcnRJbmRleCA9IDA7CgkJCWlmIChpbmRleE9mZnNldCA+PSBuYkhlYXJ0QmVhdHMgLSAxKSB7CgkJCQl2YXIgbmV4dEhCVG9Db21wdXRlID0gaW5kZXhPZmZzZXQgKyAxOwoJCQkJc3RhcnRJbmRleCA9IG5leHRIQlRvQ29tcHV0ZSAtIG5iSGVhcnRCZWF0cyArIDE7CgkJCX0KCQkJaWYgKHN0YXJ0SW5kZXggKyBuYkhlYXJ0QmVhdHMgLSAxID49IGhlYXJ0QmVhdHMuc2l6ZSgpKSB7CgkJCQlmb3IgKHZhciBpID0gaGVhcnRCZWF0cy5zaXplKCkgLSAxIC0gbmJIZWFydEJlYXRzOyBpIDwgaGVhcnRCZWF0cy5zaXplKCkgLSAxOyBpKyspIHsKCQkJCQloZWFydEJlYXRRdWV1ZS5hZGQoaGVhcnRCZWF0cy5nZXQoaSkpOwoJCQkJfQoJCQkJaGVhcnRSYXRlcy5hZGQoaHJGYWN0b3J5LmNyZWF0ZSh1c2VySWQsIGhlYXJ0QmVhdFF1ZXVlKSk7CgkJCX0gZWxzZSB7CgkJCQlmb3IgKHZhciBpID0gc3RhcnRJbmRleDsgaSA8IHN0YXJ0SW5kZXggKyBuYkhlYXJ0QmVhdHM7IGkrKykgewoJCQkJCWhlYXJ0QmVhdFF1ZXVlLmFkZChoZWFydEJlYXRzLmdldChpKSk7CgkJCQl9CgkJCQloZWFydFJhdGVzLmFkZChockZhY3RvcnkuY3JlYXRlKHVzZXJJZCwgaGVhcnRCZWF0UXVldWUpKTsKCQkJCXZhciBpID0gc3RhcnRJbmRleCArIG5iSGVhcnRCZWF0czsKCQkJCXdoaWxlIChpIDwgaGVhcnRCZWF0cy5zaXplKCkpIHsKCQkJCQloZWFydEJlYXRRdWV1ZS5hZGQoaGVhcnRCZWF0cy5nZXQoaSkpOwoJCQkJCWhlYXJ0UmF0ZXMuYWRkKGhyRmFjdG9yeS5jcmVhdGUodXNlcklkLCBoZWFydEJlYXRRdWV1ZSkpOwoJCQkJCWkrKzsKCQkJCX0KCQkJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YXIgaGVhcnRCZWF0cyA9IG5ldyBBcnJheUxpc3Q8SGVhcnRCZWF0PigpOwo=</text>
+        <text encoding="base64">CXByaXZhdGUgaW50IGZpbmRJbmRleE9mZnNldChMaXN0PEhlYXJ0QmVhdD4gaGVhcnRCZWF0cykgewoJCWZvciAoaW50IGkgPSAwOyBpIDwgaGVhcnRCZWF0cy5zaXplKCk7IGkrKykgewoJCQl2YXIgaGVhcnRCZWF0ID0gaGVhcnRCZWF0cy5nZXQoaSk7CgkJCWlmIChoZWFydEJlYXRPZmZzZXQuaXNCZWZvcmUoaGVhcnRCZWF0LmdldFRpbWVzdGFtcCgpKQoJCQkJCXx8IGhlYXJ0QmVhdE9mZnNldC5lcXVhbHMoaGVhcnRCZWF0LmdldFRpbWVzdGFtcCgpKSkgewoJCQkJcmV0dXJuIGk7CgkJCX0KCQl9CgkJcmV0dXJuIGhlYXJ0QmVhdHMuc2l6ZSgpIC0gMTsKCX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl2YXIgaGVhcnRCZWF0UXVldWUgPSBuZXcgQ2lyY3VsYXJGaWZvUXVldWU8SGVhcnRCZWF0PihuYkhlYXJ0QmVhdHMpOwo=</text>
+        <text encoding="base64">CQlsaXN0LnNvcnQoQ29tcGFyYXRvci5jb21wYXJpbmcoSGVhcnRCZWF0OjpnZXRUaW1lc3RhbXApKTsK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">CQl2YXIgaGVhcnRCZWF0cyA9IG5ldyBBcnJheUxpc3Q8SGVhcnRCZWF0PigpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQl2YXIgaGVhcnRCZWF0UXVldWUgPSBuZXcgQ2lyY3VsYXJGaWZvUXVldWU8SGVhcnRCZWF0PihuYkhlYXJ0QmVhdHMpOwo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">CQkJZm9yICh2YXIgaSA9IHN0YXJ0SW5kZXg7IGkgPCBzdGFydEluZGV4ICsgbmJIZWFydEJlYXRzOyBpKyspIHsKCQkJCWhlYXJ0QmVhdFF1ZXVlLmFkZChoZWFydEJlYXRzLmdldChpKSk7CgkJCX0KCQkJaGVhcnRSYXRlcy5hZGQoaHJGYWN0b3J5LmNyZWF0ZSh1c2VySWQsIGhlYXJ0QmVhdFF1ZXVlKSk7CgkJCXZhciBpID0gc3RhcnRJbmRleCArIG5iSGVhcnRCZWF0czsKCQkJd2hpbGUgKGkgPCBoZWFydEJlYXRzLnNpemUoKSkgewoJCQkJaGVhcnRCZWF0UXVldWUuYWRkKGhlYXJ0QmVhdHMuZ2V0KGkpKTsKCQkJCWhlYXJ0UmF0ZXMuYWRkKGhyRmFjdG9yeS5jcmVhdGUodXNlcklkLCBoZWFydEJlYXRRdWV1ZSkpOwoJCQkJaSsrOwoJCQl9Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>#
 #
 #
@@ -384,12 +391,6 @@
 #
 #
 #</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJdmFyIG5leHQgPSBpbmRleE9mZnNldCArIDE7CgkJCXZhciBzdGFydCA9IG5leHQgLSBuYkhlYXJ0QmVhdHMgKyAxOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CQkJCWluZGV4T2Zmc2V0ID0gMDsKCQkJfSBlbHNlIHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
