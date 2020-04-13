@@ -20,11 +20,11 @@
         <entry encoding="base64">XDxidWlsZERhdGFcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVJbnRlcnZhbFw+</entry>
         <entry encoding="base64">XDxldmVudFVybFw+</entry>
-        <entry>\t</entry>
         <entry>&quot;</entry>
         <entry encoding="base64">XDx1c2VySWRcPg==</entry>
         <entry encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</entry>
         <entry encoding="base64">XDxjb25zdW1lclJlY29yZHNcPg==</entry>
+        <entry>\t</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -45,8 +45,8 @@
         <entry>bp</entry>
         <entry>w!</entry>
         <entry>set so=7</entry>
-        <entry>%s/\t/  /g</entry>
         <entry>%s/&quot;/'/g</entry>
+        <entry>%s/\t/  /g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -146,19 +146,16 @@
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/repository/kafka/KafkaHRFluxRepositoryTest.java" timestamp="1586795366935">
         <mark key="'" line="41" column="14" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRRouterTest.java" timestamp="1586779643850">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="41" column="37" />
-        <mark key="]" line="41" column="40" />
-        <mark key="." line="41" column="39" />
-        <mark key="^" line="41" column="40" />
-      </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-beat-validator/src/test/java/lin/louis/poc/hbv/stream/HBValidatorStreamBuilderTest.java" timestamp="1586788707671" />
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.stream.js" timestamp="1586796989257">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="19" />
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.stream.js" timestamp="1586797765305">
+        <mark key="'" line="76" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="68" column="4" />
         <mark key="." line="3" column="70" />
         <mark key="^" line="3" column="71" />
+      </file>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.css" timestamp="1586797779652">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/stream/HRComputorStreamBuilderTest.java" timestamp="1586788931873">
         <mark key="[" line="142" column="0" />
@@ -223,8 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
-      <jump line="31" column="6" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
       <jump line="76" column="23" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
       <jump line="39" column="8" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
       <jump line="41" column="23" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
@@ -323,12 +318,14 @@
       <jump line="41" column="14" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/repository/kafka/KafkaHRFluxRepositoryTest.java" />
       <jump line="12" column="14" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/web/HRController.java" />
       <jump line="22" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRControllerTest.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.stream.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.css" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXBsb3Quc2V0dXBHcmlkKCk7Cg==</text>
+        <text encoding="base64">CWNvbnN0IHVwZGF0ZSA9ICgpID0+IHsKCQlwbG90LnNldERhdGEoW2J1aWxkRGF0YSgpXSk7CgkJcGxvdC5kcmF3KCk7CgkJc2V0VGltZW91dCh1cGRhdGUsIHVwZGF0ZUludGVydmFsKTsKCX07Cg==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -337,10 +334,10 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zdW1lclJlY29yZHNcPg==</text>
+        <text>\t</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXBsb3Quc2V0dXBHcmlkKCk7Cg==</text>
+        <text encoding="base64">CWNvbnN0IHVwZGF0ZSA9ICgpID0+IHsKCQlwbG90LnNldERhdGEoW2J1aWxkRGF0YSgpXSk7CgkJcGxvdC5kcmF3KCk7CgkJc2V0VGltZW91dCh1cGRhdGUsIHVwZGF0ZUludGVydmFsKTsKCX07Cg==</text>
       </register>
       <register name="1" type="2">
         <text>doc: fix README.md + add missing dep to web service in docker-compose.yml</text>
@@ -377,17 +374,17 @@ heartRates[i]</text>
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
-        <text>%s/&quot;/'/g</text>
+        <text>%s/\t/  /g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb25zdW1lclJlY29yZHNcPg==</last-search>
+      <last-search>\t</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zdW1lclJlY29yZHNcPg==</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute encoding="base64">XDxjb25zdW1lclJlY29yZHNcPg==</last-substitute>
+      <last-pattern>\t</last-pattern>
+      <last-replace encoding="base64">ICA=</last-replace>
+      <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
