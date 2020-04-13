@@ -150,54 +150,67 @@
         <mark key="." line="14" column="119" />
         <mark key="^" line="14" column="119" />
       </file>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRRouterTest.java" timestamp="1586779615579">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="66" column="65" />
+        <mark key="]" line="66" column="62" />
+        <mark key="." line="66" column="61" />
+        <mark key="^" line="66" column="62" />
+      </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-models/src/main/resources/avro/HeartRate.avsc" timestamp="1586708329611">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="7" column="71" />
         <mark key="]" line="7" column="218" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-validator/src/main/java/lin/louis/poc/hbv/stream/HBValidatorStreamBuilder.java" timestamp="1586777625303" />
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/factory/valuecomputor/HRValueComputor.java" timestamp="1586629772783">
-        <mark key="[" line="6" column="57" />
-        <mark key="]" line="6" column="82" />
-        <mark key="^" line="6" column="82" />
-        <mark key="." line="6" column="81" />
+      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-validator/src/test/java/lin/louis/poc/hbv/stream/HBValidatorStreamBuilderTest.java" timestamp="1586778446208" />
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.stream.js" timestamp="1586778997589">
+        <mark key="[" line="3" column="59" />
+        <mark key="]" line="3" column="71" />
+        <mark key="." line="3" column="70" />
+        <mark key="^" line="3" column="71" />
       </file>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/main/java/lin/louis/poc/hbp/repository/kafka/KafkaHBRepository.java" timestamp="1586709121966">
+        <mark key="'" line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.archive.js" timestamp="1586779008209">
+        <mark key="[" line="1" column="67" />
+        <mark key="]" line="1" column="79" />
+        <mark key="." line="1" column="78" />
+        <mark key="^" line="1" column="79" />
+      </file>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/main/resources/application.yml" timestamp="1586710496902">
+        <mark key="[" line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/main/java/lin/louis/poc/hbp/repository/HBRepository.java" timestamp="1586709003960">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="1" />
+      </file>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/model/HeartRateEntity.java" timestamp="1586779510355">
+        <mark key="'" line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/web/HRRouter.java" timestamp="1586778979102">
+        <mark key="[" line="29" column="48" />
+        <mark key="]" line="29" column="48" />
+        <mark key="^" line="29" column="37" />
+        <mark key="." line="29" column="48" />
+      </file>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-validator/src/main/java/lin/louis/poc/hbv/stream/HBValidatorStreamBuilder.java" timestamp="1586777625303" />
       <file name="$USER_HOME$/perso/poc-kafka/heart-beat-validator/src/main/java/lin/louis/poc/hbv/config/HBValidatorConfig.java" timestamp="1586774200813" />
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HRValueMapper.java" timestamp="1586630373054">
-        <mark key="'" line="65" column="52" />
-        <mark key="[" line="45" column="0" />
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/web/HRController.java" timestamp="1586778968504">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="52" />
+        <mark key="." line="22" column="51" />
+        <mark key="^" line="22" column="52" />
       </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-models/pom.xml" timestamp="1586708878618">
         <mark key="'" line="45" column="19" />
         <mark key="[" line="25" column="0" />
         <mark key="]" line="42" column="21" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/main/java/lin/louis/poc/hbp/repository/kafka/KafkaHBRepository.java" timestamp="1586709121966">
-        <mark key="'" line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/main/resources/application.yml" timestamp="1586710496902">
-        <mark key="[" line="16" column="18" />
-      </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/main/java/lin/louis/poc/hbp/controller/HBController.java" timestamp="1586708979098">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="40" column="1" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/scripts/create-pg-sink.sh" timestamp="1586630595335">
-        <mark key="'" line="5" column="10" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="25" column="7" />
-        <mark key="." line="10" column="10" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-models/src/main/resources/avro/HeartBeats.avsc" timestamp="1586707968344">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="16" column="4" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HBAggregator.java" timestamp="1586630007188">
-        <mark key="]" line="12" column="98" />
-        <mark key="." line="12" column="97" />
-        <mark key="^" line="12" column="98" />
       </file>
       <file name="$USER_HOME$/perso/poc-kafka/README.md" timestamp="1586710252422">
         <mark key="'" line="116" column="8" />
@@ -206,44 +219,27 @@
         <mark key="^" line="25" column="27" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/pom.xml" timestamp="1586705459659">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="18" column="21" />
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/UserRouterTest.java" timestamp="1586779395838">
+        <mark key="'" line="33" column="15" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="53" column="9" />
+        <mark key="." line="52" column="38" />
+        <mark key="^" line="52" column="37" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/main/java/lin/louis/poc/hbp/repository/HBRepository.java" timestamp="1586709003960">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="1" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HRComputorStreamBuilder.java" timestamp="1586632064972">
-        <mark key="'" line="85" column="72" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/factory/HBInputBuilder.java" timestamp="1586629862718">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/test/java/lin/louis/poc/hbp/repository/kafa/KafkaHBRepositoryTest.java" timestamp="1586774049376">
+      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/test/java/lin/louis/poc/hbp/repository/kafa/KafkaHBRepositoryTest.java" timestamp="1586778948642">
         <mark key="'" line="127" column="33" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="65" column="89" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/resources/application.yml" timestamp="1586630421971">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="43" column="12" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="18" />
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRControllerTest.java" timestamp="1586779588317">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="62" column="82" />
+        <mark key="." line="45" column="80" />
+        <mark key="^" line="45" column="81" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="2" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
-      <jump line="108" column="4" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
       <jump line="24" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
       <jump line="104" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
       <jump line="25" column="13" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
@@ -340,51 +336,65 @@
       <jump line="10" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/main/java/lin/louis/poc/hbp/repository/kafka/KafkaHBRepository.java" />
       <jump line="116" column="8" filename="$USER_HOME$/perso/poc-kafka/README.md" />
       <jump line="127" column="33" filename="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/test/java/lin/louis/poc/hbp/repository/kafa/KafkaHBRepositoryTest.java" />
+      <jump line="36" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRControllerTest.java" />
+      <jump line="15" column="4" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRRouterTest.java" />
+      <jump line="33" column="15" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/UserRouterTest.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/model/HeartRateEntity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CUBSZWdpc3RlckV4dGVuc2lvbgoJZmluYWwgU2NoZW1hUmVnaXN0cnlNb2NrRXh0ZW5zaW9uIHNjaGVtYVJlZ2lzdHJ5ID0gbmV3IFNjaGVtYVJlZ2lzdHJ5TW9ja0V4dGVuc2lvbigpOwo=</text>
+      <register name="&quot;" type="8">
+        <text>heartRates[i]
+heartRates[i]
+heartRates[i]
+heartRates[i]</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>userIds</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdW1lclJlY29yZHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUBSZWdpc3RlckV4dGVuc2lvbgoJZmluYWwgU2NoZW1hUmVnaXN0cnlNb2NrRXh0ZW5zaW9uIHNjaGVtYVJlZ2lzdHJ5ID0gbmV3IFNjaGVtYVJlZ2lzdHJ5TW9ja0V4dGVuc2lvbigpOwo=</text>
+        <text encoding="base64">CQkJYXNzZXJ0RXF1YWxzKGhlYXJ0UmF0ZXNbaV0uZ2V0VXNlcklkKCksIGhlYXJ0UmF0ZUxpc3QuZ2V0KGkpLmdldFVzZXJJZCgpKTsKCQkJYXNzZXJ0RXF1YWxzKGhlYXJ0UmF0ZXNbaV0uZ2V0VmFsdWUoKSwgaGVhcnRSYXRlTGlzdC5nZXQoaSkuZ2V0VmFsdWUoKSk7CgkJCWFzc2VydEVxdWFscyhoZWFydFJhdGVzW2ldLmdldFRpbWVzdGFtcCgpLCBoZWFydFJhdGVMaXN0LmdldChpKS5nZXRUaW1lc3RhbXAoKSk7CgkJCWFzc2VydEVxdWFscyhoZWFydFJhdGVzW2ldLmlzUmVzZXQoKSwgaGVhcnRSYXRlTGlzdC5nZXQoaSkuaXNSZXNldCgpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LSBbSG93IHRvIHRyYW5zZm9ybSBhIGJhdGNoIHBpcGVsaW5lIGludG8gcmVhbCB0aW1lIG9uZV0oaHR0cHM6Ly9tZWRpdW0uY29tL0BzdGVwaGFuZS5tYWFyZWsvaG93LXRvLXVzZS1hcGFjaGUta2Fma2EtdG8tdHJhbnNmb3JtLWEtYmF0Y2gtcGlwZWxpbmUtaW50by1hLXJlYWwtdGltZS1vbmUtODMxYjQ4YTZhZDg1KQo=</text>
+      <register name="1" type="8">
+        <text>heartRates[i]
+heartRates[i]
+heartRates[i]
+heartRates[i]</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CQkJYXNzZXJ0RXF1YWxzKHVzZXJJZHNbaV0uZ2V0VmFsdWUoKSwgdXNlcnMuZ2V0KGkpLmdldFZhbHVlKCkpOwoJCQlhc3NlcnRFcXVhbHModXNlcklkc1tpXS5nZXRUaW1lc3RhbXAoKSwgdXNlcnMuZ2V0KGkpLmdldFRpbWVzdGFtcCgpKTsKCQkJYXNzZXJ0RXF1YWxzKHVzZXJJZHNbaV0uaXNSZXNldCgpLCB1c2Vycy5nZXQoaSkuaXNSZXNldCgpKTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text>new HeartRateDTO[] {
+				new HeartRateDTO(USER_ID, 90d, Instant.now(), false),
+				new HeartRateDTO(USER_ID, 91d, Instant.now(), false),
+				new HeartRateDTO(USER_ID, Double.NaN, Instant.now(), false)
+		};</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LSBbSG93IHRvIHRyYW5zZm9ybSBhIGJhdGNoIHBpcGVsaW5lIGludG8gcmVhbCB0aW1lIG9uZV0oaHR0cHM6Ly9tZWRpdW0uY29tL0BzdGVwaGFuZS5tYWFyZWsvaG93LXRvLXVzZS1hcGFjaGUta2Fma2EtdG8tdHJhbnNmb3JtLWEtYmF0Y2gtcGlwZWxpbmUtaW50by1hLXJlYWwtdGltZS1vbmUtODMxYjQ4YTZhZDg1KQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQl2YXIgZm9vYmFyID0gbmV3IFN0cmluZygiZm9vYmFyIik7CgkJZm9vYmFyID0gbmV3IFN0cmluZygib28iKTsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Y3VybCAtWCAiUE9TVCIgImh0dHA6Ly9sb2NhbGhvc3Q6ODA4Mi9jb25uZWN0b3JzLyIgXAogICAgIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iIFwKICAgICAtZCAnewogICAgICAgICAgICAgIm5hbWUiOiAiaGVhcnQtcmF0ZS1jb25uZWN0b3Itc2luayIsCiAgICAgICAgICAgICAiY29uZmlnIjogewogICAgICAgICAgICAgICAgICJjb25uZWN0b3IuY2xhc3MiOiAiaW8uY29uZmx1ZW50LmNvbm5lY3QuamRiYy5KZGJjU2lua0Nvbm5lY3RvciIsCiAgICAgICAgICAgICAgICAgImNvbm5lY3Rpb24udXJsIjogImpkYmM6cG9zdGdyZXNxbDovL2RiOjU0MzIvaGVhcnRfbW9uaXRvcj9hcHBsaWNhdGlvbk5hbWU9aGVhcnQtcmF0ZS1jb25uZWN0b3IiLAogICAgICAgICAgICAgICAgICJjb25uZWN0aW9uLnVzZXIiOiAicG9zdGdyZXMiLAogICAgICAgICAgICAgICAgICJjb25uZWN0aW9uLnBhc3N3b3JkIjogInBvc3RncmVzIiwKICAgICAgICAgICAgICAgICAiYXV0by5jcmVhdGUiOiJ0cnVlIiwKICAgICAgICAgICAgICAgICAiYXV0by5ldm9sdmUiOiJ0cnVlIiwKICAgICAgICAgICAgICAgICAidG9waWNzIjogImhlYXJ0LXJhdGVzIiwKICAgICAgICAgICAgICAgICAia2V5LmNvbnZlcnRlciI6ICJvcmcuYXBhY2hlLmthZmthLmNvbm5lY3Quc3RvcmFnZS5TdHJpbmdDb252ZXJ0ZXIiLAogICAgICAgICAgICAgICAgICJ0cmFuc2Zvcm1zIjogIkV4dHJhY3RUaW1lc3RhbXAiLAogICAgICAgICAgICAgICAgICJ0cmFuc2Zvcm1zLkV4dHJhY3RUaW1lc3RhbXAudHlwZSI6ICJvcmcuYXBhY2hlLmthZmthLmNvbm5lY3QudHJhbnNmb3Jtcy5JbnNlcnRGaWVsZCRWYWx1ZSIsCiAgICAgICAgICAgICAgICAgInRyYW5zZm9ybXMuRXh0cmFjdFRpbWVzdGFtcC50aW1lc3RhbXAuZmllbGQiIDogImV4dHJhY3RfdHMiCiAgICAgICAgICAgICB9CiAgICAgfScK</text>
       </register>
-      <register name="4" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
-      <register name="5" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIAogICAKICAgCiAgIA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">dG9waWNzOgogIGZyb206IGhlYXJ0LWJlYXRzLXZhbGlkCiAgdG86CiAgICBuYW1lOiBoZWFydC1yYXRlcwogICAgcGFydGl0aW9uczogMQogICAgcmVwbGljYXM6IDEKaGVhcnQtcmF0ZToKICBnYXAtZHVyYXRpb246IDVzCiAgbmItaGVhcnQtYmVhdHM6IDgKICBocmk6CiAgICBtaW46IDAKICAgIG1heDogMjUwCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBoZWFydEJlYXRzCgkgKiBAcmV0dXJuCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkKCQl2YXIgdGVzdE91dHB1dEludmFsaWQgPSB0ZXN0VG9wb2xvZ3kuc3RyZWFtT3V0cHV0KFRPUElDX1RPX0lOVkFMSUQpOwoJCUFycmF5cy5zdHJlYW0oaW52YWxpZEhlYXJ0QmVhdHMpCgkJCSAgLmZvckVhY2godmFsaWRIZWFydEJlYXQgLT4gdGVzdE91dHB1dEludmFsaWQuZXhwZWN0TmV4dFJlY29yZCgpCgkJCQkJCQkJCQkJCSAgIC5oYXNLZXkodmFsaWRIZWFydEJlYXQuZ2V0VXNlcklkKCkpCgkJCQkJCQkJCQkJCSAgIC5oYXNWYWx1ZSh2YWxpZEhlYXJ0QmVhdCkpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkuZXhwZWN0TmV4dFJlY29yZCgpLmhhc0tleSh2YWxpZEhlYXJ0QmVhdHNbMV0uZ2V0VXNlcklkKCkpLmhhc1ZhbHVlKHZhbGlkSGVhcnRCZWF0c1sxXSkKCQkJCQkuZXhwZWN0TmV4dFJlY29yZCgpLmhhc0tleSh2YWxpZEhlYXJ0QmVhdHNbMl0uZ2V0VXNlcklkKCkpLmhhc1ZhbHVlKHZhbGlkSGVhcnRCZWF0c1syXSkKCQkJCQkuZXhwZWN0TmV4dFJlY29yZCgpLmhhc0tleSh2YWxpZEhlYXJ0QmVhdHNbM10uZ2V0VXNlcklkKCkpLmhhc1ZhbHVlKHZhbGlkSGVhcnRCZWF0c1szXSkKCQkJCQkuZXhwZWN0TmV4dFJlY29yZCgpLmhhc0tleSh2YWxpZEhlYXJ0QmVhdHNbNF0uZ2V0VXNlcklkKCkpLmhhc1ZhbHVlKHZhbGlkSGVhcnRCZWF0c1s0XSkK</text>
+        <text encoding="base64">dG9waWNzOgogIGZyb206IGhlYXJ0LWJlYXRzLXZhbGlkCiAgdG86CiAgICBuYW1lOiBoZWFydC1yYXRlcwogICAgcGFydGl0aW9uczogMQogICAgcmVwbGljYXM6IDEKaGVhcnQtcmF0ZToKICBnYXAtZHVyYXRpb246IDVzCiAgbmItaGVhcnQtYmVhdHM6IDgKICBocmk6CiAgICBtaW46IDAKICAgIG1heDogMjUwCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>
