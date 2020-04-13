@@ -150,17 +150,12 @@
         <mark key="." line="14" column="119" />
         <mark key="^" line="14" column="119" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRRouterTest.java" timestamp="1586779615579">
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRRouterTest.java" timestamp="1586779643850">
         <mark key="'" line="29" column="4" />
-        <mark key="[" line="66" column="65" />
-        <mark key="]" line="66" column="62" />
-        <mark key="." line="66" column="61" />
-        <mark key="^" line="66" column="62" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-models/src/main/resources/avro/HeartRate.avsc" timestamp="1586708329611">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="7" column="71" />
-        <mark key="]" line="7" column="218" />
+        <mark key="[" line="41" column="37" />
+        <mark key="]" line="41" column="40" />
+        <mark key="." line="41" column="39" />
+        <mark key="^" line="41" column="40" />
       </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-beat-validator/src/test/java/lin/louis/poc/hbv/stream/HBValidatorStreamBuilderTest.java" timestamp="1586778446208" />
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.stream.js" timestamp="1586778997589">
@@ -194,13 +189,16 @@
         <mark key="^" line="29" column="37" />
         <mark key="." line="29" column="48" />
       </file>
+      <file name="/Dummy.txt" timestamp="1586779757706">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-beat-validator/src/main/java/lin/louis/poc/hbv/stream/HBValidatorStreamBuilder.java" timestamp="1586777625303" />
       <file name="$USER_HOME$/perso/poc-kafka/heart-beat-validator/src/main/java/lin/louis/poc/hbv/config/HBValidatorConfig.java" timestamp="1586774200813" />
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/web/HRController.java" timestamp="1586778968504">
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="22" column="52" />
-        <mark key="." line="22" column="51" />
-        <mark key="^" line="22" column="52" />
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="52" />
+        <mark key="." line="21" column="51" />
+        <mark key="^" line="21" column="52" />
       </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-models/pom.xml" timestamp="1586708878618">
         <mark key="'" line="45" column="19" />
@@ -344,17 +342,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>heartRates[i]
-heartRates[i]
-heartRates[i]
-heartRates[i]</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>userIds</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdW1lclJlY29yZHNcPg==</text>
