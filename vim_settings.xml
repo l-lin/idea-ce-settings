@@ -143,6 +143,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/repository/kafka/KafkaHRFluxRepositoryTest.java" timestamp="1586795366935">
+        <mark key="'" line="41" column="14" />
+      </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRRouterTest.java" timestamp="1586779643850">
         <mark key="'" line="29" column="4" />
         <mark key="[" line="41" column="37" />
@@ -151,11 +154,11 @@
         <mark key="^" line="41" column="40" />
       </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-beat-validator/src/test/java/lin/louis/poc/hbv/stream/HBValidatorStreamBuilderTest.java" timestamp="1586788707671" />
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.archive.js" timestamp="1586779008209">
-        <mark key="[" line="1" column="67" />
-        <mark key="]" line="1" column="79" />
-        <mark key="." line="1" column="78" />
-        <mark key="^" line="1" column="79" />
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.stream.js" timestamp="1586796989257">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="19" />
+        <mark key="." line="3" column="70" />
+        <mark key="^" line="3" column="71" />
       </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/stream/HRComputorStreamBuilderTest.java" timestamp="1586788931873">
         <mark key="[" line="142" column="0" />
@@ -170,9 +173,6 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/model/HeartRateEntity.java" timestamp="1586779510355">
-        <mark key="'" line="79" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.6.RELEASE/spring-boot-starter-parent-2.2.6.RELEASE.pom" timestamp="1586792736937" />
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HRComputorStreamBuilder.java" timestamp="1586784135213">
         <mark key="'" line="85" column="72" />
@@ -186,12 +186,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/pom.xml" timestamp="1586793061052" />
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/pom.xml" timestamp="1586793941109" />
       <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/Dockerfile" timestamp="1586789472704" />
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/repository/kafka/KafkaHRFluxRepository.java" timestamp="1586793859487">
         <mark key="'" line="26" column="12" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/web/HRController.java" timestamp="1586793102793">
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/web/HRController.java" timestamp="1586795963854">
         <mark key="'" line="12" column="14" />
         <mark key="[" line="21" column="40" />
         <mark key="]" line="21" column="52" />
@@ -209,24 +209,20 @@
         <mark key="]" line="16" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.6.RELEASE/spring-boot-dependencies-2.2.6.RELEASE.pom" timestamp="1586792750314" />
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/UserRouterTest.java" timestamp="1586779395838">
-        <mark key="'" line="33" column="15" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="53" column="9" />
-        <mark key="." line="52" column="38" />
-        <mark key="^" line="52" column="37" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRControllerTest.java" timestamp="1586779588317">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="62" column="82" />
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRControllerTest.java" timestamp="1586796720932">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="65" column="1" />
         <mark key="." line="45" column="80" />
         <mark key="^" line="45" column="81" />
       </file>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/dto/HeartRateDTO.java" timestamp="1586796095611">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="11" />
+        <mark key="." line="7" column="11" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
       <jump line="67" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
       <jump line="31" column="6" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
       <jump line="76" column="23" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
@@ -322,27 +318,29 @@
       <jump line="35" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HRValueMapper.java" />
       <jump line="20" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HRValueMapper.java" />
       <jump line="66" column="10" filename="$USER_HOME$/perso/poc-kafka/heart-beat-producer/pom.xml" />
-      <jump line="12" column="14" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/web/HRController.java" />
       <jump line="7" column="7" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/application.yml" />
       <jump line="26" column="12" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/repository/kafka/KafkaHRFluxRepository.java" />
+      <jump line="41" column="14" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/repository/kafka/KafkaHRFluxRepositoryTest.java" />
+      <jump line="12" column="14" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/web/HRController.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRControllerTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>doc: fix README.md + add missing dep to web service in docker-compose.yml</text>
+        <text encoding="base64">CXBsb3Quc2V0dXBHcmlkKCk7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdW1lclJlY29yZHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBJdGVyYWJsZTxIZWFydFJhdGU+IGFwcGx5KExvbmcgdXNlcklkLCBIZWFydEJlYXRzIHZhbHVlKSB7CgkJdmFyIGhlYXJ0UmF0ZXMgPSBuZXcgQXJyYXlMaXN0PEhlYXJ0UmF0ZT4oKTsKCgkJLy8gd2Ugb25seSBidWlsZCB0aGUgbmVjZXNzYXJpbHkgaGVhcnRiZWF0cywgbm8gbmVlZCB0byB3b3JrIG9uIGFscmVhZHkgdXNlZCBoZWFydGJlYXRzIHNpbmNlIHdlIGFyZSBub3QgdXNpbmcKCQkvLyBUaW1lV2luZG93IHRvIGZpbHRlciBvbmx5IHRoZSBkZXNpcmVkIGhlYXJ0YmVhdHMKCQl2YXIgaGVhcnRCZWF0cyA9IEhCSW5wdXRCdWlsZGVyLmZyb20odmFsdWUuZ2V0SGVhcnRCZWF0cygpKQoJCQkJCQkJCQkgICAud2l0aE5iSGVhcnRCZWF0cyhuYkhlYXJ0QmVhdHMpCgkJCQkJCQkJCSAgIC53aXRoT2Zmc2V0KGhlYXJ0QmVhdE9mZnNldCkKCQkJCQkJCQkJICAgLmJ1aWxkKCk7CgkJdmFyIGhlYXJ0QmVhdFF1ZXVlID0gbmV3IENpcmN1bGFyRmlmb1F1ZXVlPEhlYXJ0QmVhdD4obmJIZWFydEJlYXRzKTsKCgkJaWYgKGhlYXJ0QmVhdHMuc2l6ZSgpIDw9IG5iSGVhcnRCZWF0cykgewoJCQloZWFydEJlYXRRdWV1ZS5hZGRBbGwoaGVhcnRCZWF0cyk7CgkJCWhlYXJ0UmF0ZXMuYWRkKGhyRmFjdG9yeS5jcmVhdGUodXNlcklkLCBoZWFydEJlYXRRdWV1ZSkpOwoJCX0gZWxzZSB7CgkJCWZvciAodmFyIGkgPSAwOyBpIDwgbmJIZWFydEJlYXRzOyBpKyspIHsKCQkJCWhlYXJ0QmVhdFF1ZXVlLmFkZChoZWFydEJlYXRzLmdldChpKSk7CgkJCX0KCQkJaGVhcnRSYXRlcy5hZGQoaHJGYWN0b3J5LmNyZWF0ZSh1c2VySWQsIGhlYXJ0QmVhdFF1ZXVlKSk7CgkJCXZhciBpID0gbmJIZWFydEJlYXRzOwoJCQl3aGlsZSAoaSA8IGhlYXJ0QmVhdHMuc2l6ZSgpKSB7CgkJCQloZWFydEJlYXRRdWV1ZS5hZGQoaGVhcnRCZWF0cy5nZXQoaSkpOwoJCQkJaGVhcnRSYXRlcy5hZGQoaHJGYWN0b3J5LmNyZWF0ZSh1c2VySWQsIGhlYXJ0QmVhdFF1ZXVlKSk7CgkJCQlpKys7CgkJCX0KCQl9CgkJaGVhcnRCZWF0T2Zmc2V0ID0gaGVhcnRSYXRlcy5nZXQoaGVhcnRSYXRlcy5zaXplKCkgLSAxKS5nZXRUaW1lc3RhbXAoKTsKCQlyZXR1cm4gaGVhcnRSYXRlczsKCX0K</text>
+        <text encoding="base64">CXBsb3Quc2V0dXBHcmlkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text>doc: fix README.md + add missing dep to web service in docker-compose.yml</text>
