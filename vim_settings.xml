@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxpZGVudGlmaWNhdGlvbjJcPg==</entry>
         <entry encoding="base64">XDxMT0dHRVJcPg==</entry>
         <entry encoding="base64">XDxiYXNlUGF0aE92ZXJyaWRlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</entry>
         <entry encoding="base64">XDxjb25zdW1lclJlY29yZHNcPg==</entry>
         <entry>\t</entry>
+        <entry encoding="base64">XDxkZWNvZGVQYXJhbWV0ZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -153,6 +153,7 @@
         <mark key="." line="3" column="70" />
         <mark key="^" line="3" column="71" />
       </file>
+      <file name="$USER_HOME$/work/sharing-backend/sharing-item-api/src/main/java/com/oodrive/sharing/item/api/controller/RFC2231.java" timestamp="1586852690961" />
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.archive.js" timestamp="1586799917761">
         <mark key="'" line="23" column="35" />
         <mark key="[" line="1" column="67" />
@@ -163,41 +164,24 @@
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.css" timestamp="1586797779652">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/stream/HRComputorStreamBuilderTest.java" timestamp="1586788931873">
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
-      </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/application.yml" timestamp="1586798557775">
         <mark key="'" line="7" column="7" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/pom.xml" timestamp="1586789816630">
-        <mark key="'" line="66" column="10" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="18" column="21" />
       </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/model/HeartRateEntity.java" timestamp="1586798733044">
         <mark key="'" line="79" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.6.RELEASE/spring-boot-starter-parent-2.2.6.RELEASE.pom" timestamp="1586792736937" />
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/model/HeartRateId.java" timestamp="1586799558222" />
+      <file name="$USER_HOME$/work/sharing-backend/sharing-workspace/pom.xml" timestamp="1586852891889">
+        <mark key="[" line="56" column="21" />
+        <mark key="]" line="57" column="8" />
+        <mark key="^" line="57" column="8" />
+        <mark key="." line="57" column="4" />
+      </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/web/HRRouter.java" timestamp="1586799651604">
         <mark key="'" line="23" column="9" />
         <mark key="[" line="29" column="48" />
         <mark key="]" line="29" column="48" />
         <mark key="^" line="29" column="37" />
         <mark key="." line="29" column="48" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1586788778634">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/repository/HRRepository.java" timestamp="1586798609086" />
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/pom.xml" timestamp="1586793941109" />
-      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/Dockerfile" timestamp="1586789472704" />
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/repository/kafka/KafkaHRFluxRepository.java" timestamp="1586793859487">
-        <mark key="'" line="26" column="12" />
       </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/web/HRController.java" timestamp="1586795963854">
         <mark key="'" line="12" column="14" />
@@ -206,7 +190,16 @@
         <mark key="." line="21" column="51" />
         <mark key="^" line="21" column="52" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.6.RELEASE/spring-boot-dependencies-2.2.6.RELEASE.pom" timestamp="1586792750314" />
+      <file name="$USER_HOME$/work/sharing-backend/pom.xml" timestamp="1586852915332">
+        <mark key="[" line="934" column="67" />
+      </file>
+      <file name="$USER_HOME$/work/sharing-backend/sharing-item-api/src/main/java/com/oodrive/sharing/item/api/legacy/ItemController.java" timestamp="1586851369285">
+        <mark key="'" line="124" column="13" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/sun/mail/mailapi/1.6.1/mailapi-1.6.1-sources.jar!/javax/mail/internet/ParameterList.java" timestamp="1586852676765">
+        <mark key="'" line="563" column="8" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/javax/mail/mail/1.4/mail-1.4-sources.jar!/javax/mail/internet/ParameterList.java" timestamp="1586852673186" />
       <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/test/java/lin/louis/poc/hrc/web/HRControllerTest.java" timestamp="1586796720932">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="22" column="0" />
@@ -221,13 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="23" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
-      <jump line="9" column="8" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
-      <jump line="45" column="38" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
-      <jump line="74" column="18" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
-      <jump line="61" column="23" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
-      <jump line="14" column="33" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/index.html" />
       <jump line="8" column="29" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/index.html" />
       <jump line="55" column="47" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
       <jump line="0" column="1" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
@@ -321,12 +307,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.css" />
       <jump line="23" column="9" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/web/HRRouter.java" />
       <jump line="23" column="35" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.archive.js" />
+      <jump line="124" column="13" filename="$USER_HOME$/work/sharing-backend/sharing-item-api/src/main/java/com/oodrive/sharing/item/api/legacy/ItemController.java" />
+      <jump line="144" column="33" filename="$MAVEN_REPOSITORY$/com/sun/mail/mailapi/1.6.1/mailapi-1.6.1-sources.jar!/javax/mail/internet/ParameterList.java" />
+      <jump line="223" column="8" filename="$MAVEN_REPOSITORY$/com/sun/mail/mailapi/1.6.1/mailapi-1.6.1-sources.jar!/javax/mail/internet/ParameterList.java" />
+      <jump line="289" column="12" filename="$MAVEN_REPOSITORY$/com/sun/mail/mailapi/1.6.1/mailapi-1.6.1-sources.jar!/javax/mail/internet/ParameterList.java" />
+      <jump line="318" column="8" filename="$MAVEN_REPOSITORY$/com/sun/mail/mailapi/1.6.1/mailapi-1.6.1-sources.jar!/javax/mail/internet/ParameterList.java" />
+      <jump line="348" column="8" filename="$MAVEN_REPOSITORY$/com/sun/mail/mailapi/1.6.1/mailapi-1.6.1-sources.jar!/javax/mail/internet/ParameterList.java" />
+      <jump line="563" column="8" filename="$MAVEN_REPOSITORY$/com/sun/mail/mailapi/1.6.1/mailapi-1.6.1-sources.jar!/javax/mail/internet/ParameterList.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnN0IHVwZGF0ZSA9ICgpID0+IHsKCQlwbG90LnNldERhdGEoW2J1aWxkRGF0YSgpXSk7CgkJcGxvdC5kcmF3KCk7CgkJc2V0VGltZW91dCh1cGRhdGUsIHVwZGF0ZUludGVydmFsKTsKCX07Cg==</text>
+        <text encoding="base64">CQk8IS0tIHRlc3QgLS0+Cg==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -335,44 +328,44 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>\t</text>
+        <text encoding="base64">XDxkZWNvZGVQYXJhbWV0ZXJzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CWNvbnN0IHVwZGF0ZSA9ICgpID0+IHsKCQlwbG90LnNldERhdGEoW2J1aWxkRGF0YSgpXSk7CgkJcGxvdC5kcmF3KCk7CgkJc2V0VGltZW91dCh1cGRhdGUsIHVwZGF0ZUludGVydmFsKTsKCX07Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>doc: fix README.md + add missing dep to web service in docker-compose.yml</text>
+        <text encoding="base64">CQk8IS0tIHRlc3QgLS0+Cg==</text>
       </register>
       <register name="2" type="2">
+        <text>doc: fix README.md + add missing dep to web service in docker-compose.yml</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQlwcm9wZXJ0aWVzLnB1dCgKCQkJCVN0cmVhbXNDb25maWcuREVGQVVMVF9XSU5ET1dFRF9LRVlfU0VSREVfSU5ORVJfQ0xBU1MsCgkJCQlXaW5kb3dlZFNlcmRlcy50aW1lV2luZG93ZWRTZXJkZUZyb20oTG9uZy5jbGFzcykKCQkpOwo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>heartRates[i]
 heartRates[i]
 heartRates[i]
 heartRates[i]</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJYXNzZXJ0RXF1YWxzKHVzZXJJZHNbaV0uZ2V0VmFsdWUoKSwgdXNlcnMuZ2V0KGkpLmdldFZhbHVlKCkpOwoJCQlhc3NlcnRFcXVhbHModXNlcklkc1tpXS5nZXRUaW1lc3RhbXAoKSwgdXNlcnMuZ2V0KGkpLmdldFRpbWVzdGFtcCgpKTsKCQkJYXNzZXJ0RXF1YWxzKHVzZXJJZHNbaV0uaXNSZXNldCgpLCB1c2Vycy5nZXQoaSkuaXNSZXNldCgpKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>new HeartRateDTO[] {
 				new HeartRateDTO(USER_ID, 90d, Instant.now(), false),
 				new HeartRateDTO(USER_ID, 91d, Instant.now(), false),
 				new HeartRateDTO(USER_ID, Double.NaN, Instant.now(), false)
 		};</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">LSBbSG93IHRvIHRyYW5zZm9ybSBhIGJhdGNoIHBpcGVsaW5lIGludG8gcmVhbCB0aW1lIG9uZV0oaHR0cHM6Ly9tZWRpdW0uY29tL0BzdGVwaGFuZS5tYWFyZWsvaG93LXRvLXVzZS1hcGFjaGUta2Fma2EtdG8tdHJhbnNmb3JtLWEtYmF0Y2gtcGlwZWxpbmUtaW50by1hLXJlYWwtdGltZS1vbmUtODMxYjQ4YTZhZDg1KQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQl2YXIgZm9vYmFyID0gbmV3IFN0cmluZygiZm9vYmFyIik7CgkJZm9vYmFyID0gbmV3IFN0cmluZygib28iKTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Y3VybCAtWCAiUE9TVCIgImh0dHA6Ly9sb2NhbGhvc3Q6ODA4Mi9jb25uZWN0b3JzLyIgXAogICAgIC1IICJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24iIFwKICAgICAtZCAnewogICAgICAgICAgICAgIm5hbWUiOiAiaGVhcnQtcmF0ZS1jb25uZWN0b3Itc2luayIsCiAgICAgICAgICAgICAiY29uZmlnIjogewogICAgICAgICAgICAgICAgICJjb25uZWN0b3IuY2xhc3MiOiAiaW8uY29uZmx1ZW50LmNvbm5lY3QuamRiYy5KZGJjU2lua0Nvbm5lY3RvciIsCiAgICAgICAgICAgICAgICAgImNvbm5lY3Rpb24udXJsIjogImpkYmM6cG9zdGdyZXNxbDovL2RiOjU0MzIvaGVhcnRfbW9uaXRvcj9hcHBsaWNhdGlvbk5hbWU9aGVhcnQtcmF0ZS1jb25uZWN0b3IiLAogICAgICAgICAgICAgICAgICJjb25uZWN0aW9uLnVzZXIiOiAicG9zdGdyZXMiLAogICAgICAgICAgICAgICAgICJjb25uZWN0aW9uLnBhc3N3b3JkIjogInBvc3RncmVzIiwKICAgICAgICAgICAgICAgICAiYXV0by5jcmVhdGUiOiJ0cnVlIiwKICAgICAgICAgICAgICAgICAiYXV0by5ldm9sdmUiOiJ0cnVlIiwKICAgICAgICAgICAgICAgICAidG9waWNzIjogImhlYXJ0LXJhdGVzIiwKICAgICAgICAgICAgICAgICAia2V5LmNvbnZlcnRlciI6ICJvcmcuYXBhY2hlLmthZmthLmNvbm5lY3Quc3RvcmFnZS5TdHJpbmdDb252ZXJ0ZXIiLAogICAgICAgICAgICAgICAgICJ0cmFuc2Zvcm1zIjogIkV4dHJhY3RUaW1lc3RhbXAiLAogICAgICAgICAgICAgICAgICJ0cmFuc2Zvcm1zLkV4dHJhY3RUaW1lc3RhbXAudHlwZSI6ICJvcmcuYXBhY2hlLmthZmthLmNvbm5lY3QudHJhbnNmb3Jtcy5JbnNlcnRGaWVsZCRWYWx1ZSIsCiAgICAgICAgICAgICAgICAgInRyYW5zZm9ybXMuRXh0cmFjdFRpbWVzdGFtcC50aW1lc3RhbXAuZmllbGQiIDogImV4dHJhY3RfdHMiCiAgICAgICAgICAgICB9CiAgICAgfScK</text>
-      </register>
-      <register name="9" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -381,9 +374,9 @@ heartRates[i]</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>\t</last-search>
+      <last-search encoding="base64">XDxkZWNvZGVQYXJhbWV0ZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern>\t</last-pattern>
+      <last-pattern encoding="base64">XDxkZWNvZGVQYXJhbWV0ZXJzXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
