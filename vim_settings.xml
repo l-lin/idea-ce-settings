@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxMT0dHRVJcPg==</entry>
         <entry encoding="base64">XDxiYXNlUGF0aE92ZXJyaWRlXD4=</entry>
         <entry encoding="base64">XDxjdXN0b21SZXF1ZXN0VmFsaWRhdG9yc1w+</entry>
         <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
@@ -25,6 +24,7 @@
         <entry>\t</entry>
         <entry encoding="base64">XDxkZWNvZGVQYXJhbWV0ZXJzXD4=</entry>
         <entry encoding="base64">XDxQb3N0Q29uc3RydWN0XD4=</entry>
+        <entry encoding="base64">XDxUWVBFU1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -143,18 +143,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.archive.js" timestamp="1586799917761">
-        <mark key="'" line="23" column="35" />
-        <mark key="[" line="1" column="67" />
-        <mark key="]" line="1" column="79" />
-        <mark key="." line="1" column="78" />
-        <mark key="^" line="1" column="79" />
+      <file name="$USER_HOME$/work/sharing-backend/sharing-security-core/pom.xml" timestamp="1586876560279">
+        <mark key="[" line="122" column="21" />
       </file>
-      <file name="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" timestamp="1586873766032">
-        <mark key="[" line="21" column="59" />
-        <mark key="]" line="21" column="79" />
-        <mark key="." line="21" column="78" />
-        <mark key="^" line="21" column="79" />
+      <file name="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" timestamp="1586876100214">
+        <mark key="'" line="170" column="42" />
+        <mark key="[" line="174" column="12" />
+        <mark key="]" line="174" column="23" />
+        <mark key="." line="174" column="22" />
+        <mark key="^" line="174" column="23" />
       </file>
       <file name="$USER_HOME$/work/sharing-backend/sharing-device/src/test/java/com/oodrive/sharing/device/entity/factory/impl/DeviceFactoryImplTest.java" timestamp="1586853481110" />
       <file name="$USER_HOME$/work/sharing-backend/sharing-dictionary/pom.xml" timestamp="1586872224827">
@@ -178,6 +175,7 @@
         <mark key="." line="57" column="4" />
       </file>
       <file name="$USER_HOME$/apps/jdk1.8.0_181/src.zip!/java/util/Map.java" timestamp="1586872660856" />
+      <file name="$USER_HOME$/apps/jdk1.8.0_181/src.zip!/javax/xml/bind/annotation/XmlAccessOrder.java" timestamp="1586875762186" />
       <file name="$USER_HOME$/work/sharing-backend/sharing-common/pom.xml" timestamp="1586872076307">
         <mark key="[" line="45" column="0" />
       </file>
@@ -186,13 +184,10 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/web/HRRouter.java" timestamp="1586799651604">
-        <mark key="'" line="23" column="9" />
-        <mark key="[" line="29" column="48" />
-        <mark key="]" line="29" column="48" />
-        <mark key="^" line="29" column="37" />
-        <mark key="." line="29" column="48" />
+      <file name="$USER_HOME$/apps/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" timestamp="1586874438368">
+        <mark key="'" line="263" column="13" />
       </file>
+      <file name="$USER_HOME$/work/sharing-backend/sharing-security-core/src/main/java/com/oodrive/sharing/security/renderer/PostfilesOAuth2ExceptionRenderer.java" timestamp="1586876349213" />
       <file name="$USER_HOME$/work/sharing-backend/pom.xml" timestamp="1586852915332">
         <mark key="[" line="934" column="67" />
       </file>
@@ -202,9 +197,6 @@
       </file>
       <file name="$USER_HOME$/apps/jdk1.8.0_181/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1586873779102">
         <mark key="'" line="323" column="5" />
-      </file>
-      <file name="$USER_HOME$/work/sharing-backend/sharing-item-api/src/main/java/com/oodrive/sharing/item/api/legacy/ItemController.java" timestamp="1586851369285">
-        <mark key="'" line="124" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/sun/mail/mailapi/1.6.1/mailapi-1.6.1-sources.jar!/javax/mail/internet/ParameterList.java" timestamp="1586852676765">
         <mark key="'" line="563" column="8" />
@@ -217,14 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="31" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.js" />
-      <jump line="22" column="48" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/controller/HRRouter.java" />
-      <jump line="46" column="32" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/pom.xml" />
-      <jump line="80" column="16" filename="$USER_HOME$/perso/poc-kafka/pom.xml" />
-      <jump line="175" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.6.RELEASE/spring-boot-starter-parent-2.2.6.RELEASE.pom" />
-      <jump line="14" column="55" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/application.yml" />
-      <jump line="26" column="40" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/model/HeartRateEntity.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/java/lin/louis/poc/hrc/controller/HRRouter.java" />
       <jump line="8" column="48" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/heart-rates.html" />
       <jump line="6" column="27" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/main.js" />
       <jump line="52" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.js" />
@@ -317,58 +301,66 @@
       <jump line="2" column="24" filename="$USER_HOME$/work/sharing-backend/sharing-common/src/main/java/com/oodrive/sharing/common/serializer/ShareObjectMapper.java" />
       <jump line="51" column="8" filename="$USER_HOME$/work/share-parent/pom.xml" />
       <jump line="323" column="5" filename="$USER_HOME$/apps/jdk1.8.0_181/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
+      <jump line="263" column="13" filename="$USER_HOME$/apps/jdk-11.0.2/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" />
+      <jump line="172" column="15" filename="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" />
+      <jump line="183" column="28" filename="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" />
+      <jump line="201" column="11" filename="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" />
+      <jump line="204" column="8" filename="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" />
+      <jump line="20" column="47" filename="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" />
+      <jump line="176" column="22" filename="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" />
+      <jump line="170" column="42" filename="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>HashMap</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+amFrYXJ0YS54bWwuYmluZDwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+amFrYXJ0YS54bWwuYmluZC1hcGk8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjIuMy4zPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>HashMap</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQb3N0Q29uc3RydWN0XD4=</text>
+        <text encoding="base64">XDxUWVBFU1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+amF2YXguYW5ub3RhdGlvbjwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+amF2YXguYW5ub3RhdGlvbi1hcGk8L2FydGlmYWN0SWQ+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmphdmF4LmFubm90YXRpb248L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmphdmF4LmFubm90YXRpb24tYXBpPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+amFrYXJ0YS54bWwuYmluZDwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+amFrYXJ0YS54bWwuYmluZC1hcGk8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjIuMy4zPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCTxqYXZheC5hbm5vdGF0aW9uLWFwaS52ZXJzaW9uPjEuMy4yPC9qYXZheC5hbm5vdGF0aW9uLWFwaS52ZXJzaW9uPgo=</text>
+        <text encoding="base64">CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmphdmF4LmFubm90YXRpb248L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmphdmF4LmFubm90YXRpb24tYXBpPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8IS0tIHRlc3QgLS0+Cg==</text>
+        <text encoding="base64">CQkJCTxqYXZheC5hbm5vdGF0aW9uLWFwaS52ZXJzaW9uPjEuMy4yPC9qYXZheC5hbm5vdGF0aW9uLWFwaS52ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text>doc: fix README.md + add missing dep to web service in docker-compose.yml</text>
+        <text encoding="base64">CQk8IS0tIHRlc3QgLS0+Cg==</text>
       </register>
       <register name="5" type="2">
+        <text>doc: fix README.md + add missing dep to web service in docker-compose.yml</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQlwcm9wZXJ0aWVzLnB1dCgKCQkJCVN0cmVhbXNDb25maWcuREVGQVVMVF9XSU5ET1dFRF9LRVlfU0VSREVfSU5ORVJfQ0xBU1MsCgkJCQlXaW5kb3dlZFNlcmRlcy50aW1lV2luZG93ZWRTZXJkZUZyb20oTG9uZy5jbGFzcykKCQkpOwo=</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>heartRates[i]
 heartRates[i]
 heartRates[i]
 heartRates[i]</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJYXNzZXJ0RXF1YWxzKHVzZXJJZHNbaV0uZ2V0VmFsdWUoKSwgdXNlcnMuZ2V0KGkpLmdldFZhbHVlKCkpOwoJCQlhc3NlcnRFcXVhbHModXNlcklkc1tpXS5nZXRUaW1lc3RhbXAoKSwgdXNlcnMuZ2V0KGkpLmdldFRpbWVzdGFtcCgpKTsKCQkJYXNzZXJ0RXF1YWxzKHVzZXJJZHNbaV0uaXNSZXNldCgpLCB1c2Vycy5nZXQoaSkuaXNSZXNldCgpKTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>new HeartRateDTO[] {
 				new HeartRateDTO(USER_ID, 90d, Instant.now(), false),
 				new HeartRateDTO(USER_ID, 91d, Instant.now(), false),
 				new HeartRateDTO(USER_ID, Double.NaN, Instant.now(), false)
 		};</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">LSBbSG93IHRvIHRyYW5zZm9ybSBhIGJhdGNoIHBpcGVsaW5lIGludG8gcmVhbCB0aW1lIG9uZV0oaHR0cHM6Ly9tZWRpdW0uY29tL0BzdGVwaGFuZS5tYWFyZWsvaG93LXRvLXVzZS1hcGFjaGUta2Fma2EtdG8tdHJhbnNmb3JtLWEtYmF0Y2gtcGlwZWxpbmUtaW50by1hLXJlYWwtdGltZS1vbmUtODMxYjQ4YTZhZDg1KQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -377,9 +369,9 @@ heartRates[i]</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxQb3N0Q29uc3RydWN0XD4=</last-search>
+      <last-search encoding="base64">XDxUWVBFU1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQb3N0Q29uc3RydWN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxUWVBFU1w+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
