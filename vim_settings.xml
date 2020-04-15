@@ -143,22 +143,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1586942625825">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/share-parent/share-item-io/pom.xml" timestamp="1586879252384">
         <mark key="[" line="60" column="21" />
+      </file>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/Dockerfile" timestamp="1586942622426">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/work/share-parent/share-item-retrieval/src/test/java/com/oodrive/share/item/retrieval/hash/attribute/ItemAttributeKeysResumeHashTestCase.java" timestamp="1586880159774">
         <mark key="'" line="99" column="16" />
       </file>
-      <file name="$USER_HOME$/work/sharing-backend/sharing-security-core/pom.xml" timestamp="1586878281255">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="113" column="21" />
-        <mark key="^" line="113" column="21" />
-        <mark key="." line="113" column="20" />
-      </file>
-      <file name="$USER_HOME$/work/sharing-backend/sharing-access-app/pom.xml" timestamp="1586877809950">
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="228" column="21" />
-        <mark key="." line="215" column="0" />
+      <file name="/a.dummy" timestamp="1586941442596">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" timestamp="1586880226410">
         <mark key="'" line="170" column="42" />
@@ -166,10 +165,6 @@
         <mark key="]" line="172" column="0" />
         <mark key="." line="172" column="0" />
         <mark key="^" line="172" column="2" />
-      </file>
-      <file name="$USER_HOME$/work/sharing-backend/sharing-platform-app/pom.xml" timestamp="1586877544995">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="56" column="21" />
       </file>
       <file name="$USER_HOME$/work/sharing-backend/pom.xml" timestamp="1586880309067">
         <mark key="'" line="1000" column="28" />
@@ -195,9 +190,6 @@
         <mark key="]" line="45" column="19" />
         <mark key="." line="45" column="10" />
       </file>
-      <file name="$USER_HOME$/work/share-parent/share-core/pom.xml" timestamp="1586878562334">
-        <mark key="[" line="228" column="0" />
-      </file>
       <file name="$USER_HOME$/work/share-parent/share-item-entity/pom.xml" timestamp="1586879232125">
         <mark key="[" line="78" column="0" />
         <mark key="." line="78" column="0" />
@@ -206,14 +198,17 @@
         <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="81" />
       </file>
-      <file name="$USER_HOME$/perso/dev-cheat-sheet/java/cheatsheet/src/test/java/lin/louis/concurrency/CountDownLatchExample.java" timestamp="1586941292310">
+      <file name="$USER_HOME$/perso/dev-cheat-sheet/java/cheatsheet/src/test/java/lin/louis/concurrency/CountDownLatchExample.java" timestamp="1586941296460">
         <mark key="[" line="33" column="0" />
-        <mark key="]" line="29" column="15" />
-        <mark key="." line="29" column="14" />
-        <mark key="^" line="29" column="15" />
+        <mark key="]" line="34" column="15" />
+        <mark key="." line="34" column="14" />
+        <mark key="^" line="34" column="15" />
       </file>
       <file name="$USER_HOME$/work/sharing-backend/sharing-common/src/main/java/com/oodrive/sharing/common/serializer/ShareObjectMapper.java" timestamp="1586880437925">
         <mark key="'" line="2" column="24" />
+      </file>
+      <file name="/fragment.java" timestamp="1586942625859">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -321,8 +316,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoIkNvdW50ZWQgZG93biIsICk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>openjdk:11.0.6-jre-slim</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -333,8 +328,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxqYXhiXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlyZXR1cm4gVFlQRVMuY29tcHV0ZUlmQWJzZW50KHAgKyAnOicgKyBhbGdvLCBrIC0+IG5ldyBIYXNoVHlwZShwLCBhbGdvKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>openjdk:11.0.6-jre-slim</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlhc3NlcnRFcXVhbHMoIkNvdW50ZWQgZG93biIsICk7Cg==</text>
