@@ -143,6 +143,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/share-parent/share-item-io/pom.xml" timestamp="1586879252384">
+        <mark key="[" line="60" column="21" />
+      </file>
       <file name="$USER_HOME$/work/share-parent/share-item-retrieval/src/test/java/com/oodrive/share/item/retrieval/hash/attribute/ItemAttributeKeysResumeHashTestCase.java" timestamp="1586880159774">
         <mark key="'" line="99" column="16" />
       </file>
@@ -152,13 +155,28 @@
         <mark key="^" line="113" column="21" />
         <mark key="." line="113" column="20" />
       </file>
-      <file name="/share-item-business-effective-pom.xml" timestamp="1586878666090" />
+      <file name="$USER_HOME$/work/sharing-backend/sharing-access-app/pom.xml" timestamp="1586877809950">
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="228" column="21" />
+        <mark key="." line="215" column="0" />
+      </file>
       <file name="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" timestamp="1586880226410">
         <mark key="'" line="170" column="42" />
         <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="0" />
         <mark key="." line="172" column="0" />
         <mark key="^" line="172" column="2" />
+      </file>
+      <file name="$USER_HOME$/work/sharing-backend/sharing-platform-app/pom.xml" timestamp="1586877544995">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="56" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/sharing-backend/pom.xml" timestamp="1586880309067">
+        <mark key="'" line="1000" column="28" />
+        <mark key="[" line="142" column="26" />
+        <mark key="]" line="142" column="31" />
+        <mark key="." line="142" column="30" />
+        <mark key="^" line="142" column="31" />
       </file>
       <file name="$USER_HOME$/work/share-parent/pom.xml" timestamp="1586879487429">
         <mark key="'" line="196" column="51" />
@@ -177,39 +195,22 @@
         <mark key="]" line="45" column="19" />
         <mark key="." line="45" column="10" />
       </file>
-      <file name="/share-core-effective-pom.xml" timestamp="1586878785816" />
-      <file name="/HashType.java" timestamp="1586880143666">
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="81" />
-      </file>
-      <file name="$USER_HOME$/work/sharing-backend/sharing-security-core/src/test/java/com/oodrive/sharing/security/renderer/PostfilesOAuth2ExceptionRendererTest.java" timestamp="1586880430961" />
-      <file name="/share-domain-effective-pom.xml" timestamp="1586878796013" />
-      <file name="/share-item-entity-effective-pom.xml" timestamp="1586878773519" />
-      <file name="$USER_HOME$/work/share-parent/share-item-io/pom.xml" timestamp="1586879252384">
-        <mark key="[" line="60" column="21" />
-      </file>
-      <file name="$USER_HOME$/work/sharing-backend/sharing-access-app/pom.xml" timestamp="1586877809950">
-        <mark key="[" line="215" column="0" />
-        <mark key="]" line="228" column="21" />
-        <mark key="." line="215" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/sharing-backend/sharing-platform-app/pom.xml" timestamp="1586877544995">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="56" column="21" />
-      </file>
-      <file name="$USER_HOME$/work/sharing-backend/pom.xml" timestamp="1586880309067">
-        <mark key="'" line="1000" column="28" />
-        <mark key="[" line="142" column="26" />
-        <mark key="]" line="142" column="31" />
-        <mark key="." line="142" column="30" />
-        <mark key="^" line="142" column="31" />
-      </file>
       <file name="$USER_HOME$/work/share-parent/share-core/pom.xml" timestamp="1586878562334">
         <mark key="[" line="228" column="0" />
       </file>
       <file name="$USER_HOME$/work/share-parent/share-item-entity/pom.xml" timestamp="1586879232125">
         <mark key="[" line="78" column="0" />
         <mark key="." line="78" column="0" />
+      </file>
+      <file name="/HashType.java" timestamp="1586880143666">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="81" />
+      </file>
+      <file name="$USER_HOME$/perso/dev-cheat-sheet/java/cheatsheet/src/test/java/lin/louis/concurrency/CountDownLatchExample.java" timestamp="1586941292310">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="14" />
+        <mark key="^" line="29" column="15" />
       </file>
       <file name="$USER_HOME$/work/sharing-backend/sharing-common/src/main/java/com/oodrive/sharing/common/serializer/ShareObjectMapper.java" timestamp="1586880437925">
         <mark key="'" line="2" column="24" />
@@ -320,14 +321,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>${jaxb-api.version}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoIkNvdW50ZWQgZG93biIsICk7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>${jaxb-api.version}</text>
+        <text>System.out.println</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYXhiXD4=</text>
@@ -335,36 +336,36 @@
       <register name="0" type="2">
         <text encoding="base64">CQlyZXR1cm4gVFlQRVMuY29tcHV0ZUlmQWJzZW50KHAgKyAnOicgKyBhbGdvLCBrIC0+IG5ldyBIYXNoVHlwZShwLCBhbGdvKSk7Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoIkNvdW50ZWQgZG93biIsICk7Cg==</text>
+      </register>
+      <register name="2" type="8">
         <text>//
 //
 //
 //
 //</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJCTxqYXhiLWFwaS52ZXJzaW9uPiR7amF4Yi1hcGkudmVyc2lvbn08L2pheGItYXBpLnZlcnNpb24+CgkJCQk8amF4Yi1jb3JlLnZlcnNpb24+Mi4zLjA8L2pheGItY29yZS52ZXJzaW9uPgoJCQkJPGpheGItaW1wbC52ZXJzaW9uPjIuMy4yPC9qYXhiLWltcGwudmVyc2lvbj4K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CQkJCTxqYXhiLWNvcmUudmVyc2lvbj4yLjMuMDwvamF4Yi1jb3JlLnZlcnNpb24+CgkJCQk8amF4Yi1pbXBsLnZlcnNpb24+Mi4zLjI8L2pheGItaW1wbC52ZXJzaW9uPgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkJCTxqYXhiLWltcGwudmVyc2lvbj4yLjMuMjwvamF4Yi1pbXBsLnZlcnNpb24+Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+amFrYXJ0YS54bWwuYmluZDwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+amFrYXJ0YS54bWwuYmluZC1hcGk8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPjIuMy4zPC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmphdmF4LmFubm90YXRpb248L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmphdmF4LmFubm90YXRpb24tYXBpPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCTxqYXZheC5hbm5vdGF0aW9uLWFwaS52ZXJzaW9uPjEuMy4yPC9qYXZheC5hbm5vdGF0aW9uLWFwaS52ZXJzaW9uPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQk8IS0tIHRlc3QgLS0+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text>doc: fix README.md + add missing dep to web service in docker-compose.yml</text>
+        <text encoding="base64">CQk8IS0tIHRlc3QgLS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
