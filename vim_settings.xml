@@ -5,11 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
-        <entry encoding="base64">XDxtb2NraXRvXD4=</entry>
-        <entry encoding="base64">XDxidWlsZENvbW1vblByb3BlcnRpZXNcPg==</entry>
-        <entry encoding="base64">XDxwcmV2aWV3VGh1bWJBbmRFeHRlbnNpb25UeXBlXD4=</entry>
-        <entry encoding="base64">XDxwcmV2aWV3RXh0ZW5zaW9uVHlwZVw+</entry>
         <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxwcm9wZXJ0aWVzXD4=</entry>
         <entry encoding="base64">XDxidWlsZERhdGFcPg==</entry>
@@ -25,6 +20,11 @@
         <entry encoding="base64">XDxUWVBFU1w+</entry>
         <entry encoding="base64">XDxhbm5vdGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxqYXhiXD4=</entry>
+        <entry encoding="base64">XDxlaGNhY2hlXD4=</entry>
+        <entry encoding="base64">XDxqdW5pdHBhcmFtXD4=</entry>
+        <entry encoding="base64">XDxmaWxlb3Blblw+</entry>
+        <entry>oodrive-tracking</entry>
+        <entry encoding="base64">XDxiY3Byb3ZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -160,8 +160,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/work/share-parent/pom.xml" timestamp="1586959307937">
-        <mark key="'" line="9" column="37" />
+      <file name="$USER_HOME$/work/share-parent/pom.xml" timestamp="1586961924592">
+        <mark key="'" line="189" column="30" />
+        <mark key="[" line="189" column="26" />
+        <mark key="]" line="189" column="28" />
+        <mark key="." line="189" column="27" />
+        <mark key="^" line="189" column="28" />
       </file>
       <file name="$USER_HOME$/work/share-parent/share-websocket/pom.xml" timestamp="1586879374179">
         <mark key="[" line="36" column="21" />
@@ -194,6 +198,7 @@
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="27" />
       </file>
+      <file name="$USER_HOME$/work/share-parent/share-core/src/test/java/com/oodrive/share/core/io/EncryptedInputStreamTestCase.java" timestamp="1586962055174" />
       <file name="$USER_HOME$/work/share-parent/maven-version-rules.xml" timestamp="1586958334644">
         <mark key="[" line="28" column="119" />
         <mark key="]" line="28" column="120" />
@@ -213,9 +218,10 @@
         <mark key="^" line="38" column="44" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/work/share-parent/share-item-entity/pom.xml" timestamp="1586879232125">
-        <mark key="[" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/work/share-parent/share-plugins/pom.xml" timestamp="1586960998034">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
       </file>
       <file name="$USER_HOME$/work/sharing-backend/sharing-common/src/main/java/com/oodrive/sharing/common/serializer/ShareObjectMapper.java" timestamp="1586880437925">
         <mark key="'" line="2" column="24" />
@@ -225,15 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="47" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.archive.js" />
-      <jump line="14" column="2" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.archive.js" />
-      <jump line="27" column="43" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.archive.js" />
-      <jump line="38" column="3" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.archive.js" />
-      <jump line="19" column="23" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.archive.js" />
-      <jump line="200" column="0" filename="$USER_HOME$/perso/poc-kafka/docker-compose.yml" />
-      <jump line="39" column="16" filename="$USER_HOME$/perso/poc-kafka/heart-rate-consumer/src/main/resources/static/assets/heart-rates.stream.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/main/resources/application.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/perso/poc-kafka/docker-compose-local.yml" />
       <jump line="0" column="1" filename="$USER_HOME$/perso/poc-kafka/heart-models/src/main/resources/avro/HeartRates.avsc" />
       <jump line="26" column="45" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HRValueMapper.java" />
       <jump line="11" column="38" filename="$USER_HOME$/perso/poc-kafka/heart-models/src/main/resources/avro/HeartRates.avsc" />
@@ -325,21 +322,30 @@
       <jump line="9" column="37" filename="$USER_HOME$/work/share-parent/pom.xml" />
       <jump line="40" column="9" filename="$USER_HOME$/work/share-parent/maven-version-rules.xml" />
       <jump line="12" column="12" filename="$USER_HOME$/work/share-parent/maven-version-rules.xml" />
+      <jump line="710" column="16" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="167" column="61" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="168" column="65" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="194" column="35" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="1001" column="27" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="182" column="50" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="183" column="42" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="177" column="27" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="189" column="30" filename="$USER_HOME$/work/share-parent/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJPGlhaWtfamNlX2Z1bGwudmVyc2lvbj41LjI1PC9pYWlrX2pjZV9mdWxsLnZlcnNpb24+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>52</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>version</text>
+        <text>52</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqYXhiXD4=</text>
+        <text encoding="base64">XDxiY3Byb3ZcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJPHZlcnNpb24+NS4yNTwvdmVyc2lvbj4K</text>
@@ -382,9 +388,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxqYXhiXD4=</last-search>
+      <last-search encoding="base64">XDxiY3Byb3ZcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqYXhiXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiY3Byb3ZcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
