@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>&quot;</entry>
-        <entry encoding="base64">XDx1c2VySWRcPg==</entry>
         <entry encoding="base64">XDxvYmplY3RNYXBwZXJcPg==</entry>
         <entry encoding="base64">XDxjb25zdW1lclJlY29yZHNcPg==</entry>
         <entry>\t</entry>
@@ -25,6 +23,8 @@
         <entry>spring-boot-dependencies</entry>
         <entry encoding="base64">XDx2YWxpZGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxqYWNrc29uXD4=</entry>
+        <entry encoding="base64">XDxsb2dnaW5nXD4=</entry>
+        <entry encoding="base64">XDxuZWtvaHRtbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -143,11 +143,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1586942625825">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/Dockerfile" timestamp="1586942622426">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/work/share-parent/share-item-retrieval/src/test/java/com/oodrive/share/item/retrieval/hash/attribute/ItemAttributeKeysResumeHashTestCase.java" timestamp="1586880159774">
         <mark key="'" line="99" column="16" />
       </file>
       <file name="/a.dummy" timestamp="1586941442596">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-bom/2.12.1/log4j-bom-2.12.1.pom" timestamp="1587028346044" />
+      <file name="$USER_HOME$/work/share-parent/maven-version-rules.xml" timestamp="1586958334644">
+        <mark key="[" line="28" column="119" />
+        <mark key="]" line="28" column="120" />
+        <mark key="^" line="28" column="119" />
+        <mark key="." line="28" column="120" />
       </file>
       <file name="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" timestamp="1586880226410">
         <mark key="'" line="170" column="42" />
@@ -160,18 +174,39 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="16" column="19" />
       </file>
-      <file name="$USER_HOME$/work/share-parent/pom.xml" timestamp="1586967363702">
-        <mark key="'" line="198" column="33" />
-        <mark key="[" line="198" column="23" />
-        <mark key="]" line="198" column="27" />
-        <mark key="." line="198" column="26" />
-        <mark key="^" line="198" column="27" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.5.RELEASE/spring-boot-dependencies-2.2.5.RELEASE.pom" timestamp="1587029076711">
+        <mark key="'" line="2263" column="30" />
+      </file>
+      <file name="$USER_HOME$/work/sharing-backend/pom.xml" timestamp="1586880309067">
+        <mark key="'" line="1000" column="28" />
+        <mark key="[" line="142" column="26" />
+        <mark key="]" line="142" column="31" />
+        <mark key="." line="142" column="30" />
+        <mark key="^" line="142" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/share-parent/share-hsm/pom.xml" timestamp="1586958596457">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="38" column="44" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/share-parent/pom.xml" timestamp="1587029567899">
+        <mark key="'" line="231" column="9" />
+        <mark key="[" line="258" column="26" />
+        <mark key="]" line="258" column="29" />
+        <mark key="." line="258" column="28" />
+        <mark key="^" line="258" column="29" />
       </file>
       <file name="$USER_HOME$/work/share-parent/share-websocket/pom.xml" timestamp="1586879374179">
         <mark key="[" line="36" column="21" />
         <mark key="]" line="37" column="8" />
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/share-parent/share-plugins/pom.xml" timestamp="1586960998034">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="15" column="32" />
+        <mark key="." line="15" column="32" />
       </file>
       <file name="$USER_HOME$/work/sharing-backend/sharing-common/pom.xml" timestamp="1586879494001">
         <mark key="[" line="45" column="10" />
@@ -188,41 +223,6 @@
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586942625825">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/Dockerfile" timestamp="1586942622426">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/work/share-parent/share-core/src/test/java/com/oodrive/share/core/io/EncryptedInputStreamTestCase.java" timestamp="1586962055174" />
-      <file name="$USER_HOME$/work/share-parent/maven-version-rules.xml" timestamp="1586958334644">
-        <mark key="[" line="28" column="119" />
-        <mark key="]" line="28" column="120" />
-        <mark key="^" line="28" column="119" />
-        <mark key="." line="28" column="120" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.5.RELEASE/spring-boot-dependencies-2.2.5.RELEASE.pom" timestamp="1586966304965">
-        <mark key="'" line="2263" column="30" />
-      </file>
-      <file name="$USER_HOME$/work/sharing-backend/pom.xml" timestamp="1586880309067">
-        <mark key="'" line="1000" column="28" />
-        <mark key="[" line="142" column="26" />
-        <mark key="]" line="142" column="31" />
-        <mark key="." line="142" column="30" />
-        <mark key="^" line="142" column="31" />
-      </file>
-      <file name="$USER_HOME$/work/share-parent/share-hsm/pom.xml" timestamp="1586958596457">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="38" column="44" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/share-parent/share-plugins/pom.xml" timestamp="1586960998034">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
-      </file>
       <file name="$USER_HOME$/work/sharing-backend/sharing-common/src/main/java/com/oodrive/sharing/common/serializer/ShareObjectMapper.java" timestamp="1586880437925">
         <mark key="'" line="2" column="24" />
       </file>
@@ -231,11 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="72" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HRComputorStreamBuilder.java" />
-      <jump line="30" column="42" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HRValueMapper.java" />
-      <jump line="37" column="44" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HRValueMapper.java" />
-      <jump line="49" column="48" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HRValueMapper.java" />
-      <jump line="54" column="48" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HRValueMapper.java" />
       <jump line="58" column="52" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/stream/HRValueMapper.java" />
       <jump line="32" column="4" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/factory/HBInputBuilder.java" />
       <jump line="16" column="18" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/factory/HBInputBuilder.java" />
@@ -331,55 +326,56 @@
       <jump line="1279" column="24" filename="$USER_HOME$/work/share-parent/pom.xml" />
       <jump line="195" column="57" filename="$USER_HOME$/work/share-parent/pom.xml" />
       <jump line="198" column="33" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="217" column="46" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="1287" column="41" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="1288" column="28" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="1289" column="27" filename="$USER_HOME$/work/share-parent/pom.xml" />
+      <jump line="231" column="9" filename="$USER_HOME$/work/share-parent/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>59.1</text>
+        <text>0.7</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>59.1</text>
+        <text>0.7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqYWNrc29uXD4=</text>
+        <text encoding="base64">XDxuZWtvaHRtbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJPHZlcnNpb24+NS4yNTwvdmVyc2lvbj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5jb20uZmFzdGVyeG1sLmphY2tzb248L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5qYWNrc29uLWJvbTwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPiR7amFja3Nvbi52ZXJzaW9ufTwvdmVyc2lvbj4KCQkJCTx0eXBlPnBvbTwvdHlwZT4KCQkJCTxzY29wZT5pbXBvcnQ8L3Njb3BlPgoJCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5jaC5xb3MubG9nYmFjazwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPmxvZ2JhY2stY2xhc3NpYzwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPiR7bG9nYmFjay52ZXJzaW9ufTwvdmVyc2lvbj4KCQkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5vcmcuaGliZXJuYXRlPC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+aGliZXJuYXRlLWNvcmU8L2FydGlmYWN0SWQ+CgkJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrPC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+c3ByaW5nLWZyYW1ld29yay1ib208L2FydGlmYWN0SWQ+CgkJCQk8dmVyc2lvbj4ke3NwcmluZy52ZXJzaW9ufTwvdmVyc2lvbj4KCQkJCTx0eXBlPnBvbTwvdHlwZT4KCQkJCTxzY29wZT5pbXBvcnQ8L3Njb3BlPgoJCQk8L2RlcGVuZGVuY3k+CgkJCTxkZXBlbmRlbmN5PgoJCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yazwvZ3JvdXBJZD4KCQkJCTxhcnRpZmFjdElkPnNwcmluZy10ZXN0PC9hcnRpZmFjdElkPgoJCQkJPHZlcnNpb24+JHtzcHJpbmcudmVyc2lvbn08L3ZlcnNpb24+CgkJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJPGlhaWtfamNlX2Z1bGwudmVyc2lvbj41LjI1PC9pYWlrX2pjZV9mdWxsLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5jb20uamF5d2F5Lmpzb25wYXRoPC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+anNvbi1wYXRoPC9hcnRpZmFjdElkPgoJCQkJPHZlcnNpb24+JHtqc29uLXBhdGgudmVyc2lvbn08L3ZlcnNpb24+CgkJCTwvZGVwZW5kZW5jeT4KCQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5jb20uamF5d2F5Lmpzb25wYXRoPC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+anNvbi1wYXRoLWFzc2VydDwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPiR7anNvbi1wYXRoLnZlcnNpb259PC92ZXJzaW9uPgoJCQkJPHNjb3BlPnRlc3Q8L3Njb3BlPgoJCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJPGlhaWtfcGtjczExX3Byb3ZpZGVyLnZlcnNpb24+MS41PC9pYWlrX3BrY3MxMV9wcm92aWRlci52ZXJzaW9uPgo=</text>
+        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5jb20uZmFzdGVyeG1sLmphY2tzb248L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD5qYWNrc29uLWJvbTwvYXJ0aWZhY3RJZD4KCQkJCTx2ZXJzaW9uPiR7amFja3Nvbi52ZXJzaW9ufTwvdmVyc2lvbj4KCQkJCTx0eXBlPnBvbTwvdHlwZT4KCQkJCTxzY29wZT5pbXBvcnQ8L3Njb3BlPgoJCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCTxsaXF1aWJhc2UtaW5pdGlhbGl6ZXIudmVyc2lvbj4xLjEyLjA8L2xpcXVpYmFzZS1pbml0aWFsaXplci52ZXJzaW9uPgo=</text>
+        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD5vcmcuaGliZXJuYXRlPC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+aGliZXJuYXRlLWNvcmU8L2FydGlmYWN0SWQ+CgkJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoIkNvdW50ZWQgZG93biIsICk7Cg==</text>
+        <text encoding="base64">CQkJPGlhaWtfamNlX2Z1bGwudmVyc2lvbj41LjI1PC9pYWlrX2pjZV9mdWxsLnZlcnNpb24+Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJPGlhaWtfcGtjczExX3Byb3ZpZGVyLnZlcnNpb24+MS41PC9pYWlrX3BrY3MxMV9wcm92aWRlci52ZXJzaW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCTxqYXhiLWFwaS52ZXJzaW9uPiR7amF4Yi1hcGkudmVyc2lvbn08L2pheGItYXBpLnZlcnNpb24+CgkJCQk8amF4Yi1jb3JlLnZlcnNpb24+Mi4zLjA8L2pheGItY29yZS52ZXJzaW9uPgoJCQkJPGpheGItaW1wbC52ZXJzaW9uPjIuMy4yPC9qYXhiLWltcGwudmVyc2lvbj4K</text>
+        <text encoding="base64">CQkJCTxsaXF1aWJhc2UtaW5pdGlhbGl6ZXIudmVyc2lvbj4xLjEyLjA8L2xpcXVpYmFzZS1pbml0aWFsaXplci52ZXJzaW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCTxqYXhiLWNvcmUudmVyc2lvbj4yLjMuMDwvamF4Yi1jb3JlLnZlcnNpb24+CgkJCQk8amF4Yi1pbXBsLnZlcnNpb24+Mi4zLjI8L2pheGItaW1wbC52ZXJzaW9uPgo=</text>
+        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoIkNvdW50ZWQgZG93biIsICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -388,9 +384,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxqYWNrc29uXD4=</last-search>
+      <last-search encoding="base64">XDxuZWtvaHRtbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqYWNrc29uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxuZWtvaHRtbFw+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute>\t</last-substitute>
       <last-dir>1</last-dir>
