@@ -143,18 +143,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/share-parent/pom.xml" timestamp="1587029567899">
-        <mark key="'" line="231" column="9" />
-        <mark key="[" line="258" column="26" />
-        <mark key="]" line="258" column="29" />
-        <mark key="." line="258" column="28" />
-        <mark key="^" line="258" column="29" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.2.6.RELEASE/spring-boot-starter-web-2.2.6.RELEASE.pom" timestamp="1587920277292">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="85" column="17" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/pom.xml" timestamp="1587918546342">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/models/Pet.java" timestamp="1587920639764">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/exception/PetNotFoundException.java" timestamp="1587921251646">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="6" column="42" />
+      </file>
+      <file name="/a.dummy" timestamp="1587920357347">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/dao/memory/MemoryPetDAO.java" timestamp="1587921085932">
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="26" column="51" />
+        <mark key="." line="26" column="50" />
+        <mark key="^" line="26" column="51" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/Main.java" timestamp="1587919915148">
         <mark key="'" line="12" column="0" />
@@ -163,17 +175,11 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/src/main/java/lin/louis/Main.java" timestamp="1587918570432">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="5" column="8" />
-        <mark key="." line="5" column="4" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.5.RELEASE/spring-boot-dependencies-2.2.5.RELEASE.pom" timestamp="1587029076711">
-        <mark key="'" line="2263" column="30" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.6.RELEASE/spring-boot-dependencies-2.2.6.RELEASE.pom" timestamp="1587916781234">
-        <mark key="'" line="24" column="4" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/dao/PetDAO.java" timestamp="1587920663943">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="16" />
+        <mark key="." line="10" column="15" />
+        <mark key="^" line="10" column="16" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/pom.xml" timestamp="1587919861215">
         <mark key="[" line="53" column="0" />
@@ -181,54 +187,61 @@
         <mark key="^" line="47" column="26" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.6.RELEASE/spring-boot-starter-parent-2.2.6.RELEASE.pom" timestamp="1587916719119">
-        <mark key="'" line="119" column="10" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="74" column="17" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/config/PetstoreConfig.java" timestamp="1587921111889">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="13" column="50" />
+        <mark key="^" line="13" column="50" />
+        <mark key="." line="13" column="49" />
       </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/pom.xml" timestamp="1587919827903">
-        <mark key="'" line="87" column="8" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="87" column="12" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/models/Order.java" timestamp="1587920652090">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/src/main/java/lin/louis/app/Main.java" timestamp="1587918640660">
-        <mark key="." line="8" column="6" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/dao/OrderDAO.java" timestamp="1587920686609">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="32" />
+        <mark key="^" line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/work/share-parent/share-plugins/pom.xml" timestamp="1586960998034">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="15" column="32" />
-        <mark key="." line="15" column="32" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/PetService.java" timestamp="1587921188720">
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="24" />
+        <mark key="^" line="20" column="24" />
+        <mark key="." line="20" column="23" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/README.md" timestamp="1587920413677">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/main/java/lin/louis/poc/hbp/HBProducerApplication.java" timestamp="1587919877405">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="13" column="1" />
       </file>
-      <file name="/" timestamp="1587914769757">
+      <file name="$USER_HOME$/.jdks/openjdk-14.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" timestamp="1587920816881">
+        <mark key="'" line="727" column="8" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/OrderController.java" timestamp="1587920312592">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/PetController.java" timestamp="1587921295548">
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="31" column="36" />
+        <mark key="." line="31" column="35" />
+        <mark key="^" line="31" column="36" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.5.RELEASE/spring-webmvc-5.2.5.RELEASE.pom" timestamp="1587920269919" />
+      <file name="/fragment.java" timestamp="1587921049209">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pom.xml" timestamp="1587918481065">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="15" column="14" />
-        <mark key="]" line="16" column="4" />
-        <mark key="^" line="16" column="4" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/share-parent/share-hsm/pom.xml" timestamp="1586958596457">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="38" column="44" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1587918627894">
-        <mark key="[" line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/pom.xml" timestamp="1587919782550">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="34" column="39" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/factory/HBInputBuilderTest.java" />
       <jump line="62" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/factory/HBInputBuilderTest.java" />
       <jump line="68" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/factory/HBInputBuilder.java" />
       <jump line="128" column="70" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/factory/HBInputBuilderTest.java" />
@@ -328,51 +341,52 @@
       <jump line="2" column="18" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/Main.java" />
       <jump line="7" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/Main.java" />
       <jump line="87" column="8" filename="$USER_HOME$/perso/poc-kafka/heart-beat-producer/pom.xml" />
+      <jump line="727" column="8" filename="$USER_HOME$/.jdks/openjdk-14.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>HBProducerApplication</text>
+        <text>s</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>HBProducerApplication</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZWtvaHRtbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RBcHBsaWNhdGlvbgpwdWJsaWMgY2xhc3MgSEJQcm9kdWNlckFwcGxpY2F0aW9uIHsKCglwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB7CgkJU3ByaW5nQXBwbGljYXRpb24ucnVuKEhCUHJvZHVjZXJBcHBsaWNhdGlvbi5jbGFzcywgYXJncyk7Cgl9Cgp9Cg==</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyQWR2aWNlCkBSZXF1ZXN0TWFwcGluZyhwYXJhbXMgPSAiL29yZGVycyIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEhCUHJvZHVjZXJBcHBsaWNhdGlvbiB7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJfQoK</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIEF0b21pY0xvbmcgSURfR0VORVJBVE9SID0gbmV3IEF0b21pY0xvbmcoMCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlTcHJpbmdBcHBsaWNhdGlvbi5ydW4oSEJQcm9kdWNlckFwcGxpY2F0aW9uLmNsYXNzLCBhcmdzKTsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEhCUHJvZHVjZXJBcHBsaWNhdGlvbiB7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
+        <text encoding="base64">CQlTcHJpbmdBcHBsaWNhdGlvbi5ydW4oSEJQcm9kdWNlckFwcGxpY2F0aW9uLmNsYXNzLCBhcmdzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPmNvbS5zcG90aWZ5PC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+ZG9ja2VyZmlsZS1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8ZXhlY3V0aW9ucz4KCQkJCQk8ZXhlY3V0aW9uPgoJCQkJCQk8aWQ+ZGVmYXVsdDwvaWQ+CgkJCQkJCTxnb2Fscz48Z29hbD5idWlsZDwvZ29hbD48L2dvYWxzPgoJCQkJCTwvZXhlY3V0aW9uPgoJCQkJPC9leGVjdXRpb25zPgoJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJPHJlcG9zaXRvcnk+bGlubG91aXMvaGVhcnQtYmVhdC1wcm9kdWNlcjwvcmVwb3NpdG9yeT4KCQkJCTwvY29uZmlndXJhdGlvbj4KCQkJPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5rYWZrYTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nLWthZmthLXRlc3Q8L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmNvbS5iYWtkYXRhLmZsdWVudC1rYWZrYS1zdHJlYW1zLXRlc3RzPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zY2hlbWEtcmVnaXN0cnktbW9jay1qdW5pdDU8L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPmNvbS5zcG90aWZ5PC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+ZG9ja2VyZmlsZS1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8ZXhlY3V0aW9ucz4KCQkJCQk8ZXhlY3V0aW9uPgoJCQkJCQk8aWQ+ZGVmYXVsdDwvaWQ+CgkJCQkJCTxnb2Fscz48Z29hbD5idWlsZDwvZ29hbD48L2dvYWxzPgoJCQkJCTwvZXhlY3V0aW9uPgoJCQkJPC9leGVjdXRpb25zPgoJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJPHJlcG9zaXRvcnk+bGlubG91aXMvaGVhcnQtYmVhdC1wcm9kdWNlcjwvcmVwb3NpdG9yeT4KCQkJCTwvY29uZmlndXJhdGlvbj4KCQkJPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8IS0tIEtBRktBIC0tPgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5pby5jb25mbHVlbnQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmthZmthLWF2cm8tc2VyaWFsaXplcjwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+CgoJCTwhLS0gSU5URVJOQUwgLS0+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmxpbi5sb3Vpcy5wb2M8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmhlYXJ0LW1vZGVsczwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5rYWZrYTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nLWthZmthLXRlc3Q8L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmNvbS5iYWtkYXRhLmZsdWVudC1rYWZrYS1zdHJlYW1zLXRlc3RzPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zY2hlbWEtcmVnaXN0cnktbW9jay1qdW5pdDU8L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5rYWZrYTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nLWthZmthPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQk8IS0tIEtBRktBIC0tPgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5pby5jb25mbHVlbnQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmthZmthLWF2cm8tc2VyaWFsaXplcjwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+CgoJCTwhLS0gSU5URVJOQUwgLS0+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmxpbi5sb3Vpcy5wb2M8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmhlYXJ0LW1vZGVsczwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bGluLmxvdWlzPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5wZXQ8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPiR7cHJvamVjdC52ZXJzaW9ufTwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5rYWZrYTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nLWthZmthPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxtb2R1bGVzPgoJCTxtb2R1bGU+b3JkZXI8L21vZHVsZT4KCQk8bW9kdWxlPnBldDwvbW9kdWxlPgoJPC9tb2R1bGVzPgo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bGluLmxvdWlzPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5wZXQ8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPiR7cHJvamVjdC52ZXJzaW9ufTwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
