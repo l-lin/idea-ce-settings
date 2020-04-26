@@ -143,54 +143,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1586942625825">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/Dockerfile" timestamp="1586942622426">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/work/share-parent/share-item-retrieval/src/test/java/com/oodrive/share/item/retrieval/hash/attribute/ItemAttributeKeysResumeHashTestCase.java" timestamp="1586880159774">
-        <mark key="'" line="99" column="16" />
-      </file>
-      <file name="/a.dummy" timestamp="1586941442596">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-bom/2.12.1/log4j-bom-2.12.1.pom" timestamp="1587028346044" />
-      <file name="$USER_HOME$/work/meetix-backend/meetix-db/src/main/resources/db/updates/master.xml" timestamp="1587030119314" />
-      <file name="$USER_HOME$/work/share-parent/maven-version-rules.xml" timestamp="1586958334644">
-        <mark key="[" line="28" column="119" />
-        <mark key="]" line="28" column="120" />
-        <mark key="^" line="28" column="119" />
-        <mark key="." line="28" column="120" />
-      </file>
-      <file name="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" timestamp="1586880226410">
-        <mark key="'" line="170" column="42" />
-        <mark key="[" line="172" column="0" />
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-        <mark key="^" line="172" column="2" />
-      </file>
-      <file name="$USER_HOME$/work/share-parent/share-notification-common/pom.xml" timestamp="1586956252985">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="16" column="19" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.5.RELEASE/spring-boot-dependencies-2.2.5.RELEASE.pom" timestamp="1587029076711">
-        <mark key="'" line="2263" column="30" />
-      </file>
-      <file name="$USER_HOME$/work/meetix-backend/doc/ADR.md" timestamp="1587030220734" />
-      <file name="$USER_HOME$/work/sharing-backend/pom.xml" timestamp="1586880309067">
-        <mark key="'" line="1000" column="28" />
-        <mark key="[" line="142" column="26" />
-        <mark key="]" line="142" column="31" />
-        <mark key="." line="142" column="30" />
-        <mark key="^" line="142" column="31" />
-      </file>
-      <file name="$USER_HOME$/work/share-parent/share-hsm/pom.xml" timestamp="1586958596457">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="17" column="17" />
-        <mark key="^" line="38" column="44" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/share-parent/pom.xml" timestamp="1587029567899">
         <mark key="'" line="231" column="9" />
@@ -204,18 +159,66 @@
         <mark key="]" line="15" column="32" />
         <mark key="." line="15" column="32" />
       </file>
+      <file name="/Dummy.txt" timestamp="1586942625825">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/sharing-backend/pom.xml" timestamp="1586880309067">
+        <mark key="'" line="1000" column="28" />
+        <mark key="[" line="142" column="26" />
+        <mark key="]" line="142" column="31" />
+        <mark key="." line="142" column="30" />
+        <mark key="^" line="142" column="31" />
+      </file>
+      <file name="/a.dummy" timestamp="1586941442596">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/share-parent/share-notification-common/pom.xml" timestamp="1586956252985">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="16" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.5.RELEASE/spring-boot-dependencies-2.2.5.RELEASE.pom" timestamp="1587029076711">
+        <mark key="'" line="2263" column="30" />
+      </file>
+      <file name="$USER_HOME$/work/share-parent/maven-version-rules.xml" timestamp="1586958334644">
+        <mark key="[" line="28" column="119" />
+        <mark key="]" line="28" column="120" />
+        <mark key="^" line="28" column="119" />
+        <mark key="." line="28" column="120" />
+      </file>
+      <file name="$USER_HOME$/work/share-parent/share-item-retrieval/src/test/java/com/oodrive/share/item/retrieval/hash/attribute/ItemAttributeKeysResumeHashTestCase.java" timestamp="1586880159774">
+        <mark key="'" line="99" column="16" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pom.xml" timestamp="1587914688778">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="13" column="4" />
+        <mark key="^" line="13" column="4" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" timestamp="1586880226410">
+        <mark key="'" line="170" column="42" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+        <mark key="^" line="172" column="2" />
+      </file>
       <file name="/HashType.java" timestamp="1586880143666">
         <mark key="[" line="172" column="0" />
         <mark key="]" line="172" column="81" />
+      </file>
+      <file name="$USER_HOME$/work/sharing-backend/sharing-common/src/main/java/com/oodrive/sharing/common/serializer/ShareObjectMapper.java" timestamp="1586880437925">
+        <mark key="'" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/work/share-parent/share-hsm/pom.xml" timestamp="1586958596457">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="38" column="44" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/perso/dev-cheat-sheet/java/cheatsheet/src/test/java/lin/louis/concurrency/CountDownLatchExample.java" timestamp="1586941296460">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="34" column="15" />
         <mark key="." line="34" column="14" />
         <mark key="^" line="34" column="15" />
-      </file>
-      <file name="$USER_HOME$/work/sharing-backend/sharing-common/src/main/java/com/oodrive/sharing/common/serializer/ShareObjectMapper.java" timestamp="1586880437925">
-        <mark key="'" line="2" column="24" />
       </file>
       <file name="/fragment.java" timestamp="1586942625859">
         <mark key="[" line="0" column="0" />
