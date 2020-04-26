@@ -143,106 +143,107 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.2.6.RELEASE/spring-boot-starter-web-2.2.6.RELEASE.pom" timestamp="1587920277292">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="85" column="17" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/models/Pet.java" timestamp="1587920639764">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="21" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/exception/PetNotFoundException.java" timestamp="1587921251646">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="6" column="43" />
-        <mark key="^" line="6" column="43" />
-        <mark key="." line="6" column="42" />
-      </file>
-      <file name="/a.dummy" timestamp="1587920357347">
+      <file name="/a.dummy" timestamp="1587927339457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/dao/memory/MemoryPetDAO.java" timestamp="1587921085932">
-        <mark key="[" line="26" column="50" />
-        <mark key="]" line="26" column="51" />
-        <mark key="." line="26" column="50" />
-        <mark key="^" line="26" column="51" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/simple/DefaultOrderService.java" timestamp="1587927253036">
+        <mark key="[" line="19" column="34" />
+        <mark key="]" line="20" column="21" />
+        <mark key="^" line="20" column="21" />
+        <mark key="." line="20" column="20" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/Main.java" timestamp="1587919915148">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="10" column="30" />
-        <mark key="]" line="10" column="34" />
-        <mark key="^" line="10" column="34" />
-        <mark key="." line="10" column="33" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/package-info.java" timestamp="1587927734912">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/dao/PetDAO.java" timestamp="1587920663943">
-        <mark key="[" line="10" column="12" />
-        <mark key="]" line="10" column="16" />
-        <mark key="." line="10" column="15" />
-        <mark key="^" line="10" column="16" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/PetService.java" timestamp="1587927288583">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/pom.xml" timestamp="1587919861215">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="47" column="26" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/model/package-info.java" timestamp="1587927723588">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/config/PetstoreConfig.java" timestamp="1587921111889">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="13" column="50" />
-        <mark key="^" line="13" column="50" />
-        <mark key="." line="13" column="49" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/OrderService.java" timestamp="1587927227385">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/models/Order.java" timestamp="1587920652090">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="23" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/OrderController.java" timestamp="1587926979556">
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="32" column="21" />
+        <mark key="^" line="32" column="21" />
+        <mark key="." line="32" column="20" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/dao/OrderDAO.java" timestamp="1587920686609">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="8" column="33" />
-        <mark key="." line="8" column="32" />
-        <mark key="^" line="8" column="33" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/simple/DefaultPetService.java" timestamp="1587927315178">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="18" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/PetService.java" timestamp="1587921188720">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="24" />
-        <mark key="^" line="20" column="24" />
-        <mark key="." line="20" column="23" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/PetStoreApp.java" timestamp="1587927594124">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/README.md" timestamp="1587920413677">
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/config/PetStoreConfig.java" timestamp="1587927348330">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="20" column="26" />
+        <mark key="^" line="20" column="26" />
+        <mark key="." line="20" column="25" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/simple/package-info.java" timestamp="1587927659713">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/pom.xml" timestamp="1587927013313">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="27" column="26" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/package-info.java" timestamp="1587927764516">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="24" />
+        <mark key="^" line="1" column="24" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/config/package-info.java" timestamp="1587927770423">
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/PetController.java" timestamp="1587927001903">
+        <mark key="'" line="15" column="13" />
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="18" />
+        <mark key="^" line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/dao/package-info.java" timestamp="1587927748671">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="16" />
+      </file>
+      <file name="/fragment.java" timestamp="1587927260875">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-kafka/heart-beat-producer/src/main/java/lin/louis/poc/hbp/HBProducerApplication.java" timestamp="1587919877405">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="13" column="1" />
-      </file>
-      <file name="$USER_HOME$/.jdks/openjdk-14.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" timestamp="1587920816881">
-        <mark key="'" line="727" column="8" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/OrderController.java" timestamp="1587920312592">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="33" />
-        <mark key="." line="7" column="32" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/PetController.java" timestamp="1587921295548">
-        <mark key="[" line="27" column="5" />
-        <mark key="]" line="31" column="36" />
-        <mark key="." line="31" column="35" />
-        <mark key="^" line="31" column="36" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.5.RELEASE/spring-webmvc-5.2.5.RELEASE.pom" timestamp="1587920269919" />
-      <file name="/fragment.java" timestamp="1587921049209">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/factory/HBInputBuilderTest.java" />
       <jump line="68" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/main/java/lin/louis/poc/hrc/factory/HBInputBuilder.java" />
       <jump line="128" column="70" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/factory/HBInputBuilderTest.java" />
       <jump line="72" column="8" filename="$USER_HOME$/perso/poc-kafka/heart-rate-computor/src/test/java/lin/louis/poc/hrc/factory/HBInputBuilderTest.java" />
@@ -342,51 +343,52 @@
       <jump line="7" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/Main.java" />
       <jump line="87" column="8" filename="$USER_HOME$/perso/poc-kafka/heart-beat-producer/pom.xml" />
       <jump line="727" column="8" filename="$USER_HOME$/.jdks/openjdk-14.0.1/lib/src.zip!/java.base/java/util/concurrent/ConcurrentHashMap.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/PetController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>config</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZWtvaHRtbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyQWR2aWNlCkBSZXF1ZXN0TWFwcGluZyhwYXJhbXMgPSAiL29yZGVycyIpCg==</text>
+        <text encoding="base64">ICogVGhpcyBwYWNrYWdlIGNvbnRhaW5zIG9ubHkgc2ltcGxlIGltcGxlbWVudGF0aW9ucyBvZiB0aGUgc2VydmljZXMuIFRoZXkgdXNlIHRoZSBzdHJhdGVneSBwYXR0ZXJuIHNvIHRoYXQgaXQncyBlYXN5CiAqIHRvIHN3aXRjaCB0aGUgREFPIGltcGxlbWVudGF0aW9uLgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIEF0b21pY0xvbmcgSURfR0VORVJBVE9SID0gbmV3IEF0b21pY0xvbmcoMCk7Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gcGV0REFPLmZpbmRCeUlkKHBldElkKTsKCX0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEhCUHJvZHVjZXJBcHBsaWNhdGlvbiB7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJfQoK</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHsKCQlyZXR1cm4gcGV0REFPLnNhdmUocGV0KTsKCX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTcHJpbmdBcHBsaWNhdGlvbi5ydW4oSEJQcm9kdWNlckFwcGxpY2F0aW9uLmNsYXNzLCBhcmdzKTsK</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgUGV0REFPIHBldERBTzsKCglwdWJsaWMgUGV0U2VydmljZShQZXREQU8gcGV0REFPKSB7CgkJdGhpcy5wZXREQU8gPSBwZXREQU87Cgl9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsK</text>
+        <text encoding="base64">CQlyZXR1cm4gb3JkZXJEQU8uZmluZEJ5SWQob3JkZXJJZCk7Cgl9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJPHBsdWdpbj4KCQkJCTxncm91cElkPmNvbS5zcG90aWZ5PC9ncm91cElkPgoJCQkJPGFydGlmYWN0SWQ+ZG9ja2VyZmlsZS1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CgkJCQk8ZXhlY3V0aW9ucz4KCQkJCQk8ZXhlY3V0aW9uPgoJCQkJCQk8aWQ+ZGVmYXVsdDwvaWQ+CgkJCQkJCTxnb2Fscz48Z29hbD5idWlsZDwvZ29hbD48L2dvYWxzPgoJCQkJCTwvZXhlY3V0aW9uPgoJCQkJPC9leGVjdXRpb25zPgoJCQkJPGNvbmZpZ3VyYXRpb24+CgkJCQkJPHJlcG9zaXRvcnk+bGlubG91aXMvaGVhcnQtYmVhdC1wcm9kdWNlcjwvcmVwb3NpdG9yeT4KCQkJCTwvY29uZmlndXJhdGlvbj4KCQkJPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">CQlyZXR1cm4gb3JkZXJEQU8uc2F2ZShvcmRlcik7Cgl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5rYWZrYTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nLWthZmthLXRlc3Q8L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmNvbS5iYWtkYXRhLmZsdWVudC1rYWZrYS1zdHJlYW1zLXRlc3RzPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zY2hlbWEtcmVnaXN0cnktbW9jay1qdW5pdDU8L2FydGlmYWN0SWQ+CgkJCTxzY29wZT50ZXN0PC9zY29wZT4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">CQk8IS0tIFRFU1QgLS0+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0PC9hcnRpZmFjdElkPgoJCQk8c2NvcGU+dGVzdDwvc2NvcGU+CgkJCTxleGNsdXNpb25zPgoJCQkJPGV4Y2x1c2lvbj4KCQkJCQk8Z3JvdXBJZD5vcmcuanVuaXQudmludGFnZTwvZ3JvdXBJZD4KCQkJCQk8YXJ0aWZhY3RJZD5qdW5pdC12aW50YWdlLWVuZ2luZTwvYXJ0aWZhY3RJZD4KCQkJCTwvZXhjbHVzaW9uPgoJCQk8L2V4Y2x1c2lvbnM+CgkJPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8IS0tIEtBRktBIC0tPgoJCTxkZXBlbmRlbmN5PgoJCQk8Z3JvdXBJZD5pby5jb25mbHVlbnQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmthZmthLWF2cm8tc2VyaWFsaXplcjwvYXJ0aWZhY3RJZD4KCQk8L2RlcGVuZGVuY3k+CgoJCTwhLS0gSU5URVJOQUwgLS0+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPmxpbi5sb3Vpcy5wb2M8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmhlYXJ0LW1vZGVsczwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1jb25maWd1cmF0aW9uLXByb2Nlc3NvcjwvYXJ0aWZhY3RJZD4KCQkJPG9wdGlvbmFsPnRydWU8L29wdGlvbmFsPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5rYWZrYTwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+c3ByaW5nLWthZmthPC9hcnRpZmFjdElkPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIEF0b21pY0xvbmcgSURfR0VORVJBVE9SID0gbmV3IEF0b21pY0xvbmcoMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bGluLmxvdWlzPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5wZXQ8L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPiR7cHJvamVjdC52ZXJzaW9ufTwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEhCUHJvZHVjZXJBcHBsaWNhdGlvbiB7CgoJcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncykgewoJfQoK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
