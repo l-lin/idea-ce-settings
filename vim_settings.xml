@@ -143,24 +143,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/rest-adapter/pom.xml" timestamp="1588007130343">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="45" />
-        <mark key="^" line="15" column="45" />
-        <mark key="." line="15" column="44" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/domain/src/main/java/lin/louis/pet/port/PetGetter.java" timestamp="1588006859342">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="7" column="34" />
-        <mark key="^" line="7" column="34" />
-        <mark key="." line="7" column="33" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/pom.xml" timestamp="1588012157669">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="25" column="4" />
-        <mark key="^" line="25" column="4" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/README.md" timestamp="1588012095492">
         <mark key="'" line="6" column="31" />
         <mark key="[" line="48" column="17" />
@@ -168,11 +150,17 @@
         <mark key="." line="50" column="3" />
         <mark key="^" line="50" column="4" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/domain/src/main/java/lin/louis/pet/port/PetAdder.java" timestamp="1588006826275">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="15" />
-        <mark key="^" line="2" column="16" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/web/pom.xml" timestamp="1588013589475">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="15" column="45" />
+        <mark key="^" line="15" column="45" />
+        <mark key="." line="15" column="44" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/pom.xml" timestamp="1588012157669">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/pom.xml" timestamp="1588013303956">
         <mark key="'" line="0" column="0" />
@@ -181,40 +169,11 @@
         <mark key="." line="12" column="19" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/memory-db-adapter/src/main/java/lin/louis/memory/pet/MemoryPetRepository.java" timestamp="1588007063928">
-        <mark key="[" line="11" column="10" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="20" />
-      </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/README.md" timestamp="1588012626230">
         <mark key="[" line="20" column="6" />
         <mark key="]" line="20" column="17" />
         <mark key="." line="20" column="16" />
         <mark key="^" line="20" column="17" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/memory-db-adapter/pom.xml" timestamp="1588007014544">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="38" />
-        <mark key="^" line="17" column="38" />
-        <mark key="." line="17" column="37" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/rest-adapter/src/main/java/lin/louis/rest/pet/PetRestController.java" timestamp="1588007179314">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pet/src/main/java/lin/louis/pet/controller/PetController.java" timestamp="1588007177887">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="31" />
-        <mark key="." line="14" column="21" />
-        <mark key="^" line="14" column="22" />
-      </file>
-      <file name="/fragment.java" timestamp="1588007023172">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
       </file>
     </filemarks>
     <jumps>
