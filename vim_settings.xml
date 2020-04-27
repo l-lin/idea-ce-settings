@@ -174,7 +174,8 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/pom.xml" timestamp="1588012484895">
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/pom.xml" timestamp="1588013303956">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="19" />
@@ -217,7 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="10" filename="$USER_HOME$/perso/poc-kafka/scripts/create-pg-sink.sh" />
       <jump line="88" column="20" filename="$USER_HOME$/perso/poc-kafka/README.md" />
       <jump line="13" column="1" filename="$USER_HOME$/perso/poc-kafka/heart-models/src/main/resources/avro/HeartBeats.avsc" />
       <jump line="0" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-models/src/main/resources/avro/HeartBeats.avsc" />
@@ -317,6 +317,7 @@
       <jump line="13" column="17" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/PetController.java" />
       <jump line="5" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/pom.xml" />
       <jump line="6" column="31" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
