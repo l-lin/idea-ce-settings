@@ -143,58 +143,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1587927339457">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/dao/memory/MemoryPetDAO.java" timestamp="1587928967266">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="12" column="27" />
-        <mark key="^" line="12" column="28" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/package-info.java" timestamp="1587927734912">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="21" />
-        <mark key="^" line="1" column="21" />
-        <mark key="." line="1" column="20" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/PetService.java" timestamp="1587927288583">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="10" column="38" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/simple/SimpleOrderService.java" timestamp="1587928916494">
-        <mark key="[" line="10" column="54" />
-        <mark key="]" line="10" column="62" />
-        <mark key="." line="10" column="61" />
-        <mark key="^" line="10" column="62" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/model/package-info.java" timestamp="1587927723588">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="19" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/OrderController.java" timestamp="1587928981724">
-        <mark key="'" line="15" column="13" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="14" />
-        <mark key="." line="30" column="13" />
-        <mark key="^" line="30" column="14" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/simple/DefaultPetService.java" timestamp="1587927315178">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="18" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/PetStoreApp.java" timestamp="1587927594124">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="48" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="47" />
-      </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/config/PetStoreConfig.java" timestamp="1587927348330">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="20" column="26" />
@@ -206,12 +154,6 @@
         <mark key="]" line="13" column="3" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="23" column="25" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/simple/package-info.java" timestamp="1587927659713">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="2" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/README.md" timestamp="1587929436062">
         <mark key="[" line="17" column="51" />
@@ -225,11 +167,39 @@
         <mark key="^" line="1" column="24" />
         <mark key="." line="1" column="23" />
       </file>
+      <file name="/a.dummy" timestamp="1587927339457">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/simple/package-info.java" timestamp="1587927659713">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/dao/memory/MemoryPetDAO.java" timestamp="1587928967266">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="3" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="28" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/model/package-info.java" timestamp="1587927723588">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="19" />
+      </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/config/package-info.java" timestamp="1587927770423">
         <mark key="[" line="1" column="3" />
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="24" />
         <mark key="^" line="4" column="25" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/OrderController.java" timestamp="1587928981724">
+        <mark key="'" line="15" column="13" />
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="14" />
+        <mark key="." line="30" column="13" />
+        <mark key="^" line="30" column="14" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/PetController.java" timestamp="1587928993315">
         <mark key="'" line="15" column="13" />
@@ -238,17 +208,48 @@
         <mark key="." line="30" column="14" />
         <mark key="^" line="30" column="14" />
       </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/package-info.java" timestamp="1587927734912">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="20" />
+      </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/dao/package-info.java" timestamp="1587927748671">
         <mark key="[" line="1" column="7" />
         <mark key="]" line="1" column="17" />
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/simple/DefaultPetService.java" timestamp="1587927315178">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="18" />
+      </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/simple/SimplePetService.java" timestamp="1587928899908">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="27" />
         <mark key="." line="12" column="26" />
         <mark key="^" line="12" column="27" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/src/main/java/lin/louis/app/Main.java" timestamp="1587989155030" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/PetService.java" timestamp="1587927288583">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="38" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/service/simple/SimpleOrderService.java" timestamp="1587928916494">
+        <mark key="[" line="10" column="54" />
+        <mark key="]" line="10" column="62" />
+        <mark key="." line="10" column="61" />
+        <mark key="^" line="10" column="62" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/PetStoreApp.java" timestamp="1587927594124">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="47" />
       </file>
       <file name="/fragment.java" timestamp="1587927260875">
         <mark key="[" line="0" column="0" />
