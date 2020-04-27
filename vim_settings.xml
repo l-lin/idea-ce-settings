@@ -143,31 +143,53 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/README.md" timestamp="1588012095492">
-        <mark key="'" line="6" column="31" />
-        <mark key="[" line="48" column="17" />
-        <mark key="]" line="50" column="4" />
-        <mark key="." line="50" column="3" />
-        <mark key="^" line="50" column="4" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/domain/pom.xml" timestamp="1588014078260">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/web/pom.xml" timestamp="1588013589475">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="15" column="45" />
-        <mark key="^" line="15" column="45" />
-        <mark key="." line="15" column="44" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pet/pom.xml" timestamp="1588013953557">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/pom.xml" timestamp="1588012157669">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="25" column="4" />
-        <mark key="^" line="25" column="4" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pom.xml" timestamp="1588013894511">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="22" />
+        <mark key="^" line="12" column="22" />
+        <mark key="." line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/pom.xml" timestamp="1588013303956">
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/persistence/pom.xml" timestamp="1588014068264">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/web/pom.xml" timestamp="1588014049443">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="26" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/pom.xml" timestamp="1588013947234">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="37" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/pom.xml" timestamp="1588014039171">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="19" />
-        <mark key="^" line="12" column="20" />
+        <mark key="]" line="12" column="22" />
+        <mark key="." line="12" column="21" />
+        <mark key="^" line="12" column="22" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/order/pom.xml" timestamp="1588013916637">
+        <mark key="[" line="6" column="20" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/README.md" timestamp="1588012626230">
         <mark key="[" line="20" column="6" />
@@ -281,14 +303,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5sYXllcmVkPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>modular</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZWtvaHRtbFw+</text>
@@ -297,33 +319,32 @@
         <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKHBhdGggPSAiL3BldHMiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5wZXQuZGFvLlBldERBTzsKaW1wb3J0IGxpbi5sb3Vpcy5wZXQubW9kZWwuUGV0Owo=</text>
+        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5sYXllcmVkPC9hcnRpZmFjdElkPgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>, which is the purpose
- * of the strategy pattern</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQk8Z3JvdXBJZD5saW4ubG91aXM8L2dyb3VwSWQ+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>, which is the purpose
- * of the strategy pattern</text>
+      <register name="3" type="2">
+        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5sYXllcmVkPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogcGFpbiwgZm9yIGV4YW1wbGUgaWYgd2Ugd2FudCB0byB1c2UgYW4gZXh0ZXJuYWwgZGF0YWJhc2UsIHdlIGRvbid0IG5lZWQgdG8gY2hhbmdlIHRoZSBzZXJ2aWNlLCB3aGljaCBpcyB0aGUgcHVycG9zZQo=</text>
+        <text encoding="base64">CQk8Z3JvdXBJZD5saW4ubG91aXMubW9kdWxhcjwvZ3JvdXBJZD4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CTxtb2R1bGVzPgoJCTxtb2R1bGU+ZG9tYWluPC9tb2R1bGU+Cgk8L21vZHVsZXM+Cg==</text>
+        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5tb2R1bGFyPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEltcG9ydCh2YWx1ZSA9IHsKCQlQZXRDb25maWcuY2xhc3MsCgkJT3JkZXJDb25maWcuY2xhc3MKfSkK</text>
+        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5tb2R1bGFyPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCgl9Cg==</text>
+        <text encoding="base64">CTxwcm9wZXJ0aWVzPgoJCTxqYXZhLnZlcnNpb24+MTE8L2phdmEudmVyc2lvbj4KCTwvcHJvcGVydGllcz4KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5kYW8ubWVtb3J5Lk1lbW9yeU9yZGVyREFPOwppbXBvcnQgbGluLmxvdWlzLmRhby5tZW1vcnkuTWVtb3J5UGV0REFPOwppbXBvcnQgbGluLmxvdWlzLnNlcnZpY2UuT3JkZXJTZXJ2aWNlOwppbXBvcnQgbGluLmxvdWlzLnNlcnZpY2UuUGV0U2VydmljZTsKaW1wb3J0IGxpbi5sb3Vpcy5zZXJ2aWNlLnNpbXBsZS5TaW1wbGVPcmRlclNlcnZpY2U7CmltcG9ydCBsaW4ubG91aXMuc2VydmljZS5zaW1wbGUuU2ltcGxlUGV0U2VydmljZTsK</text>
+        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5wZXQuZGFvLlBldERBTzsKaW1wb3J0IGxpbi5sb3Vpcy5wZXQubW9kZWwuUGV0Owo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CUBCZWFuCglQZXRTZXJ2aWNlIHBldFNlcnZpY2UoKSB7CgkJcmV0dXJuIG5ldyBTaW1wbGVQZXRTZXJ2aWNlKG5ldyBNZW1vcnlQZXREQU8oKSk7Cgl9Cgo=</text>
+      <register name="9" type="4">
+        <text>, which is the purpose
+ * of the strategy pattern</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
