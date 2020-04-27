@@ -155,18 +155,30 @@
         <mark key="." line="3" column="60" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="/a.dummy" timestamp="1587993339283">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/README.md" timestamp="1587997520944">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="6" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/pom.xml" timestamp="1587996585725" />
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/src/main/java/lin/louis/app/Main.java" timestamp="1587993366725">
-        <mark key="[" line="2" column="14" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/application/pom.xml" timestamp="1588005164899">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="25" column="21" />
+        <mark key="^" line="25" column="21" />
+        <mark key="." line="25" column="20" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/README.md" timestamp="1588006344315">
+        <mark key="[" line="4" column="136" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="4" column="136" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pet/src/main/java/lin/louis/pet/service/simple/SimplePetService.java" timestamp="1588006652943">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="10" column="44" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pet/src/main/resources/META-INF/spring.factories" timestamp="1587997104337">
         <mark key="[" line="1" column="21" />
@@ -181,19 +193,28 @@
         <mark key="." line="13" column="15" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.5.RELEASE/spring-web-5.2.5.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java" timestamp="1587996472845">
-        <mark key="[" line="33" column="24" />
-      </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/README.md" timestamp="1587997528337">
         <mark key="[" line="4" column="3" />
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="6" />
         <mark key="^" line="4" column="7" />
       </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pet/src/main/java/lin/louis/pet/service/simple/package-info.java" timestamp="1588006706196">
+        <mark key="[" line="1" column="83" />
+        <mark key="]" line="1" column="90" />
+        <mark key="." line="1" column="89" />
+        <mark key="^" line="1" column="90" />
+      </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/src/main/java/lin/louis/app/PetStoreApp.java" timestamp="1587996879879">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/order/src/main/java/lin/louis/order/service/simple/SimpleOrderService.java" timestamp="1588006672911">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="11" column="96" />
+        <mark key="]" line="11" column="96" />
+        <mark key="." line="11" column="96" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/PetController.java" timestamp="1587996692488">
         <mark key="'" line="13" column="17" />
@@ -202,17 +223,16 @@
         <mark key="." line="14" column="16" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/OrderController.java" timestamp="1587996603191">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="21" />
-        <mark key="^" line="14" column="22" />
-      </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/order/src/main/java/lin/louis/order/config/OrderConfig.java" timestamp="1587997334277">
         <mark key="[" line="16" column="15" />
         <mark key="]" line="16" column="35" />
         <mark key="." line="16" column="34" />
         <mark key="^" line="16" column="35" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/order/src/main/java/lin/louis/order/service/simple/package-info.java" timestamp="1588006685597">
+        <mark key="[" line="1" column="83" />
+        <mark key="]" line="1" column="83" />
+        <mark key="." line="1" column="83" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pet/src/main/java/lin/louis/pet/controller/PetController.java" timestamp="1587996836538">
         <mark key="[" line="14" column="16" />
@@ -226,23 +246,17 @@
         <mark key="." line="16" column="51" />
         <mark key="^" line="16" column="52" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/PetStoreApp.java" timestamp="1587993382322">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="14" column="5" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="47" />
-      </file>
-      <file name="/fragment.java" timestamp="1587997388040">
+      <file name="/fragment.java" timestamp="1588006453425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/pom.xml" timestamp="1588005051517">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="19" column="4" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="19" column="4" />
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -350,47 +364,49 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CTxtb2R1bGVzPgoJCTxtb2R1bGU+ZG9tYWluPC9tb2R1bGU+Cgk8L21vZHVsZXM+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>strategy</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>strategy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZWtvaHRtbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCQlTcHJpbmdBcHBsaWNhdGlvbi5ydW4oUGV0U3RvcmVBcHAuY2xhc3MsIGFyZ3MpOwoJfQo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bGluLmxvdWlzPC9ncm91cElkPgoJCQk8YXJ0aWZhY3RJZD5kb21haW48L2FydGlmYWN0SWQ+CgkJCTx2ZXJzaW9uPiR7cHJvamVjdC52ZXJzaW9ufTwvdmVyc2lvbj4KCQk8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CTxtb2R1bGVzPgoJCTxtb2R1bGU+ZG9tYWluPC9tb2R1bGU+Cgk8L21vZHVsZXM+Cg==</text>
+      <register name="1" type="4">
+        <text>, which is the purpose
+ * of the strategy pattern</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">QEltcG9ydCh2YWx1ZSA9IHsKCQlQZXRDb25maWcuY2xhc3MsCgkJT3JkZXJDb25maWcuY2xhc3MKfSkK</text>
+      <register name="2" type="4">
+        <text>, which is the purpose
+ * of the strategy pattern</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCgl9Cg==</text>
+        <text encoding="base64">ICogcGFpbiwgZm9yIGV4YW1wbGUgaWYgd2Ugd2FudCB0byB1c2UgYW4gZXh0ZXJuYWwgZGF0YWJhc2UsIHdlIGRvbid0IG5lZWQgdG8gY2hhbmdlIHRoZSBzZXJ2aWNlLCB3aGljaCBpcyB0aGUgcHVycG9zZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5kYW8ubWVtb3J5Lk1lbW9yeU9yZGVyREFPOwppbXBvcnQgbGluLmxvdWlzLmRhby5tZW1vcnkuTWVtb3J5UGV0REFPOwppbXBvcnQgbGluLmxvdWlzLnNlcnZpY2UuT3JkZXJTZXJ2aWNlOwppbXBvcnQgbGluLmxvdWlzLnNlcnZpY2UuUGV0U2VydmljZTsKaW1wb3J0IGxpbi5sb3Vpcy5zZXJ2aWNlLnNpbXBsZS5TaW1wbGVPcmRlclNlcnZpY2U7CmltcG9ydCBsaW4ubG91aXMuc2VydmljZS5zaW1wbGUuU2ltcGxlUGV0U2VydmljZTsK</text>
+        <text encoding="base64">CTxtb2R1bGVzPgoJCTxtb2R1bGU+ZG9tYWluPC9tb2R1bGU+Cgk8L21vZHVsZXM+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBCZWFuCglQZXRTZXJ2aWNlIHBldFNlcnZpY2UoKSB7CgkJcmV0dXJuIG5ldyBTaW1wbGVQZXRTZXJ2aWNlKG5ldyBNZW1vcnlQZXREQU8oKSk7Cgl9Cgo=</text>
+        <text encoding="base64">QEltcG9ydCh2YWx1ZSA9IHsKCQlQZXRDb25maWcuY2xhc3MsCgkJT3JkZXJDb25maWcuY2xhc3MKfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5tb2RlbC5PcmRlcjsKaW1wb3J0IGxpbi5sb3Vpcy5zZXJ2aWNlLk9yZGVyU2VydmljZTsK</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKCgl9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5kYW8uT3JkZXJEQU87CmltcG9ydCBsaW4ubG91aXMubW9kZWwuT3JkZXI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5kYW8ubWVtb3J5Lk1lbW9yeU9yZGVyREFPOwppbXBvcnQgbGluLmxvdWlzLmRhby5tZW1vcnkuTWVtb3J5UGV0REFPOwppbXBvcnQgbGluLmxvdWlzLnNlcnZpY2UuT3JkZXJTZXJ2aWNlOwppbXBvcnQgbGluLmxvdWlzLnNlcnZpY2UuUGV0U2VydmljZTsKaW1wb3J0IGxpbi5sb3Vpcy5zZXJ2aWNlLnNpbXBsZS5TaW1wbGVPcmRlclNlcnZpY2U7CmltcG9ydCBsaW4ubG91aXMuc2VydmljZS5zaW1wbGUuU2ltcGxlUGV0U2VydmljZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5kYW8uT3JkZXJEQU87CmltcG9ydCBsaW4ubG91aXMubW9kZWwuT3JkZXI7CmltcG9ydCBsaW4ubG91aXMuc2VydmljZS5PcmRlclNlcnZpY2U7Cg==</text>
+        <text encoding="base64">CUBCZWFuCglQZXRTZXJ2aWNlIHBldFNlcnZpY2UoKSB7CgkJcmV0dXJuIG5ldyBTaW1wbGVQZXRTZXJ2aWNlKG5ldyBNZW1vcnlQZXREQU8oKSk7Cgl9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5kYW8ubWVtb3J5Lk1lbW9yeU9yZGVyREFPOwppbXBvcnQgbGluLmxvdWlzLmRhby5tZW1vcnkuTWVtb3J5UGV0REFPOwppbXBvcnQgbGluLmxvdWlzLnNlcnZpY2UuT3JkZXJTZXJ2aWNlOwppbXBvcnQgbGluLmxvdWlzLnNlcnZpY2UuUGV0U2VydmljZTsKaW1wb3J0IGxpbi5sb3Vpcy5zZXJ2aWNlLnNpbXBsZS5TaW1wbGVPcmRlclNlcnZpY2U7CmltcG9ydCBsaW4ubG91aXMuc2VydmljZS5zaW1wbGUuU2ltcGxlUGV0U2VydmljZTsK</text>
+        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5tb2RlbC5PcmRlcjsKaW1wb3J0IGxpbi5sb3Vpcy5zZXJ2aWNlLk9yZGVyU2VydmljZTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
