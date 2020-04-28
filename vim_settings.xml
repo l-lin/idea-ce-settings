@@ -143,34 +143,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1588061477119">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/domain/pom.xml" timestamp="1588014078260">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="26" />
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="26" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pet/pom.xml" timestamp="1588013953557">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="44" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/app/pom.xml" timestamp="1588014175772">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="26" column="27" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pom.xml" timestamp="1588013894511">
-        <mark key="[" line="12" column="16" />
-        <mark key="]" line="12" column="22" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="12" column="21" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/persistence/pom.xml" timestamp="1588014068264">
-        <mark key="[" line="6" column="20" />
-        <mark key="]" line="6" column="26" />
-        <mark key="^" line="6" column="26" />
-        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/web/pom.xml" timestamp="1588014197599">
         <mark key="[" line="22" column="24" />
@@ -178,11 +158,54 @@
         <mark key="^" line="22" column="38" />
         <mark key="." line="22" column="37" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/pom.xml" timestamp="1588013947234">
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="15" column="38" />
-        <mark key="^" line="15" column="38" />
-        <mark key="." line="15" column="37" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/main/java/lin/louis/flat/model/OrderStatus.java" timestamp="1588061700364">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/main/java/lin/louis/flat/model/OrderNotFoundException.java" timestamp="1588061500764">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/main/java/lin/louis/flat/config/PetStoreConfig.java" timestamp="1588061288430">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="51" />
+        <mark key="^" line="24" column="51" />
+        <mark key="." line="24" column="50" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/app/pom.xml" timestamp="1588014175772">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="26" column="27" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/rest-adapter/src/main/java/lin/louis/rest/pet/PetRestController.java" timestamp="1588062058148">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="1" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/main/java/lin/louis/flat/model/PetNotFoundException.java" timestamp="1588061463794">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="15" column="21" />
+        <mark key="^" line="15" column="21" />
+        <mark key="." line="15" column="20" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/main/java/lin/louis/flat/controller/PetController.java" timestamp="1588061191428">
+        <mark key="'" line="28" column="33" />
+        <mark key="[" line="39" column="76" />
+        <mark key="]" line="40" column="47" />
+        <mark key="^" line="40" column="47" />
+        <mark key="." line="40" column="46" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/main/java/lin/louis/flat/service/OrderService.java" timestamp="1588061111241">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="8" column="27" />
+        <mark key="." line="8" column="26" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/pom.xml" timestamp="1588014039171">
         <mark key="'" line="0" column="0" />
@@ -191,16 +214,46 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/order/pom.xml" timestamp="1588013916637">
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/main/java/lin/louis/flat/model/Order.java" timestamp="1588061742782">
+        <mark key="[" line="30" column="26" />
+        <mark key="]" line="30" column="37" />
+        <mark key="." line="30" column="36" />
+        <mark key="^" line="30" column="37" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/main/java/lin/louis/flat/model/Pet.java" timestamp="1588061772131">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/main/java/lin/louis/flat/service/simple/SimpleOrderService.java" timestamp="1588061405981">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="24" />
+        <mark key="^" line="29" column="37" />
+        <mark key="." line="29" column="24" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pet/pom.xml" timestamp="1588013953557">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/persistence/pom.xml" timestamp="1588014068264">
         <mark key="[" line="6" column="20" />
         <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="25" />
+      </file>
+      <file name="/fragment.java" timestamp="1588061477134">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/main/java/lin/louis/flat/model/PetStatus.java" timestamp="1588061681839">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="20" filename="$USER_HOME$/perso/poc-kafka/README.md" />
-      <jump line="13" column="1" filename="$USER_HOME$/perso/poc-kafka/heart-models/src/main/resources/avro/HeartBeats.avsc" />
       <jump line="0" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-models/src/main/resources/avro/HeartBeats.avsc" />
       <jump line="2" column="0" filename="$USER_HOME$/perso/poc-kafka/heart-models/src/main/resources/avro/HeartRate.avsc" />
       <jump line="45" column="19" filename="$USER_HOME$/perso/poc-kafka/heart-models/pom.xml" />
@@ -299,18 +352,20 @@
       <jump line="5" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/pom.xml" />
       <jump line="6" column="31" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/pom.xml" />
+      <jump line="26" column="33" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/main/java/lin/louis/flat/controller/PetController.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/main/java/lin/louis/flat/model/Pet.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bGluLmxvdWlzLmxheWVyZWQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmRvbWFpbjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKHBhdGggPSAiL3BldHMiKQpwdWJsaWMgY2xhc3MgUGV0UmVzdENvbnRyb2xsZXIgewo=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>domain</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZWtvaHRtbFw+</text>
@@ -319,31 +374,31 @@
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bGluLmxvdWlzLmxheWVyZWQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmRvbWFpbjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bGluLmxvdWlzLmxheWVyZWQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmRvbWFpbjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKHBhdGggPSAiL3BldHMiKQpwdWJsaWMgY2xhc3MgUGV0UmVzdENvbnRyb2xsZXIgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5wYXJlbnQ8L2FydGlmYWN0SWQ+Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBQZXRTdGF0dXMgZ2V0U3RhdHVzKCkgewoJCXJldHVybiBzdGF0dXM7Cgl9CgoJcHVibGljIHZvaWQgc2V0U3RhdHVzKFBldFN0YXR1cyBzdGF0dXMpIHsKCQl0aGlzLnN0YXR1cyA9IHN0YXR1czsKCX0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5sYXllcmVkPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">CQlzdXBlcigiQ291bGQgbm90IGZpbmQgcGV0IHdpdGggSUQgIiArIHBldElkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk8Z3JvdXBJZD5saW4ubG91aXM8L2dyb3VwSWQ+Cg==</text>
+        <text encoding="base64">CglwdWJsaWMgbG9uZyBnZXRQZXRJZCgpIHsKCQlyZXR1cm4gcGV0SWQ7Cgl9CgoJcHVibGljIHZvaWQgc2V0UGV0SWQobG9uZyBwZXRJZCkgewoJCXRoaXMucGV0SWQgPSBwZXRJZDsKCX0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5sYXllcmVkPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">CglwdWJsaWMgaW50IGdldFF1YW50aXR5KCkgewoJCXJldHVybiBxdWFudGl0eTsKCX0KCglwdWJsaWMgdm9pZCBzZXRRdWFudGl0eShpbnQgcXVhbnRpdHkpIHsKCQl0aGlzLnF1YW50aXR5ID0gcXVhbnRpdHk7Cgl9Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8Z3JvdXBJZD5saW4ubG91aXMubW9kdWxhcjwvZ3JvdXBJZD4K</text>
+        <text encoding="base64">CglAUG9zdE1hcHBpbmcKCXB1YmxpYyBPcmRlciBzYXZlKEBSZXF1ZXN0Qm9keSBPcmRlciBvcmRlcikgewoJCQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5tb2R1bGFyPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bGluLmxvdWlzLmxheWVyZWQ8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPmRvbWFpbjwvYXJ0aWZhY3RJZD4KCQkJPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgoJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5tb2R1bGFyPC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5wYXJlbnQ8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CTxwcm9wZXJ0aWVzPgoJCTxqYXZhLnZlcnNpb24+MTE8L2phdmEudmVyc2lvbj4KCTwvcHJvcGVydGllcz4KCg==</text>
+        <text encoding="base64">CQk8YXJ0aWZhY3RJZD5sYXllcmVkPC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
