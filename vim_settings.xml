@@ -143,23 +143,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/repository/memory/pom.xml" timestamp="1588431592664">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="23" column="38" />
-        <mark key="^" line="23" column="38" />
-        <mark key="." line="23" column="37" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/pom.xml" timestamp="1588433635202">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/repository/memory/src/test/java/lin/louis/clean/adapter/repository/MemoryOrderRepositoryTest.java" timestamp="1588431895023">
-        <mark key="[" line="58" column="50" />
-        <mark key="]" line="58" column="58" />
-        <mark key="^" line="58" column="58" />
-        <mark key="." line="58" column="57" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/src/test/java/lin/louis/clean/usecase/OrderFinderTest.java" timestamp="1588434533393">
+        <mark key="[" line="46" column="32" />
+        <mark key="]" line="46" column="54" />
+        <mark key="." line="46" column="53" />
+        <mark key="^" line="46" column="54" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pet/src/test/java/lin/louis/modular/pet/controller/PetControllerTest.java" timestamp="1588426216762">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="48" column="120" />
-        <mark key="^" line="48" column="120" />
-        <mark key="." line="48" column="119" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.6.RELEASE/spring-boot-dependencies-2.2.6.RELEASE.pom" timestamp="1588433557965">
+        <mark key="[" line="2663" column="0" />
+        <mark key="]" line="2667" column="19" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/id-generator/uuid/src/test/java/lin/louis/clean/adapter/idgenerator/UUIDGeneratorTest.java" timestamp="1588432280642">
         <mark key="[" line="15" column="0" />
@@ -167,17 +166,25 @@
         <mark key="." line="16" column="61" />
         <mark key="^" line="16" column="62" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/order/src/test/java/lin/louis/modular/order/controller/OrderControllerTest.java" timestamp="1588426554314">
-        <mark key="[" line="55" column="114" />
-        <mark key="]" line="55" column="141" />
-        <mark key="." line="55" column="140" />
-        <mark key="^" line="55" column="141" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/controller/pom.xml" timestamp="1588433625786">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="31" column="21" />
+        <mark key="^" line="28" column="32" />
+        <mark key="." line="28" column="31" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/controller/pom.xml" timestamp="1588432407557">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="23" column="38" />
-        <mark key="^" line="23" column="38" />
-        <mark key="." line="23" column="37" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/controller/src/main/java/lin/louis/clean/adapter/controller/PetController.java" timestamp="1588432511146">
+        <mark key="'" line="36" column="8" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="47" column="5" />
+        <mark key="^" line="46" column="56" />
+        <mark key="." line="46" column="55" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/src/test/java/lin/louis/clean/usecase/PetFinderTest.java" timestamp="1588434432472">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="46" column="92" />
+        <mark key="]" line="46" column="93" />
+        <mark key="." line="46" column="92" />
+        <mark key="^" line="46" column="93" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/id-generator/uuid/pom.xml" timestamp="1588432203194">
         <mark key="[" line="20" column="21" />
@@ -185,31 +192,28 @@
         <mark key="^" line="23" column="38" />
         <mark key="." line="23" column="37" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/order/src/main/java/lin/louis/modular/order/dao/impl/MemoryOrderDAO.java" timestamp="1588426035069">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/controller/src/test/java/lin/louis/clean/adapter/controller/dto/mapper/OrderMapperTest.java" timestamp="1588432453915">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="31" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/order/src/test/java/lin/louis/modular/order/dao/impl/MemoryOrderDAOTest.java" timestamp="1588428125881">
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="7" column="31" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/controller/src/test/java/lin/louis/clean/adapter/controller/dto/mapper/PetMapperTest.java" timestamp="1588432428353">
+        <mark key="[" line="12" column="45" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="45" />
+        <mark key="^" line="12" column="46" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/pom.xml" timestamp="1588431625538">
-        <mark key="[" line="32" column="4" />
-        <mark key="]" line="40" column="23" />
-        <mark key="." line="32" column="4" />
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/pom.xml" timestamp="1588433570143">
+        <mark key="[" line="45" column="53" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="26" />
+        <mark key="^" line="46" column="27" />
       </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/id-generator/long/pom.xml" timestamp="1588432059718">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="23" column="38" />
-        <mark key="^" line="23" column="38" />
-        <mark key="." line="23" column="37" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/id-generator/long/src/main/java/lin/louis/clean/adapter/idgenerator/LongIdGenerator.java" timestamp="1588432025193">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="40" />
-        <mark key="." line="8" column="39" />
-        <mark key="^" line="8" column="40" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.6.RELEASE/spring-boot-starter-parent-2.2.6.RELEASE.pom" timestamp="1588433530228">
+        <mark key="'" line="49" column="14" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="20" column="66" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/id-generator/long/src/test/java/lin/louis/clean/adapter/idgenerator/LongIdGenerator.java" timestamp="1588432109844">
         <mark key="[" line="6" column="21" />
@@ -217,41 +221,29 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/junit/junit-bom/5.5.2/junit-bom-5.5.2.pom" timestamp="1588433508430" />
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/id-generator/long/src/test/java/lin/louis/clean/adapter/idgenerator/LongIdGeneratorTest.java" timestamp="1588432177151">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="14" column="61" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588426692165">
+      <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-junit-jupiter/3.1.0/mockito-junit-jupiter-3.1.0.pom" timestamp="1588433610363">
+        <mark key="'" line="722" column="0" />
+      </file>
+      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/src/test/java/lin/louis/clean/usecase/PetRegisterTest.java" timestamp="1588434206032">
+        <mark key="[" line="49" column="43" />
+        <mark key="]" line="49" column="43" />
+        <mark key="." line="49" column="43" />
+        <mark key="^" line="30" column="14" />
+      </file>
+      <file name="/fragment.java" timestamp="1588434467224">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/pet/src/main/java/lin/louis/modular/pet/dao/impl/MemoryPetDAO.java" timestamp="1588426021601">
-        <mark key="[" line="15" column="12" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/repository/memory/src/test/java/lin/louis/clean/adapter/repository/MemoryPetRepositoryTest.java" timestamp="1588431993992">
-        <mark key="[" line="50" column="32" />
-        <mark key="^" line="68" column="52" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/persistence/src/test/java/lin/louis/layered/persistence/memory/MemoryOrderDAOTest.java" timestamp="1588425977587">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1588431690885">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="35" />
+        <mark key="." line="0" column="35" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="8" filename="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" />
-      <jump line="20" column="47" filename="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" />
-      <jump line="176" column="22" filename="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" />
-      <jump line="170" column="42" filename="$USER_HOME$/work/share-parent/share-item-entity/src/main/java/com/oodrive/share/item/entity/hash/HashType.java" />
-      <jump line="253" column="51" filename="$USER_HOME$/work/share-parent/pom.xml" />
       <jump line="196" column="51" filename="$USER_HOME$/work/share-parent/pom.xml" />
       <jump line="99" column="16" filename="$USER_HOME$/work/share-parent/share-item-retrieval/src/test/java/com/oodrive/share/item/retrieval/hash/attribute/ItemAttributeKeysResumeHashTestCase.java" />
       <jump line="144" column="34" filename="$USER_HOME$/work/sharing-backend/pom.xml" />
@@ -319,7 +311,6 @@
       <jump line="14" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/order/src/main/java/lin/louis/modular/order/controller/OrderController.java" />
       <jump line="11" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/web/src/main/java/lin/louis/layered/web/dto/PetDTO.java" />
       <jump line="12" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/web/src/main/java/lin/louis/layered/web/config/LayeredPetStoreConfig.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/pom.xml" />
       <jump line="13" column="4" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/src/main/java/lin/louis/clean/usecase/PetRegister.java" />
       <jump line="6" column="13" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/id-generator/long/src/main/java/lin/louis/clean/idgenerator/LongIdGenerator.java" />
       <jump line="0" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/adapter/repository/memory/pom.xml" />
@@ -347,51 +338,57 @@
       <jump line="160" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/test/java/lin/louis/flat/controller/PetControllerTest.java" />
       <jump line="13" column="61" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/web/src/test/java/lin/louis/layered/web/mapper/PetMapperTest.java" />
       <jump line="13" column="32" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/order/src/test/java/lin/louis/modular/order/dao/impl/MemoryOrderDAOTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/pom.xml" />
+      <jump line="35" column="33" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/src/test/java/lin/louis/clean/usecase/PetRegisterTest.java" />
+      <jump line="160" column="4" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-junit-jupiter/3.1.0/mockito-junit-jupiter-3.1.0.pom" />
+      <jump line="722" column="0" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-junit-jupiter/3.1.0/mockito-junit-jupiter-3.1.0.pom" />
+      <jump line="14" column="45" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/src/test/java/lin/louis/clean/usecase/PetFinderTest.java" />
+      <jump line="30" column="8" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/src/test/java/lin/louis/clean/usecase/PetFinderTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>PetNotFoundException</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>PetNotFoundException</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOQU1FXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJQXNzZXJ0aW9ucy5hc3NlcnRFcXVhbHMocGV0LmdldFBldElkKCksIHBldFNhdmVkLmdldFBldElkKCkpOwoJCQlBc3NlcnRpb25zLmFzc2VydEVxdWFscyhwZXQuZ2V0TmFtZSgpLCBwZXRTYXZlZC5nZXROYW1lKCkpOwoJCQlBc3NlcnRpb25zLmFzc2VydEVxdWFscyhwZXQuZ2V0UGV0VHlwZSgpLCBwZXRTYXZlZC5nZXRQZXRUeXBlKCkpOwo=</text>
+        <text encoding="base64">CUBUZXN0Cgl2b2lkIHNob3VsZFJldHVybkFQZXRfd2hlbkZvdW5kKCkgewoJCXZhciBwZXQgPSBuZXcgUGV0KCk7CgkJcGV0LnNldFBldElkKFBFVF9JRCk7CgkJTW9ja2l0by53aGVuKHBldFJlcG9zaXRvcnkuZmluZEJ5SWQoUEVUX0lEKSkudGhlblJldHVybihPcHRpb25hbC5vZihwZXQpKTsKCgkJdmFyIHBldEZvdW5kID0gcGV0RmluZGVyLmZpbmRCeUlkKFBFVF9JRCk7CgkJQXNzZXJ0aW9ucy5hc3NlcnROb3ROdWxsKHBldEZvdW5kKTsKCQlBc3NlcnRpb25zLmFzc2VydEVxdWFscyhQRVRfSUQsIHBldEZvdW5kLmdldFBldElkKCkpOwoJfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YXIgaWRMb25nID0gTG9uZy5wYXJzZUxvbmcoaWQpOwoJCUFzc2VydGlvbnMuYXNzZXJ0VHJ1ZShMb25nLik7Cg==</text>
+        <text encoding="base64">CQlBc3NlcnRpb25zLmFzc2VydE5vdE51bGwocGV0Rm91bmQpOwoJCUFzc2VydGlvbnMuYXNzZXJ0RXF1YWxzKFBFVF9JRCwgcGV0Rm91bmQuZ2V0UGV0SWQoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5mbGF0LmRhby5PcmRlckRBTzsKaW1wb3J0IGxpbi5sb3Vpcy5mbGF0Lm1vZGVsLk9yZGVyOwppbXBvcnQgbGluLmxvdWlzLmZsYXQubW9kZWwuT3JkZXJTdGF0dXM7Cg==</text>
+        <text encoding="base64">CQl2YXIgcGV0ID0gbmV3IFBldCgpOwoJCXBldC5zZXRQZXRJZChQRVRfSUQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5mbGF0LmRhby5QZXREQU87CmltcG9ydCBsaW4ubG91aXMuZmxhdC5tb2RlbC5QZXQ7CmltcG9ydCBsaW4ubG91aXMuZmxhdC5tb2RlbC5QZXRTdGF0dXM7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGNsYXNzIEZha2VQZXRSZXBvc2l0b3J5IGltcGxlbWVudHMgUGV0UmVwb3NpdG9yeSB7CgoJCUBPdmVycmlkZQoJCXB1YmxpYyBQZXQgc2F2ZShQZXQgcGV0KSB7CgkJCXJldHVybiBwZXQ7CgkJfQoKCQlAT3ZlcnJpZGUKCQlwdWJsaWMgT3B0aW9uYWw8UGV0PiBmaW5kQnlJZChTdHJpbmcgcGV0SWQpIHsKCQkJcmV0dXJuIE9wdGlvbmFsLm9mKG5ldyBQZXQoKSk7CgkJfQoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CTxkZXBlbmRlbmNpZXM+CgkJPGRlcGVuZGVuY3k+CgkJCTxncm91cElkPm9yZy5qdW5pdDwvZ3JvdXBJZD4KCQkJPGFydGlmYWN0SWQ+anVuaXQtYm9tPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj4ke2p1bml0LnZlcnNpb259PC92ZXJzaW9uPgoJCQk8dHlwZT5wb208L3R5cGU+CgkJCTxzY29wZT5pbXBvcnQ8L3Njb3BlPgoJCTwvZGVwZW5kZW5jeT4KCTwvZGVwZW5kZW5jaWVzPgo=</text>
+        <text encoding="base64">CQkJPGRlcGVuZGVuY3k+CgkJCQk8Z3JvdXBJZD48L2dyb3VwSWQ+CgkJCQk8YXJ0aWZhY3RJZD48L2FydGlmYWN0SWQ+CgkJCTwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFdlYk12Y1Rlc3QoY29udHJvbGxlcnMgPSBQZXRDb250cm9sbGVyLmNsYXNzKQpAU3ByaW5nQm9vdFRlc3QK</text>
+        <text encoding="base64">CUBUZXN0Cgl2b2lkIAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cglwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTkFNRSA9ICJmb29iYXIiOwoKCXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQRVRfVFlQRSA9ICJjYXQiOwo=</text>
+        <text encoding="base64">CUBOZXN0ZWQKCWNsYXNzIFJlZ2lzdGVyIHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBOQU1FID0gImZvb2JhciI7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFBFVF9UWVBFID0gImNhdCI7Cgo=</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBQRVRfSUQgPSAiMTIzIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBOQU1FID0gImZvb2JhciI7CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFBFVF9UWVBFID0gImNhdCI7Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5sYXllcmVkLnBlcnNpc3RlbmNlLmVudGl0eS5PcmRlcjsKaW1wb3J0IGxpbi5sb3Vpcy5sYXllcmVkLnBlcnNpc3RlbmNlLmVudGl0eS5PcmRlclN0YXR1czsKaW1wb3J0IGxpbi5sb3Vpcy5sYXllcmVkLnBlcnNpc3RlbmNlLmVudGl0eS5QZXQ7CmltcG9ydCBsaW4ubG91aXMubGF5ZXJlZC5wZXJzaXN0ZW5jZS5lbnRpdHkuUGV0U3RhdHVzOwppbXBvcnQgbGluLmxvdWlzLmxheWVyZWQud2ViLmR0by5PcmRlckRUTzsKaW1wb3J0IGxpbi5sb3Vpcy5sYXllcmVkLndlYi5kdG8uT3JkZXJTdGF0dXNEVE87CmltcG9ydCBsaW4ubG91aXMubGF5ZXJlZC53ZWIuZHRvLlBldERUTzsKaW1wb3J0IGxpbi5sb3Vpcy5sYXllcmVkLndlYi5kdG8uUGV0U3RhdHVzRFRPOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBNb2NrQmVhbgoJcHJpdmF0ZSBPcmRlclNlcnZpY2Ugb3JkZXJTZXJ2aWNlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGxpbi5sb3Vpcy5sYXllcmVkLnBlcnNpc3RlbmNlLmVudGl0eS5QZXQ7CmltcG9ydCBsaW4ubG91aXMubGF5ZXJlZC5wZXJzaXN0ZW5jZS5lbnRpdHkuUGV0U3RhdHVzOwppbXBvcnQgbGluLmxvdWlzLmxheWVyZWQud2ViLmR0by5QZXREVE87CmltcG9ydCBsaW4ubG91aXMubGF5ZXJlZC53ZWIuZHRvLlBldFN0YXR1c0RUTzsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
