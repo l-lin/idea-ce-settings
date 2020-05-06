@@ -144,7 +144,7 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.3.0/bioserenity-io-bcp-6.3.0.pom" timestamp="1588773114429" />
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/AmazonS3Service.java" timestamp="1588775380055">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/AmazonS3Service.java" timestamp="1588775455319">
         <mark key="'" line="28" column="31" />
         <mark key="[" line="23" column="36" />
         <mark key="l" line="239" column="37" />
@@ -176,13 +176,14 @@
         <mark key="]" line="514" column="0" />
         <mark key="." line="514" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588774410450">
+      <file name="/Dummy.txt" timestamp="1588775404729">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/ConfigService.java" timestamp="1588774614861" />
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttConsumer.java" timestamp="1588761075392" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1588775594881" />
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/services/AmazonS3ServiceTest.java" timestamp="1588773287312" />
       <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0-sources.jar!/com/google/common/cache/Cache.java" timestamp="1588772096086" />
       <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1588774156435">
