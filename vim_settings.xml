@@ -143,6 +143,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/usecase/BrokerSetupFactory.java" timestamp="1588782473254">
+        <mark key="[" line="2" column="33" />
+      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/AmazonS3Service.java" timestamp="1588775455319">
         <mark key="'" line="28" column="31" />
         <mark key="[" line="23" column="36" />
@@ -152,19 +155,20 @@
         <mark key="^" line="23" column="37" />
         <mark key="." line="23" column="36" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-testkit_2.11/2.5.6/akka-testkit_2.11-2.5.6.pom" timestamp="1588773961136">
-        <mark key="'" line="17" column="4" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttBrokerClient.java" timestamp="1588782237216">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="4" column="53" />
+        <mark key="^" line="4" column="53" />
+        <mark key="." line="4" column="52" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.6/akka-actor_2.11-2.5.6-sources.jar!/akka/japi/pf/ReceiveBuilder.java" timestamp="1588782418650" />
+      <file name="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.6/akka-actor_2.11-2.5.6-sources.jar!/akka/japi/pf/FI.java" timestamp="1588782410672">
+        <mark key="'" line="95" column="26" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1588781375951">
         <mark key="'" line="127" column="17" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/MqttService.java" timestamp="1588779673073" />
-      <file name="$USER_HOME$/work/fota-service/README.md" timestamp="1588774190753">
-        <mark key="[" line="35" column="8" />
-        <mark key="]" line="36" column="9" />
-        <mark key="^" line="36" column="9" />
-        <mark key="." line="36" column="8" />
-      </file>
       <file name="$USER_HOME$/work/fota-service/docker-compose.yml" timestamp="1588779425616">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="19" column="26" />
@@ -176,7 +180,7 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttConsumer.java" timestamp="1588781725767" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttConsumer.java" timestamp="1588782400700" />
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1588781072639">
         <mark key="'" line="31" column="24" />
       </file>
@@ -200,13 +204,9 @@
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1588779703632" />
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" timestamp="1588781672896" />
-      <file name="/fragment.java" timestamp="1588774171111">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/fota-service/Dockerfile" timestamp="1588778192232" />
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/pom.xml" />
       <jump line="2" column="18" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/Main.java" />
       <jump line="7" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/Main.java" />
       <jump line="87" column="8" filename="$USER_HOME$/perso/poc-kafka/heart-beat-producer/pom.xml" />
@@ -306,6 +306,7 @@
       <jump line="27" column="21" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" />
       <jump line="31" column="24" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" />
       <jump line="485" column="21" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.6/akka-actor_2.11-2.5.6-sources.jar!/akka/actor/Actor.scala" />
+      <jump line="95" column="26" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.6/akka-actor_2.11-2.5.6-sources.jar!/akka/japi/pf/FI.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
