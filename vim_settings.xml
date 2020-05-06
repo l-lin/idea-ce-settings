@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWxlb3Blblw+</entry>
         <entry>oodrive-tracking</entry>
         <entry encoding="base64">XDxiY3Byb3ZcPg==</entry>
         <entry encoding="base64">XDxjdXJhdG9yXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxQQVRIX1NFUEFSQVRPUlw+</entry>
         <entry encoding="base64">XDxwcm9kdWNlclw+</entry>
         <entry encoding="base64">XDxSZXN0YXJ0XD4=</entry>
+        <entry encoding="base64">XDxjb25zdW1lclw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -149,8 +149,14 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1588781072639">
-        <mark key="'" line="31" column="24" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Child.java" timestamp="1588792201071">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="39" />
+      </file>
+      <file name="/Dispatcher.java" timestamp="1588793082490">
+        <mark key="'" line="44" column="88" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/usecase/BrokerSetupFactory.java" timestamp="1588782473254">
         <mark key="[" line="2" column="33" />
@@ -170,6 +176,7 @@
         <mark key="^" line="4" column="53" />
         <mark key="." line="4" column="52" />
       </file>
+      <file name="/FotaApp.java" timestamp="1588792861915" />
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/usecase/MessageReader.java" timestamp="1588782760736">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="3" column="4" />
@@ -179,17 +186,32 @@
       <file name="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.6/akka-actor_2.11-2.5.6-sources.jar!/akka/japi/pf/FI.java" timestamp="1588782410672">
         <mark key="'" line="95" column="26" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1588791326605">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1588793117264">
         <mark key="'" line="135" column="17" />
-        <mark key="^" line="61" column="19" />
+        <mark key="[" line="42" column="39" />
+        <mark key="]" line="21" column="19" />
+        <mark key="^" line="21" column="19" />
+        <mark key="." line="21" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-mqtt/1.1.3/bioserenity-io-mqtt-1.1.3-sources.jar!/com/bioserenity/io/mqtt/MqttIO.java" timestamp="1588791421275" />
       <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1588785094309">
         <mark key="'" line="181" column="13" />
         <mark key="[" line="45" column="22" />
         <mark key="]" line="45" column="24" />
         <mark key="^" line="45" column="24" />
         <mark key="." line="45" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Foobar.java" timestamp="1588793465805">
+        <mark key="[" line="19" column="108" />
+        <mark key="l" line="19" column="42" />
+        <mark key="]" line="19" column="115" />
+        <mark key="^" line="19" column="115" />
+        <mark key="." line="19" column="114" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Supervisor.java" timestamp="1588792117613">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="10" column="45" />
+        <mark key="^" line="10" column="45" />
+        <mark key="." line="10" column="44" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1588789540660">
         <mark key="[" line="41" column="11" />
@@ -208,14 +230,17 @@
         <mark key="^" line="3" column="33" />
         <mark key="." line="3" column="32" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" timestamp="1588791333480">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1588792231993">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="70" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" timestamp="1588792073906">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/app/src/main/java/lin/louis/app/PetStoreApp.java" />
       <jump line="13" column="17" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/src/main/java/lin/louis/controller/PetController.java" />
       <jump line="5" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/hexagonal/pom.xml" />
       <jump line="6" column="31" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/README.md" />
@@ -315,24 +340,25 @@
       <jump line="345" column="17" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/FaultHandling.scala" />
       <jump line="378" column="5" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/FaultHandling.scala" />
       <jump line="396" column="51" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/FaultHandling.scala" />
+      <jump line="44" column="88" filename="/Dispatcher.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoIltjbG91ZDptcXR0XSBFcnJvciB3aGlsZSBzZXR0aW5nIHVwIE1RVFQgY29ubmVjdGlvbiB3aXRoIHt9IiwgbXF0dENvbmZpZyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZy5lcnJvcihFeGNlcHRpb25VdGlscy5nZXRTdGFja1RyYWNlKGUpKTsKICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>Duration.create(5, TimeUnit.SECONDS)</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>Duration.create(5, TimeUnit.SECONDS)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXN0YXJ0XD4=</text>
+        <text encoding="base64">XDxjb25zdW1lclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbG9nLmVycm9yKCJbY2xvdWQ6bXF0dF0gRXJyb3Igd2hpbGUgc2V0dGluZyB1cCBNUVRUIGNvbm5lY3Rpb24gd2l0aCB7fSIsIG1xdHRDb25maWcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBBY3RvclN5c3RlbSBzeXN0ZW0gPSBBY3RvclN5c3RlbS5jcmVhdGUoImZvdGEtc2VydmljZSIpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgICAgICBsb2cuZXJyb3IoIltjbG91ZDptcXR0XSBFcnJvciB3aGlsZSBzZXR0aW5nIHVwIE1RVFQgY29ubmVjdGlvbiB3aXRoIHt9IiwgbXF0dENvbmZpZyk7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZy5lcnJvcihFeGNlcHRpb25VdGlscy5nZXRTdGFja1RyYWNlKGUpKTsKICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
@@ -381,9 +407,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxSZXN0YXJ0XD4=</last-search>
+      <last-search encoding="base64">XDxjb25zdW1lclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXN0YXJ0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zdW1lclw+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxOQU1FXD4=</last-substitute>
       <last-dir>1</last-dir>
