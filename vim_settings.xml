@@ -143,7 +143,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.3.0/bioserenity-io-bcp-6.3.0.pom" timestamp="1588773114429" />
+      <file name="/Dummy.txt" timestamp="1588775404729">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/AmazonS3Service.java" timestamp="1588775455319">
         <mark key="'" line="28" column="31" />
         <mark key="[" line="23" column="36" />
@@ -159,12 +163,22 @@
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1588761212026">
         <mark key="'" line="127" column="17" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/fota/io/FileChunk.java" timestamp="1588759245901" />
+      <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1588775807259">
+        <mark key="'" line="99" column="4" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="104" column="17" />
+        <mark key="^" line="70" column="17" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/work/fota-service/README.md" timestamp="1588774190753">
         <mark key="[" line="35" column="8" />
         <mark key="]" line="36" column="9" />
         <mark key="^" line="36" column="9" />
         <mark key="." line="36" column="8" />
+      </file>
+      <file name="/pom.xml" timestamp="1588770593385">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="50" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/sonatype/sisu/sisu-guice/3.1.0/sisu-guice-3.1.0.pom" timestamp="1588772331220">
         <mark key="[" line="39" column="0" />
@@ -176,29 +190,6 @@
         <mark key="]" line="514" column="0" />
         <mark key="." line="514" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588775404729">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/ConfigService.java" timestamp="1588774614861" />
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttConsumer.java" timestamp="1588761075392" />
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1588775594881" />
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/services/AmazonS3ServiceTest.java" timestamp="1588773287312" />
-      <file name="$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0-sources.jar!/com/google/common/cache/Cache.java" timestamp="1588772096086" />
-      <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1588774156435">
-        <mark key="'" line="99" column="4" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="104" column="17" />
-        <mark key="^" line="70" column="17" />
-        <mark key="." line="99" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1588764984420" />
-      <file name="/pom.xml" timestamp="1588770593385">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="50" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1588774612173" />
       <file name="/fragment.java" timestamp="1588774171111">
         <mark key="[" line="0" column="0" />
       </file>
