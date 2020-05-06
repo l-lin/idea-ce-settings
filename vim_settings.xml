@@ -185,11 +185,11 @@
         <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/work/bioserenity-io-mqtt/src/main/java/com/bioserenity/io/mqtt/Conf.java" timestamp="1588754453076" />
-      <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1588766056837">
-        <mark key="'" line="183" column="0" />
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="183" column="0" />
-        <mark key="." line="183" column="0" />
+      <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1588766189660">
+        <mark key="'" line="151" column="16" />
+        <mark key="[" line="226" column="0" />
+        <mark key="]" line="226" column="0" />
+        <mark key="." line="226" column="0" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1588764984420" />
       <file name="/pom.xml" timestamp="1588765988201" />
@@ -201,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="28" filename="$USER_HOME$/work/share-parent/pom.xml" />
       <jump line="2263" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.5.RELEASE/spring-boot-dependencies-2.2.5.RELEASE.pom" />
       <jump line="1279" column="24" filename="$USER_HOME$/work/share-parent/pom.xml" />
       <jump line="195" column="57" filename="$USER_HOME$/work/share-parent/pom.xml" />
@@ -301,6 +300,7 @@
       <jump line="11" column="4" filename="$USER_HOME$/work/bioserenity-io-mqtt/pom.xml" />
       <jump line="127" column="17" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
       <jump line="183" column="0" filename="$USER_HOME$/work/fota-service/pom.xml" />
+      <jump line="119" column="16" filename="$USER_HOME$/work/fota-service/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
