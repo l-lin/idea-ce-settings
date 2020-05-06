@@ -160,7 +160,8 @@
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/application/spring-app/src/test/java/lin/louis/clean/application/spring/controller/PetControllerTest.java" timestamp="1588435683514">
         <mark key="[" line="37" column="6" />
       </file>
-      <file name="/" timestamp="1588748212470">
+      <file name="$USER_HOME$/work/fota-service/fota-service (2).iml" timestamp="1588748595808" />
+      <file name="/" timestamp="1588748671498">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/pom.xml" timestamp="1588433635202">
@@ -184,15 +185,8 @@
         <mark key="^" line="50" column="27" />
         <mark key="." line="50" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.6.RELEASE/spring-boot-dependencies-2.2.6.RELEASE.pom" timestamp="1588433557965">
-        <mark key="[" line="2663" column="0" />
-        <mark key="]" line="2667" column="19" />
-      </file>
-      <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/pom.xml" timestamp="1588433570143">
-        <mark key="[" line="45" column="53" />
-        <mark key="]" line="46" column="27" />
-        <mark key="." line="46" column="26" />
-        <mark key="^" line="46" column="27" />
+      <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1588748707916">
+        <mark key="'" line="146" column="0" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/application/spring-app/src/test/java/lin/louis/clean/application/spring/controller/SpringOrderControllerTest.java" timestamp="1588437754489">
         <mark key="[" line="74" column="0" />
@@ -212,11 +206,6 @@
         <mark key="]" line="44" column="72" />
         <mark key="." line="44" column="71" />
         <mark key="^" line="44" column="72" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.6.RELEASE/spring-boot-starter-parent-2.2.6.RELEASE.pom" timestamp="1588433530228">
-        <mark key="'" line="49" column="14" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="20" column="66" />
       </file>
       <file name="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/src/test/java/lin/louis/clean/usecase/PetFinderTest.java" timestamp="1588437438170">
         <mark key="'" line="31" column="8" />
@@ -241,6 +230,12 @@
         <mark key="^" line="28" column="32" />
         <mark key="." line="28" column="31" />
       </file>
+      <file name="$USER_HOME$/work/fota-service/.gitignore" timestamp="1588748725397">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/mockito/mockito-core/3.1.0/mockito-core-3.1.0-sources.jar!/org/mockito/BDDMockito.java" timestamp="1588436045232">
         <mark key="'" line="195" column="46" />
       </file>
@@ -251,8 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="997" column="28" filename="$USER_HOME$/work/sharing-backend/pom.xml" />
-      <jump line="998" column="27" filename="$USER_HOME$/work/sharing-backend/pom.xml" />
       <jump line="1002" column="28" filename="$USER_HOME$/work/sharing-backend/pom.xml" />
       <jump line="1003" column="27" filename="$USER_HOME$/work/sharing-backend/pom.xml" />
       <jump line="1007" column="28" filename="$USER_HOME$/work/sharing-backend/pom.xml" />
@@ -351,6 +344,8 @@
       <jump line="195" column="46" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-core/3.1.0/mockito-core-3.1.0-sources.jar!/org/mockito/BDDMockito.java" />
       <jump line="52" column="29" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/application/spring-app/src/test/java/lin/louis/clean/application/spring/controller/SpringPetControllerTest.java" />
       <jump line="147" column="46" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/application/spring-app/src/test/java/lin/louis/clean/application/spring/controller/SpringPetControllerTest.java" />
+      <jump line="146" column="0" filename="$USER_HOME$/work/fota-service/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/fota-service/.gitignore" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
