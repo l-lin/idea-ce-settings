@@ -163,7 +163,7 @@
       </file>
       <file name="/MqttClient.java" timestamp="1588844434348" />
       <file name="/DispatcherTest.java" timestamp="1588845300335" />
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1588844774718">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1588849353568">
         <mark key="'" line="143" column="17" />
         <mark key="[" line="135" column="4" />
         <mark key="]" line="134" column="31" />
@@ -177,7 +177,7 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="39" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" timestamp="1588845774435">
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" timestamp="1588849307227">
         <mark key="a" line="52" column="8" />
         <mark key="'" line="125" column="106" />
         <mark key="[" line="69" column="48" />
@@ -224,7 +224,7 @@
         <mark key="^" line="12" column="77" />
         <mark key="." line="12" column="76" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1588843990097">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1588849290557">
         <mark key="[" line="25" column="24" />
         <mark key="]" line="25" column="76" />
         <mark key="." line="25" column="75" />
@@ -233,11 +233,11 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttConnectOptions.java" timestamp="1588846444735">
         <mark key="'" line="73" column="20" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" timestamp="1588847605842">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" timestamp="1588847646702">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="122" column="20" />
-        <mark key="]" line="122" column="22" />
-        <mark key="." line="122" column="21" />
+        <mark key="]" line="122" column="20" />
+        <mark key="." line="122" column="20" />
         <mark key="^" line="122" column="22" />
       </file>
     </filemarks>
@@ -346,14 +346,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjb25uZWN0VGltZXIuc2NoZWR1bGUobmV3IFRpbWVyVGFzaygpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewogICAgICAgICAgICAgICAgICAgIHNlbGYoKS50ZWxsKG5ldyBTZXR1cCgpLCBzZWxmKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LCByZWNvbm5lY3REZWxheSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWNvbm5lY3RUaW1lclw+</text>
