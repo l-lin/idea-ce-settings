@@ -154,12 +154,6 @@
         <mark key="]" line="12" column="31" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/infrastructure/s3/CachedAmazonS3FirmwareDownloader.java" timestamp="1588871934675">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="8" column="50" />
-        <mark key="^" line="8" column="50" />
-        <mark key="." line="8" column="49" />
-      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/AmazonS3Service.java" timestamp="1588872691587">
         <mark key="'" line="78" column="0" />
         <mark key="[" line="24" column="3" />
@@ -200,18 +194,24 @@
         <mark key="." line="7" column="10" />
         <mark key="^" line="7" column="11" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" timestamp="1588873133476">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" timestamp="1588874203707">
         <mark key="'" line="239" column="36" />
-        <mark key="[" line="360" column="40" />
-        <mark key="]" line="360" column="50" />
-        <mark key="." line="360" column="49" />
-        <mark key="^" line="360" column="50" />
+        <mark key="[" line="360" column="41" />
+        <mark key="]" line="360" column="40" />
+        <mark key="." line="360" column="39" />
+        <mark key="^" line="360" column="40" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/AmazonS3ActorTest.java" timestamp="1588873021863">
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/AmazonS3ActorTest.java" timestamp="1588874208312">
         <mark key="[" line="93" column="65" />
-        <mark key="]" line="93" column="75" />
-        <mark key="." line="93" column="74" />
+        <mark key="]" line="93" column="65" />
+        <mark key="." line="93" column="65" />
         <mark key="^" line="93" column="75" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/infrastructure/s3/AmazonS3FirmwareFetcherTest.java" timestamp="1588874724234">
+        <mark key="[" line="36" column="82" />
+        <mark key="]" line="39" column="66" />
+        <mark key="^" line="39" column="66" />
+        <mark key="." line="39" column="65" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1588873567093">
         <mark key="[" line="40" column="53" />
@@ -219,11 +219,11 @@
         <mark key="." line="40" column="54" />
         <mark key="^" line="40" column="55" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/domain/FirmwareMetadata.java" timestamp="1588874091050">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/domain/FirmwareMetadata.java" timestamp="1588874184445">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="84" column="5" />
         <mark key="^" line="33" column="9" />
-        <mark key="." line="50" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/FotaActorTest.java" timestamp="1588873444810">
         <mark key="[" line="232" column="28" />
@@ -237,12 +237,12 @@
         <mark key="." line="42" column="68" />
         <mark key="^" line="42" column="69" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/domain/Firmware.java" timestamp="1588873615671">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/domain/Firmware.java" timestamp="1588874193918">
         <mark key="'" line="15" column="4" />
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="4" column="103" />
-        <mark key="^" line="4" column="103" />
-        <mark key="." line="4" column="102" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="22" column="47" />
+        <mark key="^" line="22" column="47" />
+        <mark key="." line="22" column="46" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/fota/utils/IOUtils.java" timestamp="1588873377884">
         <mark key="[" line="20" column="16" />
@@ -250,8 +250,9 @@
         <mark key="." line="20" column="22" />
         <mark key="^" line="20" column="23" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17-sources.jar!/org/apache/log4j/Logger.java" timestamp="1588871800748">
-        <mark key="'" line="115" column="9" />
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/domain/FirmwareMetadataTest.java" timestamp="1588874431785">
+        <mark key="[" line="9" column="59" />
+        <mark key="]" line="9" column="114" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/infrastructure/s3/AmazonS3FirmwareDownloader.java" timestamp="1588872272001">
         <mark key="[" line="40" column="100" />
@@ -365,20 +366,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbGxlZ2FsU3RhdGVFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICJJbnZhbGlkIGZvcm1hdCwgbmFtZSBhbmQgZXh0ZW5zaW9uIGV4cGVjdGVkIChmb3JtYXQgPSBidWNrZXR8Zm9sZGVyL3BhdGgvbmFtZS5leHQpIiwKICAgICAgICAgICAgICAgICAgICBlCiAgICAgICAgICAgICk7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>bioserenity-firmwares|CCW/CardioSkin/1.9.16/BSW_BINR.bin</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd3NTM1NlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>whenBucketIsMissing_thenThrowIllegalArgumentException</text>
+        <text>bioserenity-firmwares|CCW/CardioSkin/1.9.16/BSW_BINR.bin</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbGxlZ2FsU3RhdGVFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICJJbnZhbGlkIGZvcm1hdCwgbmFtZSBhbmQgZXh0ZW5zaW9uIGV4cGVjdGVkIChmb3JtYXQgPSBidWNrZXR8Zm9sZGVyL3BhdGgvbmFtZS5leHQpIiwKICAgICAgICAgICAgICAgICAgICBlCiAgICAgICAgICAgICk7CiAgICAgICAgfQo=</text>
