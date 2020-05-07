@@ -149,12 +149,11 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1588840263692">
-        <mark key="'" line="31" column="24" />
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="23" />
-        <mark key="^" line="17" column="23" />
-        <mark key="." line="17" column="22" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1588840838232">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="24" column="83" />
+        <mark key="^" line="24" column="83" />
+        <mark key="." line="24" column="82" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Child.java" timestamp="1588793638442">
         <mark key="[" line="2" column="18" />
@@ -186,12 +185,12 @@
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" timestamp="1588839243832">
         <mark key="'" line="71" column="28" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1588839928017">
-        <mark key="'" line="145" column="17" />
-        <mark key="[" line="39" column="33" />
-        <mark key="]" line="39" column="72" />
-        <mark key="^" line="39" column="72" />
-        <mark key="." line="39" column="71" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1588840883694">
+        <mark key="'" line="144" column="17" />
+        <mark key="[" line="111" column="85" />
+        <mark key="]" line="111" column="95" />
+        <mark key="^" line="111" column="95" />
+        <mark key="." line="111" column="94" />
       </file>
       <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1588785094309">
         <mark key="'" line="181" column="13" />
@@ -221,11 +220,17 @@
       <file name="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/FaultHandling.scala" timestamp="1588789456869">
         <mark key="'" line="396" column="51" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1588838043232">
-        <mark key="[" line="25" column="77" />
-        <mark key="]" line="25" column="78" />
-        <mark key="^" line="25" column="78" />
-        <mark key="." line="25" column="77" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/DefaultFotaActorRegistryFactory.java" timestamp="1588840543522">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="77" />
+        <mark key="^" line="12" column="77" />
+        <mark key="." line="12" column="76" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1588840908836">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="16" />
+        <mark key="^" line="30" column="16" />
+        <mark key="." line="30" column="15" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" timestamp="1588835434396">
         <mark key="[" line="57" column="60" />
@@ -233,20 +238,21 @@
         <mark key="." line="58" column="63" />
         <mark key="^" line="58" column="64" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" timestamp="1588837458241">
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" timestamp="1588841196762">
         <mark key="'" line="182" column="69" />
-        <mark key="[" line="184" column="23" />
-        <mark key="]" line="184" column="43" />
-        <mark key="^" line="184" column="43" />
-        <mark key="." line="184" column="42" />
+        <mark key="[" line="48" column="80" />
+        <mark key="]" line="48" column="80" />
+        <mark key="^" line="24" column="21" />
+        <mark key="." line="48" column="80" />
       </file>
       <file name="/fragment.java" timestamp="1588835929358">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistryFactory.java" timestamp="1588840158815">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="." line="2" column="7" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistryFactory.java" timestamp="1588840422090">
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="114" />
+        <mark key="." line="8" column="113" />
+        <mark key="^" line="8" column="114" />
       </file>
     </filemarks>
     <jumps>
@@ -355,13 +361,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>.getRef()</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>.getRef()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtcXR0UHJvZHVjZXJcPg==</text>
