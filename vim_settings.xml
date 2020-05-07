@@ -143,63 +143,30 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/AmazonS3Actor.java" timestamp="1588872853995">
-        <mark key="[" line="51" column="21" />
-        <mark key="]" line="51" column="28" />
-        <mark key="." line="51" column="27" />
-        <mark key="^" line="51" column="28" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/AmazonS3Actor.java" timestamp="1588878748566">
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="11" />
+        <mark key="." line="68" column="10" />
+        <mark key="^" line="68" column="11" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/domain/FirmwarePath.java" timestamp="1588874034492">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/infrastructure/package-info.java" timestamp="1588879830372">
+        <mark key="[" line="1" column="70" />
+        <mark key="]" line="1" column="70" />
+        <mark key="^" line="2" column="72" />
+        <mark key="." line="1" column="70" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/AmazonS3Service.java" timestamp="1588872691587">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="24" column="3" />
-        <mark key="]" line="25" column="11" />
-        <mark key="." line="25" column="10" />
-        <mark key="^" line="25" column="11" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/infrastructure/s3/InMemoryCachedFirmwareFetcher.java" timestamp="1588880159725">
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/usecase/port/FirmwareFetcher.java" timestamp="1588873538850">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="12" column="1" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/infrastructure/s3/CachedFirmwareDownloader.java" timestamp="1588872446015">
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="19" column="33" />
-        <mark key="^" line="19" column="33" />
-        <mark key="." line="19" column="32" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/services/AmazonS3ServiceTest.java" timestamp="1588873045135">
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="44" />
-        <mark key="." line="22" column="43" />
-        <mark key="^" line="22" column="44" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/usecase/port/FirmwareDownloader.java" timestamp="1588873522028">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="7" column="39" />
-        <mark key="." line="7" column="39" />
-        <mark key="^" line="7" column="28" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.6/akka-actor_2.11-2.5.6-sources.jar!/akka/event/Logging.scala" timestamp="1588872141142">
-        <mark key="'" line="1023" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/infrastructure/s3/AmazonS3FileData.java" timestamp="1588872580279">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="11" />
-        <mark key="." line="7" column="10" />
-        <mark key="^" line="7" column="11" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" timestamp="1588874203707">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" timestamp="1588878769070">
         <mark key="'" line="239" column="36" />
-        <mark key="[" line="360" column="41" />
-        <mark key="]" line="360" column="40" />
-        <mark key="." line="360" column="39" />
-        <mark key="^" line="360" column="40" />
+        <mark key="[" line="396" column="4" />
+        <mark key="]" line="396" column="11" />
+        <mark key="." line="396" column="10" />
+        <mark key="^" line="396" column="11" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/AmazonS3ActorTest.java" timestamp="1588874208312">
         <mark key="[" line="93" column="65" />
@@ -207,35 +174,35 @@
         <mark key="." line="93" column="65" />
         <mark key="^" line="93" column="75" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/infrastructure/s3/AmazonS3FirmwareFetcherTest.java" timestamp="1588874724234">
-        <mark key="[" line="36" column="82" />
-        <mark key="]" line="39" column="66" />
-        <mark key="^" line="39" column="66" />
-        <mark key="." line="39" column="65" />
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/infrastructure/s3/AmazonS3FirmwareFetcherTest.java" timestamp="1588877946341">
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="35" column="48" />
+        <mark key="^" line="35" column="48" />
+        <mark key="." line="35" column="47" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1588873567093">
-        <mark key="[" line="40" column="53" />
-        <mark key="]" line="40" column="55" />
-        <mark key="." line="40" column="54" />
-        <mark key="^" line="40" column="55" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1588878725612">
+        <mark key="[" line="21" column="63" />
+        <mark key="]" line="21" column="90" />
+        <mark key="." line="21" column="89" />
+        <mark key="^" line="21" column="90" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/domain/FirmwareMetadata.java" timestamp="1588874184445">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="84" column="5" />
-        <mark key="^" line="33" column="9" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/domain/package-info.java" timestamp="1588879742535">
+        <mark key="[" line="1" column="72" />
+        <mark key="]" line="1" column="72" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="72" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/FotaActorTest.java" timestamp="1588873444810">
-        <mark key="[" line="232" column="28" />
-        <mark key="]" line="232" column="40" />
-        <mark key="." line="232" column="39" />
-        <mark key="^" line="232" column="40" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/infrastructure/s3/AmazonS3FirmwareFetcher.java" timestamp="1588880001859">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="8" />
+        <mark key="^" line="16" column="10" />
+        <mark key="." line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/domain/FirmwarePathTest.java" timestamp="1588874022302">
-        <mark key="[" line="42" column="40" />
-        <mark key="]" line="42" column="69" />
-        <mark key="." line="42" column="68" />
-        <mark key="^" line="42" column="69" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/domain/model/FirmwareMetadata.java" timestamp="1588880297162">
+        <mark key="[" line="7" column="81" />
+        <mark key="]" line="7" column="81" />
+        <mark key="^" line="7" column="75" />
+        <mark key="." line="7" column="81" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/domain/Firmware.java" timestamp="1588874193918">
         <mark key="'" line="15" column="4" />
@@ -244,27 +211,41 @@
         <mark key="^" line="22" column="47" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/fota/utils/IOUtils.java" timestamp="1588873377884">
-        <mark key="[" line="20" column="16" />
-        <mark key="]" line="20" column="23" />
-        <mark key="." line="20" column="22" />
-        <mark key="^" line="20" column="23" />
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/infrastructure/s3/CachedFirmwareFetcherTest.java" timestamp="1588878116852">
+        <mark key="'" line="17" column="4" />
+        <mark key="[" line="38" column="8" />
+        <mark key="]" line="38" column="29" />
+        <mark key="." line="38" column="28" />
+        <mark key="^" line="38" column="29" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/docker-compose.yml" timestamp="1588878606421">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/usecase/package-info.java" timestamp="1588879621851">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="3" column="32" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/infrastructure/s3/CachedFirmwareFetcher.java" timestamp="1588879926544">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="2" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/domain/FirmwareMetadataTest.java" timestamp="1588874431785">
         <mark key="[" line="9" column="59" />
         <mark key="]" line="9" column="114" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/infrastructure/s3/AmazonS3FirmwareDownloader.java" timestamp="1588872272001">
-        <mark key="[" line="40" column="100" />
-        <mark key="]" line="40" column="100" />
-        <mark key="^" line="40" column="60" />
-        <mark key="." line="40" column="100" />
+      <file name="/fragment.java" timestamp="1588879442325">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="36" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" />
-      <jump line="48" column="8" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" />
-      <jump line="116" column="14" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/FaultHandling.scala" />
       <jump line="139" column="16" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/FaultHandling.scala" />
       <jump line="165" column="44" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/FaultHandling.scala" />
       <jump line="203" column="52" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/FaultHandling.scala" />
@@ -362,51 +343,61 @@
       <jump line="77" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/AmazonS3Service.java" />
       <jump line="1023" column="28" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.6/akka-actor_2.11-2.5.6-sources.jar!/akka/event/Logging.scala" />
       <jump line="22" column="24" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" />
+      <jump line="16" column="4" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/infrastructure/s3/CachedFirmwareFetcherTest.java" />
+      <jump line="20" column="20" filename="$USER_HOME$/work/fota-service/docker-compose.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/fota-service/docker-compose.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>bioserenity-firmwares|CCW/CardioSkin/1.9.16/BSW_BINR.bin</text>
+        <text>s</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhd3NTM1NlcnZpY2VcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>bioserenity-firmwares|CCW/CardioSkin/1.9.16/BSW_BINR.bin</text>
+      <register name="0" type="2">
+        <text encoding="base64">dmVyc2lvbjogJzMnCnNlcnZpY2VzOgogIG1xdHQ6CiAgICBpbWFnZTogcmVnaXN0cnkuYmlvc2VyZW5pdHkuY29tL2Jpb3NlcmVuaXR5L2Jpb3NlcmVuaXR5LXJhYmJpdG1xLW1xdHQKICAgIGVudmlyb25tZW50OgogICAgICBNUVRUX1VTRVJOQU1FOiBndWVzdAogICAgICBNUVRUX1BBU1NXT1JEOiBndWVzdAogICAgICBNUVRUX1BPUlQ6IDE4ODMKICAgICAgUkFCQklUTVFfTk9ERU5BTUU6IGxvY2FsaG9zdAogIGZvdGE6CiAgICBidWlsZDoKICAgICAgY29udGV4dDogLgogICAgICBhcmdzOgogICAgICAgIEpBUl9GSUxFOiBmb3RhLXNlcnZpY2UtMS42LjAtQ0xPVUQtNTI0NS1TTkFQU0hPVC5qYXIKICAgIGRlcGVuZHNfb246CiAgICAgIC0gbXF0dAogICAgZW52aXJvbm1lbnQ6CiAgICAgIE1RVFRfQlJPS0VSOiBtcXR0CiAgICAgIE1RVFRfVVNFUk5BTUU6IGd1ZXN0CiAgICAgIE1RVFRfUEFTU1dPUkQ6IGd1ZXN0CiAgICAgIE1RVFRfUE9SVDogMTg4Mwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbGxlZ2FsU3RhdGVFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICJJbnZhbGlkIGZvcm1hdCwgbmFtZSBhbmQgZXh0ZW5zaW9uIGV4cGVjdGVkIChmb3JtYXQgPSBidWNrZXR8Zm9sZGVyL3BhdGgvbmFtZS5leHQpIiwKICAgICAgICAgICAgICAgICAgICBlCiAgICAgICAgICAgICk7CiAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>, that is specific to the domain itself and it's
+ * independent of the business processes that trigger the logic</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogICAgIDxsaT5idWNrZXR8dGVzdC50eHQ8L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICBNb2NraXRvLndoZW4oZmlybXdhcmVGZXRjaGVyLmZldGNoKEZJUk1XQVJFX0xPQ0FUSU9OKSkudGhlblJldHVybihuZXcgRmlybXdhcmUobnVsbCwgRklSTVdBUkVfQ09OVEVOVCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcmV0dXJuCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFVSSVN5bnRheEV4Y2VwdGlvbgogICAgICovCg==</text>
+        <text encoding="base64">ICAgIEBCZWZvcmUKICAgIHB1YmxpYyB2b2lkIHNldFVwKCkgewogICAgICAgIGZpcm13YXJlRmV0Y2hlciA9IG5ldyBBbWF6b25TM0Zpcm13YXJlRmV0Y2hlcihhbWF6b25TMyk7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIAogKiBAYXV0aG9yIFRoaWVycnlCQVJUSEVMCiAqCiAqLwo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBjbGFzcyBGYWtlRmlybXdhcmVGZXRjaGVyIGltcGxlbWVudHMgRmlybXdhcmVGZXRjaGVyIHsKCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIEZpcm13YXJlIGZldGNoKFN0cmluZyBsb2NhdGlvbikgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICAgICAgaWYgKEZJUk1XQVJFX0xPQ0FUSU9OLmVxdWFscyhsb2NhdGlvbikpIHsKICAgICAgICAgICAgICAgIHJldHVybiBuZXcgRmlybXdhcmUobnVsbCwgRklSTVdBUkVfQ09OVEVOVCk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG5ldyBGaXJtd2FyZShudWxsLCAib3RoZXIiLmdldEJ5dGVzKFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gZmlsZQogICAgICogQHBhcmFtIGZpbGVDb250ZW50CiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
+      <register name="5" type="4">
+        <text>new S3ObjectInputStream(
+                new ByteArrayInputStream(new byte[]{}),
+                null
+        )</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcGFyYW0gZmlybXdhcmVVcmwKICAgICAqIEBwYXJhbSBmaWxlCiAgICAgKiBAcmV0dXJuCiAgICAgKi8K</text>
+      <register name="6" type="4">
+        <text>IOUtils.toInputStream(
+                &quot;foobar&quot;,
+                StandardCharsets.UTF_8
+        )</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAvKgogICAgICogQFRlc3QgcHVibGljIHZvaWQgdGVzdFN5bmMoKSB0aHJvd3MgVVJJU3ludGF4RXhjZXB0aW9uLCBJT0V4Y2VwdGlvbiwgRXhlY3V0aW9uRXhjZXB0aW9uLAogICAgICogSW50ZXJydXB0ZWRFeGNlcHRpb24geyAvLyBtb2NrIFMzIHNlcnZpY2UgZG93bmxvYWRpbmcgZmlsZSBGaWxlIGZpbGUgPSBjcmVhdGVUZXN0RmlsZSgpOwogICAgICogd2hlbihhd3NTZXJ2aWNlLmRvd25sb2FkQXNUZW1wRmlsZShhbnkoU3RyaW5nLmNsYXNzKSkpLnRoZW5SZXR1cm4oZmlsZSk7CiAgICAgKiAKICAgICAqIC8vIGluaXQgZmluYWwgVGVzdEFjdG9yUmVmPEFtYXpvblMzQWN0b3I+IHJlZiA9IFRlc3RBY3RvclJlZi5jcmVhdGUoc3lzdGVtLAogICAgICogQW1hem9uUzNBY3Rvci5wcm9wcyhhd3NTZXJ2aWNlKSwgImF3c0FjdG9yIik7CiAgICAgKiAKICAgICAqIC8vIHdoZW4gQ29tcGxldGFibGVGdXR1cmU8T2JqZWN0PiBmdXR1cmUgPSBQYXR0ZXJuc0NTLmFzayhyZWYsIG5ldwogICAgICogQW1hem9uUzNBY3Rvci5Mb2FkRmlsZSgiZHVtbXkvdXJsIiksIDMwMDApLnRvQ29tcGxldGFibGVGdXR1cmUoKTsKICAgICAqIAogICAgICogLy8gdGhlbiBBc3NlcnQuYXNzZXJ0VHJ1ZShmdXR1cmUuaXNEb25lKCkpOyBBc3NlcnQuYXNzZXJ0Tm90TnVsbChmdXR1cmUuZ2V0KCkpOwogICAgICogQXNzZXJ0LmFzc2VydFRydWUoZnV0dXJlLmdldCgpIGluc3RhbmNlb2YgRm90YUFjdG9yLkZpbGUpOyBGb3RhQWN0b3IuRmlsZSBmaWxlTXNnID0KICAgICAqIChGb3RhQWN0b3IuRmlsZSkgZnV0dXJlLmdldCgpOyBBc3NlcnQuYXNzZXJ0RXF1YWxzKGZpbGUsIGZpbGVNc2cuZmlsZSk7CiAgICAgKiAKICAgICAqIC8vIHdoZW4gZnV0dXJlID0gUGF0dGVybnNDUy5hc2socmVmLCBuZXcgQW1hem9uUzNBY3Rvci5EaXNwb3NlRmlsZShmaWxlKSwKICAgICAqIDMwMDApLnRvQ29tcGxldGFibGVGdXR1cmUoKTsKICAgICAqIAogICAgICogLy8gdGhlbiBBc3NlcnQuYXNzZXJ0RmFsc2UoZmlsZS5leGlzdHMoKSk7IEFzc2VydC5hc3NlcnRUcnVlKGZ1dHVyZS5pc0RvbmUoKSk7IH0KICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbGxlZ2FsU3RhdGVFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKAogICAgICAgICAgICAgICAgICAgICJJbnZhbGlkIGZvcm1hdCwgbmFtZSBhbmQgZXh0ZW5zaW9uIGV4cGVjdGVkIChmb3JtYXQgPSBidWNrZXR8Zm9sZGVyL3BhdGgvbmFtZS5leHQpIiwKICAgICAgICAgICAgICAgICAgICBlCiAgICAgICAgICAgICk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHBhcmFtIHVybCB1cmwgb2YgdGhlIGZpcm13YXJlIG9uIEFXUyBTMwogICAgICogQHJldHVybiBmaXJtd2FyZSBmaWxlIHBhdGggb24gbG9jYWwgZGlzawogICAgICovCg==</text>
+        <text encoding="base64">ICogICAgIDxsaT5idWNrZXR8dGVzdC50eHQ8L2xpPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiQW1hem9uUzNTZXJ2aWNlIGNvbnN0cnVjdG9yIik7CiAgICAgICAgaWYgKG51bGwgPT0gc2VydmljZSkKICAgICAgICAgICAgdGhyb3cgbmV3IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbigiQW1hem9uUzNTZXJ2aWNlIGlzIG51bGwiKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKiBAcmV0dXJuCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFVSSVN5bnRheEV4Y2VwdGlvbgogICAgICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
