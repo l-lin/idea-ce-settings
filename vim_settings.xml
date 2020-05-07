@@ -149,7 +149,7 @@
         <mark key="." line="25" column="10" />
         <mark key="^" line="25" column="11" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Child.java" timestamp="1588792201071">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Child.java" timestamp="1588793638442">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="4" column="40" />
         <mark key="^" line="4" column="40" />
@@ -200,18 +200,18 @@
         <mark key="^" line="45" column="24" />
         <mark key="." line="45" column="23" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Foobar.java" timestamp="1588793465805">
-        <mark key="[" line="19" column="108" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Foobar.java" timestamp="1588793616465">
+        <mark key="[" line="22" column="23" />
         <mark key="l" line="19" column="42" />
-        <mark key="]" line="19" column="115" />
-        <mark key="^" line="19" column="115" />
-        <mark key="." line="19" column="114" />
+        <mark key="]" line="22" column="58" />
+        <mark key="." line="22" column="57" />
+        <mark key="^" line="22" column="58" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Supervisor.java" timestamp="1588792117613">
-        <mark key="[" line="2" column="24" />
-        <mark key="]" line="10" column="45" />
-        <mark key="^" line="10" column="45" />
-        <mark key="." line="10" column="44" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Supervisor.java" timestamp="1588793607672">
+        <mark key="[" line="16" column="74" />
+        <mark key="]" line="16" column="75" />
+        <mark key="^" line="16" column="75" />
+        <mark key="." line="16" column="74" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1588789540660">
         <mark key="[" line="41" column="11" />
@@ -346,13 +346,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Duration.create(5, TimeUnit.SECONDS)</text>
+        <text>Exception</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Duration.create(5, TimeUnit.SECONDS)</text>
+        <text>Exception</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdW1lclw+</text>
