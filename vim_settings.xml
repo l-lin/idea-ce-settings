@@ -143,11 +143,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-testkit_2.11/2.5.31/akka-testkit_2.11-2.5.31-sources.jar!/akka/testkit/javadsl/TestKit.scala" timestamp="1588842094518" />
       <file name="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttAsyncClient.java" timestamp="1588846959271">
         <mark key="'" line="101" column="18" />
         <mark key="[" line="1107" column="0" />
         <mark key="]" line="1122" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588845829938">
+        <mark key="a" line="0" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttConsumer.java" timestamp="1588852692192">
+        <mark key="[" line="37" column="20" />
+        <mark key="]" line="37" column="29" />
+        <mark key="." line="37" column="28" />
+        <mark key="^" line="37" column="29" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/MockedChild.java" timestamp="1588843423336">
         <mark key="[" line="8" column="49" />
@@ -161,55 +172,24 @@
         <mark key="^" line="23" column="47" />
         <mark key="." line="23" column="46" />
       </file>
-      <file name="/MqttClient.java" timestamp="1588844434348" />
-      <file name="/DispatcherTest.java" timestamp="1588845300335" />
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1588851516302">
-        <mark key="'" line="90" column="17" />
-        <mark key="[" line="49" column="26" />
-        <mark key="]" line="49" column="26" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/DeviceMessageActor.java" timestamp="1588853254250">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="54" />
+        <mark key="^" line="6" column="53" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1588853560017">
+        <mark key="'" line="63" column="45" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="54" />
         <mark key="." line="49" column="26" />
         <mark key="^" line="42" column="48" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/AbstractProps.scala" timestamp="1588842514886" />
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/MqttConsumerTest.java" timestamp="1588851025494">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="38" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/restart/PeriodicTimer.java" timestamp="1588846789179">
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="4" column="40" />
-        <mark key="^" line="4" column="40" />
-        <mark key="." line="4" column="39" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" timestamp="1588851023108">
-        <mark key="a" line="51" column="8" />
-        <mark key="'" line="159" column="90" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="38" />
-        <mark key="." line="68" column="57" />
-        <mark key="^" line="68" column="58" />
-      </file>
-      <file name="$USER_HOME$/.sdkman/candidates/java/8.0.252.hs-adpt/src.zip!/java/util/Timer.java" timestamp="1588846464387">
-        <mark key="'" line="157" column="11" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588845829938">
-        <mark key="a" line="0" column="12" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttConsumer.java" timestamp="1588851598764">
-        <mark key="[" line="37" column="20" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="28" />
-        <mark key="^" line="37" column="29" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1588840838232">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="83" />
-        <mark key="^" line="24" column="83" />
-        <mark key="." line="24" column="82" />
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/MqttConsumerTest.java" timestamp="1588852783643">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="17" column="64" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="17" column="64" />
       </file>
       <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1588850769733">
         <mark key="'" line="181" column="13" />
@@ -217,6 +197,12 @@
         <mark key="]" line="6" column="27" />
         <mark key="^" line="6" column="27" />
         <mark key="." line="6" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/restart/PeriodicTimer.java" timestamp="1588846789179">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="4" column="40" />
+        <mark key="^" line="4" column="40" />
+        <mark key="." line="4" column="39" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1588846632743">
         <mark key="[" line="41" column="11" />
@@ -233,6 +219,17 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttConnectOptions.java" timestamp="1588846444735">
         <mark key="'" line="73" column="20" />
       </file>
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" timestamp="1588851023108">
+        <mark key="a" line="51" column="8" />
+        <mark key="'" line="159" column="90" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="38" />
+        <mark key="." line="68" column="57" />
+        <mark key="^" line="68" column="58" />
+      </file>
+      <file name="$USER_HOME$/.sdkman/candidates/java/8.0.252.hs-adpt/src.zip!/java/util/Timer.java" timestamp="1588846464387">
+        <mark key="'" line="157" column="11" />
+      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" timestamp="1588851247832">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="67" column="23" />
@@ -242,16 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="30" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/test/java/lin/louis/flat/controller/PetControllerTest.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/test/java/lin/louis/flat/controller/PetControllerTest.java" />
-      <jump line="69" column="12" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/test/java/lin/louis/flat/controller/PetControllerTest.java" />
-      <jump line="66" column="8" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/test/java/lin/louis/flat/controller/PetControllerTest.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/test/java/lin/louis/flat/controller/PetControllerTest.java" />
-      <jump line="58" column="19" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/test/java/lin/louis/flat/controller/PetControllerTest.java" />
-      <jump line="118" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/test/java/lin/louis/flat/controller/PetControllerTest.java" />
-      <jump line="160" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/flat/src/test/java/lin/louis/flat/controller/PetControllerTest.java" />
-      <jump line="13" column="61" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/layered/web/src/test/java/lin/louis/layered/web/mapper/PetMapperTest.java" />
-      <jump line="13" column="32" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/modular/order/src/test/java/lin/louis/modular/order/dao/impl/MemoryOrderDAOTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/pom.xml" />
       <jump line="35" column="33" filename="$USER_HOME$/perso/architecture-cheat-sheet/project-structures/clean/usecase/src/test/java/lin/louis/clean/usecase/PetRegisterTest.java" />
       <jump line="160" column="4" filename="$MAVEN_REPOSITORY$/org/mockito/mockito-junit-jupiter/3.1.0/mockito-junit-jupiter-3.1.0.pom" />
@@ -342,13 +329,22 @@
       <jump line="125" column="90" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
       <jump line="158" column="47" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
       <jump line="160" column="90" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
+      <jump line="93" column="8" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
+      <jump line="108" column="20" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
+      <jump line="111" column="41" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
+      <jump line="117" column="54" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
+      <jump line="33" column="36" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
+      <jump line="38" column="30" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
+      <jump line="43" column="33" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
+      <jump line="51" column="30" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
+      <jump line="55" column="67" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
+      <jump line="63" column="45" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>Ref
-Ref</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRm90YUFjdG9yUmVnaXN0cnkgZm90YUFjdG9yUmVnaXN0cnk7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -357,10 +353,10 @@ Ref</text>
         <text>context()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxERVZJQ0VfSURcPg==</text>
+        <text encoding="base64">XDxmb3RhQWN0b3JSZWdpc3RyeVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzeXN0ZW0gPSBBY3RvclN5c3RlbS5jcmVhdGUoKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgRm90YUFjdG9yUmVnaXN0cnkgZm90YUFjdG9yUmVnaXN0cnk7Cg==</text>
       </register>
       <register name="1" type="8">
         <text>Ref
@@ -398,9 +394,9 @@ Ref</text>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxERVZJQ0VfSURcPg==</last-search>
+      <last-search encoding="base64">XDxmb3RhQWN0b3JSZWdpc3RyeVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxERVZJQ0VfSURcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmb3RhQWN0b3JSZWdpc3RyeVw+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxOQU1FXD4=</last-substitute>
       <last-dir>1</last-dir>
