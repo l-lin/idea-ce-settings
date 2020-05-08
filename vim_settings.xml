@@ -174,12 +174,12 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/firmware/s3/AmazonS3FirmwareFetcherTest.java" timestamp="1588938001604">
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/firmware/s3/AmazonS3FirmwareFetcherTest.java" timestamp="1588938901891">
         <mark key="'" line="56" column="65" />
-        <mark key="[" line="70" column="35" />
-        <mark key="]" line="70" column="46" />
-        <mark key="^" line="70" column="46" />
-        <mark key="." line="70" column="45" />
+        <mark key="[" line="70" column="26" />
+        <mark key="]" line="70" column="27" />
+        <mark key="^" line="70" column="27" />
+        <mark key="." line="70" column="26" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1588935365055">
         <mark key="[" line="91" column="48" />
@@ -359,14 +359,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VuZGVyKCkudGVsbChuZXcgRXhjZXB0aW9uKCJFcnJvciBpbiBkb3dubG9hZGluZyBmaWxlIiksIHNlbGYoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>True</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>null == firmware)</text>
+        <text>True</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlQ29udGVudFw+</text>
