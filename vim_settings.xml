@@ -161,17 +161,24 @@
         <mark key="." line="37" column="31" />
         <mark key="^" line="37" column="32" />
       </file>
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/FotaActorTest.java" timestamp="1588933181641">
+        <mark key="[" line="67" column="44" />
+        <mark key="]" line="68" column="22" />
+        <mark key="^" line="68" column="22" />
+        <mark key="." line="68" column="21" />
+      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1588930870017">
         <mark key="[" line="91" column="48" />
         <mark key="]" line="92" column="59" />
         <mark key="^" line="92" column="59" />
         <mark key="." line="92" column="58" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" timestamp="1588931833171">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="91" column="31" />
-        <mark key="^" line="38" column="9" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" timestamp="1588933144324">
+        <mark key="'" line="83" column="26" />
+        <mark key="[" line="54" column="44" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/fota/utils/IOUtils.java" timestamp="1588928780159">
         <mark key="[" line="16" column="41" />
@@ -187,10 +194,10 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.6/akka-actor_2.11-2.5.6-sources.jar!/akka/event/Logging.scala" timestamp="1588928948654" />
       <file name="/FotaActorRegistry.java" timestamp="1588928843166" />
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/AmazonS3ActorTest.java" timestamp="1588931702242">
-        <mark key="[" line="88" column="28" />
-        <mark key="]" line="88" column="57" />
-        <mark key="." line="88" column="56" />
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/AmazonS3ActorTest.java" timestamp="1588933198363">
+        <mark key="[" line="46" column="27" />
+        <mark key="]" line="46" column="28" />
+        <mark key="." line="46" column="28" />
         <mark key="^" line="88" column="57" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/firmware/FirmwareMetadata.java" timestamp="1588928409161">
@@ -208,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="44" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/FaultHandling.scala" />
       <jump line="203" column="52" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/FaultHandling.scala" />
       <jump line="320" column="11" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/FaultHandling.scala" />
       <jump line="345" column="17" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.31/akka-actor_2.11-2.5.31-sources.jar!/akka/actor/FaultHandling.scala" />
@@ -308,12 +314,13 @@
       <jump line="20" column="20" filename="$USER_HOME$/work/fota-service/docker-compose.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/work/fota-service/docker-compose.yml" />
       <jump line="91" column="20" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
+      <jump line="83" column="26" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdG9yUmVmIGRpc3BhdGNoZXIgPSBjaGlsZEFjdG9yT2YoCiAgICAgICAgICAgICAgICAgICAgICAgIERpc3BhdGNoZXIucHJvcHMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3JSZWZGYWN0b3J5IC0+IG1vY2tDb25zdW1lci5nZXRSZWYoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3RvclJlZkZhY3RvcnkgLT4gbW9ja1Byb2R1Y2VyLmdldFJlZigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvdGFBY3RvclJlZ2lzdHJ5CiAgICAgICAgICAgICAgICAgICAgICAgICkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrQ29uc3VtZXIgPSBuZXcgVGVzdEtpdChzeXN0ZW0pOwogICAgICAgIG1vY2tQcm9kdWNlciA9IG5ldyBUZXN0S2l0KHN5c3RlbSk7CiAgICAgICAgZm90YUFjdG9yUmVnaXN0cnkgPSBtb2NrKEZvdGFBY3RvclJlZ2lzdHJ5LmNsYXNzKTsK</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -328,28 +335,28 @@
         <text encoding="base64">CiAgICBAVGVzdChleHBlY3RlZCA9IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbi5jbGFzcykKICAgIHB1YmxpYyB2b2lkIHdoZW5Mb2NhdGlvbklzTnVsbF90aGVuVGhyb3dJbGxlZ2FsQXJndW1lbnRFeGNlcHRpb24oKSB7CiAgICAgICAgRmlybXdhcmVNZXRhZGF0YS5mcm9tKG51bGwpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdG9yUmVmIGRpc3BhdGNoZXIgPSBjaGlsZEFjdG9yT2YoCiAgICAgICAgICAgICAgICAgICAgICAgIERpc3BhdGNoZXIucHJvcHMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3JSZWZGYWN0b3J5IC0+IG1vY2tDb25zdW1lci5nZXRSZWYoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3RvclJlZkZhY3RvcnkgLT4gbW9ja1Byb2R1Y2VyLmdldFJlZigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvdGFBY3RvclJlZ2lzdHJ5CiAgICAgICAgICAgICAgICAgICAgICAgICkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrQ29uc3VtZXIgPSBuZXcgVGVzdEtpdChzeXN0ZW0pOwogICAgICAgIG1vY2tQcm9kdWNlciA9IG5ldyBUZXN0S2l0KHN5c3RlbSk7CiAgICAgICAgZm90YUFjdG9yUmVnaXN0cnkgPSBtb2NrKEZvdGFBY3RvclJlZ2lzdHJ5LmNsYXNzKTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdG9yUmVmIGRpc3BhdGNoZXIgPSBjaGlsZEFjdG9yT2YoCiAgICAgICAgICAgICAgICAgICAgICAgIERpc3BhdGNoZXIucHJvcHMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3JSZWZGYWN0b3J5IC0+IG1vY2tDb25zdW1lci5nZXRSZWYoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3RvclJlZkZhY3RvcnkgLT4gbW9ja1Byb2R1Y2VyLmdldFJlZigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvdGFBY3RvclJlZ2lzdHJ5CiAgICAgICAgICAgICAgICAgICAgICAgICkpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsKCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">aW52b2NhdGlvbiAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJJTlNJSUlJREUiKTsKICAgICAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdG9yUmVmIGRpc3BhdGNoZXIgPSBjaGlsZEFjdG9yT2YoCiAgICAgICAgICAgICAgICAgICAgICAgIERpc3BhdGNoZXIucHJvcHMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3JSZWZGYWN0b3J5IC0+IG1vY2tDb25zdW1lci5nZXRSZWYoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3RvclJlZkZhY3RvcnkgLT4gbW9ja1Byb2R1Y2VyLmdldFJlZigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvdGFBY3RvclJlZ2lzdHJ5CiAgICAgICAgICAgICAgICAgICAgICAgICkpOwoK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFjdG9yUmVmIGRpc3BhdGNoZXIgPSBjaGlsZEFjdG9yT2YoCiAgICAgICAgICAgICAgICAgICAgICAgIERpc3BhdGNoZXIucHJvcHMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYWN0b3JSZWZGYWN0b3J5IC0+IG1vY2tDb25zdW1lci5nZXRSZWYoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhY3RvclJlZkZhY3RvcnkgLT4gbW9ja1Byb2R1Y2VyLmdldFJlZigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvdGFBY3RvclJlZ2lzdHJ5CiAgICAgICAgICAgICAgICAgICAgICAgICkpOwoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsKCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5zbGY0ai5Mb2dnZXI7CmltcG9ydCBvcmcuc2xmNGouTG9nZ2VyRmFjdG9yeTsKCg==</text>
