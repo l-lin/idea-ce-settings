@@ -143,37 +143,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttIOFactory.java" timestamp="1589032388496">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttIOFactory.java" timestamp="1589033017893">
         <mark key="'" line="30" column="4" />
         <mark key="[" line="19" column="52" />
         <mark key="]" line="19" column="56" />
         <mark key="." line="19" column="55" />
         <mark key="^" line="19" column="56" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/firmware/s3/AmazonS3FirmwareFetcher.java" timestamp="1589030267564">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="27" column="75" />
-        <mark key="^" line="27" column="75" />
-        <mark key="." line="27" column="74" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/firmware/s3/InMemoryCachedFirmwareFetcher.java" timestamp="1589031539923">
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="32" column="19" />
-        <mark key="^" line="32" column="19" />
-        <mark key="." line="32" column="18" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/MqttService.java" timestamp="1589031730243" />
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/DefaultMqttCallback.java" timestamp="1589031135876">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="11" column="31" />
-        <mark key="^" line="11" column="31" />
-        <mark key="." line="11" column="30" />
-      </file>
-      <file name="/Dummy.groovy" timestamp="1589031651035">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.java" timestamp="1589031651648">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/fota/utils/IOUtils.java" timestamp="1589030336101">
         <mark key="[" line="17" column="79" />
@@ -196,6 +171,23 @@
         <mark key="^" line="6" column="74" />
         <mark key="." line="6" column="73" />
       </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/firmware/s3/AmazonS3FirmwareFetcher.java" timestamp="1589030267564">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="27" column="75" />
+        <mark key="^" line="27" column="75" />
+        <mark key="." line="27" column="74" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConnector.java" timestamp="1589033050971">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/firmware/s3/InMemoryCachedFirmwareFetcher.java" timestamp="1589031539923">
+        <mark key="[" line="32" column="18" />
+        <mark key="]" line="32" column="19" />
+        <mark key="^" line="32" column="19" />
+        <mark key="." line="32" column="18" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-mqtt/1.1.3/bioserenity-io-mqtt-1.1.3-sources.jar!/com/bioserenity/io/mqtt/MqttSettings.java" timestamp="1589030743396">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="4" />
@@ -209,21 +201,38 @@
         <mark key="^" line="21" column="12" />
         <mark key="." line="21" column="11" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttConsumer.java" timestamp="1589032413450" />
-      <file name="/" timestamp="1589027269865">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttConsumer.java" timestamp="1589033274021">
+        <mark key="[" line="20" column="43" />
+        <mark key="]" line="20" column="46" />
+        <mark key="^" line="20" column="46" />
+        <mark key="." line="20" column="45" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/BrokerConnector.java" timestamp="1589033093808">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="47" />
+        <mark key="^" line="5" column="47" />
+        <mark key="." line="5" column="46" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/DefaultMqttCallback.java" timestamp="1589031135876">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="30" />
+      </file>
+      <file name="/Dummy.groovy" timestamp="1589031651035">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/MqttProperties.java" timestamp="1589031764855" />
-      <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1589028856668">
-        <mark key="[" line="77" column="44" />
-        <mark key="]" line="78" column="30" />
-        <mark key="^" line="78" column="30" />
-        <mark key="." line="78" column="29" />
+      <file name="/Dummy.java" timestamp="1589031651648">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1589029091514">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttException.java" timestamp="1589033075416">
+        <mark key="'" line="85" column="79" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" timestamp="1589033315757">
+        <mark key="[" line="36" column="36" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+        <mark key="." line="24" column="27" />
       </file>
       <file name="/fragment.java" timestamp="1589030694564">
         <mark key="[" line="0" column="0" />
@@ -232,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="45" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
       <jump line="89" column="17" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
       <jump line="28" column="32" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
       <jump line="92" column="62" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
@@ -332,24 +340,25 @@
       <jump line="36" column="36" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" />
       <jump line="41" column="13" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" />
       <jump line="52" column="20" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" />
+      <jump line="85" column="79" filename="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttException.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY2xvc2UoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIG1xdHRJTy5jbG9zZSgpOwogICAgICAgIH0gY2F0Y2ggKE1xdHRFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oZSk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2luZ0FkYXB0ZXIgbG9nID0gTG9nZ2luZy5nZXRMb2dnZXIoZ2V0Q29udGV4dCgpLmdldFN5c3RlbSgpLCB0aGlzKTsKICAgIHByaXZhdGUgZmluYWwgTXF0dElPIG1xdHRJTwo=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>https://www.rabbitmq.com/mqtt.html#tls</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3RhQWN0b3JzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiW2Nsb3VkOm1xdHRdIE1RVFQge30gZXN0YWJsaXNoZWQgdG8ge30iLAogICAgICAgICAgICAgICAgcmVjb25uZWN0ID8gInJlY29ubmVjdGlvbiIgOiAiY29ubmVjdGlvbiIsIHNlcnZlclVSSSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2luZ0FkYXB0ZXIgbG9nID0gTG9nZ2luZy5nZXRMb2dnZXIoZ2V0Q29udGV4dCgpLmdldFN5c3RlbSgpLCB0aGlzKTsKICAgIHByaXZhdGUgZmluYWwgTXF0dElPIG1xdHRJTwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY2xvc2UoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIHRyeSB7CiAgICAgICAgICAgIG1xdHRJTy5jbG9zZSgpOwogICAgICAgIH0gY2F0Y2ggKE1xdHRFeGNlcHRpb24gZSkgewogICAgICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oZSk7CiAgICAgICAgfQogICAgfQo=</text>
