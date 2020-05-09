@@ -146,21 +146,13 @@
       <file name="/a.dummy" timestamp="1589023615618">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/DevicePublisher.java" timestamp="1589024237127">
+        <mark key="]" line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+        <mark key="." line="2" column="31" />
+      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/DeviceMessageConsumer.java" timestamp="1589023499452">
         <mark key="[" line="4" column="38" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/DeviceMessage.java" timestamp="1588966919240">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="50" />
-        <mark key="^" line="3" column="50" />
-        <mark key="." line="3" column="49" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/mqtt/MqttIOFactory.java" timestamp="1588966169934">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="21" column="65" />
-        <mark key="]" line="21" column="65" />
-        <mark key="." line="21" column="65" />
-        <mark key="^" line="21" column="65" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/BcpMessage.java" timestamp="1588966973046">
         <mark key="[" line="5" column="59" />
@@ -180,11 +172,8 @@
         <mark key="^" line="31" column="37" />
         <mark key="." line="31" column="36" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/mqtt/MqttClientIdGenerator.java" timestamp="1588966410490">
-        <mark key="[" line="18" column="14" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="22" />
-        <mark key="^" line="18" column="23" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/DeviceMessagePublisher.java" timestamp="1589024233175">
+        <mark key="[" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/BrokerConnector.java" timestamp="1589023762258">
         <mark key="[" line="5" column="2" />
@@ -198,37 +187,11 @@
         <mark key="^" line="20" column="32" />
         <mark key="." line="20" column="31" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/FotaAppConfig.java" timestamp="1588966436101">
-        <mark key="'" line="18" column="13" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="44" column="49" />
-        <mark key="." line="44" column="48" />
-        <mark key="^" line="44" column="49" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/DeviceId.java" timestamp="1588966907818">
-        <mark key="[" line="5" column="50" />
-        <mark key="]" line="5" column="49" />
-        <mark key="^" line="5" column="49" />
-        <mark key="." line="5" column="48" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/DeviceIdGenerator.java" timestamp="1588966357134">
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="3" column="67" />
-        <mark key="^" line="3" column="67" />
-        <mark key="." line="3" column="66" />
-      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/firmware/FirmwareMetadata.java" timestamp="1589024123103">
         <mark key="[" line="31" column="104" />
         <mark key="]" line="31" column="114" />
         <mark key="." line="31" column="113" />
         <mark key="^" line="31" column="114" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1588966488052">
-        <mark key="'" line="45" column="23" />
-        <mark key="[" line="39" column="95" />
-        <mark key="]" line="39" column="117" />
-        <mark key="." line="39" column="116" />
-        <mark key="^" line="39" column="117" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/DeviceMessageSubscriber.java" timestamp="1589023509301">
         <mark key="]" line="4" column="40" />
@@ -236,11 +199,8 @@
         <mark key="." line="4" column="39" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" timestamp="1589023638770" />
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/BrokerClientIdGenerator.java" timestamp="1588966378116">
-        <mark key="[" line="3" column="67" />
-        <mark key="]" line="3" column="104" />
-        <mark key="^" line="3" column="104" />
-        <mark key="." line="3" column="103" />
+      <file name="/fragment.java" timestamp="1589024285914">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
