@@ -10,6 +10,19 @@
     <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="IS_CAMEL_WORDS" value="true" />
+  </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseAccessors" value="true" />
+    <option name="collapseAnnotations" value="true" />
+    <option name="collapseAnonymousClasses" value="true" />
+    <option name="collapseOneLineMethods" value="false" />
+    <option name="replaceVarWithInferredType" value="true" />
+  </component>
+  <component name="JetEditorOptions">
+    <option name="autoAddValKeywordToDataClassParameters" value="false" />
+    <option name="donTShowConversionDialog" value="true" />
+    <option name="enableJavaToKotlinConversion" value="false" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
