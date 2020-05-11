@@ -143,19 +143,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/firmware/FirmwareMetadataTest.java" timestamp="1589200647742">
-        <mark key="'" line="51" column="38" />
-        <mark key="[" line="51" column="36" />
-        <mark key="]" line="51" column="39" />
-        <mark key="." line="51" column="38" />
-        <mark key="^" line="51" column="39" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" timestamp="1589216721067">
-        <mark key="'" line="140" column="20" />
-        <mark key="[" line="113" column="20" />
-        <mark key="]" line="113" column="22" />
-        <mark key="^" line="113" column="22" />
-        <mark key="." line="113" column="21" />
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" timestamp="1589220201877">
+        <mark key="'" line="113" column="29" />
+        <mark key="[" line="110" column="74" />
+        <mark key="]" line="110" column="74" />
+        <mark key="." line="110" column="74" />
+        <mark key="^" line="110" column="31" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1589211589214">
         <mark key="[" line="58" column="0" />
@@ -191,6 +184,9 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1589218899109">
+        <mark key="[" line="63" column="74" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-testkit_2.11/2.5.6/akka-testkit_2.11-2.5.6-sources.jar!/akka/testkit/javadsl/TestKit.scala" timestamp="1589211133034">
         <mark key="'" line="123" column="39" />
@@ -250,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="13" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/FotaAppConfig.java" />
       <jump line="29" column="4" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttIOFactory.java" />
       <jump line="586" column="25" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5-sources.jar!/org/apache/commons/lang3/exception/ExceptionUtils.java" />
       <jump line="21" column="26" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" />
@@ -350,18 +345,19 @@
       <jump line="38" column="20" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/BrokerConsumerActor.java" />
       <jump line="65" column="10" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" />
       <jump line="135" column="20" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" />
+      <jump line="113" column="29" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBDb25zdW1lcjxEZXZpY2U+IGdldERldmljZUNvbnN1bWVyKCkgewogICAgICAgICAgICByZXR1cm4gZGV2aWNlQ29uc3VtZXI7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>brokerConsumerActor</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0QWN0b3JcPg==</text>
