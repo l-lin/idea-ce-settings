@@ -143,8 +143,36 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1589138408244">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/BrokerSubscriber.java" timestamp="1589135661489">
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="5" column="58" />
+        <mark key="^" line="5" column="58" />
+        <mark key="." line="5" column="57" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1589138393710">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttBrokerURLBuilder.java" timestamp="1589135275233">
+        <mark key="'" line="11" column="53" />
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="54" />
+        <mark key="^" line="32" column="54" />
+        <mark key="." line="32" column="53" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConnector.java" timestamp="1589138066998">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="75" column="8" />
+        <mark key="]" line="75" column="22" />
+        <mark key="^" line="75" column="22" />
+        <mark key="." line="75" column="21" />
+      </file>
+      <file name="/a.dummy" timestamp="1589138768668">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttSubscriberCallback.java" timestamp="1589136826814">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="69" column="5" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/BrokerConnector.java" timestamp="1589137311747">
         <mark key="[" line="7" column="35" />
@@ -158,18 +186,12 @@
         <mark key="^" line="5" column="112" />
         <mark key="." line="5" column="112" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConnectorFactory.java" timestamp="1589138458378">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConnectorFactory.java" timestamp="1589182459781">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="29" column="99" />
         <mark key="]" line="29" column="142" />
         <mark key="^" line="29" column="142" />
         <mark key="." line="29" column="141" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttProducer.java" timestamp="1589134214092">
-        <mark key="[" line="31" column="23" />
-        <mark key="]" line="31" column="34" />
-        <mark key="^" line="31" column="34" />
-        <mark key="." line="31" column="33" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/LogMqttCallback.java" timestamp="1589138683807">
         <mark key="[" line="8" column="0" />
@@ -184,11 +206,23 @@
         <mark key="." line="48" column="42" />
         <mark key="^" line="48" column="43" />
       </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1589138764725">
+        <mark key="[" line="44" column="2" />
+        <mark key="]" line="44" column="2" />
+        <mark key="^" line="43" column="3" />
+        <mark key="." line="44" column="2" />
+      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/BrokerSubscriberActor.java" timestamp="1589138550232">
         <mark key="[" line="29" column="111" />
         <mark key="]" line="29" column="111" />
         <mark key="." line="29" column="111" />
         <mark key="^" line="29" column="111" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/DeviceId.java" timestamp="1589182731282">
+        <mark key="[" line="14" column="112" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="25" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/RetryBrokerConnectorFactory.java" timestamp="1589138609678">
         <mark key="[" line="16" column="80" />
@@ -214,53 +248,6 @@
         <mark key="]" line="15" column="30" />
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="30" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/BrokerSubscriber.java" timestamp="1589135661489">
-        <mark key="[" line="2" column="41" />
-        <mark key="]" line="5" column="58" />
-        <mark key="^" line="5" column="58" />
-        <mark key="." line="5" column="57" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589138393710">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttBrokerURLBuilder.java" timestamp="1589135275233">
-        <mark key="'" line="11" column="53" />
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="54" />
-        <mark key="^" line="32" column="54" />
-        <mark key="." line="32" column="53" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConnector.java" timestamp="1589138066998">
-        <mark key="'" line="58" column="0" />
-        <mark key="[" line="75" column="8" />
-        <mark key="]" line="75" column="22" />
-        <mark key="^" line="75" column="22" />
-        <mark key="." line="75" column="21" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttSubscriberCallback.java" timestamp="1589136826814">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="69" column="5" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1589138628714">
-        <mark key="[" line="44" column="2" />
-        <mark key="]" line="44" column="2" />
-        <mark key="^" line="43" column="3" />
-        <mark key="." line="44" column="2" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1589138567943">
-        <mark key="[" line="51" column="24" />
-        <mark key="]" line="51" column="72" />
-        <mark key="^" line="51" column="72" />
-        <mark key="." line="51" column="71" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" timestamp="1589134194784">
-        <mark key="'" line="34" column="33" />
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="62" column="36" />
-        <mark key="^" line="62" column="36" />
-        <mark key="." line="62" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -369,13 +356,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>;</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b3BpY1w+</text>
