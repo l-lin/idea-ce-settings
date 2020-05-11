@@ -153,11 +153,11 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" timestamp="1589207335249">
-        <mark key="[" line="46" column="25" />
-        <mark key="]" line="46" column="25" />
-        <mark key="^" line="46" column="25" />
-        <mark key="." line="46" column="24" />
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" timestamp="1589208484763">
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="18" />
+        <mark key="^" line="43" column="18" />
+        <mark key="." line="43" column="16" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/BrokerConnectorFactory.java" timestamp="1589191537422">
         <mark key="[" line="6" column="65" />
@@ -370,20 +370,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFBhdHRlcm5zLmdyYWNlZnVsU3RvcChicm9rZXJDb25zdW1lckFjdG9yLCBkdXJhdGlvbigiMSBzZWNvbmRzIikpOwoKICAgICAgICAgICAgICAgIEJyb2tlckNvbnN1bWVyPERldmljZT4gYnJva2VyQ29uc3VtZXIgPSBicm9rZXJDb25uZWN0b3JGYWN0b3J5LmJyb2tlckNvbnN1bWVyOwogICAgICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkoYnJva2VyQ29uc3VtZXIpLmNsb3NlKCk7CiAgICAgICAgICAgICAgICBleHBlY3ROb01zZygpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>props</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>JVM</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b3BpY1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcm9iZS5hd2FpdENvbmQocHJvYmU6Om1zZ0F2YWlsYWJsZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>BrokerConsumerActor.props(brokerConnectorFactory)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFBhdHRlcm5zLmdyYWNlZnVsU3RvcChicm9rZXJDb25zdW1lckFjdG9yLCBkdXJhdGlvbigiMSBzZWNvbmRzIikpOwoKICAgICAgICAgICAgICAgIEJyb2tlckNvbnN1bWVyPERldmljZT4gYnJva2VyQ29uc3VtZXIgPSBicm9rZXJDb25uZWN0b3JGYWN0b3J5LmJyb2tlckNvbnN1bWVyOwogICAgICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkoYnJva2VyQ29uc3VtZXIpLmNsb3NlKCk7CiAgICAgICAgICAgICAgICBleHBlY3ROb01zZygpOwo=</text>
