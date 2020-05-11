@@ -150,12 +150,12 @@
         <mark key="." line="51" column="38" />
         <mark key="^" line="51" column="39" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" timestamp="1589213256006">
-        <mark key="'" line="126" column="10" />
-        <mark key="[" line="92" column="51" />
-        <mark key="]" line="93" column="73" />
-        <mark key="^" line="93" column="73" />
-        <mark key="." line="93" column="72" />
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" timestamp="1589214993213">
+        <mark key="'" line="140" column="20" />
+        <mark key="[" line="171" column="0" />
+        <mark key="]" line="171" column="0" />
+        <mark key="." line="171" column="0" />
+        <mark key="^" line="123" column="22" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1589211589214">
         <mark key="[" line="58" column="0" />
@@ -167,12 +167,12 @@
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="34" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/BrokerConsumerActor.java" timestamp="1589212256806">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/BrokerConsumerActor.java" timestamp="1589214358747">
         <mark key="'" line="38" column="20" />
-        <mark key="[" line="38" column="34" />
-        <mark key="]" line="38" column="42" />
-        <mark key="." line="38" column="41" />
-        <mark key="^" line="38" column="42" />
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="38" column="44" />
+        <mark key="." line="38" column="43" />
+        <mark key="^" line="38" column="44" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/BrokerException.java" timestamp="1589201208696">
         <mark key="[" line="8" column="0" />
@@ -245,12 +245,11 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttConnectOptions.java" timestamp="1589201835790">
         <mark key="'" line="157" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1589212960286">
+      <file name="/fragment.java" timestamp="1589214103002">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/mqtt/MqttIOFactory.java" />
       <jump line="17" column="13" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/FotaAppConfig.java" />
       <jump line="29" column="4" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttIOFactory.java" />
       <jump line="586" column="25" filename="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5-sources.jar!/org/apache/commons/lang3/exception/ExceptionUtils.java" />
@@ -350,51 +349,55 @@
       <jump line="123" column="39" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-testkit_2.11/2.5.6/akka-testkit_2.11-2.5.6-sources.jar!/akka/testkit/javadsl/TestKit.scala" />
       <jump line="38" column="20" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/BrokerConsumerActor.java" />
       <jump line="65" column="10" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" />
+      <jump line="135" column="20" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Dispatcher.DeviceMessage.class);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBDb25zdW1lcjxEZXZpY2U+IGdldERldmljZUNvbnN1bWVyKCkgewogICAgICAgICAgICByZXR1cm4gZGV2aWNlQ29uc3VtZXI7CiAgICAgICAgfQo=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Dispatcher.DeviceMessage.class);</text>
+        <text>brokerConsumerActor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0QWN0b3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb3BzIHByb3BzID0gQnJva2VyQ29uc3VtZXJBY3Rvci5wcm9wcyhicm9rZXJDb25uZWN0b3JGYWN0b3J5KTsKICAgICAgICAgICAgICAgIEFjdG9yUmVmIGJyb2tlckNvbnN1bWVyQWN0b3IgPSBzeXN0ZW0uYWN0b3JPZihwcm9wcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCcm9rZXJDb25zdW1lcjxEZXZpY2U+IGJyb2tlckNvbnN1bWVyID0gYnJva2VyQ29ubmVjdG9yRmFjdG9yeS5icm9rZXJDb25zdW1lcjsKICAgICAgICAgICAgICAgICAgICBNb2NraXRvLnZlcmlmeShicm9rZXJDb25zdW1lcikuY2xvc2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb3BzIHByb3BzID0gQnJva2VyQ29uc3VtZXJBY3Rvci5wcm9wcyhicm9rZXJDb25uZWN0b3JGYWN0b3J5KTsK</text>
+        <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBDb25zdW1lcjxEZXZpY2U+IGdldERldmljZUNvbnN1bWVyKCkgewogICAgICAgICAgICByZXR1cm4gZGV2aWNlQ29uc3VtZXI7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb3BzIGJyb2tlckNvbnN1bWVyQWN0b3JQcm9wcyA9IEJyb2tlckNvbnN1bWVyQWN0b3IucHJvcHMoYnJva2VyQ29ubmVjdG9yRmFjdG9yeSk7CiAgICAgICAgICAgICAgICBBY3RvclJlZiBwYXJlbnQgPSBzeXN0ZW0uYWN0b3JPZihGYWtlUGFyZW50QWN0b3IucHJvcHMoYnJva2VyQ29uc3VtZXJBY3RvclByb3BzKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vUHJvcHMgYnJva2VyQ29uc3VtZXJBY3RvclByb3BzID0gQnJva2VyQ29uc3VtZXJBY3Rvci5wcm9wcyhicm9rZXJDb25uZWN0b3JGYWN0b3J5KTsKICAgICAgICAgICAgICAgIC8vVGVzdEtpdCBwcm9iZSA9IG5ldyBUZXN0S2l0KHN5c3RlbSk7CiAgICAgICAgICAgICAgICAvL3Byb2JlLmNoaWxkQWN0b3JPZihicm9rZXJDb25zdW1lckFjdG9yUHJvcHMpOwoK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kZXZpY2VDb25zdW1lciA9IGRldmljZUNvbnN1bWVyOwo=</text>
+      <register name="3" type="8">
+        <text>//
+//
+//
+//</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNb2NraXRvLnZlcmlmeShicm9rZXJDb25zdW1lcikuc2V0VXAoKTsKICAgICAgICAgICAgICAgICAgICBNb2NraXRvLnZlcmlmeShicm9rZXJDb25zdW1lcikuY29ubmVjdCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhd2FpdENvbmQodGhpczo6bXNnQXZhaWxhYmxlKTsKICAgICAgICAgICAgICAgICAgICBleHBlY3RNc2dDbGFzcyhCcm9rZXJDb25zdW1lckFjdG9yLk9LLmNsYXNzKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFByb3BzIHByb3BzID0gQnJva2VyQ29uc3VtZXJBY3Rvci5wcm9wcyhicm9rZXJDb25uZWN0b3JGYWN0b3J5KTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb3BzIGJyb2tlckNvbnN1bWVyQWN0b3JQcm9wcyA9IEJyb2tlckNvbnN1bWVyQWN0b3IucHJvcHMoYnJva2VyQ29ubmVjdG9yRmFjdG9yeSk7CiAgICAgICAgICAgICAgICBBY3RvclJlZiBwYXJlbnQgPSBzeXN0ZW0uYWN0b3JPZihGYWtlUGFyZW50QWN0b3IucHJvcHMoYnJva2VyQ29uc3VtZXJBY3RvclByb3BzKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kZXZpY2VDb25zdW1lciA9IGRldmljZUNvbnN1bWVyOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNlYXJjaCB0aGUgZmFpbGVkIGNoaWxkIChzZW5kZXIpIGluIGZvdGEgYWN0b3JzCiAgICAgICAgICAgICAgICBMaXN0PEFjdG9yUmVmPiBmYWlsZWRGb3RhQ2hpbGQgPSBmb3RhQWN0b3JSZWdpc3RyeS5nZXRGb3RhQWN0b3JMaXN0KCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZpbHRlcigoQWN0b3JSZWYgYWN0b3IpIC0+IGFjdG9yID09IHNlbmRlcigpKS5jb2xsZWN0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgICAgICAgICAgLy8gaWYgdGhlIGZhaWxlZCBjaGlsZCBpcyBhIGZvdGEgYWN0b3IgPT4gc3RvcCBpdAogICAgICAgICAgICAgICAgaWYgKCFmYWlsZWRGb3RhQ2hpbGQuaXNFbXB0eSgpKQogICAgICAgICAgICAgICAgICAgIHJldHVybiBTdXBlcnZpc29yU3RyYXRlZ3kuc3RvcCgpOwogICAgICAgICAgICAgICAgLy8gZWxzZSBhcHBseSBkZWZhdWx0IHN0cmF0ZWd5CiAgICAgICAgICAgICAgICByZXR1cm4gU3VwZXJ2aXNvclN0cmF0ZWd5LmRlZmF1bHREZWNpZGVyKCkuYXBwbHkoZXgpOwogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNb2NraXRvLnZlcmlmeShicm9rZXJDb25zdW1lcikuc2V0VXAoKTsKICAgICAgICAgICAgICAgICAgICBNb2NraXRvLnZlcmlmeShicm9rZXJDb25zdW1lcikuY29ubmVjdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNlYXJjaCB0aGUgZmFpbGVkIGNoaWxkIChzZW5kZXIpIGluIGZvdGEgYWN0b3JzCiAgICAgICAgICAgICAgICBMaXN0PEFjdG9yUmVmPiBmYWlsZWRGb3RhQ2hpbGQgPSBmb3RhQWN0b3JSZWdpc3RyeS5nZXRGb3RhQWN0b3JMaXN0KCkuc3RyZWFtKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZpbHRlcigoQWN0b3JSZWYgYWN0b3IpIC0+IGFjdG9yID09IHNlbmRlcigpKS5jb2xsZWN0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENvbGxlY3RvcnMudG9MaXN0KCkpOwogICAgICAgICAgICAgICAgLy8gaWYgdGhlIGZhaWxlZCBjaGlsZCBpcyBhIGZvdGEgYWN0b3IgPT4gc3RvcCBpdAogICAgICAgICAgICAgICAgaWYgKCFmYWlsZWRGb3RhQ2hpbGQuaXNFbXB0eSgpKQogICAgICAgICAgICAgICAgICAgIHJldHVybiBTdXBlcnZpc29yU3RyYXRlZ3kuc3RvcCgpOwogICAgICAgICAgICAgICAgLy8gZWxzZSBhcHBseSBkZWZhdWx0IHN0cmF0ZWd5CiAgICAgICAgICAgICAgICByZXR1cm4gU3VwZXJ2aXNvclN0cmF0ZWd5LmRlZmF1bHREZWNpZGVyKCkuYXBwbHkoZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhd2FpdENvbmQodGhpczo6bXNnQXZhaWxhYmxlKTsKICAgICAgICAgICAgICAgICAgICBleHBlY3RNc2dDbGFzcyhCcm9rZXJDb25zdW1lckFjdG9yLk9LLmNsYXNzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZha2VCcm9rZXJDb25uZWN0b3JGYWN0b3J5IGJyb2tlckNvbm5lY3RvckZhY3RvcnkgPSBuZXcgRmFrZUJyb2tlckNvbm5lY3RvckZhY3RvcnkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFByb3BzIHByb3BzID0gQnJva2VyQ29uc3VtZXJBY3Rvci5wcm9wcyhicm9rZXJDb25uZWN0b3JGYWN0b3J5KTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
