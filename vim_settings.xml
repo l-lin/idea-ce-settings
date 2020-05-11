@@ -143,12 +143,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" timestamp="1589220201877">
-        <mark key="'" line="113" column="29" />
-        <mark key="[" line="110" column="74" />
-        <mark key="]" line="110" column="74" />
-        <mark key="." line="110" column="74" />
-        <mark key="^" line="110" column="31" />
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" timestamp="1589221738425">
+        <mark key="'" line="128" column="29" />
+        <mark key="[" line="123" column="26" />
+        <mark key="]" line="123" column="26" />
+        <mark key="^" line="121" column="70" />
+        <mark key="." line="123" column="26" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1589211589214">
         <mark key="[" line="58" column="0" />
@@ -351,19 +351,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>;new OneForOneStrategy()</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;new OneForOneStrategy()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0QWN0b3JcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCcm9rZXJDb25zdW1lcjxEZXZpY2U+IGJyb2tlckNvbnN1bWVyID0gYnJva2VyQ29ubmVjdG9yRmFjdG9yeS5icm9rZXJDb25zdW1lcjsKICAgICAgICAgICAgICAgICAgICBNb2NraXRvLnZlcmlmeShicm9rZXJDb25zdW1lcikuY2xvc2UoKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">bmV3IE9uZUZvck9uZVN0cmF0ZWd5KDEwLCBEdXJhdGlvbi5jcmVhdGUoMSwgVGltZVVuaXQuTUlOVVRFUyksIGV4IC0+IHsKICAgICAgICAgICAgICAgIHJldHVybiBTdXBlcnZpc29yU3RyYXRlZ3kucmVzdGFydCgpOwogICAgICAgICAgICB9KTs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgcHJpdmF0ZSBDb25zdW1lcjxEZXZpY2U+IGdldERldmljZUNvbnN1bWVyKCkgewogICAgICAgICAgICByZXR1cm4gZGV2aWNlQ29uc3VtZXI7CiAgICAgICAgfQo=</text>
