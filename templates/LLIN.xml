@@ -9,12 +9,12 @@
       <option name="JAVA_STRING" value="true" />
     </context>
   </template>
-  <template name="fixme" value="// FIXME (l.lin): " description="fixme" toReformat="false" toShortenFQNames="true">
+  <template name="fixme" value="// FIXME (louis.lin): " description="fixme" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="todo" value="// TODO (l.lin): " description="todo" toReformat="false" toShortenFQNames="true">
+  <template name="todo" value="// TODO (louis.lin): " description="todo" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
