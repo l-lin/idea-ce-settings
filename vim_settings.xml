@@ -5,9 +5,7 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9kdWNlclw+</entry>
         <entry encoding="base64">XDxtcXR0UHJvZHVjZXJcPg==</entry>
-        <entry encoding="base64">XDxhdXRvbWF0aWNSZWNvbm5lY3RcPg==</entry>
         <entry encoding="base64">XDxyZWNvbm5lY3REZWxheVw+</entry>
         <entry encoding="base64">XDxkZWxheVw+</entry>
         <entry encoding="base64">XDx1bnJlZ2lzdGVyRGV2aWNlXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDx0b3BpY1w+</entry>
         <entry encoding="base64">XDxhd3NBY3Rvclw+</entry>
         <entry encoding="base64">XDx0ZXN0QWN0b3JcPg==</entry>
+        <entry encoding="base64">XDxhdXRvbWF0aWNSZWNvbm5lY3RcPg==</entry>
+        <entry encoding="base64">XDxzdGFydFJlY29ubmVjdEN5Y2xlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -143,11 +143,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttAsyncClient.java" timestamp="1589294593945">
+        <mark key="'" line="1107" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/retry/RetryBrokerProducer.java" timestamp="1589293738371">
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="40" />
+        <mark key="^" line="6" column="41" />
+      </file>
       <file name="/FotaApp.java" timestamp="1589292200620" />
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1589290576663">
         <mark key="[" line="156" column="0" />
         <mark key="]" line="156" column="0" />
         <mark key="." line="156" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/retry/RetryBrokerConnector.java" timestamp="1589294226943">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="61" column="13" />
+        <mark key="]" line="62" column="19" />
+        <mark key="." line="62" column="18" />
+        <mark key="^" line="62" column="19" />
       </file>
       <file name="$USER_HOME$/work/cloud-aqtp/src/main/java/com/bioserenity/aqtp/scenario/fota/FotaScenario.java" timestamp="1589289770852">
         <mark key="[" line="84" column="65" />
@@ -158,7 +174,6 @@
         <mark key="^" line="184" column="14" />
         <mark key="." line="184" column="13" />
       </file>
-      <file name="$USER_HOME$/work/cloud-aqtp/pom.xml" timestamp="1589288122247" />
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1589291009708">
         <mark key="[" line="52" column="45" />
         <mark key="]" line="53" column="21" />
@@ -183,16 +198,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/work/cloud-aqtp/README.md" timestamp="1589288013882">
-        <mark key="[" line="28" column="34" />
-        <mark key="]" line="28" column="35" />
-        <mark key="^" line="28" column="35" />
-        <mark key="." line="28" column="34" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/retry/RetryBrokerConsumer.java" timestamp="1589293728959">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="6" column="41" />
+        <mark key="." line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/retry/RetryBrokerConsumer.java" timestamp="1589285082537">
-        <mark key="[" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-aqtp/src/main/resources/configs/staging.properties" timestamp="1589286420979" />
       <file name="$USER_HOME$/work/cloud-aqtp/src/main/resources/configs/local.properties" timestamp="1589288376291">
         <mark key="[" line="51" column="14" />
         <mark key="]" line="51" column="19" />
@@ -208,22 +219,19 @@
       <file name="$USER_HOME$/work/cloud-aqtp/src/main/java/com/bioserenity/aqtp/console/CLI.java" timestamp="1589289091765">
         <mark key="'" line="482" column="32" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/FotaAppConfig.java" timestamp="1589279959620">
-        <mark key="[" line="57" column="8" />
-        <mark key="]" line="57" column="15" />
-        <mark key="." line="57" column="14" />
-        <mark key="^" line="57" column="15" />
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttConnectOptions.java" timestamp="1589294452114">
+        <mark key="'" line="73" column="20" />
       </file>
-      <file name="/fragment.java" timestamp="1589290182101">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/retry/RetryBrokerConnectorFactory.java" timestamp="1589293746084">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1589293927472">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="44" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConnectorFactory.java" />
-      <jump line="45" column="47" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/BrokerSubscriberActor.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConnectorFactory.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/BrokerSubscriberActor.java" />
-      <jump line="84" column="41" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" />
       <jump line="26" column="0" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-mqtt/1.1.3/bioserenity-io-mqtt-1.1.3-sources.jar!/com/bioserenity/io/mqtt/MqttIO.java" />
       <jump line="34" column="33" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/MqttClient.java" />
       <jump line="10" column="53" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttBrokerURLBuilder.java" />
@@ -319,52 +327,57 @@
       <jump line="18" column="13" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/BrokerConsumerActor.java" />
       <jump line="60" column="15" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConsumer.java" />
       <jump line="482" column="32" filename="$USER_HOME$/work/cloud-aqtp/src/main/java/com/bioserenity/aqtp/console/CLI.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/retry/RetryBrokerConnector.java" />
+      <jump line="73" column="20" filename="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttConnectOptions.java" />
+      <jump line="543" column="22" filename="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttAsyncClient.java" />
+      <jump line="1108" column="29" filename="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttAsyncClient.java" />
+      <jump line="1107" column="17" filename="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttAsyncClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>message types in MessageRegistry</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhdHRlbXB0cy5pbmNyZW1lbnRBbmRHZXQoKSA+PSBtYXhBdHRlbXB0cykK</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>message types in MessageRegistry</text>
+        <text>ignoreTests</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0QWN0b3JcPg==</text>
+        <text encoding="base64">XDxzdGFydFJlY29ubmVjdEN5Y2xlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBicm9rZXIgPSBtcXR0MDEtc3RhZ2luZy5uZXQuYmlvc2VyZW5pdHkuY29tCiAgcG9ydCA9IDgwCiAgdXNlcm5hbWU9Im1xdHRrYWZrYSIKICBwYXNzd29yZD0iYmlva2Fma2F0ZXN0Igo=</text>
+        <text encoding="base64">LyoqCiAqIFNpbXBsZSBkZWNvcmF0b3Igb2YgYSBicm9rZXIgY29uc3VtZXIuIEl0IGlzIHVzZWQgdG8gYWRkIGZhdWx0LXRvbGVyYW50IGZlYXR1cmUgb24gdGhlIGNvbm5lY3Rvci4KICogQHBhcmFtIDxNPiB0aGUgbWVzc2FnZSB0eXBlIHRvIGNvbnN1bWUKICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBoZWxwKCkgdGhyb3dzIElPRXhjZXB0aW9uLCBQYXJzZUV4Y2VwdGlvbiB7CiAgICAgICAgQ0xJIGNsaSA9IG5ldyBDTEkobmV3IFN0cmluZ1tdeyItaCJ9KTsKICAgICAgICBjbGkucnVuKCk7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhdHRlbXB0cy5pbmNyZW1lbnRBbmRHZXQoKSA+PSBtYXhBdHRlbXB0cykK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJva2VyQ29ubmVjdG9yLmNvbm5lY3QoKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBicm9rZXJDb25uZWN0b3IuY29ubmVjdCgpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCiAqIEZhY3RvcnkgdG8gY3JlYXRlCiAqIEBwYXJhbSA8TT4KICovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBoZWxwKCkgdGhyb3dzIElPRXhjZXB0aW9uLCBQYXJzZUV4Y2VwdGlvbiB7CiAgICAgICAgQ0xJIGNsaSA9IG5ldyBDTEkobmV3IFN0cmluZ1tdeyItaCJ9KTsKICAgICAgICBjbGkucnVuKCk7CiAgICB9Cgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgQVBQX0NPTkZJRy5jbGllbnRJZEdlbmVyYXRvcihjb25zdW1lclByb3BlcnRpZXMuZ2V0Q2xpZW50SWRQcmVmaXgoKSksCiAgICAgICAgICAgICAgICBBUFBfQ09ORklHLmNsaWVudElkR2VuZXJhdG9yKHByb2R1Y2VyUHJvcGVydGllcy5nZXRDbGllbnRJZFByZWZpeCgpKSwKICAgICAgICAgICAgICAgIG1xdHRQcm9wZXJ0aWVzLAogICAgICAgICAgICAgICAgY29uc3VtZXJQcm9wZXJ0aWVzLmdldFRvcGljKCksCiAgICAgICAgICAgICAgICBwcm9kdWNlclByb3BlcnRpZXMuZ2V0VG9waWMoKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>BrokerClientIdGenerator consumerClientIdGenerator,
             BrokerClientIdGenerator producerClientIdGenerator</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBNcXR0Q29ubmVjdG9yRmFjdG9yeSgKICAgICAgICAgICAgICAgICAgICAgICAgQVBQX0NPTkZJRy5jbGllbnRJZEdlbmVyYXRvcihjb25zdW1lclByb3BlcnRpZXMuZ2V0Q2xpZW50SWRQcmVmaXgoKSksCiAgICAgICAgICAgICAgICAgICAgICAgIEFQUF9DT05GSUcuY2xpZW50SWRHZW5lcmF0b3IocHJvZHVjZXJQcm9wZXJ0aWVzLmdldENsaWVudElkUHJlZml4KCkpLAogICAgICAgICAgICAgICAgICAgICAgICBtcXR0UHJvcGVydGllcywKICAgICAgICAgICAgICAgICAgICAgICAgY29uc3VtZXJQcm9wZXJ0aWVzLmdldFRvcGljKCksCiAgICAgICAgICAgICAgICAgICAgICAgIHByb2R1Y2VyUHJvcGVydGllcy5nZXRUb3BpYygpCiAgICAgICAgICAgICAgICApOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICogTW9yZSBpbmZvcm1hdGlvbiBpbiB0aGUgPGEgaHJlZj0iaHR0cHM6Ly9kb2MuYWtrYS5pby9kb2NzL2Fra2EvY3VycmVudC9mYXVsdC10b2xlcmFuY2UuaHRtbD9sYW5ndWFnZT1qYXZhIj5Ba2thIGRvY3VtZW50YXRpb248L2E+Lgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgYnVpbGRUb3BpYyhTdHJpbmcgcHJlZml4KSB7CiAgICAgICAgcmV0dXJuIHByZWZpeCArIFRPUElDX1NFUCArIHZhbHVlOwogICAgfQoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICogVGhlIHByb2Nlc3MgaXMgYXMgZm9sbG93OgogKiA8dWw+CiAqICAgICA8bGk+c2V0IGEgY2FsbGJhY2sgdG8gY2F0Y2ggbWVzc2FnZSBvbiBjb25uZWN0aW9uPC9saT4KICogICAgIDxsaT5hdCBlYWNoIG1lczwvbGk+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICogPHA+CiAqIFdoZW4gY2xlYW5TZXNzaW9uIGlzIHNldCB0byBmYWxzZSwgYW4gYXBwbGljYXRpb24gbXVzdCBlbnN1cmUgaXQgdXNlcyB0aGUgc2FtZSBjbGllbnQgaWRlbnRpZmllciB3aGVuIGl0IHJlY29ubmVjdHMK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2ZXJpZnkoZm90YUFjdG9yUmVnaXN0cnksIHRpbWVzKDEpKS51bnJlZ2lzdGVyQWN0b3IoREVWSUNFX0lEKTsK</text>
+        <text encoding="base64">ICogTW9yZSBpbmZvcm1hdGlvbiBpbiB0aGUgPGEgaHJlZj0iaHR0cHM6Ly9kb2MuYWtrYS5pby9kb2NzL2Fra2EvY3VycmVudC9mYXVsdC10b2xlcmFuY2UuaHRtbD9sYW5ndWFnZT1qYXZhIj5Ba2thIGRvY3VtZW50YXRpb248L2E+Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -373,9 +386,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0ZXN0QWN0b3JcPg==</last-search>
+      <last-search encoding="base64">XDxzdGFydFJlY29ubmVjdEN5Y2xlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0QWN0b3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdGFydFJlY29ubmVjdEN5Y2xlXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxOQU1FXD4=</last-substitute>
       <last-dir>1</last-dir>
