@@ -143,11 +143,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" timestamp="1589228160257">
-        <mark key="'" line="174" column="4" />
-        <mark key="]" line="111" column="26" />
-        <mark key="^" line="111" column="26" />
-        <mark key="." line="111" column="25" />
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" timestamp="1589228270663">
+        <mark key="'" line="113" column="20" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="109" column="130" />
+        <mark key="^" line="109" column="130" />
+        <mark key="." line="109" column="129" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" timestamp="1589211589214">
         <mark key="[" line="58" column="0" />
@@ -231,12 +232,11 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttConnectOptions.java" timestamp="1589201835790">
         <mark key="'" line="157" column="8" />
       </file>
-      <file name="/fragment.java" timestamp="1589226317993">
+      <file name="/fragment.java" timestamp="1589228174842">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="79" filename="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttException.java" />
       <jump line="26" column="13" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
       <jump line="20" column="17" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/device/mqtt/MqttDeviceMapper.java" />
       <jump line="14" column="51" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttSubscriberCallback.java" />
@@ -336,18 +336,19 @@
       <jump line="109" column="95" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" />
       <jump line="3" column="11" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" />
       <jump line="177" column="4" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" />
+      <jump line="114" column="20" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>brokerConsumerActorProps</text>
+        <text>testActorRef.props()</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>brokerConsumerActorProps</text>
+        <text>testActorRef.props()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXN0QWN0b3JcPg==</text>
