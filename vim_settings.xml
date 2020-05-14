@@ -144,6 +144,9 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/processing/logger/1.5.4/logger-1.5.4-sources.jar!/com/bioserenity/processing/logger/model/aws/BCPBlock.java" timestamp="1589451956959" />
+      <file name="$MAVEN_REPOSITORY$/software/amazon/awssdk/s3/2.10.76/s3-2.10.76-sources.jar!/software/amazon/awssdk/services/s3/model/S3Exception.java" timestamp="1589470548112">
+        <mark key="'" line="23" column="4" />
+      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/WatchedActor.java" timestamp="1589447135956">
         <mark key="[" line="6" column="54" />
         <mark key="]" line="6" column="72" />
@@ -192,11 +195,6 @@
         <mark key="^" line="13" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/AmazonS3ActorTest.java" timestamp="1589444428904">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="/RecordProcessorCreator.java" timestamp="1589458322739" />
       <file name="/ResultsBufferService.java" timestamp="1589464693178">
         <mark key="'" line="101" column="68" />
@@ -217,7 +215,6 @@
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1589461028293" />
     </filemarks>
     <jumps>
-      <jump line="44" column="41" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConnectorFactoryTest.java" />
       <jump line="46" column="0" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConnectorFactoryTest.java" />
       <jump line="65" column="33" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConnectorFactoryTest.java" />
       <jump line="51" column="38" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/firmware/FirmwareMetadataTest.java" />
@@ -317,6 +314,7 @@
       <jump line="67" column="20" filename="/ResultsBufferService.java" />
       <jump line="93" column="13" filename="/ResultsBufferService.java" />
       <jump line="101" column="68" filename="/ResultsBufferService.java" />
+      <jump line="23" column="4" filename="$MAVEN_REPOSITORY$/software/amazon/awssdk/s3/2.10.76/s3-2.10.76-sources.jar!/software/amazon/awssdk/services/s3/model/S3Exception.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
