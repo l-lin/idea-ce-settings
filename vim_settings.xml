@@ -144,12 +144,6 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/processing/logger/1.5.4/logger-1.5.4-sources.jar!/com/bioserenity/processing/logger/model/aws/BCPBlock.java" timestamp="1589451956959" />
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/FotaActorTest.java" timestamp="1589444222131">
-        <mark key="[" line="54" column="12" />
-        <mark key="]" line="54" column="12" />
-        <mark key="." line="54" column="12" />
-        <mark key="^" line="58" column="21" />
-      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/WatchedActor.java" timestamp="1589447135956">
         <mark key="[" line="6" column="54" />
         <mark key="]" line="6" column="72" />
@@ -183,10 +177,15 @@
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" timestamp="1589460322206">
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" timestamp="1589469615465">
         <mark key="'" line="90" column="73" />
+        <mark key="[" line="119" column="35" />
+        <mark key="]" line="119" column="35" />
+        <mark key="^" line="119" column="15" />
+        <mark key="." line="119" column="35" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1589460971971" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/pom.xml" timestamp="1589469585181" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/writer/Foobar.java" timestamp="1589457995292">
         <mark key="[" line="14" column="31" />
         <mark key="]" line="14" column="32" />
@@ -322,14 +321,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdDEpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydERhdGVcPg==</text>
@@ -338,34 +337,34 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkoYnJva2VyUHJvZHVjZXIpLnNldFVwKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIE1vY2tpdG8udmVyaWZ5KGJyb2tlclByb2R1Y2VyKS5jb25uZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBJdGVyYXRvcjxUPiBpdGVyYXRvciA9IHRpbWVzdGFtcGFibGVzLml0ZXJhdG9yKCk7CiAgICAgICAgd2hpbGUgKGl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICBmaW5hbCBUIG9iamVjdCA9IGl0ZXJhdG9yLm5leHQoKTsKICAgICAgICAgICAgaWYgKGlzT2JqZWN0QmVsb25naW5nVG9QcmV2aW91c1JlcG9ydChvYmplY3QpKSB7CiAgICAgICAgICAgICAgICBvYmplY3RzVG9Nb3ZlTGlzdC5hZGQob2JqZWN0KTsKICAgICAgICAgICAgICAgIGl0ZXJhdG9yLnJlbW92ZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBvYmplY3RzVG9Nb3ZlTGlzdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5PcmRlci52ZXJpZnkoYnJva2VyUHJvZHVjZXIpLnNldFVwKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGluT3JkZXIudmVyaWZ5KGJyb2tlclByb2R1Y2VyKS5jb25uZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBJdGVyYXRvcjxUPiBpdGVyYXRvciA9IHRpbWVzdGFtcGFibGVzLml0ZXJhdG9yKCk7CiAgICAgICAgd2hpbGUgKGl0ZXJhdG9yLmhhc05leHQoKSkgewogICAgICAgICAgICBmaW5hbCBUIG9iamVjdCA9IGl0ZXJhdG9yLm5leHQoKTsKICAgICAgICAgICAgaWYgKGlzT2JqZWN0QmVsb25naW5nVG9QcmV2aW91c1JlcG9ydChvYmplY3QpKSB7CiAgICAgICAgICAgICAgICBvYmplY3RzVG9Nb3ZlTGlzdC5hZGQob2JqZWN0KTsKICAgICAgICAgICAgICAgIGl0ZXJhdG9yLnJlbW92ZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBvYmplY3RzVG9Nb3ZlTGlzdDsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkoYnJva2VyUHJvZHVjZXIpLnNldFVwKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIE1vY2tpdG8udmVyaWZ5KGJyb2tlclByb2R1Y2VyKS5jb25uZWN0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkoYnJva2VyQ29uc3VtZXIpLnNldFVwKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIE1vY2tpdG8udmVyaWZ5KGJyb2tlckNvbnN1bWVyKS5jb25uZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5PcmRlci52ZXJpZnkoYnJva2VyUHJvZHVjZXIpLnNldFVwKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGluT3JkZXIudmVyaWZ5KGJyb2tlclByb2R1Y2VyKS5jb25uZWN0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5PcmRlci52ZXJpZnkoYnJva2VyQ29uc3VtZXIpLnNldFVwKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGluT3JkZXIudmVyaWZ5KGJyb2tlckNvbnN1bWVyKS5jb25uZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkoYnJva2VyUHJvZHVjZXIpLnNldFVwKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIE1vY2tpdG8udmVyaWZ5KGJyb2tlclByb2R1Y2VyKS5jb25uZWN0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkoYnJva2VyQ29uc3VtZXIpLnNldFVwKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIE1vY2tpdG8udmVyaWZ5KGJyb2tlckNvbnN1bWVyKS5jb25uZWN0KCk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaW5PcmRlci52ZXJpZnkoYnJva2VyQ29uc3VtZXIpLnNldFVwKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGluT3JkZXIudmVyaWZ5KGJyb2tlckNvbnN1bWVyKS5jb25uZWN0KCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkoYnJva2VyQ29uc3VtZXIpLnNldFVwKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIE1vY2tpdG8udmVyaWZ5KGJyb2tlckNvbnN1bWVyKS5jb25uZWN0KCk7Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>shutdown system if max attempts is reached to notify ops
 
 - use `Thread.sleep` instead of `Timer` in retry feature because otherwise, the `SupervisionStrategy` is not triggered, since `Timer` is asynchronous
 - use sort of &quot;Reaper&quot; pattern to shutdown the system</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy53YXJuaW5nKCJUaGUgY2hpbGQgaXMgYSBGb3RhQWN0b3IgPT4gc3RvcHBpbmcgaXQiKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KCiAgICBAQWZ0ZXIKICAgIHB1YmxpYyB2b2lkIGFmdGVyKCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
