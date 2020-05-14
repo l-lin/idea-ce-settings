@@ -178,39 +178,31 @@
         <mark key="." line="42" column="35" />
       </file>
       <file name="$USER_HOME$/work/ecg/pom.xml" timestamp="1589448319060" />
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" timestamp="1589444098503">
-        <mark key="a" line="308" column="44" />
-        <mark key="'" line="194" column="0" />
-        <mark key="[" line="56" column="16" />
-        <mark key="]" line="56" column="24" />
-        <mark key="." line="56" column="23" />
-        <mark key="^" line="56" column="24" />
-      </file>
       <file name="/Dummy.txt" timestamp="1589445790536">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" timestamp="1589458275567">
-        <mark key="'" line="33" column="40" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" timestamp="1589460322206">
+        <mark key="'" line="90" column="73" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.6/akka-actor_2.11-2.5.6-sources.jar!/akka/actor/ActorSystem.scala" timestamp="1589443316811" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1589460971971" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/writer/Foobar.java" timestamp="1589457995292">
         <mark key="[" line="14" column="31" />
         <mark key="]" line="14" column="32" />
         <mark key="^" line="13" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/SupervisorKiller.java" timestamp="1589444142903" />
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/AmazonS3ActorTest.java" timestamp="1589444428904">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
       <file name="/RecordProcessorCreator.java" timestamp="1589458322739" />
-      <file name="/ResultsBufferService.java" timestamp="1589458402909">
+      <file name="/ResultsBufferService.java" timestamp="1589460316799">
         <mark key="'" line="90" column="58" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/model/AlgoResultIsLastBlockPair.java" timestamp="1589460713204" />
       <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1589449555554">
         <mark key="[" line="112" column="15" />
         <mark key="]" line="112" column="16" />
@@ -223,9 +215,9 @@
         <mark key="^" line="117" column="31" />
         <mark key="." line="42" column="27" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1589461028293" />
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
       <jump line="27" column="54" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
       <jump line="34" column="14" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
       <jump line="18" column="4" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttProducerTest.java" />
@@ -325,6 +317,7 @@
       <jump line="22" column="23" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" />
       <jump line="31" column="86" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" />
       <jump line="33" column="40" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" />
+      <jump line="90" column="73" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
