@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bnJlZ2lzdGVyRGV2aWNlXD4=</entry>
         <entry encoding="base64">XDxERVZJQ0VfSURcPg==</entry>
         <entry encoding="base64">XDxmb3RhQWN0b3JSZWdpc3RyeVw+</entry>
         <entry encoding="base64">XDxvbkRlbGl2ZXJ5Q29tcGxldGVkXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50SW50ZXJtZWRpYXRlUmVwb3J0QWxnb1Jlc3VsdHNcPg==</entry>
         <entry encoding="base64">XDxlcG9jaFJlY29yZFN0YXJ0VGltZUluTXNcPg==</entry>
+        <entry encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydERhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -199,8 +199,8 @@
         <mark key="." line="50" column="0" />
       </file>
       <file name="/RecordProcessorCreator.java" timestamp="1589458322739" />
-      <file name="/ResultsBufferService.java" timestamp="1589460316799">
-        <mark key="'" line="90" column="58" />
+      <file name="/ResultsBufferService.java" timestamp="1589464693178">
+        <mark key="'" line="101" column="68" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/model/AlgoResultIsLastBlockPair.java" timestamp="1589460713204" />
       <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1589449555554">
@@ -218,12 +218,6 @@
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1589461028293" />
     </filemarks>
     <jumps>
-      <jump line="27" column="54" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
-      <jump line="34" column="14" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
-      <jump line="18" column="4" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttProducerTest.java" />
-      <jump line="44" column="36" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttProducerTest.java" />
-      <jump line="43" column="69" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConnectorFactoryTest.java" />
-      <jump line="284" column="28" filename="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttAsyncClient.java" />
       <jump line="44" column="41" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConnectorFactoryTest.java" />
       <jump line="46" column="0" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConnectorFactoryTest.java" />
       <jump line="65" column="33" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConnectorFactoryTest.java" />
@@ -318,6 +312,12 @@
       <jump line="31" column="86" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" />
       <jump line="33" column="40" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" />
       <jump line="90" column="73" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" />
+      <jump line="135" column="37" filename="/ResultsBufferService.java" />
+      <jump line="26" column="26" filename="/ResultsBufferService.java" />
+      <jump line="47" column="24" filename="/ResultsBufferService.java" />
+      <jump line="67" column="20" filename="/ResultsBufferService.java" />
+      <jump line="93" column="13" filename="/ResultsBufferService.java" />
+      <jump line="101" column="68" filename="/ResultsBufferService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,7 +332,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcG9jaFJlY29yZFN0YXJ0VGltZUluTXNcPg==</text>
+        <text encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydERhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdDEpOwo=</text>
@@ -374,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxlcG9jaFJlY29yZFN0YXJ0VGltZUluTXNcPg==</last-search>
+      <last-search encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydERhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcG9jaFJlY29yZFN0YXJ0VGltZUluTXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydERhdGVcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxvcHRpb25zXD4=</last-substitute>
       <last-dir>1</last-dir>
