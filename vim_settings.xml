@@ -156,8 +156,12 @@
       <file name="/Dummy.txt" timestamp="1589534938982">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" timestamp="1589474850183">
-        <mark key="'" line="74" column="31" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" timestamp="1589535876665">
+        <mark key="'" line="90" column="13" />
+        <mark key="[" line="90" column="44" />
+        <mark key="]" line="90" column="56" />
+        <mark key="^" line="90" column="56" />
+        <mark key="." line="90" column="55" />
       </file>
       <file name="$MAVEN_REPOSITORY$/software/amazon/awssdk/s3/2.10.76/s3-2.10.76-sources.jar!/software/amazon/awssdk/services/s3/model/S3Exception.java" timestamp="1589470548112">
         <mark key="'" line="23" column="4" />
@@ -181,6 +185,7 @@
       </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-local.yml" timestamp="1589532831589" />
       <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/CallGrpcApiExample.java" timestamp="1589531538770" />
+      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1589536419235" />
       <file name="$USER_HOME$/work/record-service/examples/grpc/pom.xml" timestamp="1589532273241">
         <mark key="[" line="19" column="25" />
         <mark key="]" line="19" column="26" />
@@ -192,7 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="8" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
       <jump line="124" column="0" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
       <jump line="136" column="41" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
       <jump line="158" column="94" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
@@ -292,6 +296,7 @@
       <jump line="74" column="31" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
       <jump line="31" column="31" filename="$USER_HOME$/work/record-service/pom.xml" />
       <jump line="9" column="0" filename="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" />
+      <jump line="88" column="13" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
