@@ -143,22 +143,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" timestamp="1589474850183">
-        <mark key="'" line="74" column="31" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/software/amazon/awssdk/s3/2.10.76/s3-2.10.76-sources.jar!/software/amazon/awssdk/services/s3/model/S3Exception.java" timestamp="1589470548112">
-        <mark key="'" line="23" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepository.java" timestamp="1589474555090" />
-      <file name="$USER_HOME$/work/record-service/README.md" timestamp="1589472320558" />
-      <file name="$USER_HOME$/work/record-service/server/DEPLOYEMENT.md" timestamp="1589474025705" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1589474545887" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" timestamp="1589469615465">
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" timestamp="1589528312256">
         <mark key="'" line="90" column="73" />
         <mark key="[" line="119" column="35" />
         <mark key="]" line="119" column="35" />
         <mark key="^" line="119" column="15" />
         <mark key="." line="119" column="35" />
+      </file>
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" timestamp="1589474850183">
+        <mark key="'" line="74" column="31" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/software/amazon/awssdk/s3/2.10.76/s3-2.10.76-sources.jar!/software/amazon/awssdk/services/s3/model/S3Exception.java" timestamp="1589470548112">
+        <mark key="'" line="23" column="4" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/writer/Foobar.java" timestamp="1589457995292">
         <mark key="[" line="14" column="31" />
@@ -166,17 +162,14 @@
         <mark key="^" line="13" column="32" />
         <mark key="." line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-local.yml" timestamp="1589474046511" />
       <file name="/ResultsBufferService.java" timestamp="1589464693178">
         <mark key="'" line="101" column="68" />
       </file>
-      <file name="$USER_HOME$/work/record-service/lombok.config" timestamp="1589472627835" />
       <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1589449555554">
         <mark key="[" line="112" column="15" />
         <mark key="]" line="112" column="16" />
         <mark key="." line="112" column="16" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/grpc/RecordService.java" timestamp="1589474291072" />
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
