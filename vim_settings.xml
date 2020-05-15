@@ -150,10 +150,11 @@
         <mark key="." line="95" column="95" />
         <mark key="^" line="95" column="76" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepository.java" timestamp="1589560895602">
-        <mark key="[" line="93" column="73" />
-        <mark key="]" line="93" column="73" />
-        <mark key="." line="93" column="73" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepository.java" timestamp="1589562294075">
+        <mark key="[" line="92" column="55" />
+        <mark key="]" line="95" column="49" />
+        <mark key="." line="95" column="48" />
+        <mark key="^" line="95" column="49" />
       </file>
       <file name="$MAVEN_REPOSITORY$/software/amazon/awssdk/s3/2.10.76/s3-2.10.76-sources.jar!/software/amazon/awssdk/services/s3/model/GetObjectRequest.java" timestamp="1589552667174" />
       <file name="$USER_HOME$/work/record-service/server/src/main/resources/logback-spring.xml" timestamp="1589556879299" />
@@ -173,11 +174,11 @@
       <file name="$USER_HOME$/work/record-service/model/src/main/java/com/bioserenity/data/record/model/Channel.java" timestamp="1589553513753" />
       <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-local.yml" timestamp="1589560259438" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/model/v3/BffChannel.java" timestamp="1589553642604" />
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1589561665116">
+      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1589562355916">
         <mark key="[" line="17" column="69" />
-        <mark key="]" line="17" column="69" />
-        <mark key="^" line="17" column="49" />
-        <mark key="." line="17" column="69" />
+        <mark key="]" line="17" column="72" />
+        <mark key="^" line="17" column="72" />
+        <mark key="." line="17" column="71" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/TestableMongoDB.java" timestamp="1589555543540">
         <mark key="'" line="28" column="40" />
@@ -187,7 +188,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" timestamp="1589561539805">
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" timestamp="1589562341111">
         <mark key="'" line="128" column="4" />
         <mark key="[" line="90" column="0" />
         <mark key="]" line="90" column="46" />
@@ -326,13 +327,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>7</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RlZFN0YXJ0VGltZVw+</text>
@@ -379,7 +380,7 @@ Long</text>
       <last-offset />
       <last-pattern encoding="base64">XDxleHBlY3RlZFN0YXJ0VGltZVw+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
-      <last-substitute encoding="base64">XDxvcHRpb25zXD4=</last-substitute>
+      <last-substitute encoding="base64">XDxleHBlY3RlZFN0YXJ0VGltZVw+</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
