@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3RhQWN0b3JSZWdpc3RyeVw+</entry>
-        <entry encoding="base64">XDxvbkRlbGl2ZXJ5Q29tcGxldGVkXD4=</entry>
         <entry encoding="base64">XDxyZWNvbm5lY3RUaW1lclw+</entry>
         <entry encoding="base64">XDxmb2xkZXJQYXRoXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxlcG9jaFJlY29yZFN0YXJ0VGltZUluTXNcPg==</entry>
         <entry encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydERhdGVcPg==</entry>
         <entry encoding="base64">XDxzM0FzeW5jQ2xpZW50XD4=</entry>
+        <entry encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</entry>
+        <entry encoding="base64">XDxMb25nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -143,76 +143,67 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" timestamp="1589528312256">
-        <mark key="'" line="90" column="73" />
-        <mark key="[" line="119" column="35" />
-        <mark key="]" line="119" column="35" />
-        <mark key="^" line="119" column="15" />
-        <mark key="." line="119" column="35" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/EndOffsetComputor.java" timestamp="1589549787069">
+        <mark key="'" line="9" column="104" />
       </file>
-      <file name="$USER_HOME$/work/record-service/pom.xml" timestamp="1589531817686">
-        <mark key="'" line="31" column="31" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/offset/StartOffsetComputorTest.java" timestamp="1589550506817">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589534938982">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" timestamp="1589538832480">
-        <mark key="'" line="91" column="13" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" timestamp="1589551223201">
+        <mark key="'" line="127" column="4" />
         <mark key="[" line="86" column="34" />
-        <mark key="]" line="86" column="48" />
-        <mark key="^" line="86" column="48" />
-        <mark key="." line="86" column="47" />
+        <mark key="]" line="86" column="45" />
+        <mark key="^" line="86" column="45" />
+        <mark key="." line="86" column="44" />
       </file>
-      <file name="/CallGrpcApiExample.java" timestamp="1589534952446">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="41" column="13" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3RepositoryTest.java" timestamp="1589551245104">
+        <mark key="'" line="77" column="12" />
+        <mark key="[" line="92" column="60" />
+        <mark key="]" line="92" column="95" />
+        <mark key="." line="92" column="94" />
+        <mark key="^" line="92" column="95" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3RepositoryTest.java" timestamp="1589536916032" />
-      <file name="$USER_HOME$/work/record-service/server/Dockerfile" timestamp="1589534559458" />
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1589533526986">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="/RecordProcessor.java" timestamp="1589544432710" />
+      <file name="/ResultsBufferServiceTest.java" timestamp="1589546716439" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" timestamp="1589547003418" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1589546874641" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffChannelMongoDBRepositoryTest.java" timestamp="1589550492980">
+        <mark key="[" line="24" column="73" />
+        <mark key="]" line="24" column="6" />
+        <mark key="^" line="24" column="6" />
+        <mark key="." line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/work/record-service/grpc-api/target/generated-sources/protobuf/grpc-java/com/bioserenity/data/record/api/grpc/RecordServiceGrpc.java" timestamp="1589532547273">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferService.java" timestamp="1589546984695" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/writer/ResultsBufferServiceTest.java" timestamp="1589546056288" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/StartOffsetComputor.java" timestamp="1589549912593">
+        <mark key="'" line="9" column="54" />
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="20" column="35" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-local.yml" timestamp="1589532831589" />
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/CallGrpcApiExample.java" timestamp="1589531538770" />
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1589538612446">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="49" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/OffsetWithTimestamp.java" timestamp="1589549464806">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="/AlgoResult.java" timestamp="1589544336860" />
+      <file name="/RecordProcessorCreator.java" timestamp="1589545191034" />
+      <file name="/RecordEventWriter.java" timestamp="1589545099026" />
+      <file name="/ResultsBufferService.java" timestamp="1589545480057">
+        <mark key="'" line="101" column="68" />
+      </file>
+      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1589550717587">
+        <mark key="[" line="17" column="75" />
+        <mark key="]" line="17" column="101" />
         <mark key="^" line="17" column="49" />
         <mark key="." line="17" column="48" />
       </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/pom.xml" timestamp="1589532273241">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="19" column="26" />
-        <mark key="." line="19" column="26" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1589538401242" />
-      <file name="/fragment.java" timestamp="1589536765026">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="0" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
-      <jump line="136" column="41" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
-      <jump line="158" column="94" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
-      <jump line="120" column="4" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" />
-      <jump line="20" column="13" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttProducerTest.java" />
-      <jump line="157" column="8" filename="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttConnectOptions.java" />
-      <jump line="26" column="91" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" />
-      <jump line="67" column="22" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
-      <jump line="75" column="31" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/AmazonS3ActorTest.java" />
-      <jump line="76" column="78" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/AmazonS3ActorTest.java" />
-      <jump line="82" column="20" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/AmazonS3ActorTest.java" />
-      <jump line="48" column="34" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-testkit_2.11/2.5.6/akka-testkit_2.11-2.5.6-sources.jar!/akka/testkit/javadsl/TestKit.scala" />
-      <jump line="51" column="26" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-testkit_2.11/2.5.6/akka-testkit_2.11-2.5.6-sources.jar!/akka/testkit/javadsl/TestKit.scala" />
       <jump line="97" column="14" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-testkit_2.11/2.5.6/akka-testkit_2.11-2.5.6-sources.jar!/akka/testkit/javadsl/TestKit.scala" />
       <jump line="102" column="14" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-testkit_2.11/2.5.6/akka-testkit_2.11-2.5.6-sources.jar!/akka/testkit/javadsl/TestKit.scala" />
       <jump line="123" column="39" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-testkit_2.11/2.5.6/akka-testkit_2.11-2.5.6-sources.jar!/akka/testkit/javadsl/TestKit.scala" />
@@ -300,24 +291,37 @@
       <jump line="31" column="31" filename="$USER_HOME$/work/record-service/pom.xml" />
       <jump line="9" column="0" filename="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" />
       <jump line="88" column="13" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
+      <jump line="34" column="19" filename="$USER_HOME$/work/record-service/model/src/main/java/com/bioserenity/data/record/model/Encoding.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/record-service/model/src/main/java/com/bioserenity/data/record/model/Encoding.java" />
+      <jump line="110" column="4" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
+      <jump line="112" column="113" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
+      <jump line="127" column="4" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
+      <jump line="10" column="12" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/StartOffsetComputor.java" />
+      <jump line="14" column="33" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/StartOffsetComputor.java" />
+      <jump line="9" column="54" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/StartOffsetComputor.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/EndOffsetComputor.java" />
+      <jump line="9" column="104" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/EndOffsetComputor.java" />
+      <jump line="167" column="96" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3RepositoryTest.java" />
+      <jump line="76" column="12" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3RepositoryTest.java" />
+      <jump line="77" column="12" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3RepositoryTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>startOffset</text>
+        <text>tmpStartOffset</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>startOffset</text>
+        <text>tmpStartOffset</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzM0FzeW5jQ2xpZW50XD4=</text>
+        <text encoding="base64">XDxMb25nXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgU1RBUlRfVElNRV9JTl9NSUNSTyA9IDE1ODlfMzYyXzI5NF8yMDdfMDAwTDsK</text>
+      <register name="0" type="4">
+        <text>1589362342208217L</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX1B6IiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX0Z6IiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX0Y3IiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX0M0IiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX0Y4IiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX0MzIiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX0YzIiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX0Y0IiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX0N6IiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX1AzIiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX1A0IiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX1Q1IiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX1Q2IiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX1QzIiwKICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX1Q0Igo=</text>
@@ -353,9 +357,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzM0FzeW5jQ2xpZW50XD4=</last-search>
+      <last-search encoding="base64">XDxMb25nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzM0FzeW5jQ2xpZW50XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxMb25nXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxvcHRpb25zXD4=</last-substitute>
       <last-dir>1</last-dir>
