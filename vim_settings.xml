@@ -173,7 +173,7 @@
         <mark key="." line="31" column="93" />
         <mark key="^" line="31" column="89" />
       </file>
-      <file name="/BffChannelS3Repository.java" timestamp="1589816378926" />
+      <file name="/BffChannelS3Repository.java" timestamp="1589820667907" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/NbSamplesComputorTest.java" timestamp="1589813800154">
         <mark key="]" line="15" column="42" />
         <mark key="^" line="15" column="42" />
@@ -199,11 +199,11 @@
         <mark key="^" line="26" column="113" />
         <mark key="." line="26" column="112" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSamplesComputor.java" timestamp="1589818336385">
-        <mark key="[" line="79" column="69" />
-        <mark key="]" line="79" column="69" />
-        <mark key="^" line="79" column="69" />
-        <mark key="." line="79" column="68" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSamplesComputor.java" timestamp="1589819807787">
+        <mark key="[" line="87" column="9" />
+        <mark key="]" line="88" column="19" />
+        <mark key="^" line="88" column="19" />
+        <mark key="." line="88" column="18" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/PointsComputor.java" timestamp="1589813420062">
         <mark key="[" line="66" column="21" />
@@ -218,12 +218,12 @@
         <mark key="^" line="90" column="67" />
         <mark key="." line="90" column="66" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequest.java" timestamp="1589818685990">
-        <mark key="'" line="27" column="82" />
-        <mark key="[" line="43" column="17" />
-        <mark key="]" line="43" column="31" />
-        <mark key="^" line="43" column="31" />
-        <mark key="." line="43" column="30" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequest.java" timestamp="1589819581075">
+        <mark key="'" line="44" column="66" />
+        <mark key="[" line="66" column="26" />
+        <mark key="]" line="66" column="35" />
+        <mark key="^" line="66" column="35" />
+        <mark key="." line="66" column="34" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/NbSamplesComputor.java" timestamp="1589813968363">
         <mark key="[" line="12" column="6" />
@@ -242,7 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/retry/RetryBrokerConnector.java" />
       <jump line="73" column="20" filename="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttConnectOptions.java" />
       <jump line="543" column="22" filename="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttAsyncClient.java" />
       <jump line="1108" column="29" filename="$MAVEN_REPOSITORY$/org/eclipse/paho/org.eclipse.paho.client.mqttv3/1.1.0/org.eclipse.paho.client.mqttv3-1.1.0-sources.jar!/org/eclipse/paho/client/mqttv3/MqttAsyncClient.java" />
@@ -342,18 +341,19 @@
       <jump line="15" column="0" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/PointsComputorTest.java" />
       <jump line="109" column="28" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/PointsComputorTest.java" />
       <jump line="143" column="25" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffSamplesComputorTest.java" />
+      <jump line="44" column="66" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>com.bioserenity.data.record.api.bff.repository.s3.</text>
+        <text>)</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>com.bioserenity.data.record.api.bff.repository.s3.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</text>
