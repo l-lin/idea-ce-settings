@@ -143,20 +143,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1589787690203">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" timestamp="1589791383178">
         <mark key="'" line="95" column="24" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
         <mark key="^" line="78" column="48" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/channel/StartOffsetComputorTest.java" timestamp="1589725467092">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1589792335769">
         <mark key="[" line="0" column="0" />
@@ -168,8 +160,11 @@
         <mark key="^" line="91" column="28" />
         <mark key="." line="91" column="27" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/S3KeyBuilder.java" timestamp="1589792445335">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/S3KeyBuilder.java" timestamp="1589793945747">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="62" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepository.java" timestamp="1589562294075">
         <mark key="[" line="92" column="55" />
@@ -181,13 +176,6 @@
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1589560271153">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/S3FileLocBuilder.java" timestamp="1589792043600">
         <mark key="'" line="10" column="27" />
@@ -203,40 +191,32 @@
         <mark key="^" line="30" column="52" />
         <mark key="." line="30" column="51" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1589791362406">
-        <mark key="[" line="25" column="36" />
-        <mark key="]" line="25" column="36" />
-        <mark key="^" line="61" column="27" />
-        <mark key="." line="25" column="36" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/model/v3/BffBlock.java" timestamp="1589556506340">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="10" column="9" />
-        <mark key="^" line="10" column="9" />
-        <mark key="." line="10" column="8" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1589563338302">
-        <mark key="[" line="17" column="69" />
-        <mark key="]" line="17" column="72" />
-        <mark key="^" line="17" column="72" />
-        <mark key="." line="17" column="71" />
-      </file>
       <file name="$USER_HOME$/work/record-service/.gitignore" timestamp="1589786306100">
         <mark key="[" line="8" column="8" />
         <mark key="]" line="8" column="22" />
         <mark key="." line="8" column="21" />
         <mark key="^" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1589793671667" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/TestableMongoDB.java" timestamp="1589555543540">
-        <mark key="'" line="28" column="40" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1589793902207" />
+      <file name="/Dummy.txt" timestamp="1589787690203">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepositoryTest.java" timestamp="1589561230879">
-        <mark key="'" line="214" column="46" />
-        <mark key="[" line="228" column="28" />
-        <mark key="]" line="228" column="50" />
-        <mark key="." line="228" column="49" />
-        <mark key="^" line="228" column="50" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/channel/StartOffsetComputorTest.java" timestamp="1589725467092">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1589791362406">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="36" />
+        <mark key="^" line="61" column="27" />
+        <mark key="." line="25" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1589563338302">
+        <mark key="[" line="17" column="69" />
+        <mark key="]" line="17" column="72" />
+        <mark key="^" line="17" column="72" />
+        <mark key="." line="17" column="71" />
       </file>
       <file name="/fragment.java" timestamp="1589791501370">
         <mark key="[" line="0" column="0" />
@@ -353,13 +333,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>somewhere</text>
+        <text>:</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>somewhere</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxleHBlY3RlZFN0YXJ0VGltZVw+</text>
