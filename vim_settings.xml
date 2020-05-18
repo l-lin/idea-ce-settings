@@ -149,9 +149,6 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="2" />
       </file>
-      <file name="/a.dummy" timestamp="1589810292490">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/PointsComputorTest.java" timestamp="1589813788735">
         <mark key="'" line="109" column="28" />
         <mark key="[" line="15" column="16" />
@@ -186,6 +183,12 @@
         <mark key="]" line="39" column="12" />
         <mark key="." line="39" column="12" />
       </file>
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSamplesIndexComputor.java" timestamp="1589821348269">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" timestamp="1589818285942">
         <mark key="'" line="114" column="24" />
         <mark key="[" line="113" column="0" />
@@ -199,11 +202,11 @@
         <mark key="^" line="26" column="113" />
         <mark key="." line="26" column="112" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSamplesComputor.java" timestamp="1589819807787">
-        <mark key="[" line="87" column="9" />
-        <mark key="]" line="88" column="19" />
-        <mark key="^" line="88" column="19" />
-        <mark key="." line="88" column="18" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSamplesComputor.java" timestamp="1589821334617">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="42" column="21" />
+        <mark key="^" line="42" column="21" />
+        <mark key="." line="42" column="20" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/PointsComputor.java" timestamp="1589813420062">
         <mark key="[" line="66" column="21" />
@@ -218,12 +221,18 @@
         <mark key="^" line="90" column="67" />
         <mark key="." line="90" column="66" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequest.java" timestamp="1589819581075">
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequest.java" timestamp="1589821249772">
         <mark key="'" line="44" column="66" />
         <mark key="[" line="66" column="26" />
         <mark key="]" line="66" column="35" />
         <mark key="^" line="66" column="35" />
         <mark key="." line="66" column="34" />
+      </file>
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndexComputor.java" timestamp="1589821996570">
+        <mark key="[" line="87" column="10" />
+        <mark key="]" line="51" column="37" />
+        <mark key="^" line="51" column="37" />
+        <mark key="." line="51" column="36" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/NbSamplesComputor.java" timestamp="1589813968363">
         <mark key="[" line="12" column="6" />
@@ -346,51 +355,48 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBkZWZpbmUgdGltZSBzY29wZSB0byBjb21wdXRlIHRoZSBudW1iZXIgb2Ygc2FtcGxlcyB0byBrZWVwCiAgICAgICAgdmFyIHN0YXJ0VGltZSA9IHdpbmRvd1N0YXJ0VGltZUluTWljcm8gPiBiZmZCbG9jay5nZXRTdGFydFRpbWUoKSA/CiAgICAgICAgICAgICAgICB3aW5kb3dTdGFydFRpbWVJbk1pY3JvIDogYmZmQmxvY2suZ2V0U3RhcnRUaW1lKCk7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiA8cHJlPgogICAgICAgICAqICArLS0tLS0tLS0tLSsKICAgICAgICAgKiAgfCAgYmxvY2sgICB8CiAgICAgICAgICogICstLS0tLS0tLS0tKwogICAgICAgICAqICAgICAgICArLS0tLS0tLS0tLS0tLS0tLS0tLS0rCiAgICAgICAgICogICAgICAgIHwgICAgICAgd2luZG93ICAgICAgIHwKICAgICAgICAgKiAgICAgICAgKy0tLS0tLS0tLS0tLS0tLS0tLS0tKwogICAgICAgICAqICAgICAgICA8LS0tLT4KICAgICAgICAgKiAgICAgICAgIHNhbXBsZXMgdG8ga2VlcAogICAgICAgICAqIDwvcHJlPgogICAgICAgICAqLwogICAgICAgIEBUZXN0CiAgICAgICAgdm9pZCB3aGVuV2luZG93U3RhcnRUaW1lSXNXaXRoaW5CZmZCbG9ja0FuZFdpbmRvd0VuZFRpbWVJc091dHNpZGVfdGhlbk5iUG9pbnRzVG9LZWVwSXNQb3NpdGl2ZSgpIHsKICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKDRMLCBiZmZTYW1wbGVzQ29tcHV0b3IuY29tcHV0ZU5iVG9LZWVwRnJvbSgyMDBfMDAwTCwgMV8xMDBfMDAwTCkpOwogICAgICAgICAgICBhc3NlcnRFcXVhbHMoM0wsIGJmZlNhbXBsZXNDb21wdXRvci5jb21wdXRlTmJUb0tlZXBGcm9tKDQwMF8wMDBMLCAxXzEwMF8wMDBMKSk7CiAgICAgICAgICAgIGFzc2VydEVxdWFscygyTCwgYmZmU2FtcGxlc0NvbXB1dG9yLmNvbXB1dGVOYlRvS2VlcEZyb20oNTAwXzAwMEwsIDFfMTAwXzAwMEwpKTsKICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKDRMLCBiZmZTYW1wbGVzQ29tcHV0b3IuY29tcHV0ZU5iVG9LZWVwRnJvbSgxOTBfMDAwTCwgMV8xMDBfMDAwTCkpOwogICAgICAgICAgICBhc3NlcnRFcXVhbHMoM0wsIGJmZlNhbXBsZXNDb21wdXRvci5jb21wdXRlTmJUb0tlZXBGcm9tKDM5MF8wMDBMLCAxXzEwMF8wMDBMKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAqIFRoZSBpbmRleFN0YXJ0IGlzIGNvbXB1dGVkIHdpdGggdGhlIGZvbGxvd2luZyBtYXRoZW1hdGljYWwgZm9ybXVsYToKICAgICAqIDxwcmU+CiAgICAgKiBpbmRleFN0YXJ0ID0gbmJTYW1wbGVzSW5UaGVCbG9jayAqICh3aW5kb3dTdGFydFRpbWUgLSBibG9ja1N0YXJ0VGltZSkgLyBkdXJhdGlvbgogICAgICogPC9wcmU+Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBkZWZpbmUgdGltZSBzY29wZSB0byBjb21wdXRlIHRoZSBudW1iZXIgb2Ygc2FtcGxlcyB0byBrZWVwCiAgICAgICAgdmFyIHN0YXJ0VGltZSA9IHdpbmRvd1N0YXJ0VGltZUluTWljcm8gPiBiZmZCbG9jay5nZXRTdGFydFRpbWUoKSA/CiAgICAgICAgICAgICAgICB3aW5kb3dTdGFydFRpbWVJbk1pY3JvIDogYmZmQmxvY2suZ2V0U3RhcnRUaW1lKCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBvdXRzaWRlIG9mIHRpbWUgc2NvcGUKICAgICAgICBpZiAod2luZG93U3RhcnRUaW1lSW5NaWNybyA+IGJmZkJsb2NrLmdldEVuZFRpbWUoKSkgewogICAgICAgICAgICByZXR1cm4gMEw7CiAgICAgICAgfQoK</text>
+      </register>
+      <register name="3" type="8">
+        <text encoding="base64">ICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICAKICAgICAgCiAgICAgIAogICAgICA=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobWljcm9zZWNvbmRUb1NraXAgPCAwKSB7CiAgICAgICAgICAgIHJldHVybiAwTDsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB3aW5kb3cgaXMgYmVmb3JlIEJGRiBibG9jawo=</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICA=</text>
+      </register>
+      <register name="7" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
       </register>
-      <register name="2" type="8">
+      <register name="8" type="8">
         <text>Skip
 Skip</text>
       </register>
-      <register name="3" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgKiA8L3ByZT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgIGVuZFRpbWUgPSBiZmZCbG9jay5nZXRFbmRUaW1lKCk7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoKSB7CiAgICAgICAgICAgIHN0YXJ0VGltZSA9IGJmZkJsb2NrLmdldFN0YXJ0VGltZSgpOwogICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc3RhcnRUaW1lID0gd2luZG93U3RhcnRUaW1lSW5NaWNybzsKICAgICAgICBpZiAod2luZG93U3RhcnRUaW1lSW5NaWNybyA+IGJmZkJsb2NrLmdldFN0YXJ0VGltZSgpKSB7CiAgICAgICAgICAgIHN0YXJ0VGltZSA9IGJmZkJsb2NrLmdldFN0YXJ0VGltZSgpOwogICAgICAgIH0K</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">ICAgICAgIAogICAgICAgCiAgICAgICA=</text>
-      </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICAKICAgICA=</text>
-      </register>
-      <register name="9" type="8">
-        <text>p
-p
-p
-p</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
