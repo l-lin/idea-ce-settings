@@ -146,43 +146,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/typesafe/FotaAppProperties.java" timestamp="1589896846492">
-        <mark key="[" line="88" column="9" />
-        <mark key="]" line="88" column="10" />
-        <mark key="^" line="88" column="10" />
-        <mark key="." line="88" column="9" />
-      </file>
-      <file name="/a.dummy" timestamp="1589904410305">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/ByteRangeHeaderBuilderTest.java" timestamp="1589900612469" />
-      <file name="/BffSampleIndexesComputorTest.java" timestamp="1589907119795" />
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/ServerProperties.java" timestamp="1589896810631">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="3" column="27" />
-        <mark key="^" line="3" column="27" />
-        <mark key="." line="3" column="26" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequestTest.java" timestamp="1589904239509">
-        <mark key="'" line="104" column="0" />
-        <mark key="j" line="36" column="8" />
-        <mark key="[" line="122" column="68" />
-        <mark key="]" line="122" column="69" />
-        <mark key="^" line="172" column="18" />
-        <mark key="." line="122" column="69" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequest.java" timestamp="1589907705173">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="67" />
-        <mark key="^" line="58" column="14" />
-        <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/controller/MonitoringController.java" timestamp="1589901074583">
-        <mark key="[" line="24" column="22" />
-        <mark key="]" line="24" column="68" />
-        <mark key="^" line="24" column="68" />
-        <mark key="." line="24" column="67" />
-      </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndex.java" timestamp="1589905302024">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="10" />
@@ -194,19 +157,33 @@
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/typesafe/FotaAppProperties.java" timestamp="1589896846492">
+        <mark key="[" line="88" column="9" />
+        <mark key="]" line="88" column="10" />
+        <mark key="^" line="88" column="10" />
+        <mark key="." line="88" column="9" />
+      </file>
+      <file name="/a.dummy" timestamp="1589904410305">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/ServerProperties.java" timestamp="1589896810631">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1589900545346">
         <mark key="[" line="70" column="35" />
         <mark key="]" line="70" column="41" />
         <mark key="." line="70" column="40" />
         <mark key="^" line="70" column="41" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3RepositoryTest.java" timestamp="1589902325313" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndexComputor.java" timestamp="1589905946695">
-        <mark key="[" line="84" column="9" />
-        <mark key="l" line="55" column="33" />
-        <mark key="]" line="50" column="27" />
-        <mark key="." line="50" column="26" />
-        <mark key="^" line="50" column="27" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndexComputor.java" timestamp="1589908760157">
+        <mark key="[" line="43" column="65" />
+        <mark key="l" line="56" column="33" />
+        <mark key="]" line="43" column="76" />
+        <mark key="." line="43" column="75" />
+        <mark key="^" line="43" column="76" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/FotaAppConfig.java" timestamp="1589899608892">
         <mark key="[" line="104" column="79" />
@@ -226,6 +203,14 @@
         <mark key="^" line="142" column="20" />
         <mark key="." line="142" column="19" />
       </file>
+      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequestTest.java" timestamp="1589904239509">
+        <mark key="'" line="104" column="0" />
+        <mark key="j" line="36" column="8" />
+        <mark key="[" line="122" column="68" />
+        <mark key="]" line="122" column="69" />
+        <mark key="^" line="172" column="18" />
+        <mark key="." line="122" column="69" />
+      </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/resources/application.yml" timestamp="1589896745136">
         <mark key="'" line="7" column="7" />
         <mark key="[" line="6" column="2" />
@@ -239,8 +224,20 @@
         <mark key="^" line="87" column="70" />
         <mark key="." line="87" column="69" />
       </file>
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequest.java" timestamp="1589908615707">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="67" />
+        <mark key="^" line="58" column="14" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1589902843743">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/controller/MonitoringController.java" timestamp="1589908084873">
+        <mark key="[" line="24" column="22" />
+        <mark key="]" line="24" column="68" />
+        <mark key="^" line="24" column="68" />
+        <mark key="." line="24" column="67" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndexesComputorTest.java" timestamp="1589901685253">
         <mark key="[" line="25" column="0" />
@@ -352,14 +349,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNoZWNrIGlmIHRoZSByZXF1ZXN0IGlzIG91dHNpZGUgb2YgdGhlIEJGRiBibG9jawo=</text>
+      <register name="&quot;" type="4">
+        <text>is outside the BFF block.</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">T3B0aW9uYWw8RGF0YUJsb2NrUmVxdWVzdD4gZGF0YUJsb2NrUmVxdWVzdE9wdCA9</text>
+        <text>is outside the BFF block.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlTG9jXD4=</text>
