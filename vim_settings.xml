@@ -138,72 +138,90 @@
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed SEMICOLON</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/ByteRangeHeaderBuilder.java" timestamp="1589884215245" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffRecordMongoDBRepository.java" timestamp="1589880903522">
-        <mark key="[" line="21" column="55" />
-        <mark key="]" line="21" column="55" />
-        <mark key="." line="21" column="55" />
+      <file name="$USER_HOME$/work/record-service/pom.xml" timestamp="1589895410283">
+        <mark key="'" line="49" column="29" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="15" column="13" />
       </file>
-      <file name="/BffChannelS3Repository.java" timestamp="1589877471791" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleInde.java" timestamp="1589872975528">
-        <mark key="[" line="5" column="19" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/firmware/s3/InMemoryCachedFirmwareFetcher.java" timestamp="1589892479191" />
+      <file name="$USER_HOME$/work/fota-service/src/main/resources/application.yml" timestamp="1589895472662">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequest.java" timestamp="1589881070715">
-        <mark key="'" line="79" column="66" />
-        <mark key="[" line="49" column="89" />
-        <mark key="]" line="49" column="117" />
-        <mark key="^" line="49" column="117" />
-        <mark key="." line="49" column="116" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepositoryTest.java" timestamp="1589880972104" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndex.java" timestamp="1589873019738">
-        <mark key="[" line="16" column="44" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="42" />
-        <mark key="^" line="18" column="43" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589881095157">
+      <file name="/a.dummy" timestamp="1589897853668">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1589879098562" />
-      <file name="$USER_HOME$/work/record-service/server/pom.xml" timestamp="1589890991451" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3RepositoryTest.java" timestamp="1589878294792">
-        <mark key="'" line="76" column="55" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="^" line="121" column="92" />
-        <mark key="." line="120" column="0" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/ServerProperties.java" timestamp="1589896810631">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="26" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1589877426731" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndexComputor.java" timestamp="1589880873848">
-        <mark key="[" line="5" column="73" />
-        <mark key="]" line="5" column="73" />
-        <mark key="^" line="5" column="49" />
-        <mark key="." line="5" column="73" />
+      <file name="$USER_HOME$/work/record-service/server/pom.xml" timestamp="1589895421408">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="47" column="21" />
       </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1589874525584">
-        <mark key="[" line="17" column="52" />
-        <mark key="]" line="17" column="72" />
+      <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1589896794099">
+        <mark key="[" line="141" column="8" />
+        <mark key="]" line="142" column="20" />
+        <mark key="^" line="142" column="20" />
+        <mark key="." line="142" column="19" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndexesComputorTest.java" timestamp="1589878883718">
-        <mark key="[" line="114" column="25" />
-        <mark key="]" line="114" column="26" />
-        <mark key="." line="114" column="26" />
-        <mark key="^" line="122" column="26" />
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application.yml" timestamp="1589896745136">
+        <mark key="'" line="7" column="7" />
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="2" />
+        <mark key="." line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1589897826032">
+        <mark key="[" line="87" column="54" />
+        <mark key="]" line="87" column="70" />
+        <mark key="^" line="87" column="70" />
+        <mark key="." line="87" column="69" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/typesafe/FotaAppProperties.java" timestamp="1589896846492">
+        <mark key="[" line="88" column="9" />
+        <mark key="]" line="88" column="10" />
+        <mark key="^" line="88" column="10" />
+        <mark key="." line="88" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/ByteRangeHeaderBuilder.java" timestamp="1589884215245" />
+      <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1589896094641">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="86" column="17" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/FotaAppConfig.java" timestamp="1589898181909">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="85" column="53" />
+        <mark key="]" line="85" column="79" />
+        <mark key="^" line="85" column="79" />
+        <mark key="." line="85" column="78" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/PrometheusConfig.java" timestamp="1589896642331">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1589892510302">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="13" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/typesafe/FotaAppProperties.java" />
-      <jump line="25" column="12" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/retry/RetryBrokerConnector.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/RetryConnectionMqttExceptionPredicateTest.java" />
-      <jump line="36" column="4" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/typesafe/FotaAppProperties.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConsumer.java" />
-      <jump line="12" column="8" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttRetryConnectionPredicateTest.java" />
       <jump line="95" column="52" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/retry/RetryBrokerConnectorTest.java" />
       <jump line="158" column="17" filename="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Map.java" />
       <jump line="16" column="8" filename="$USER_HOME$/work/bcp-event-dump/pom.xml" />
@@ -298,62 +316,64 @@
       <jump line="63" column="38" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3RepositoryTest.java" />
       <jump line="69" column="61" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3RepositoryTest.java" />
       <jump line="77" column="55" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3RepositoryTest.java" />
+      <jump line="49" column="29" filename="$USER_HOME$/work/record-service/pom.xml" />
+      <jump line="7" column="7" filename="$USER_HOME$/work/record-service/server/src/main/resources/application.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/fota-service/src/main/resources/application.yml" />
+      <jump line="111" column="0" filename="$USER_HOME$/work/fota-service/pom.xml" />
+      <jump line="11" column="10" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/PrometheusConfig.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/FotaAppConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGhyb3dzIE1vbmdvRXhjZXB0aW9uIA==</text>
+        <text>new PrometheusMeterRegistry(io.micrometer.prometheus.PrometheusConfig.DEFAULT);</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGhyb3dzIE1vbmdvRXhjZXB0aW9uIA==</text>
+        <text>new PrometheusMeterRegistry(io.micrometer.prometheus.PrometheusConfig.DEFAULT);</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlTG9jXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqICstLS0tLS0tKy0tLS0tLS0rLS0tLS0tLSstLS0tLS0tKwo=</text>
+        <text encoding="base64">ICAgICAgICBQcm9tZXRoZXVzTWV0ZXJSZWdpc3RyeSBwcm9tZXRoZXVzUmVnaXN0cnkgPSBuZXcgUHJvbWV0aGV1c01ldGVyUmVnaXN0cnkoaW8ubWljcm9tZXRlci5wcm9tZXRoZXVzLlByb21ldGhldXNDb25maWcuREVGQVVMVCk7Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBIdHRwU2VydmVyIGh0dHBTZXJ2ZXIoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIFByb21ldGhldXNNZXRlclJlZ2lzdHJ5IHByb21ldGhldXNSZWdpc3RyeSA9IG5ldyBQcm9tZXRoZXVzTWV0ZXJSZWdpc3RyeShpby5taWNyb21ldGVyLnByb21ldGhldXMuUHJvbWV0aGV1c0NvbmZpZy5ERUZBVUxUKTsKICAgICAgICBIdHRwU2VydmVyIHNlcnZlciA9IEh0dHBTZXJ2ZXIuY3JlYXRlKG5ldyBJbmV0U29ja2V0QWRkcmVzcyg4MDgwKSwgMCk7CiAgICAgICAgc2VydmVyLmNyZWF0ZUNvbnRleHQoIi9hY3R1YXRvci9wcm9tZXRoZXVzIiwgaHR0cEV4Y2hhbmdlIC0+IHsKICAgICAgICAgICAgU3RyaW5nIHJlc3BvbnNlID0gcHJvbWV0aGV1c1JlZ2lzdHJ5LnNjcmFwZSgpOwogICAgICAgICAgICBodHRwRXhjaGFuZ2Uuc2VuZFJlc3BvbnNlSGVhZGVycygyMDAsIHJlc3BvbnNlLmdldEJ5dGVzKCkubGVuZ3RoKTsKICAgICAgICAgICAgdHJ5IChPdXRwdXRTdHJlYW0gb3MgPSBodHRwRXhjaGFuZ2UuZ2V0UmVzcG9uc2VCb2R5KCkpIHsKICAgICAgICAgICAgICAgIG9zLndyaXRlKHJlc3BvbnNlLmdldEJ5dGVzKCkpOwogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICAgICAgcmV0dXJuIHNlcnZlcjsKICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgPHBhcmVudD4KICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItcGFyZW50PC9hcnRpZmFjdElkPgogICAgPHZlcnNpb24+Mi4zLjAuUkVMRUFTRTwvdmVyc2lvbj4KICAgIDxyZWxhdGl2ZVBhdGgvPgogIDwvcGFyZW50Pgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q8L2dyb3VwSWQ+CiAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LXN0YXJ0ZXItYWN0dWF0b3I8L2FydGlmYWN0SWQ+CiAgICA8L2RlcGVuZGVuY3k+CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+aW8ubWljcm9tZXRlcjwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+bWljcm9tZXRlci1yZWdpc3RyeS1wcm9tZXRoZXVzPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICA8cGFyZW50PgogICAgCiAgPC9wYXJlbnQ+Cg==</text>
+      </register>
+      <register name="5" type="8">
         <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="2" type="8">
+      <register name="6" type="8">
         <text encoding="base64">ICAgICAgIAogICAgICAgCiAgICAgICA=</text>
       </register>
-      <register name="3" type="8">
+      <register name="7" type="8">
         <text>-------+
 sample4|
 -------+</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAvLyBIYW5kbGUgY2FzZSB3aGVyZSB0aGUgd2luZG93IHJlcXVlc3Qgc3RhcnQgdGltZSBpcyBjbG9zZSB0byB0aGUgQkZGIGJsb2NrIGVuZCB0aW1lLCBhbmQgdGhlcmUgaXMgbm90CiAgICAgICAgLy8gYSBjb21wbGV0ZSBzYW1wbGUgaW4gdGhpcyB0aW1lIGRpZmZlcmVuY2UsIHNvIHdlIG5lZWQgdG8gaWdub3JlIGl0LgogICAgICAgIC8vIFRoZSBjb21wdXRlZCBzdGFydFRpbWUgb2YgdGhpcyBkYXRhIHJlcXVlc3QgY2FuIGJlIHVzZWQgYXMgdGhlICJ0aW1lIHBvaW50ZXIiIG9mIHRoZSBzdGFydCBpbmRleCB0byBmZXRjaAogICAgICAgIC8vIHRoZSBkYXRhIGZvciB0aGUgZ2l2ZW4gd2luZG93LCB0aHVzIGlmIGl0J3MgbGF0ZXIgdGhhbiB0aGUgQkZGIGJsb2NrIGVuZCB0aW1lLCB0aGF0IG1lYW5zCiAgICAgICAgLy8gQkZGIEJsb2NrCg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="9" type="8">
         <text>/
 /
 /
 /
 /
 /</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyArLS0tLSstLS0tKy0tLS0rLS0tLSsKICAgICAgICAvLyB8ICAgIHwgICAgfCAgICB8ICAgIHwKICAgICAgICAvLyArLS0tLSstLS0tKy0tLS0rLS0tLSsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICArLS0tLS0tLS0tLS0tLSsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICB8ICAgd2luZG93ICAgIHwKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICArLS0tLS0tLS0tLS0tLSsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogPHByZT4KICAgICAgICAgKiAgKy0tLS0tLS0tLS0rCiAgICAgICAgICogIHwgIGJsb2NrICAgfAogICAgICAgICAqICArLS0tLS0tLS0tLSsKICAgICAgICAgKiAgICAgICAgICAgICAgICAgKy0tLS0tLS0tLS0tLS0tLS0tLS0tKwogICAgICAgICAqICAgICAgICAgICAgICAgICB8ICAgICAgIHdpbmRvdyAgICAgICB8CiAgICAgICAgICogICAgICAgICAgICAgICAgICstLS0tLS0tLS0tLS0tLS0tLS0tLSsKICAgICAgICAgKiA8L3ByZT4KICAgICAgICAgKi8KICAgICAgICBAVGVzdAogICAgICAgIHZvaWQgd2hlbldpbmRvd1N0YXJ0VGltZUlzQWZ0ZXJCZmZCbG9ja190aGVuU2hvdWxkUmV0dXJuTWF4VmFsdWUoKSB7CiAgICAgICAgICAgIGFzc2VydEVxdWFscyhMb25nLk1BWF9WQUxVRSwgYmZmU2FtcGxlSW5kZXhDb21wdXRvci5jb21wdXRlSW5kZXhFbmQoMV81MDBfMDAwTCkpOwogICAgICAgICAgICBhc3NlcnRFcXVhbHMoTG9uZy5NQVhfVkFMVUUsIGJmZlNhbXBsZUluZGV4Q29tcHV0b3IuY29tcHV0ZUluZGV4RW5kKDJfNTAwXzAwMEwpKTsKICAgICAgICB9Cgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKExvbmcuTUFYX1ZBTFVFLCBiZmZTYW1wbGVJbmRleENvbXB1dG9yLmNvbXB1dGVJbmRleEVuZCgxXzM5MF8wMDBMKSk7CiAgICAgICAgICAgIGFzc2VydEVxdWFscyhMb25nLk1BWF9WQUxVRSwgYmZmU2FtcGxlSW5kZXhDb21wdXRvci5jb21wdXRlSW5kZXhFbmQoMV80MDBfMDAwTCkpOwogICAgICAgICAgICBhc3NlcnRFcXVhbHMoTG9uZy5NQVhfVkFMVUUsIGJmZlNhbXBsZUluZGV4Q29tcHV0b3IuY29tcHV0ZUluZGV4RW5kKDFfNTAwXzAwMEwpKTsK</text>
-      </register>
-      <register name="9" type="8">
-        <text>4L
-4L
-3L
-3L
-2L</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
