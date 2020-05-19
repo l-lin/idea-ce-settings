@@ -143,26 +143,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" timestamp="1589818285942">
-        <mark key="'" line="114" column="24" />
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="^" line="62" column="11" />
-        <mark key="." line="62" column="10" />
-      </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/ByteRangeHeaderBuilder.java" timestamp="1589873129029" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3RepositoryTest.java" timestamp="1589818198988">
-        <mark key="'" line="194" column="77" />
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="34" column="12" />
-        <mark key="^" line="34" column="12" />
-        <mark key="." line="34" column="11" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSamplesComputor.java" timestamp="1589821334617">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="42" column="21" />
-        <mark key="^" line="42" column="21" />
-        <mark key="." line="42" column="20" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffRecordMongoDBRepository.java" timestamp="1589880903522">
+        <mark key="[" line="21" column="55" />
+        <mark key="]" line="21" column="55" />
+        <mark key="." line="21" column="55" />
       </file>
       <file name="/BffChannelS3Repository.java" timestamp="1589877471791" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSamplePosition.java" timestamp="1589872972019">
@@ -170,36 +155,27 @@
         <mark key="]" line="14" column="82" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndexes.java" timestamp="1589872939651">
-        <mark key="[" line="18" column="45" />
-        <mark key="]" line="18" column="56" />
-        <mark key="^" line="18" column="56" />
-        <mark key="." line="18" column="55" />
-      </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleInde.java" timestamp="1589872975528">
         <mark key="[" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequest.java" timestamp="1589878143792">
-        <mark key="'" line="43" column="66" />
-        <mark key="[" line="51" column="27" />
-        <mark key="]" line="51" column="28" />
-        <mark key="." line="51" column="28" />
-        <mark key="^" line="51" column="38" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequest.java" timestamp="1589881070715">
+        <mark key="'" line="79" column="66" />
+        <mark key="[" line="49" column="89" />
+        <mark key="]" line="49" column="117" />
+        <mark key="^" line="49" column="117" />
+        <mark key="." line="49" column="116" />
       </file>
+      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepositoryTest.java" timestamp="1589880972104" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndex.java" timestamp="1589873019738">
         <mark key="[" line="16" column="44" />
         <mark key="]" line="18" column="43" />
         <mark key="." line="18" column="42" />
         <mark key="^" line="18" column="43" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1589879077460" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndexesComputor.java" timestamp="1589827808657">
-        <mark key="'" line="44" column="52" />
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="44" column="53" />
-        <mark key="^" line="44" column="53" />
-        <mark key="." line="44" column="52" />
+      <file name="/Dummy.txt" timestamp="1589881095157">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1589879098562" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3RepositoryTest.java" timestamp="1589878294792">
         <mark key="'" line="76" column="55" />
         <mark key="[" line="120" column="0" />
@@ -208,31 +184,15 @@
         <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1589877426731" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndexComputor.java" timestamp="1589878862487">
-        <mark key="[" line="5" column="115" />
-        <mark key="]" line="5" column="49" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndexComputor.java" timestamp="1589880873848">
+        <mark key="[" line="5" column="73" />
+        <mark key="]" line="5" column="73" />
         <mark key="^" line="5" column="49" />
-        <mark key="." line="5" column="48" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndexComputorTest.java" timestamp="1589830438907">
-        <mark key="'" line="113" column="59" />
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="10" />
-        <mark key="^" line="24" column="11" />
+        <mark key="." line="5" column="73" />
       </file>
       <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1589874525584">
         <mark key="[" line="17" column="52" />
         <mark key="]" line="17" column="72" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffSamplesIndexComputor.java" timestamp="1589821348269">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="21" />
-        <mark key="^" line="12" column="21" />
-        <mark key="." line="12" column="20" />
-      </file>
-      <file name="/fragment.java" timestamp="1589818602346">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffSampleIndexesComputorTest.java" timestamp="1589878883718">
         <mark key="[" line="114" column="25" />
@@ -346,51 +306,58 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogPHByZT4KICAgICAgICAgKiAgKy0tLS0tLS0tLS0rCiAgICAgICAgICogIHwgIGJsb2NrICAgfAogICAgICAgICAqICArLS0tLS0tLS0tLSsKICAgICAgICAgKiAgICAgICAgICAgICAgICAgKy0tLS0tLS0tLS0tLS0tLS0tLS0tKwogICAgICAgICAqICAgICAgICAgICAgICAgICB8ICAgICAgIHdpbmRvdyAgICAgICB8CiAgICAgICAgICogICAgICAgICAgICAgICAgICstLS0tLS0tLS0tLS0tLS0tLS0tLSsKICAgICAgICAgKiA8L3ByZT4KICAgICAgICAgKi8KICAgICAgICBAVGVzdAogICAgICAgIHZvaWQgd2hlbldpbmRvd1N0YXJ0VGltZUlzQWZ0ZXJCZmZCbG9ja190aGVuU2hvdWxkUmV0dXJuTWF4VmFsdWUoKSB7CiAgICAgICAgICAgIGFzc2VydEVxdWFscyhMb25nLk1BWF9WQUxVRSwgYmZmU2FtcGxlSW5kZXhDb21wdXRvci5jb21wdXRlSW5kZXhFbmQoMV81MDBfMDAwTCkpOwogICAgICAgICAgICBhc3NlcnRFcXVhbHMoTG9uZy5NQVhfVkFMVUUsIGJmZlNhbXBsZUluZGV4Q29tcHV0b3IuY29tcHV0ZUluZGV4RW5kKDJfNTAwXzAwMEwpKTsKICAgICAgICB9Cgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhyb3dzIE1vbmdvRXhjZXB0aW9uIA==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">dGhyb3dzIE1vbmdvRXhjZXB0aW9uIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlTG9jXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBleHBlY3RlZFN0YXJ0T2Zmc2V0ID0gKHdpbmRvd1N0YXJ0VGltZSAtIGJmZkJsb2NrLmdldFN0YXJ0VGltZSgpKSAvKiBtUyAqLyAqIDIgLyogSU5UMTYgPSAyIGJ5dGVzICovOwoKICAgICAgICAgICAgLy8gd2UgcmVtb3ZlIDEgYmVjYXVzZSByYW5nZSBzdGFydCBhdCAwIChleGFtcGxlIDogaWYgd2Ugd2FudCAxMDI0IGJ5dGVzLHJhbmdlIGlzIDogMC0xMDIzKQogICAgICAgICAgICBsb25nIGV4cGVjdGVkRW5kT2Zmc2V0ID0gZXhwZWN0ZWRTdGFydE9mZnNldCArIHdpbmRvd0R1cmF0aW9uIC8qIG1TICovICogMiAvKiBJTlQxNiA9IDIgYnl0ZXMgKi8gLSAxOwoKICAgICAgICAgICAgU3RyaW5nIGV4cGVjdGVkUmFuZ2UgPSBleHBlY3RlZFN0YXJ0T2Zmc2V0ICsgIi0iICsgZXhwZWN0ZWRFbmRPZmZzZXQ7Cg==</text>
+        <text encoding="base64">ICAgICAqICstLS0tLS0tKy0tLS0tLS0rLS0tLS0tLSstLS0tLS0tKwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogPHByZT4KICAgICAgICAgKiAgKy0tLS0tLS0tLS0rCiAgICAgICAgICogIHwgIGJsb2NrICAgfAogICAgICAgICAqICArLS0tLS0tLS0tLSsKICAgICAgICAgKiAgICAgICAgICAgICAgICAgKy0tLS0tLS0tLS0tLS0tLS0tLS0tKwogICAgICAgICAqICAgICAgICAgICAgICAgICB8ICAgICAgIHdpbmRvdyAgICAgICB8CiAgICAgICAgICogICAgICAgICAgICAgICAgICstLS0tLS0tLS0tLS0tLS0tLS0tLSsKICAgICAgICAgKiA8L3ByZT4KICAgICAgICAgKi8KICAgICAgICBAVGVzdAogICAgICAgIHZvaWQgd2hlbldpbmRvd1N0YXJ0VGltZUlzQWZ0ZXJCZmZCbG9ja190aGVuU2hvdWxkUmV0dXJuTWF4VmFsdWUoKSB7CiAgICAgICAgICAgIGFzc2VydEVxdWFscyhMb25nLk1BWF9WQUxVRSwgYmZmU2FtcGxlSW5kZXhDb21wdXRvci5jb21wdXRlSW5kZXhFbmQoMV81MDBfMDAwTCkpOwogICAgICAgICAgICBhc3NlcnRFcXVhbHMoTG9uZy5NQVhfVkFMVUUsIGJmZlNhbXBsZUluZGV4Q29tcHV0b3IuY29tcHV0ZUluZGV4RW5kKDJfNTAwXzAwMEwpKTsKICAgICAgICB9Cgo=</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKExvbmcuTUFYX1ZBTFVFLCBiZmZTYW1wbGVJbmRleENvbXB1dG9yLmNvbXB1dGVJbmRleEVuZCgxXzM5MF8wMDBMKSk7CiAgICAgICAgICAgIGFzc2VydEVxdWFscyhMb25nLk1BWF9WQUxVRSwgYmZmU2FtcGxlSW5kZXhDb21wdXRvci5jb21wdXRlSW5kZXhFbmQoMV80MDBfMDAwTCkpOwogICAgICAgICAgICBhc3NlcnRFcXVhbHMoTG9uZy5NQVhfVkFMVUUsIGJmZlNhbXBsZUluZGV4Q29tcHV0b3IuY29tcHV0ZUluZGV4RW5kKDFfNTAwXzAwMEwpKTsK</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgICAgIAogICAgICAgCiAgICAgICA=</text>
       </register>
       <register name="3" type="8">
+        <text>-------+
+sample4|
+-------+</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBIYW5kbGUgY2FzZSB3aGVyZSB0aGUgd2luZG93IHJlcXVlc3Qgc3RhcnQgdGltZSBpcyBjbG9zZSB0byB0aGUgQkZGIGJsb2NrIGVuZCB0aW1lLCBhbmQgdGhlcmUgaXMgbm90CiAgICAgICAgLy8gYSBjb21wbGV0ZSBzYW1wbGUgaW4gdGhpcyB0aW1lIGRpZmZlcmVuY2UsIHNvIHdlIG5lZWQgdG8gaWdub3JlIGl0LgogICAgICAgIC8vIFRoZSBjb21wdXRlZCBzdGFydFRpbWUgb2YgdGhpcyBkYXRhIHJlcXVlc3QgY2FuIGJlIHVzZWQgYXMgdGhlICJ0aW1lIHBvaW50ZXIiIG9mIHRoZSBzdGFydCBpbmRleCB0byBmZXRjaAogICAgICAgIC8vIHRoZSBkYXRhIGZvciB0aGUgZ2l2ZW4gd2luZG93LCB0aHVzIGlmIGl0J3MgbGF0ZXIgdGhhbiB0aGUgQkZGIGJsb2NrIGVuZCB0aW1lLCB0aGF0IG1lYW5zCiAgICAgICAgLy8gQkZGIEJsb2NrCg==</text>
+      </register>
+      <register name="5" type="8">
+        <text>/
+/
+/
+/
+/
+/</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyArLS0tLSstLS0tKy0tLS0rLS0tLSsKICAgICAgICAvLyB8ICAgIHwgICAgfCAgICB8ICAgIHwKICAgICAgICAvLyArLS0tLSstLS0tKy0tLS0rLS0tLSsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICArLS0tLS0tLS0tLS0tLSsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICB8ICAgd2luZG93ICAgIHwKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICArLS0tLS0tLS0tLS0tLSsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogPHByZT4KICAgICAgICAgKiAgKy0tLS0tLS0tLS0rCiAgICAgICAgICogIHwgIGJsb2NrICAgfAogICAgICAgICAqICArLS0tLS0tLS0tLSsKICAgICAgICAgKiAgICAgICAgICAgICAgICAgKy0tLS0tLS0tLS0tLS0tLS0tLS0tKwogICAgICAgICAqICAgICAgICAgICAgICAgICB8ICAgICAgIHdpbmRvdyAgICAgICB8CiAgICAgICAgICogICAgICAgICAgICAgICAgICstLS0tLS0tLS0tLS0tLS0tLS0tLSsKICAgICAgICAgKiA8L3ByZT4KICAgICAgICAgKi8KICAgICAgICBAVGVzdAogICAgICAgIHZvaWQgd2hlbldpbmRvd1N0YXJ0VGltZUlzQWZ0ZXJCZmZCbG9ja190aGVuU2hvdWxkUmV0dXJuTWF4VmFsdWUoKSB7CiAgICAgICAgICAgIGFzc2VydEVxdWFscyhMb25nLk1BWF9WQUxVRSwgYmZmU2FtcGxlSW5kZXhDb21wdXRvci5jb21wdXRlSW5kZXhFbmQoMV81MDBfMDAwTCkpOwogICAgICAgICAgICBhc3NlcnRFcXVhbHMoTG9uZy5NQVhfVkFMVUUsIGJmZlNhbXBsZUluZGV4Q29tcHV0b3IuY29tcHV0ZUluZGV4RW5kKDJfNTAwXzAwMEwpKTsKICAgICAgICB9Cgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKExvbmcuTUFYX1ZBTFVFLCBiZmZTYW1wbGVJbmRleENvbXB1dG9yLmNvbXB1dGVJbmRleEVuZCgxXzM5MF8wMDBMKSk7CiAgICAgICAgICAgIGFzc2VydEVxdWFscyhMb25nLk1BWF9WQUxVRSwgYmZmU2FtcGxlSW5kZXhDb21wdXRvci5jb21wdXRlSW5kZXhFbmQoMV80MDBfMDAwTCkpOwogICAgICAgICAgICBhc3NlcnRFcXVhbHMoTG9uZy5NQVhfVkFMVUUsIGJmZlNhbXBsZUluZGV4Q29tcHV0b3IuY29tcHV0ZUluZGV4RW5kKDFfNTAwXzAwMEwpKTsK</text>
+      </register>
+      <register name="9" type="8">
         <text>4L
 4L
 3L
 3L
 2L</text>
-      </register>
-      <register name="4" type="8">
-        <text encoding="base64">IAogCiAKIAog</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV4cGVjdGVkU3RhcnRPZmZzZXQgPSAwOyAvLyBzdGFydHMgZnJvbSBibG9jazIKICAgICAgICAgICAgdmFyIGV4cGVjdGVkRW5kT2Zmc2V0ID0gZXhwZWN0ZWRTdGFydE9mZnNldCArICh3aW5kb3dEdXJhdGlvbiAtIGJmZkJsb2NrMi5nZXRTdGFydFRpbWUoKSkgLyogbVMgKi8gKiAyIC8qIElOVDE2ID0gMiBieXRlcyAqLyAtIDE7CiAgICAgICAgICAgIHZhciBleHBlY3RlZFJhbmdlID0gZXhwZWN0ZWRTdGFydE9mZnNldCArICItIiArIGV4cGVjdGVkRW5kT2Zmc2V0Owo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluZGV4RW5kID0gQmZmU2FtcGxlSW5kZXhDb21wdXRvci53aXRoaW4oYmZmQmxvY2spLmNvbXB1dGVJbmRleEVuZCh3aW5kb3dFbmRUaW1lKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gd2UgcmVtb3ZlIDEgYmVjYXVzZSByYW5nZSBzdGFydCBhdCAwIChleGFtcGxlIDogaWYgd2Ugd2FudCAxMDI0IGJ5dGVzLHJhbmdlIGlzIDogMC0xMDIzKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGV4cGVjdGVkUmFuZ2UgPSBleHBlY3RlZFN0YXJ0T2Zmc2V0ICsgIi0iICsgZXhwZWN0ZWRFbmRPZmZzZXQ7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyBleHBlY3RlZEVuZE9mZnNldCA9IGV4cGVjdGVkU3RhcnRPZmZzZXQgKyB3aW5kb3dEdXJhdGlvbiAvKiBtUyAqLyAqIDIgLyogSU5UMTYgPSAyIGJ5dGVzICovIC0gMTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
