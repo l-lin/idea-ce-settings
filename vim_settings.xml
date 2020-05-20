@@ -151,18 +151,12 @@
         <mark key="^" line="6" column="38" />
         <mark key="." line="6" column="37" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" timestamp="1589992627737">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" timestamp="1589994041843">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="77" column="9" />
-        <mark key="]" line="77" column="10" />
-        <mark key="^" line="77" column="10" />
-        <mark key="." line="77" column="9" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/ServerProperties.java" timestamp="1589987072006">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="4" />
-        <mark key="^" line="4" column="6" />
-        <mark key="." line="6" column="4" />
+        <mark key="[" line="12" column="61" />
+        <mark key="]" line="12" column="74" />
+        <mark key="^" line="12" column="74" />
+        <mark key="." line="12" column="73" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" timestamp="1589990474153">
         <mark key="'" line="83" column="22" />
@@ -191,12 +185,12 @@
       <file name="$MAVEN_REPOSITORY$/io/micrometer/micrometer-core/1.5.1/micrometer-core-1.5.1-sources.jar!/io/micrometer/core/instrument/Timer.java" timestamp="1589992278035">
         <mark key="'" line="328" column="23" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" timestamp="1589993151284">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="355" column="21" />
-        <mark key="]" line="355" column="30" />
-        <mark key="^" line="355" column="30" />
-        <mark key="." line="355" column="29" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" timestamp="1589994083963">
+        <mark key="'" line="150" column="28" />
+        <mark key="[" line="416" column="25" />
+        <mark key="]" line="416" column="38" />
+        <mark key="^" line="416" column="38" />
+        <mark key="." line="416" column="37" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1589989158559">
         <mark key="[" line="126" column="21" />
@@ -209,11 +203,11 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/MetricMonitor.java" timestamp="1589992504014">
-        <mark key="[" line="16" column="46" />
-        <mark key="]" line="16" column="65" />
-        <mark key="^" line="16" column="65" />
-        <mark key="." line="16" column="64" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/MetricMonitor.java" timestamp="1589994033326">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="35" />
+        <mark key="^" line="16" column="35" />
+        <mark key="." line="16" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/micrometer/micrometer-core/1.5.1/micrometer-core-1.5.1-sources.jar!/io/micrometer/core/instrument/MeterRegistry.java" timestamp="1589988646270" />
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/FotaActorTest.java" timestamp="1589990418611">
@@ -235,6 +229,7 @@
         <mark key="^" line="63" column="38" />
         <mark key="." line="63" column="37" />
       </file>
+      <file name="$USER_HOME$/work/cloud-aqtp/src/main/resources/configs/local.properties" timestamp="1589993926099" />
       <file name="/Dummy.txt" timestamp="1589989312109">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
@@ -252,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="31" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
       <jump line="38" column="0" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/TerminatorActorTest.java" />
       <jump line="331" column="29" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.6/akka-actor_2.11-2.5.6-sources.jar!/akka/actor/ActorRef.scala" />
       <jump line="81" column="0" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/TerminatorActorTest.java" />
@@ -352,51 +346,52 @@
       <jump line="328" column="23" filename="$MAVEN_REPOSITORY$/io/micrometer/micrometer-core/1.5.1/micrometer-core-1.5.1-sources.jar!/io/micrometer/core/instrument/Timer.java" />
       <jump line="191" column="38" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
+      <jump line="150" column="28" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Failed</text>
+        <text>Timer.Sample sample</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Failed</text>
+        <text>Timer.Sample sample</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXNjcmlwdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdWNjZWVkRm90YUR1cmF0aW9uID0gVGltZXIuYnVpbGRlcihEVVJBVElPTl9OQU1FKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5kZXNjcmlwdGlvbigiRk9UQSB0b3RhbCBkdXJhdGlvbiBpbiBtaWxsaXNlY29uZHMiKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50YWdzKCJzdGF0dXMiLCBPSykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAucmVnaXN0ZXIocmVnaXN0cnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2FtcGxlLnN0b3AoZm90YUR1cmF0aW9uU3VjY2Vzcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBzdGF0aWMgZW51bSBGb3RhU3RhdHVzIHsgU1VDQ0VTUywgRkFJTFVSRQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzYW1wbGUuc3RvcChUaW1lci5idWlsZGVyKERVUkFUSU9OX05BTUUpCiAgICAgICAgICAgICAgICAgICAgICAgICAuZGVzY3JpcHRpb24oIkZPVEEgb3BlcmF0aW9uIGR1cmF0aW9uIGluIG1pbGxpc2Vjb25kcyIpCiAgICAgICAgICAgICAgICAgICAgICAgICAudGFnKCJzdGF0dXMiLCBpc1N1Y2Nlc3MgPyBPSyA6IEtPKQogICAgICAgICAgICAgICAgICAgICAgICAgLnJlZ2lzdGVyKHJlZ2lzdHJ5KQogICAgICAgICk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzdG9wV2l0aFN1Y2Nlc3MoKSB7CiAgICAgICAgbWV0cmljTW9uaXRvci5zdG9wUmVjb3JkaW5nRm90YSh0aW1lclNhbXBsZSwgdHJ1ZSk7CiAgICAgICAgc3RvcCgpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBzdG9wV2l0aEZhaWx1cmUoKSB7CiAgICAgICAgc3RvcAogICAgfQo=</text>
+        <text encoding="base64">ICAgIAogICAgcHJpdmF0ZSBzdGF0aWMgZW51bSBGb3RhU3RhdHVzIHsgU1VDQ0VTUywgRkFJTFVSRQogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRyaWNNb25pdG9yLnN0b3BSZWNvcmRpbmdGb3RhKHRpbWVyU2FtcGxlLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBzdG9wV2l0aFN1Y2Nlc3MoKSB7CiAgICAgICAgbWV0cmljTW9uaXRvci5zdG9wUmVjb3JkaW5nRm90YSh0aW1lclNhbXBsZSwgdHJ1ZSk7CiAgICAgICAgc3RvcCgpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBzdG9wV2l0aEZhaWx1cmUoKSB7CiAgICAgICAgc3RvcAogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRyaWNNb25pdG9yLnN0b3BSZWNvcmRpbmdGb3RhKHRpbWVyU2FtcGxlLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBtZXRyaWNNb25pdG9yLnN0b3BSZWNvcmRpbmdGb3RhKHRpbWVyU2FtcGxlLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVGltZXIgc3VjY2VlZEZvdGFEdXJhdGlvbjsKCiAgICBwcml2YXRlIGZpbmFsIFRpbWVyIGZhaWxlZEZvdGFEdXJhdGlvbjsKCg==</text>
+        <text encoding="base64">ICAgICAgICBtZXRyaWNNb25pdG9yLnN0b3BSZWNvcmRpbmdGb3RhKHRpbWVyU2FtcGxlLCB0cnVlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdWNjZWVkRm90YUR1cmF0aW9uID0gVGltZXIuYnVpbGRlcihEVVJBVElPTl9OQU1FKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5kZXNjcmlwdGlvbigiU3VjY2VlZCBGT1RBIHRvdGFsIGR1cmF0aW9uIGluIG1pbGxpc2Vjb25kcyIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnRhZ3MoInN0YXR1cyIsIE9LKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5yZWdpc3RlcihyZWdpc3RyeSk7CiAgICAgICAgZmFpbGVkRm90YUR1cmF0aW9uID0gVGltZXIuYnVpbGRlcihEVVJBVElPTl9OQU1FKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5kZXNjcmlwdGlvbigiRmFpbGVkIEZPVEEgdG90YWwgZHVyYXRpb24gaW4gbWlsbGlzZWNvbmRzIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAudGFncygic3RhdHVzIiwgT0spCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnJlZ2lzdGVyKHJlZ2lzdHJ5KTsKICAgICAgICByZWdpc3RyeS50aW1lcigpLgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgVGltZXIgc3VjY2VlZEZvdGFEdXJhdGlvbjsKCiAgICBwcml2YXRlIGZpbmFsIFRpbWVyIGZhaWxlZEZvdGFEdXJhdGlvbjsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuYkJyb2tlckNvbm5lY3Rpb25zID0gcmVnaXN0cnkuZ2F1Z2UoQlJPS0VSX0NPTk5FQ1RJT05TX05BTUUsIG5ldyBBdG9taWNJbnRlZ2VyKDApKTsKICAgICAgICBuYkRldmljZXNJbkZvdGEgPSByZWdpc3RyeS5nYXVnZShGT1RBX0lOX1BST0dSRVNTX05BTUUsIG5ldyBBdG9taWNJbnRlZ2VyKDApKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdWNjZWVkRm90YUR1cmF0aW9uID0gVGltZXIuYnVpbGRlcihEVVJBVElPTl9OQU1FKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5kZXNjcmlwdGlvbigiU3VjY2VlZCBGT1RBIHRvdGFsIGR1cmF0aW9uIGluIG1pbGxpc2Vjb25kcyIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnRhZ3MoInN0YXR1cyIsIE9LKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5yZWdpc3RlcihyZWdpc3RyeSk7CiAgICAgICAgZmFpbGVkRm90YUR1cmF0aW9uID0gVGltZXIuYnVpbGRlcihEVVJBVElPTl9OQU1FKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5kZXNjcmlwdGlvbigiRmFpbGVkIEZPVEEgdG90YWwgZHVyYXRpb24gaW4gbWlsbGlzZWNvbmRzIikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAudGFncygic3RhdHVzIiwgT0spCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnJlZ2lzdGVyKHJlZ2lzdHJ5KTsKICAgICAgICByZWdpc3RyeS50aW1lcigpLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgQXdzUzNQcm9wZXJ0aWVzKFN0cmluZyBhY2Nlc3NLZXksIFN0cmluZyBzZWNyZXRLZXksIFN0cmluZyByZWdpb24pIHsKICAgICAgICB0aGlzLmFjY2Vzc0tleSA9IGFjY2Vzc0tleTsKICAgICAgICB0aGlzLnNlY3JldEtleSA9IHNlY3JldEtleTsKICAgICAgICB0aGlzLnJlZ2lvbiA9IHJlZ2lvbjsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEFjY2Vzc0tleSgpIHsKICAgICAgICByZXR1cm4gYWNjZXNzS2V5OwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2VjcmV0S2V5KCkgewogICAgICAgIHJldHVybiBzZWNyZXRLZXk7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRSZWdpb24oKSB7CiAgICAgICAgcmV0dXJuIHJlZ2lvbjsKICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICBuYkJyb2tlckNvbm5lY3Rpb25zID0gcmVnaXN0cnkuZ2F1Z2UoQlJPS0VSX0NPTk5FQ1RJT05TX05BTUUsIG5ldyBBdG9taWNJbnRlZ2VyKDApKTsKICAgICAgICBuYkRldmljZXNJbkZvdGEgPSByZWdpc3RyeS5nYXVnZShGT1RBX0lOX1BST0dSRVNTX05BTUUsIG5ldyBBdG9taWNJbnRlZ2VyKDApKTsK</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">cHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgQXdzUzNQcm9wZXJ0aWVzKFN0cmluZyBhY2Nlc3NLZXksIFN0cmluZyBzZWNyZXRLZXksIFN0cmluZyByZWdpb24pIHsKICAgICAgICB0aGlzLmFjY2Vzc0tleSA9IGFjY2Vzc0tleTsKICAgICAgICB0aGlzLnNlY3JldEtleSA9IHNlY3JldEtleTsKICAgICAgICB0aGlzLnJlZ2lvbiA9IHJlZ2lvbjsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEFjY2Vzc0tleSgpIHsKICAgICAgICByZXR1cm4gYWNjZXNzS2V5OwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2VjcmV0S2V5KCkgewogICAgICAgIHJldHVybiBzZWNyZXRLZXk7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRSZWdpb24oKSB7CiAgICAgICAgcmV0dXJuIHJlZ2lvbjsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
