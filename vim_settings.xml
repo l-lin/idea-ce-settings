@@ -158,7 +158,8 @@
         <mark key="^" line="61" column="65" />
         <mark key="." line="61" column="64" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/DEPLOYEMENT.md" timestamp="1589971104485">
+      <file name="$USER_HOME$/work/record-service/server/DEPLOYEMENT.md" timestamp="1589977046801">
+        <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="29" column="4" />
       </file>
@@ -219,8 +220,11 @@
         <mark key="^" line="71" column="80" />
         <mark key="." line="71" column="79" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/DEPLOYMENT.md" timestamp="1589971071521">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/fota-service/DEPLOYMENT.md" timestamp="1589977085643">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Optional.java" timestamp="1589968591978">
         <mark key="'" line="198" column="16" />
@@ -248,7 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="32" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" />
       <jump line="158" column="41" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/Dispatcher.java" />
       <jump line="21" column="12" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/retry/RetryBrokerConnector.java" />
       <jump line="51" column="4" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
@@ -348,18 +351,19 @@
       <jump line="104" column="0" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequestTest.java" />
       <jump line="18" column="118" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitorTest.java" />
       <jump line="198" column="16" filename="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Optional.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/work/record-service/server/DEPLOYEMENT.md" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBEZXBsb3ltZW50CiMjIyBGaXJzdCBkZXBsb3ltZW50CiMjIyMjIERvY2tlciBsaW5rIDogCnJlZ2lzdHJ5LmJpb3NlcmVuaXR5LmNvbTogcmVjb3JkLXNlcnZpY2UKIyMjIyMgSmVua2lucyBsaW5rIDogCmplbmtpbnMuYmlvc2VyZW5pdHkuY29tOiBlY2ctc2VydmljZQojIyMjIyBBcmNoaXRlY3R1cmUgOgoqIEhhdmUgYSBwdWJsaWMgQVBJIG9uIDgwODAgbm90IHNlY3VyZWQKKiBIYXZlIHJlYWQvd3JpdGUgYWNjZXNzIHRvIEJGRiBTMyBCdWNrZXQKKiBIYXZlIHJlYWQvV3JpdGUgYWNjZXNzIHRvIEJGRiBNb25nb0RCCgojIyMjIyBIaWdoIEF2YWlsYWJpbGl0eQpDYW4gYmUgZGVwbG95ZWQgb24gbXVsdGlwbGVzIGluc3RhbmNlcwoKIyMjIyMgRW52aXJvbm1lbnQgdmFyaWFibGVzIDoKW1N1cHBvc2VkbHkgZml4ZWQgdmFsdWVzXShzcmMvbWFpbi9yZXNvdXJjZXMvYXBwbGljYXRpb24ucHJvcGVydGllcykKCltNdXN0IG92ZXJyaWRlIHZhbHVlc10oc3JjL21haW4vcmVzb3VyY2VzL2FwcGxpY2F0aW9uLWxvY2FsLnByb3BlcnRpZXMpCgojIyMjIyBNb25pdG9yaW5nIDoKCnNlcnZlckFkcmVzcy9hY3R1YXRvci9wcm9tZXRoZXVzCgpbcG9ydCBjYW4gYmUgZGlmZmVyZW50IGZyb20gcHVibGljIEFQSV0oaHR0cHM6Ly9kb2NzLnNwcmluZy5pby9zcHJpbmctYm9vdC9kb2NzLzEuNS40LlJFTEVBU0UvcmVmZXJlbmNlL2h0bWwvcHJvZHVjdGlvbi1yZWFkeS1tb25pdG9yaW5nLmh0bWwpCgojIyMjIyBMb2dzIGZvcm1hdCA6CgpKU09OCg==</text>
+      <register name="&quot;" type="4">
+        <text>record</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGBkb2NrZXItY29tcG9zZS55bWxg</text>
+        <text>record</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
