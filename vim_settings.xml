@@ -159,17 +159,19 @@
         <mark key="." line="61" column="64" />
       </file>
       <file name="$USER_HOME$/work/record-service/server/DEPLOYEMENT.md" timestamp="1589969868735" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequestTest.java" timestamp="1589970776624">
+        <mark key="'" line="104" column="0" />
+        <mark key="j" line="36" column="8" />
+        <mark key="[" line="149" column="1" />
+        <mark key="]" line="149" column="1" />
+        <mark key="^" line="149" column="1" />
+        <mark key="." line="149" column="0" />
+      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/TerminatorActor.java" timestamp="1589968384358">
         <mark key="[" line="72" column="50" />
         <mark key="]" line="72" column="50" />
         <mark key="." line="72" column="50" />
         <mark key="^" line="72" column="49" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/controller/MonitoringController.java" timestamp="1589967198810">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="24" />
-        <mark key="." line="20" column="23" />
-        <mark key="^" line="20" column="24" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitorTest.java" timestamp="1589968996662">
         <mark key="'" line="20" column="118" />
@@ -344,8 +346,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTRVJWRVIgPSAibG9jYWxob3N0IjsK</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgICAqIAogICAgICogCiAgICAgKiAKICAgICAqIAogICAgICogCiAgICAgKiAKICAgICAqIAogICAgICogCiAgICAgKiAKICAgICAqIA==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -359,10 +361,13 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTRVJWRVIgPSAibG9jYWxob3N0IjsK</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="8">
+        <text encoding="base64">ICAgICAqIAogICAgICogCiAgICAgKiAKICAgICAqIAogICAgICogCiAgICAgKiAKICAgICAqIAogICAgICogCiAgICAgKiAKICAgICAqIA==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBtZXRyaWNNb25pdG9yLmluY3JlbWVudE5iQnJva2VyQ29ubmVjdGlvbnMoKTsK</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text>//
 //
 //
@@ -371,29 +376,26 @@
 //
 //</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgT3B0aW9uYWw8TG9uZz4gaW5kZXggPSBiZmZTYW1wbGVJbmRleENvbXB1dG9yLmNvbXB1dGVJbmRleEVuZCh0ZXN0cy5nZXQoMCkpOyBpbmRleC5pZlByZXNlbnRPckVsc2UoaSAtPiBhc3NlcnRFcXVhbHMoTG9uZy5NQVhfVkFMVUUsIGkpLCAoKSAtPiBBc3NlcnRpb25zLmZhaWwoImZvb2JhciIgKyB0ZXN0cy5nZXQoMCkpKTsKICAgICAgICAgICAgaW5kZXguaWZQcmVzZW50T3JFbHNlKAogICAgICAgICAgICAgICAgICAgIGkgLT4gYXNzZXJ0RXF1YWxzKExvbmcuTUFYX1ZBTFVFLCBpKSwKICAgICAgICAgICAgICAgICAgICBBc3NlcnRpb25zLmZhaWwoIkZhaWxlZCB3aXRoIHdpbmRvd0VuZFRpbWUgPSAiICsgdGVzdHMuZ2V0KDApKQogICAgICAgICAgICApOwo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>//
 //
 //
 //</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFRydWUoaW5kZXguaXNQcmVzZW50KCksICJXaXRoIHdpbmRvd0VuZFRpbWUgPSAiICsgdGVzdCk7CiAgICAgICAgICAgICAgICBhc3NlcnRFcXVhbHMoTG9uZy5NQVhfVkFMVUUsIGluZGV4LmdldCgpKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydFRydWUoaW5kZXguaXNQcmVzZW50KCksICJXaXRoIHdpbmRvd0VuZFRpbWUgPSAiICsgdGVzdC5nZXRMZWZ0KCkpOwogICAgICAgICAgICAgICAgYXNzZXJ0RXF1YWxzKHRlc3QuZ2V0UmlnaHQoKSwgaW5kZXguZ2V0KCkpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFzc2VydEVxdWFscyh0ZXN0LmdldFJpZ2h0KCksIGluZGV4LmdldCgpKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW5PcmRlciBpbk9yZGVyID0gTW9ja2l0by5pbk9yZGVyKGJyb2tlclByb2R1Y2VyKTsKICAgICAgICAgICAgICAgICAgICAgICAgaW5PcmRlci52ZXJpZnkoYnJva2VyUHJvZHVjZXIpLmNvbm5lY3QoKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgUHJvbWV0aGV1c01ldGVyUmVnaXN0cnkgbWV0ZXJSZWdpc3RyeSgpIHsKICAgICAgICBQcm9tZXRoZXVzTWV0ZXJSZWdpc3RyeSByZWdpc3RyeSA9IG5ldyBQcm9tZXRoZXVzTWV0ZXJSZWdpc3RyeShQcm9tZXRoZXVzQ29uZmlnLkRFRkFVTFQpOwogICAgICAgIC8vIGdhdWdlcyBsb2FkZWQgYW5kIHVubG9hZGVkIGNsYXNzZXMKICAgICAgICBuZXcgQ2xhc3NMb2FkZXJNZXRyaWNzKCkuYmluZFRvKHJlZ2lzdHJ5KTsKICAgICAgICAvLyBnYXVnZXMgYnVmZmVyIGFuZCBtZW1vcnkgcG9vbCB1dGlsaXphdGlvbgogICAgICAgIG5ldyBKdm1NZW1vcnlNZXRyaWNzKCkuYmluZFRvKHJlZ2lzdHJ5KTsKICAgICAgICAvLyBnYXVnZXMgZ2FyYmFnZSBjb2xsZWN0b3IgbWV0cmljcwogICAgICAgIHRyeSAoSnZtR2NNZXRyaWNzIGp2bUdjTWV0cmljcyA9IG5ldyBKdm1HY01ldHJpY3MoKSkgewogICAgICAgICAgICBqdm1HY01ldHJpY3MuYmluZFRvKHJlZ2lzdHJ5KTsKICAgICAgICB9CiAgICAgICAgLy8gZ2F1Z2VzIHRocmVhZCBwZWFrLCBuYiBvZiBkYWVtb24gdGhyZWFkcyBhbmQgbGl2ZSB0aHJlYWRzCiAgICAgICAgbmV3IEp2bVRocmVhZE1ldHJpY3MoKS5iaW5kVG8ocmVnaXN0cnkpOwogICAgICAgIC8vIGdhdWdlcyBjdXJyZW50IENQVSB0b3RhbCBhbmQgbG9hZCBhdmVyYWdlCiAgICAgICAgbmV3IFByb2Nlc3Nvck1ldHJpY3MoKS5iaW5kVG8ocmVnaXN0cnkpOwogICAgICAgIHJldHVybiByZWdpc3RyeTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW5PcmRlciBpbk9yZGVyID0gTW9ja2l0by5pbk9yZGVyKGJyb2tlclByb2R1Y2VyKTsKICAgICAgICAgICAgICAgICAgICAgICAgaW5PcmRlci52ZXJpZnkoYnJva2VyUHJvZHVjZXIpLmNvbm5lY3QoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
