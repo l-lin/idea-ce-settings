@@ -146,113 +146,113 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" timestamp="1589986153336">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/firmware/s3/InMemoryCachedFirmwareFetcher.java" timestamp="1589986923845">
+        <mark key="[" line="22" column="3" />
+        <mark key="]" line="23" column="6" />
+        <mark key="^" line="23" column="6" />
+        <mark key="." line="23" column="5" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" timestamp="1589986930937">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="19" column="74" />
-        <mark key="]" line="19" column="80" />
-        <mark key="^" line="19" column="80" />
-        <mark key="." line="19" column="79" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="6" />
+        <mark key="^" line="12" column="6" />
+        <mark key="." line="12" column="5" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/DEPLOYEMENT.md" timestamp="1589977046801">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="29" column="4" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/ServerProperties.java" timestamp="1589987072006">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequestTest.java" timestamp="1589970776624">
-        <mark key="'" line="104" column="0" />
-        <mark key="j" line="36" column="8" />
-        <mark key="[" line="149" column="1" />
-        <mark key="]" line="149" column="1" />
-        <mark key="^" line="149" column="1" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/retry/RetryBrokerConnector.java" timestamp="1589986890445">
+        <mark key="[" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/README.md" timestamp="1589986025175">
-        <mark key="[" line="63" column="52" />
-        <mark key="]" line="63" column="59" />
-        <mark key="." line="63" column="58" />
-        <mark key="^" line="63" column="59" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/FotaProperties.java" timestamp="1589987096626">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/work/cloud-aqtp/src/main/java/com/bioserenity/aqtp/scenario/fota/FotaScenario.java" timestamp="1589982387714" />
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1589983382661">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="17" />
-        <mark key="^" line="22" column="17" />
-        <mark key="." line="22" column="16" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/controller/MonitoringController.java" timestamp="1589986906491">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="6" />
+        <mark key="." line="12" column="5" />
+        <mark key="^" line="12" column="6" />
       </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1589969961128">
-        <mark key="[" line="12" column="42" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="11" column="6" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1589986936371">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="17" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1589983513001">
-        <mark key="[" line="126" column="21" />
-        <mark key="]" line="126" column="22" />
-        <mark key="." line="126" column="22" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/MqttProperties.java" timestamp="1589987152250">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="28" column="4" />
+        <mark key="^" line="28" column="4" />
+        <mark key="." line="28" column="3" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1589980216091">
-        <mark key="[" line="84" column="53" />
-        <mark key="]" line="84" column="68" />
-        <mark key="^" line="84" column="68" />
-        <mark key="." line="84" column="67" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/MqttConnectorProperties.java" timestamp="1589987082413">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/MetricMonitor.java" timestamp="1589980435559">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="10" column="33" />
-        <mark key="^" line="10" column="33" />
-        <mark key="." line="10" column="32" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/firmware/s3/AmazonS3FirmwareFetcher.java" timestamp="1589986916191">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="19" column="6" />
+        <mark key="^" line="19" column="6" />
+        <mark key="." line="19" column="5" />
       </file>
-      <file name="$USER_HOME$/work/cloud-aqtp/src/test/java/com/bioserenity/aqtp/TestFotaScenario.java" timestamp="1589982275113">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="11" />
-        <mark key="^" line="55" column="11" />
-        <mark key="." line="62" column="0" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttProducer.java" timestamp="1589986879659">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="19" column="6" />
+        <mark key="^" line="19" column="6" />
+        <mark key="." line="19" column="5" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/micrometer/micrometer-core/1.5.1/micrometer-core-1.5.1-sources.jar!/io/micrometer/core/instrument/MeterRegistry.java" timestamp="1589980939281" />
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttProducerTest.java" timestamp="1589981937683">
-        <mark key="[" line="53" column="5" />
-        <mark key="]" line="54" column="4" />
-        <mark key="^" line="54" column="4" />
-        <mark key="." line="54" column="3" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConnectorFactory.java" timestamp="1589987132940">
+        <mark key="[" line="63" column="35" />
+        <mark key="]" line="63" column="38" />
+        <mark key="^" line="63" column="38" />
+        <mark key="." line="63" column="37" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/DEPLOYMENT.md" timestamp="1589986277895">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="27" column="38" />
-        <mark key="]" line="27" column="42" />
-        <mark key="^" line="27" column="42" />
-        <mark key="." line="27" column="41" />
+      <file name="$USER_HOME$/work/fota-service/lombok.config" timestamp="1589986842635" />
+      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/fota/utils/IOUtils.java" timestamp="1589986944054">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="6" />
+        <mark key="^" line="16" column="6" />
+        <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/CallGrpcApiExample.java" timestamp="1589969906295" />
-      <file name="/Dummy.txt" timestamp="1589985336017">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConnector.java" timestamp="1589986805484">
+        <mark key="[" line="20" column="3" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="5" />
+        <mark key="^" line="21" column="6" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConnector.java" timestamp="1589983335819">
-        <mark key="[" line="82" column="22" />
-        <mark key="]" line="82" column="53" />
-        <mark key="." line="82" column="52" />
-        <mark key="^" line="82" column="53" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConsumer.java" timestamp="1589986870784">
+        <mark key="[" line="29" column="3" />
+        <mark key="]" line="45" column="29" />
+        <mark key="^" line="45" column="29" />
+        <mark key="." line="45" column="28" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/broker/mqtt/MqttConsumerTest.java" timestamp="1589981919906">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="61" column="5" />
-        <mark key="." line="83" column="15" />
-        <mark key="^" line="83" column="16" />
+      <file name="/MqttProperties.java" timestamp="1589987149197">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="87" column="5" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/FotaAppConfig.java" timestamp="1589986347621">
-        <mark key="[" line="111" column="15" />
-        <mark key="]" line="112" column="0" />
-        <mark key="^" line="111" column="15" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/AwsS3Properties.java" timestamp="1589987107983">
+        <mark key="^" line="4" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1589980190955">
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttURLBuilder.java" timestamp="1589986885637">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="10" column="5" />
+      </file>
+      <file name="/fragment.java" timestamp="1589987406963">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="0" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
-      <jump line="267" column="26" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
       <jump line="12" column="49" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/ReaperActor.java" />
       <jump line="237" column="6" filename="$MAVEN_REPOSITORY$/com/typesafe/akka/akka-actor_2.11/2.5.6/akka-actor_2.11-2.5.6-sources.jar!/akka/pattern/Patterns.scala" />
       <jump line="25" column="26" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/TerminatorActor.java" />
@@ -351,52 +351,53 @@
       <jump line="31" column="0" filename="$USER_HOME$/work/fota-service/DEPLOYMENT.md" />
       <jump line="16" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" />
       <jump line="25" column="0" filename="$USER_HOME$/work/fota-service/DEPLOYMENT.md" />
+      <jump line="27" column="12" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/MqttProperties.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/AwsS3Properties.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzZXJ2ZXJQcm9wZXJ0aWVzCiAgICAgKiBAcGFyYW0gcmVnaXN0cnkKICAgICAqIEByZXR1cm4KICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNcXR0Q29ubmVjdE9wdGlvbnMgbXF0dENvbm5lY3RPcHRpb25zKCkgewogICAgICAgIE1xdHRDb25uZWN0T3B0aW9ucyBtcXR0T3B0aW9ucyA9IG5ldyBNcXR0Q29ubmVjdE9wdGlvbnMoKTsKICAgICAgICBtcXR0T3B0aW9ucy5zZXRBdXRvbWF0aWNSZWNvbm5lY3QoYXV0b21hdGljUmVjb25uZWN0KTsKICAgICAgICBtcXR0T3B0aW9ucy5zZXRLZWVwQWxpdmVJbnRlcnZhbChrZWVwYWxpdmUpOwogICAgICAgIG1xdHRPcHRpb25zLnNldENvbm5lY3Rpb25UaW1lb3V0KGNvbm5lY3Rpb25UaW1lb3V0KTsKICAgICAgICBtcXR0T3B0aW9ucy5zZXRDbGVhblNlc3Npb24oY2xlYW5TZXNzaW9uKTsKICAgICAgICBtcXR0T3B0aW9ucy5zZXRVc2VyTmFtZSh1c2VybmFtZSk7CiAgICAgICAgbXF0dE9wdGlvbnMuc2V0UGFzc3dvcmQocGFzc3dvcmQudG9DaGFyQXJyYXkoKSk7CiAgICAgICAgcmV0dXJuIG1xdHRPcHRpb25zOwogICAgfQo=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>m2i70fJwfbobGTtbTWqRppDvyjVpKNtrJEEzAsOr</text>
+        <text>mqttConnectOptions</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc19rZXkgPSBBS0lBSlA1STZaS1JPUkpHNDZaQQogICAgc2VjcmV0X2tleSA9IG0yaTcwZkp3ZmJvYkdUdGJUV3FScHBEdnlqVnBLTnRySkVFekFzT3IK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNcXR0Q29ubmVjdE9wdGlvbnMgbXF0dENvbm5lY3RPcHRpb25zKCkgewogICAgICAgIE1xdHRDb25uZWN0T3B0aW9ucyBtcXR0T3B0aW9ucyA9IG5ldyBNcXR0Q29ubmVjdE9wdGlvbnMoKTsKICAgICAgICBtcXR0T3B0aW9ucy5zZXRBdXRvbWF0aWNSZWNvbm5lY3QoYXV0b21hdGljUmVjb25uZWN0KTsKICAgICAgICBtcXR0T3B0aW9ucy5zZXRLZWVwQWxpdmVJbnRlcnZhbChrZWVwYWxpdmUpOwogICAgICAgIG1xdHRPcHRpb25zLnNldENvbm5lY3Rpb25UaW1lb3V0KGNvbm5lY3Rpb25UaW1lb3V0KTsKICAgICAgICBtcXR0T3B0aW9ucy5zZXRDbGVhblNlc3Npb24oY2xlYW5TZXNzaW9uKTsKICAgICAgICBtcXR0T3B0aW9ucy5zZXRVc2VyTmFtZSh1c2VybmFtZSk7CiAgICAgICAgbXF0dE9wdGlvbnMuc2V0UGFzc3dvcmQocGFzc3dvcmQudG9DaGFyQXJyYXkoKSk7CiAgICAgICAgcmV0dXJuIG1xdHRPcHRpb25zOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzZXJ2ZXJQcm9wZXJ0aWVzCiAgICAgKiBAcGFyYW0gcmVnaXN0cnkKICAgICAqIEByZXR1cm4KICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgQXdzUzNQcm9wZXJ0aWVzKFN0cmluZyBhY2Nlc3NLZXksIFN0cmluZyBzZWNyZXRLZXksIFN0cmluZyByZWdpb24pIHsKICAgICAgICB0aGlzLmFjY2Vzc0tleSA9IGFjY2Vzc0tleTsKICAgICAgICB0aGlzLnNlY3JldEtleSA9IHNlY3JldEtleTsKICAgICAgICB0aGlzLnJlZ2lvbiA9IHJlZ2lvbjsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldEFjY2Vzc0tleSgpIHsKICAgICAgICByZXR1cm4gYWNjZXNzS2V5OwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2VjcmV0S2V5KCkgewogICAgICAgIHJldHVybiBzZWNyZXRLZXk7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRSZWdpb24oKSB7CiAgICAgICAgcmV0dXJuIHJlZ2lvbjsKICAgIH0=</text>
       </register>
       <register name="2" type="8">
-        <text>#
-#</text>
+        <text encoding="base64">cHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGFjY2Vzc19rZXkgPSBBS0lBUTczTTNZS1lZUU9PVk5INgogICAgc2VjcmV0X2tleSA9IExZcU42VG12TW9GSVdjdGhSMVp2OFJzV2xsY1pYYjQ5alBjWE1mVGcK</text>
+      <register name="3" type="8">
+        <text encoding="base64">cHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHSVZFTgogICAgICAgIG1xdHRQcm9kdWNlciA9IG5ldyBNcXR0Q29uc3VtZXIoCiAgICAgICAgICAgICAgICBtZXRyaWNNb25pdG9yLAogICAgICAgICAgICAgICAgQ0xJRU5UX0lELAogICAgICAgICAgICAgICAgbXF0dElPLAogICAgICAgICAgICAgICAgbmV3IE1xdHRDb25uZWN0T3B0aW9ucygpLAogICAgICAgICAgICAgICAgVE9QSUNfUFJFRklYLAogICAgICAgICAgICAgICAgQXNzZXJ0Ojphc3NlcnROb3ROdWxsCiAgICAgICAgKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBGb3RhUHJvcGVydGllcygKICAgICAgICAgICAgaW50IGJsb2NrU2l6ZUNDVywKICAgICAgICAgICAgaW50IGJsb2NrU2l6ZVdFTVVWMSwKICAgICAgICAgICAgaW50IGJsb2NrU2l6ZVdFTVVWMiwKICAgICAgICAgICAgaW50IGJsb2NrU2l6ZUNQRiwKICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHdlbXVWMVByZWZpeGVzLAogICAgICAgICAgICBMaXN0PFN0cmluZz4gd2VtdVYyUHJlZml4ZXMsCiAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBjY3dQcmVmaXhlcywKICAgICAgICAgICAgTGlzdDxTdHJpbmc+IGNwZlByZWZpeGVzLAogICAgICAgICAgICBpbnQgdHJ5Q291bnQsCiAgICAgICAgICAgIGludCBhd3NTM1RpbWVvdXQsCiAgICAgICAgICAgIGludCBtcXR0VGltZW91dCwKICAgICAgICAgICAgYm9vbGVhbiBmaW5hbFZlcnNpb25zCiAgICApIHsKICAgICAgICB0aGlzLmJsb2NrU2l6ZUNDVyA9IGJsb2NrU2l6ZUNDVzsKICAgICAgICB0aGlzLmJsb2NrU2l6ZVdFTVVWMSA9IGJsb2NrU2l6ZVdFTVVWMTsKICAgICAgICB0aGlzLmJsb2NrU2l6ZVdFTVVWMiA9IGJsb2NrU2l6ZVdFTVVWMjsKICAgICAgICB0aGlzLmJsb2NrU2l6ZUNQRiA9IGJsb2NrU2l6ZUNQRjsKICAgICAgICB0aGlzLndlbXVWMVByZWZpeGVzID0gd2VtdVYxUHJlZml4ZXM7CiAgICAgICAgdGhpcy53ZW11VjJQcmVmaXhlcyA9IHdlbXVWMlByZWZpeGVzOwogICAgICAgIHRoaXMuY2N3UHJlZml4ZXMgPSBjY3dQcmVmaXhlczsKICAgICAgICB0aGlzLmNwZlByZWZpeGVzID0gY3BmUHJlZml4ZXM7CiAgICAgICAgdGhpcy50cnlDb3VudCA9IHRyeUNvdW50OwogICAgICAgIHRoaXMuYXdzUzNUaW1lb3V0ID0gYXdzUzNUaW1lb3V0OwogICAgICAgIHRoaXMubXF0dFRpbWVvdXQgPSBtcXR0VGltZW91dDsKICAgICAgICB0aGlzLmZpbmFsVmVyc2lvbnMgPSBmaW5hbFZlcnNpb25zOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0QmxvY2tTaXplQ0NXKCkgewogICAgICAgIHJldHVybiBibG9ja1NpemVDQ1c7CiAgICB9CgogICAgcHVibGljIGludCBnZXRCbG9ja1NpemVXRU1VVjEoKSB7CiAgICAgICAgcmV0dXJuIGJsb2NrU2l6ZVdFTVVWMTsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldEJsb2NrU2l6ZUNQRigpIHsKICAgICAgICByZXR1cm4gYmxvY2tTaXplQ1BGOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0QmxvY2tTaXplV0VNVVYyKCkgewogICAgICAgIHJldHVybiBibG9ja1NpemVXRU1VVjI7CiAgICB9CgogICAgcHVibGljIExpc3Q8U3RyaW5nPiBnZXRXZW11VjFQcmVmaXhlcygpIHsKICAgICAgICByZXR1cm4gd2VtdVYxUHJlZml4ZXM7CiAgICB9CgogICAgcHVibGljIExpc3Q8U3RyaW5nPiBnZXRXZW11VjJQcmVmaXhlcygpIHsKICAgICAgICByZXR1cm4gd2VtdVYyUHJlZml4ZXM7CiAgICB9CgogICAgcHVibGljIExpc3Q8U3RyaW5nPiBnZXRDY3dQcmVmaXhlcygpIHsKICAgICAgICByZXR1cm4gY2N3UHJlZml4ZXM7CiAgICB9CgogICAgcHVibGljIExpc3Q8U3RyaW5nPiBnZXRDcGZQcmVmaXhlcygpIHsKICAgICAgICByZXR1cm4gY3BmUHJlZml4ZXM7CiAgICB9CgogICAgcHVibGljIGludCBnZXRUcnlDb3VudCgpIHsKICAgICAgICByZXR1cm4gdHJ5Q291bnQ7CiAgICB9CgogICAgcHVibGljIGludCBnZXRBd3NTM1RpbWVvdXQoKSB7CiAgICAgICAgcmV0dXJuIGF3c1MzVGltZW91dDsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldE1xdHRUaW1lb3V0KCkgewogICAgICAgIHJldHVybiBtcXR0VGltZW91dDsKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBpc0ZpbmFsVmVyc2lvbnMoKSB7CiAgICAgICAgcmV0dXJuIGZpbmFsVmVyc2lvbnM7CiAgICB9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtcXR0Q29uc3VtZXIuY29ubmVjdGlvbkxvc3QoY2F1c2UpOwo=</text>
+      <register name="5" type="8">
+        <text encoding="base64">cHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBHSVZFTgogICAgICAgIG1xdHRDb25zdW1lciA9IG5ldyBNcXR0Q29uc3VtZXIoCiAgICAgICAgICAgICAgICBtZXRyaWNNb25pdG9yLAogICAgICAgICAgICAgICAgQ0xJRU5UX0lELAogICAgICAgICAgICAgICAgbXF0dElPLAogICAgICAgICAgICAgICAgbmV3IE1xdHRDb25uZWN0T3B0aW9ucygpLAogICAgICAgICAgICAgICAgVE9QSUNfUFJFRklYLAogICAgICAgICAgICAgICAgQXNzZXJ0Ojphc3NlcnROb3ROdWxsCiAgICAgICAgKTsKCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNcXR0Q29ubmVjdG9yUHJvcGVydGllcyhTdHJpbmcgdG9waWMsIFN0cmluZyBjbGllbnRJZFByZWZpeCkgewogICAgICAgIHRoaXMudG9waWMgPSB0b3BpYzsKICAgICAgICB0aGlzLmNsaWVudElkUHJlZml4ID0gY2xpZW50SWRQcmVmaXg7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRUb3BpYygpIHsKICAgICAgICByZXR1cm4gdG9waWM7CiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtcXR0UHJvZHVjZXIgPSBuZXcgTXF0dFByb2R1Y2VyKAogICAgICAgICAgICAgICAgbWV0cmljTW9uaXRvciwKICAgICAgICAgICAgICAgIENMSUVOVF9JRCwKICAgICAgICAgICAgICAgIG1xdHRJTywKICAgICAgICAgICAgICAgIG5ldyBNcXR0Q29ubmVjdE9wdGlvbnMoKSwKICAgICAgICAgICAgICAgIFRPUElDX1BSRUZJWCwKICAgICAgICAgICAgICAgIEFzc2VydDo6YXNzZXJ0Tm90TnVsbAogICAgICAgICk7Cgo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU2VydmVyUHJvcGVydGllcyhpbnQgcG9ydCkgewogICAgICAgIHRoaXMucG9ydCA9IHBvcnQ7CiAgICB9CgogICAgcHVibGljIGludCBnZXRQb3J0KCkgewogICAgICAgIHJldHVybiBwb3J0OwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0TmJCcm9rZXJDb25uZWN0aW9ucygpIHsKICAgICAgICByZXR1cm4gbmJCcm9rZXJDb25uZWN0aW9ucy5nZXQoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNcXR0UHJvcGVydGllcygKICAgICAgICAgICAgaW50IHFvcywgU3RyaW5nIGJyb2tlciwgU3RyaW5nIHBvcnQsIFN0cmluZyB1c2VybmFtZSwgU3RyaW5nIHBhc3N3b3JkLAogICAgICAgICAgICBpbnQga2VlcEFsaXZlLAogICAgICAgICAgICBib29sZWFuIGF1dG9tYXRpY1JlY29ubmVjdCwKICAgICAgICAgICAgaW50IGNvbm5lY3Rpb25UaW1lb3V0LAogICAgICAgICAgICBib29sZWFuIGNsZWFuU2Vzc2lvbgogICAgKSB7CiAgICAgICAgdGhpcy5xb3MgPSBxb3M7CiAgICAgICAgdGhpcy5icm9rZXIgPSBicm9rZXI7CiAgICAgICAgdGhpcy5wb3J0ID0gcG9ydDsKICAgICAgICB0aGlzLnVzZXJuYW1lID0gdXNlcm5hbWU7CiAgICAgICAgdGhpcy5wYXNzd29yZCA9IHBhc3N3b3JkOwogICAgICAgIHRoaXMua2VlcGFsaXZlID0ga2VlcEFsaXZlOwogICAgICAgIHRoaXMuYXV0b21hdGljUmVjb25uZWN0ID0gYXV0b21hdGljUmVjb25uZWN0OwogICAgICAgIHRoaXMuY29ubmVjdGlvblRpbWVvdXQgPSBjb25uZWN0aW9uVGltZW91dDsKICAgICAgICB0aGlzLmNsZWFuU2Vzc2lvbiA9IGNsZWFuU2Vzc2lvbjsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldFFvcygpIHsKICAgICAgICByZXR1cm4gcW9zOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0QnJva2VyKCkgewogICAgICAgIHJldHVybiBicm9rZXI7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRQb3J0KCkgewogICAgICAgIHJldHVybiBwb3J0OwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VXNlcm5hbWUoKSB7CiAgICAgICAgcmV0dXJuIHVzZXJuYW1lOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0UGFzc3dvcmQoKSB7CiAgICAgICAgcmV0dXJuIHBhc3N3b3JkOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0S2VlcGFsaXZlKCkgewogICAgICAgIHJldHVybiBrZWVwYWxpdmU7CiAgICB9CgogICAgcHVibGljIGJvb2xlYW4gaXNBdXRvbWF0aWNSZWNvbm5lY3QoKSB7CiAgICAgICAgcmV0dXJuIGF1dG9tYXRpY1JlY29ubmVjdDsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldENvbm5lY3Rpb25UaW1lb3V0KCkgewogICAgICAgIHJldHVybiBjb25uZWN0aW9uVGltZW91dDsKICAgIH0KCiAgICBwdWJsaWMgYm9vbGVhbiBpc0NsZWFuU2Vzc2lvbigpIHsKICAgICAgICByZXR1cm4gY2xlYW5TZXNzaW9uOwogICAgfQoKICAgIHB1YmxpYyBNcXR0Q29ubmVjdE9wdGlvbnMgbXF0dENvbm5lY3RPcHRpb25zKCkgewogICAgICAgIE1xdHRDb25uZWN0T3B0aW9ucyBtcXR0T3B0aW9ucyA9IG5ldyBNcXR0Q29ubmVjdE9wdGlvbnMoKTsKICAgICAgICBtcXR0T3B0aW9ucy5zZXRBdXRvbWF0aWNSZWNvbm5lY3QoYXV0b21hdGljUmVjb25uZWN0KTsKICAgICAgICBtcXR0T3B0aW9ucy5zZXRLZWVwQWxpdmVJbnRlcnZhbChrZWVwYWxpdmUpOwogICAgICAgIG1xdHRPcHRpb25zLnNldENvbm5lY3Rpb25UaW1lb3V0KGNvbm5lY3Rpb25UaW1lb3V0KTsKICAgICAgICBtcXR0T3B0aW9ucy5zZXRDbGVhblNlc3Npb24oY2xlYW5TZXNzaW9uKTsKICAgICAgICBtcXR0T3B0aW9ucy5zZXRVc2VyTmFtZSh1c2VybmFtZSk7CiAgICAgICAgbXF0dE9wdGlvbnMuc2V0UGFzc3dvcmQocGFzc3dvcmQudG9DaGFyQXJyYXkoKSk7CiAgICAgICAgcmV0dXJuIG1xdHRPcHRpb25zOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIk1xdHRQcm9wZXJ0aWVzeyIgKwogICAgICAgICAgICAgICAgInFvcz0iICsgcW9zICsKICAgICAgICAgICAgICAgICIsIGJyb2tlcj0nIiArIGJyb2tlciArICdcJycgKwogICAgICAgICAgICAgICAgIiwgcG9ydD0nIiArIHBvcnQgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIHVzZXJuYW1lPSciICsgdXNlcm5hbWUgKyAnXCcnICsKICAgICAgICAgICAgICAgICIsIHBhc3N3b3JkPScqKioqJyIgKwogICAgICAgICAgICAgICAgIiwga2VlcGFsaXZlPSIgKyBrZWVwYWxpdmUgKwogICAgICAgICAgICAgICAgIiwgYXV0b21hdGljUmVjb25uZWN0PSIgKyBhdXRvbWF0aWNSZWNvbm5lY3QgKwogICAgICAgICAgICAgICAgIiwgY29ubmVjdGlvblRpbWVvdXQ9IiArIGNvbm5lY3Rpb25UaW1lb3V0ICsKICAgICAgICAgICAgICAgICIsIGNsZWFuU2Vzc2lvbj0iICsgY2xlYW5TZXNzaW9uICsKICAgICAgICAgICAgICAgICd9JzsKICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyMjIEFwcGxpY2F0aW9uIHNwZWNpZmljIG1ldHJpY3MKCi0gYGZvdGFfc2VydmljZV9icm9rZXJfbmJfY29ubmVjdGlvbnNgCiAgLSBudW1iZXIgb2YgY29ubmVjdGlvbnMgdG8gdGhlIGJyb2tlciBNUVRUCiAgLSB0aGUgdmFsdWUgc2hvdWxkIGF0IGxlYXN0IGJlIGAyYCAob25lIGZvciB0aGUgY29uc3VtZXIgYW5kIG9uZSBmb3IgdGhlIHByb2R1Y2VyKSwgYW55IHZhbHVlIGJlbG93IGlzIG5vdCBhIG5vcm1hbAo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">cHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCAKICAgICAgICAgICAgICAKcHJpdmF0ZSBmaW5hbCA=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
