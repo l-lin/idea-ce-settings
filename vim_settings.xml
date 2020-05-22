@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDxmb3RhQWN0b3JzXD4=</entry>
         <entry encoding="base64">XDx0b3BpY1w+</entry>
         <entry encoding="base64">XDxhd3NBY3Rvclw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry encoding="base64">XDx0aW1lclNhbXBsZVw+</entry>
+        <entry encoding="base64">XDxzYW1wbGluZ1JhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,12 +146,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/MetricMonitor.java" timestamp="1590132852123">
-        <mark key="[" line="17" column="27" />
-        <mark key="]" line="17" column="42" />
-        <mark key="^" line="17" column="42" />
-        <mark key="." line="17" column="41" />
-      </file>
       <file name="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/FotaActorTest.java" timestamp="1590133622631">
         <mark key="'" line="144" column="16" />
         <mark key="[" line="150" column="51" />
@@ -159,6 +153,7 @@
         <mark key="^" line="150" column="65" />
         <mark key="." line="150" column="64" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/SignalResamplerTest.java" timestamp="1590143178571" />
       <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1590140574649">
         <mark key="[" line="9" column="59" />
         <mark key="]" line="10" column="23" />
@@ -179,6 +174,9 @@
         <mark key="^" line="52" column="38" />
         <mark key="." line="52" column="37" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/command/SignalConfiguration.java" timestamp="1590143161950">
+        <mark key="'" line="59" column="24" />
+      </file>
       <file name="/Signal.java" timestamp="1590136195998" />
       <file name="$USER_HOME$/Downloads/demo/src/main/resources/application.properties" timestamp="1590140807021">
         <mark key="[" line="1" column="0" />
@@ -191,12 +189,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1590133050267">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="31" />
-        <mark key="^" line="28" column="25" />
-        <mark key="." line="21" column="31" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/pom.xml" timestamp="1590136800581" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/SignalResampler.java" timestamp="1590136730583" />
@@ -227,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/TerminatorActorTest.java" />
       <jump line="200" column="0" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/DispatcherTest.java" />
       <jump line="108" column="30" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerProducerActorTest.java" />
       <jump line="170" column="8" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" />
@@ -327,6 +318,7 @@
       <jump line="68" column="25" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
       <jump line="122" column="20" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
       <jump line="138" column="16" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/FotaActorTest.java" />
+      <jump line="59" column="24" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/command/SignalConfiguration.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,7 +333,7 @@
         <text>remove(s);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lclNhbXBsZVw+</text>
+        <text encoding="base64">XDxzYW1wbGluZ1JhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjaGVjayBtZXRyaWMgbW9uaXRvciBzdGFydHMgcmVjb3JkaW5nCiAgICAgICAgICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkobWV0cmljTW9uaXRvcikuc3RhcnRSZWNvcmRpbmdGb3RhKGRldmljZUlkKTsK</text>
@@ -380,9 +372,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0aW1lclNhbXBsZVw+</last-search>
+      <last-search encoding="base64">XDxzYW1wbGluZ1JhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lclNhbXBsZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxzYW1wbGluZ1JhdGVcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
