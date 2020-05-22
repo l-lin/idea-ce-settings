@@ -146,18 +146,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/Jenkinsfile" timestamp="1590161104176" />
+      <file name="$USER_HOME$/work/fota-service/Jenkinsfile" timestamp="1590161124779" />
       <file name="/SignalResamplerTest.java" timestamp="1590149632442" />
       <file name="/SignalGeneratorWithCloudSQI.java" timestamp="1590151048134" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/SignalResamplerTest.java" timestamp="1590149174498" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" timestamp="1590161706776">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="83" column="4" />
+        <mark key="]" line="83" column="4" />
+        <mark key="." line="83" column="4" />
+        <mark key="^" line="94" column="42" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/service/annotations/report/RecordDataFactory.java" timestamp="1590156403369" />
       <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Set.java" timestamp="1590149796140">
         <mark key="'" line="588" column="4" />
       </file>
       <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/TreeSet.java" timestamp="1590151297616" />
-      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/command/SignalConfiguration.java" timestamp="1590143161950">
-        <mark key="'" line="59" column="24" />
-      </file>
       <file name="/Signal.java" timestamp="1590158649150" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1590152424691" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithoutSQI.java" timestamp="1590151072590">
@@ -288,14 +292,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTaWduYWwgKFNvcnRlZFNldDxTZW5zb3JQb2ludD4gc2Vuc29yUG9pbnRUcmVlU2V0KSB7CiAgICAgICB0aGlzLnNlbnNvclBvaW50VHJlZVNldCA9ICBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVTb3J0ZWRTZXQoc2Vuc29yUG9pbnRUcmVlU2V0KTsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>in</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXh0VGltZXN0YW1wVG9JbnRlcnBvbGF0ZUF0XD4=</text>
