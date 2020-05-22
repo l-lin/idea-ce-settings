@@ -149,12 +149,7 @@
       <file name="/SignalResamplerTest.java" timestamp="1590149632442" />
       <file name="/SignalGeneratorWithCloudSQI.java" timestamp="1590151048134" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/SignalResamplerTest.java" timestamp="1590149174498" />
-      <file name="$USER_HOME$/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1590140574649">
-        <mark key="[" line="9" column="59" />
-        <mark key="]" line="10" column="23" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="10" column="22" />
-      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/service/annotations/report/RecordDataFactory.java" timestamp="1590156403369" />
       <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Set.java" timestamp="1590149796140">
         <mark key="'" line="588" column="4" />
       </file>
@@ -162,7 +157,7 @@
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/command/SignalConfiguration.java" timestamp="1590143161950">
         <mark key="'" line="59" column="24" />
       </file>
-      <file name="/Signal.java" timestamp="1590149555048" />
+      <file name="/Signal.java" timestamp="1590158278380" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1590152424691" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithoutSQI.java" timestamp="1590151072590">
         <mark key="[" line="51" column="27" />
@@ -173,26 +168,23 @@
         <mark key="^" line="0" column="43" />
         <mark key="." line="0" column="42" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessor.java" timestamp="1590153637463">
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessor.java" timestamp="1590158211963">
         <mark key="m" line="73" column="26" />
       </file>
-      <file name="/SignalResampler.java" timestamp="1590152358872" />
+      <file name="/SignalResampler.java" timestamp="1590158390887" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1590149399035" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/pom.xml" timestamp="1590136800581" />
       <file name="/SignalGeneratorWithMElecSQI.java" timestamp="1590151030550" />
       <file name="/AbstractMortaraProcessor.java" timestamp="1590149340650" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/SignalResampler.java" timestamp="1590152485752">
-        <mark key="'" line="123" column="63" />
-        <mark key="[" line="106" column="67" />
-        <mark key="]" line="106" column="131" />
-        <mark key="^" line="106" column="131" />
-        <mark key="." line="106" column="130" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/SignalResampler.java" timestamp="1590157862759">
+        <mark key="'" line="120" column="63" />
+        <mark key="]" line="127" column="57" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/Signal.java" timestamp="1590149980168">
-        <mark key="[" line="12" column="4" />
-        <mark key="]" line="12" column="7" />
-        <mark key="." line="12" column="6" />
-        <mark key="^" line="12" column="7" />
+      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1-sources.jar!/org/apache/commons/math3/analysis/interpolation/LinearInterpolator.java" timestamp="1590157800900" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/Signal.java" timestamp="1590158548758">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-live-service/src/main/java/com/bioserenity/ecgliveservice/processor/message/MessageProcessor.java" timestamp="1590150879259" />
     </filemarks>
@@ -301,8 +293,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>in</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTaWduYWwgKFNvcnRlZFNldDxTZW5zb3JQb2ludD4gc2Vuc29yUG9pbnRUcmVlU2V0KSB7CiAgICAgICB0aGlzLnNlbnNvclBvaW50VHJlZVNldCA9ICBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVTb3J0ZWRTZXQoc2Vuc29yUG9pbnRUcmVlU2V0KTsKICAgIH0K</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -316,7 +308,13 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjaGVjayBtZXRyaWMgbW9uaXRvciBzdGFydHMgcmVjb3JkaW5nCiAgICAgICAgICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkobWV0cmljTW9uaXRvcikuc3RhcnRSZWNvcmRpbmdGb3RhKGRldmljZUlkKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTaWduYWwgKFNvcnRlZFNldDxTZW5zb3JQb2ludD4gc2Vuc29yUG9pbnRUcmVlU2V0KSB7CiAgICAgICB0aGlzLnNlbnNvclBvaW50VHJlZVNldCA9ICBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVTb3J0ZWRTZXQoc2Vuc29yUG9pbnRUcmVlU2V0KTsKICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgZG91YmxlW10gYXJyWCA9IG5ld1NldC5zdHJlYW0oKS5tYXBUb0RvdWJsZShTZW5zb3JQb2ludDo6Z2V0VGltZXN0YW1wSW5NaWNybykudG9BcnJheSgpOwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>initialResampledTreeSetPoint.ceiling(fakeLookupPoint);
                 if(truePointVal== null) {
                     truePointVal = initialResampledTreeSetPoint.lower(fakeLookupPoint);
@@ -324,29 +322,23 @@
                 assert truePointVal != null;
                 var sensorPoint =</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBNb2NraXRvLnZlcmlmeShtZXRyaWNNb25pdG9yKS5zdGFydFJlY29yZGluZ0ZvdGEoZGV2aWNlSWQpOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzU3VjY2VzcykgewogICAgICAgICAgICAgICAgc2FtcGxlLnN0b3AoZm90YUR1cmF0aW9uU3VjY2Vzcyk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBzYW1wbGUuc3RvcChmb3RhRHVyYXRpb25GYWlsdXJlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Y29tcHV0ZUlmUHJlc2VudChkZXZpY2VJZCwgKHMsIHNhbXBsZSkgLT4gewogICAgICAgICAgICAKICAgICAgICB9KTs=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc2FtcGxlICE9IG51bGwpIHsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzU3VjY2VzcykgewogICAgICAgICAgICAgICAgc2FtcGxlLnN0b3AoZm90YUR1cmF0aW9uU3VjY2Vzcyk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBzYW1wbGUuc3RvcChmb3RhRHVyYXRpb25GYWlsdXJlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRmluaXNoIHJlY29yZGluZyB0aGUgRk9UQSBvcGVyYXRpb24uCiAgICAgKiBAcGFyYW0gc2FtcGxlCiAgICAgKiBAcGFyYW0gaXNTdWNjZXNzCiAgICAgKi8K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU3RhcnRzIHJlY29yZGluZyB0aGUgRk9UQSBvcGVyYXRpb24uCiAgICAgKgogICAgICogQHJldHVybiB0aGUgdGltZXIgc2FtcGxlIHRoYXQgbmVlZHMgdG8gYmUgcmV0dXJuZWQgd2hlbiBjYWxsaW5nIHtAbGluayBNZXRyaWNNb25pdG9yI3N0b3BSZWNvcmRpbmdGb3RhKE9iamVjdCwKICAgICAqIGJvb2xlYW4pfS4KICAgICAqLwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXNTdWNjZXNzKSB7CiAgICAgICAgICAgIHNhbXBsZS5zdG9wKGZvdGFEdXJhdGlvblN1Y2Nlc3MpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHNhbXBsZS5zdG9wKGZvdGFEdXJhdGlvbkZhaWx1cmUpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRmluaXNoIHJlY29yZGluZyB0aGUgRk9UQSBvcGVyYXRpb24uCiAgICAgKiBAcGFyYW0gc2FtcGxlCiAgICAgKiBAcGFyYW0gaXNTdWNjZXNzCiAgICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
