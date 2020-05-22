@@ -146,11 +146,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590134269762">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/MetricMonitor.java" timestamp="1590132852123">
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="42" />
@@ -168,16 +163,6 @@
         <mark key="]" line="150" column="65" />
         <mark key="^" line="150" column="65" />
         <mark key="." line="150" column="64" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1590133050267">
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="21" column="31" />
-        <mark key="^" line="28" column="25" />
-        <mark key="." line="21" column="31" />
-      </file>
-      <file name="/MqttProperties.java" timestamp="1589987149197">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="87" column="5" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" timestamp="1590133133180">
         <mark key="'" line="20" column="0" />
@@ -199,17 +184,17 @@
         <mark key="^" line="61" column="65" />
         <mark key="." line="61" column="64" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/broker/mqtt/MqttConnectorFactory.java" timestamp="1589987132940">
-        <mark key="[" line="63" column="35" />
-        <mark key="]" line="63" column="38" />
-        <mark key="^" line="63" column="38" />
-        <mark key="." line="63" column="37" />
+      <file name="/Signal.java" timestamp="1590136195998" />
+      <file name="/Dummy.txt" timestamp="1590134269762">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/MqttProperties.java" timestamp="1589987152250">
-        <mark key="[" line="27" column="25" />
-        <mark key="]" line="28" column="4" />
-        <mark key="^" line="28" column="4" />
-        <mark key="." line="28" column="3" />
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/services/FotaActorRegistry.java" timestamp="1590133050267">
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="31" />
+        <mark key="^" line="28" column="25" />
+        <mark key="." line="21" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/micrometer/micrometer-core/1.5.1/micrometer-core-1.5.1-sources.jar!/io/micrometer/core/instrument/Timer.java" timestamp="1589992278035">
         <mark key="'" line="328" column="23" />
@@ -221,19 +206,17 @@
         <mark key="^" line="357" column="48" />
         <mark key="." line="413" column="25" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/AwsS3Properties.java" timestamp="1589987107983">
-        <mark key="^" line="4" column="6" />
-      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/FotaAppConfig.java" timestamp="1590133154614">
         <mark key="[" line="59" column="60" />
         <mark key="]" line="59" column="60" />
         <mark key="^" line="59" column="73" />
         <mark key="." line="59" column="60" />
       </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1589989158559">
-        <mark key="[" line="126" column="21" />
-        <mark key="]" line="126" column="22" />
-        <mark key="." line="126" column="22" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/Signal.java" timestamp="1590136225085">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="6" />
+        <mark key="^" line="12" column="7" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1590133260338">
         <mark key="[" line="58" column="27" />
@@ -351,13 +334,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>THEN_Throw</text>
+        <text>TreeSet</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>THEN_Throw</text>
+        <text>TreeSet</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lclNhbXBsZVw+</text>
