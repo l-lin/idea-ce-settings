@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b3BpY1w+</entry>
         <entry encoding="base64">XDxhd3NBY3Rvclw+</entry>
         <entry encoding="base64">XDx0ZXN0QWN0b3JcPg==</entry>
         <entry encoding="base64">XDxhdXRvbWF0aWNSZWNvbm5lY3RcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDx0aW1lclNhbXBsZVw+</entry>
         <entry encoding="base64">XDxzYW1wbGluZ1JhdGVcPg==</entry>
         <entry encoding="base64">XDxuZXh0VGltZXN0YW1wVG9JbnRlcnBvbGF0ZUF0XD4=</entry>
+        <entry encoding="base64">XDxpbml0aWFsUmVzYW1wbGVkVHJlZVNldFBvaW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,49 +146,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/Jenkinsfile" timestamp="1590161124779" />
-      <file name="/SignalResamplerTest.java" timestamp="1590149632442" />
-      <file name="/SignalGeneratorWithCloudSQI.java" timestamp="1590151048134" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/SignalResamplerTest.java" timestamp="1590149174498" />
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" timestamp="1590161706776">
+      <file name="/SignalResampler.java" timestamp="1590393590178">
+        <mark key="'" line="84" column="82" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" timestamp="1590164186121">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="83" column="4" />
         <mark key="]" line="83" column="4" />
-        <mark key="." line="83" column="4" />
-        <mark key="^" line="94" column="42" />
+        <mark key="." line="83" column="3" />
+        <mark key="^" line="83" column="4" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/service/annotations/report/RecordDataFactory.java" timestamp="1590156403369" />
       <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Set.java" timestamp="1590149796140">
         <mark key="'" line="588" column="4" />
       </file>
-      <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/TreeSet.java" timestamp="1590151297616" />
-      <file name="/Signal.java" timestamp="1590158649150" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1590152424691" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithoutSQI.java" timestamp="1590151072590">
-        <mark key="[" line="51" column="27" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessor.java" timestamp="1590158211963">
-        <mark key="m" line="73" column="26" />
-      </file>
-      <file name="/SignalResampler.java" timestamp="1590158390887" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1590149399035" />
-      <file name="/SignalGeneratorWithMElecSQI.java" timestamp="1590151030550" />
-      <file name="/AbstractMortaraProcessor.java" timestamp="1590149340650" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/SignalResampler.java" timestamp="1590157862759">
-        <mark key="'" line="120" column="63" />
-        <mark key="]" line="127" column="57" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1-sources.jar!/org/apache/commons/math3/analysis/interpolation/LinearInterpolator.java" timestamp="1590157800900" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/Signal.java" timestamp="1590158548758">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="13" column="18" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-live-service/src/main/java/com/bioserenity/ecgliveservice/processor/message/MessageProcessor.java" timestamp="1590150879259" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithoutSQI.java" timestamp="1590151072590">
+        <mark key="[" line="51" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessor.java" timestamp="1590158211963">
+        <mark key="m" line="73" column="26" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="20" filename="/ResultsBufferService.java" />
       <jump line="93" column="13" filename="/ResultsBufferService.java" />
       <jump line="101" column="68" filename="/ResultsBufferService.java" />
       <jump line="23" column="4" filename="$MAVEN_REPOSITORY$/software/amazon/awssdk/s3/2.10.76/s3-2.10.76-sources.jar!/software/amazon/awssdk/services/s3/model/S3Exception.java" />
@@ -288,6 +272,7 @@
       <jump line="109" column="45" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/SignalResampler.java" />
       <jump line="113" column="17" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/SignalResampler.java" />
       <jump line="123" column="63" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/SignalResampler.java" />
+      <jump line="84" column="82" filename="/SignalResampler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -302,7 +287,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXh0VGltZXN0YW1wVG9JbnRlcnBvbGF0ZUF0XD4=</text>
+        <text encoding="base64">XDxpbml0aWFsUmVzYW1wbGVkVHJlZVNldFBvaW50XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjaGVjayBtZXRyaWMgbW9uaXRvciBzdGFydHMgcmVjb3JkaW5nCiAgICAgICAgICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkobWV0cmljTW9uaXRvcikuc3RhcnRSZWNvcmRpbmdGb3RhKGRldmljZUlkKTsK</text>
@@ -346,9 +331,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxuZXh0VGltZXN0YW1wVG9JbnRlcnBvbGF0ZUF0XD4=</last-search>
+      <last-search encoding="base64">XDxpbml0aWFsUmVzYW1wbGVkVHJlZVNldFBvaW50XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXh0VGltZXN0YW1wVG9JbnRlcnBvbGF0ZUF0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpbml0aWFsUmVzYW1wbGVkVHJlZVNldFBvaW50XD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
