@@ -151,6 +151,9 @@
       </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1590594220906" />
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/Worker.scala" timestamp="1590594273217" />
+      <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/service/DsComputeQtSegmentService.java" timestamp="1590600839018">
+        <mark key="'" line="74" column="34" />
+      </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" timestamp="1590164186121">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="83" column="4" />
@@ -167,10 +170,9 @@
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffRecordDao.java" timestamp="1590600694693" />
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/WorkerNodeApp.scala" timestamp="1590597706239" />
-      <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Set.java" timestamp="1590149796140">
-        <mark key="'" line="588" column="4" />
-      </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/BufferManager.scala" timestamp="1590594465827" />
+      <file name="$USER_HOME$/work/ecg/ecg.log" timestamp="1590600835822" />
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/client/DsComputeClientConfiguration.java" timestamp="1590600919239" />
       <file name="$USER_HOME$/work/file-generation-service/JenkinsBuild" timestamp="1590585467847" />
       <file name="$USER_HOME$/work/file-generation-service/README.md" timestamp="1590585300280" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessor.java" timestamp="1590158211963">
@@ -180,7 +182,6 @@
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/config/ActorsSupervisor.scala" timestamp="1590593685349" />
     </filemarks>
     <jumps>
-      <jump line="24" column="32" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
       <jump line="27" column="45" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
       <jump line="29" column="29" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
       <jump line="74" column="31" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
@@ -280,6 +281,7 @@
       <jump line="64" column="43" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/SignalResampler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/converter-service/lab.log" />
       <jump line="73" column="73" filename="$USER_HOME$/work/converter-service/lab.log" />
+      <jump line="74" column="34" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/service/DsComputeQtSegmentService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
