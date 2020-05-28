@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhd3NBY3Rvclw+</entry>
         <entry encoding="base64">XDx0ZXN0QWN0b3JcPg==</entry>
         <entry encoding="base64">XDxhdXRvbWF0aWNSZWNvbm5lY3RcPg==</entry>
         <entry encoding="base64">XDxzdGFydFJlY29ubmVjdEN5Y2xlXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzYW1wbGluZ1JhdGVcPg==</entry>
         <entry encoding="base64">XDxuZXh0VGltZXN0YW1wVG9JbnRlcnBvbGF0ZUF0XD4=</entry>
         <entry encoding="base64">XDxpbml0aWFsUmVzYW1wbGVkVHJlZVNldFBvaW50XD4=</entry>
+        <entry>stack_trace</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -152,10 +152,11 @@
       <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/service/DsComputeQtSegmentService.java" timestamp="1590655906196">
         <mark key="'" line="63" column="40" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing.log" timestamp="1590657210729">
+      <file name="$USER_HOME$/work/ecg/ecg-processing.log" timestamp="1590657870592">
         <mark key="'" line="23727" column="0" />
-        <mark key="[" line="3443" column="0" />
-        <mark key="]" line="3460" column="294" />
+        <mark key="[" line="23711" column="100" />
+        <mark key="]" line="23711" column="101" />
+        <mark key="." line="23711" column="101" />
       </file>
       <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" timestamp="1590164186121">
         <mark key="'" line="20" column="0" />
