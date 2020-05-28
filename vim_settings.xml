@@ -146,10 +146,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/repository/QtSegmentMongoConfiguration.java" timestamp="1590658490287">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="83" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/service/SQSQueueService.java" timestamp="1590660034989">
         <mark key="'" line="29" column="58" />
         <mark key="[" line="65" column="0" />
@@ -162,18 +158,32 @@
         <mark key="]" line="0" column="42" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application-env.properties" timestamp="1590659798311" />
-      <file name="$USER_HOME$/work/ecg/ecg-processing.log" timestamp="1590657870592">
-        <mark key="'" line="23727" column="0" />
-        <mark key="[" line="23711" column="100" />
-        <mark key="]" line="23711" column="101" />
-        <mark key="." line="23711" column="101" />
+      <file name="$USER_HOME$/work/ecg/ds-compute/pom.xml" timestamp="1590683536577">
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.3.RELEASE/spring-webflux-5.2.3.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" timestamp="1590680841227">
         <mark key="'" line="206" column="25" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg.log" timestamp="1590655213784" />
-      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.3.3.RELEASE/reactor-core-3.3.3.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1590655195819">
-        <mark key="'" line="113" column="22" />
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/client/DsComputeClientProperties.java" timestamp="1590684791867">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="45" />
+        <mark key="^" line="24" column="45" />
+        <mark key="." line="24" column="44" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application.properties" timestamp="1590684999406">
+        <mark key="[" line="17" column="66" />
+        <mark key="]" line="17" column="81" />
+        <mark key="^" line="17" column="81" />
+        <mark key="." line="17" column="80" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ds-compute/src/test/java/com/bioserenity/ds/compute/client/DsComputeClientTest.java" timestamp="1590685046721">
+        <mark key="[" line="46" column="73" />
+        <mark key="]" line="46" column="94" />
+        <mark key="." line="46" column="93" />
+        <mark key="^" line="46" column="94" />
       </file>
       <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/service/DsComputeQtSegmentService.java" timestamp="1590665621616">
         <mark key="'" line="63" column="40" />
@@ -185,43 +195,52 @@
       <file name="/" timestamp="1590681913970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.3.4.RELEASE/reactor-core-3.3.4.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1590655308121">
-        <mark key="'" line="10055" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/controller/QtSegmentController.java" timestamp="1590658636598">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="107" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" timestamp="1590682982962">
-        <mark key="'" line="28" column="32" />
-        <mark key="[" line="86" column="80" />
-        <mark key="]" line="86" column="80" />
-        <mark key="^" line="86" column="82" />
-        <mark key="." line="86" column="80" />
+      <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" timestamp="1590684883110">
+        <mark key="'" line="30" column="32" />
+        <mark key="[" line="26" column="59" />
+        <mark key="]" line="26" column="71" />
+        <mark key="^" line="26" column="71" />
+        <mark key="." line="26" column="70" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/QtServiceConfiguration.java" timestamp="1590658459710" />
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/client/DsComputeClientConfiguration.java" timestamp="1590684802331">
+        <mark key="[" line="20" column="85" />
+        <mark key="]" line="20" column="151" />
+        <mark key="." line="20" column="150" />
+        <mark key="^" line="20" column="151" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/resources/application.conf" timestamp="1590684982786">
+        <mark key="[" line="83" column="46" />
+        <mark key="]" line="89" column="75" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/service/Foobar.java" timestamp="1590660473603">
         <mark key="[" line="19" column="8" />
         <mark key="]" line="19" column="22" />
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application-local.properties" timestamp="1590682636306">
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application-local.properties" timestamp="1590684117776">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="15" column="22" />
+        <mark key="[" line="15" column="32" />
         <mark key="l" line="26" column="9" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="30" />
-        <mark key="^" line="15" column="31" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1590681024319">
+      <file name="/fragment.java" timestamp="1590684730148">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/SecurityConfiguration.java" timestamp="1590660296911" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.3.RELEASE/spring-webflux-5.2.3.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" timestamp="1590680770664" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.3.RELEASE/spring-webflux-5.2.3.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" timestamp="1590684047445" />
+      <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.3.3.RELEASE/reactor-core-3.3.3.RELEASE-sources.jar!/reactor/core/publisher/Mono.java" timestamp="1590684949777">
+        <mark key="[" line="3763" column="25" />
+        <mark key="]" line="3763" column="88" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="4" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
       <jump line="10" column="12" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/StartOffsetComputor.java" />
       <jump line="14" column="33" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/StartOffsetComputor.java" />
       <jump line="9" column="54" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/StartOffsetComputor.java" />
@@ -321,38 +340,51 @@
       <jump line="22" column="0" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application-local.properties" />
       <jump line="26" column="32" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
       <jump line="206" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.3.RELEASE/spring-webflux-5.2.3.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
+      <jump line="12" column="12" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/client/DsComputeClientProperties.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>retryMaxBackOffDuration</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>retryMaxBackOffDuration</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25uZWN0b3JcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZHMuY29tcHV0ZS51cmw9aHR0cDovLzEwLjEwLjI1LjExMzo4MDAwCg==</text>
+      <register name="0" type="4">
+        <text>The formats accepted are based on the ISO-8601 duration format
+    # &quot;PnDTnHnMn.nS&quot; with day considered to be exactly 24 hours.
+    # E.g.
+    # - &quot;PT10S&quot;     -- parses as &quot;10 seconds&quot;
+    # - &quot;PT0.05S&quot;   -- parses as &quot;0.05 seconds&quot; (i.e. 50 milliseconds)
+    # - &quot;PT20.345S&quot; -- parses as &quot;20.345 seconds&quot;
+    # - &quot;PT15M&quot;     -- parses as &quot;15 minutes&quot; (where a minute is 60 seconds)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">V2hlbih0aHJvd2FibGVGbHV4IC0+IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhyb3dhYmxlRmx1eC4KICAgICAgICAgICAgICAgIH0=</text>
+      <register name="1" type="8">
+        <text encoding="base64">c3RhdGljIApzdGF0aWMg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZHNDb21wdXRlUXRTZWdtZW50U2VydmljZS5nZXRRdEFuYWx5c2lzTGlzdCgiMTE2NjciKS50b1N0cmVhbSgpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vblN0YXR1cyhIdHRwU3RhdHVzOjppczV4eFNlcnZlckVycm9yLCByZXNwb25zZSAtPgogICAgICAgICAgICAgICAgICAgIE1vbm8uZXJyb3IobmV3IEFuYWx5c2lzRmFpbGVkRXhjZXB0aW9uKCJGYWlsZWQgdG8gZ2V0IHF0IHNlZ21lbnQgam9iIikpCiAgICAgICAgICAgICAgICApCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTaWduYWwgKFNvcnRlZFNldDxTZW5zb3JQb2ludD4gc2Vuc29yUG9pbnRUcmVlU2V0KSB7CiAgICAgICB0aGlzLnNlbnNvclBvaW50VHJlZVNldCA9ICBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVTb3J0ZWRTZXQoc2Vuc29yUG9pbnRUcmVlU2V0KTsKICAgIH0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">V2hlbih0aHJvd2FibGVGbHV4IC0+IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhyb3dhYmxlRmx1eC4KICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZHNDb21wdXRlUXRTZWdtZW50U2VydmljZS5nZXRRdEFuYWx5c2lzTGlzdCgiMTE2NjciKS50b1N0cmVhbSgpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTaWduYWwgKFNvcnRlZFNldDxTZW5zb3JQb2ludD4gc2Vuc29yUG9pbnRUcmVlU2V0KSB7CiAgICAgICB0aGlzLnNlbnNvclBvaW50VHJlZVNldCA9ICBDb2xsZWN0aW9ucy51bm1vZGlmaWFibGVTb3J0ZWRTZXQoc2Vuc29yUG9pbnRUcmVlU2V0KTsKICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmluYWwgZG91YmxlW10gYXJyWCA9IG5ld1NldC5zdHJlYW0oKS5tYXBUb0RvdWJsZShTZW5zb3JQb2ludDo6Z2V0VGltZXN0YW1wSW5NaWNybykudG9BcnJheSgpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>initialResampledTreeSetPoint.ceiling(fakeLookupPoint);
                 if(truePointVal== null) {
                     truePointVal = initialResampledTreeSetPoint.lower(fakeLookupPoint);
@@ -360,17 +392,11 @@
                 assert truePointVal != null;
                 var sensorPoint =</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBNb2NraXRvLnZlcmlmeShtZXRyaWNNb25pdG9yKS5zdGFydFJlY29yZGluZ0ZvdGEoZGV2aWNlSWQpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzU3VjY2VzcykgewogICAgICAgICAgICAgICAgc2FtcGxlLnN0b3AoZm90YUR1cmF0aW9uU3VjY2Vzcyk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBzYW1wbGUuc3RvcChmb3RhRHVyYXRpb25GYWlsdXJlKTsKICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">Y29tcHV0ZUlmUHJlc2VudChkZXZpY2VJZCwgKHMsIHNhbXBsZSkgLT4gewogICAgICAgICAgICAKICAgICAgICB9KTs=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2FtcGxlICE9IG51bGwpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzU3VjY2VzcykgewogICAgICAgICAgICAgICAgc2FtcGxlLnN0b3AoZm90YUR1cmF0aW9uU3VjY2Vzcyk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBzYW1wbGUuc3RvcChmb3RhRHVyYXRpb25GYWlsdXJlKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
