@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRvbWF0aWNSZWNvbm5lY3RcPg==</entry>
-        <entry encoding="base64">XDxzdGFydFJlY29ubmVjdEN5Y2xlXD4=</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50SW50ZXJtZWRpYXRlUmVwb3J0QWxnb1Jlc3VsdHNcPg==</entry>
         <entry encoding="base64">XDxlcG9jaFJlY29yZFN0YXJ0VGltZUluTXNcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxpbml0aWFsUmVzYW1wbGVkVHJlZVNldFBvaW50XD4=</entry>
         <entry>stack_trace</entry>
         <entry encoding="base64">XDxxdWV1ZUFubm90YXRpb25OYW1lXD4=</entry>
+        <entry encoding="base64">XDxGRVRDSF9KT0JfU1RBVFVTX1JPVVRFXD4=</entry>
+        <entry encoding="base64">XDxjb25uZWN0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -168,6 +168,9 @@
         <mark key="]" line="23711" column="101" />
         <mark key="." line="23711" column="101" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.3.RELEASE/spring-webflux-5.2.3.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" timestamp="1590680841227">
+        <mark key="'" line="206" column="25" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ecg.log" timestamp="1590655213784" />
       <file name="$MAVEN_REPOSITORY$/io/projectreactor/reactor-core/3.3.3.RELEASE/reactor-core-3.3.3.RELEASE-sources.jar!/reactor/core/publisher/Flux.java" timestamp="1590655195819">
         <mark key="'" line="113" column="22" />
@@ -186,7 +189,8 @@
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="107" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" timestamp="1590662035755">
+      <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" timestamp="1590677954761">
+        <mark key="'" line="26" column="32" />
         <mark key="[" line="37" column="51" />
         <mark key="]" line="37" column="35" />
         <mark key="^" line="37" column="35" />
@@ -199,22 +203,21 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application-local.properties" timestamp="1590667161911">
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application-local.properties" timestamp="1590677980999">
         <mark key="'" line="23" column="0" />
-        <mark key="[" line="2" column="22" />
+        <mark key="[" line="16" column="11" />
         <mark key="l" line="25" column="9" />
-        <mark key="]" line="2" column="63" />
-        <mark key="." line="2" column="62" />
-        <mark key="^" line="2" column="63" />
+        <mark key="]" line="16" column="22" />
+        <mark key="." line="16" column="21" />
+        <mark key="^" line="16" column="22" />
       </file>
       <file name="/fragment.java" timestamp="1590667253249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/SecurityConfiguration.java" timestamp="1590660296911" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.3.RELEASE/spring-webflux-5.2.3.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/WebClient.java" timestamp="1590680770664" />
     </filemarks>
     <jumps>
-      <jump line="110" column="4" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
-      <jump line="112" column="113" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
       <jump line="127" column="4" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
       <jump line="10" column="12" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/StartOffsetComputor.java" />
       <jump line="14" column="33" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/StartOffsetComputor.java" />
@@ -313,21 +316,23 @@
       <jump line="23727" column="0" filename="$USER_HOME$/work/ecg/ecg-processing.log" />
       <jump line="28" column="58" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/service/SQSQueueService.java" />
       <jump line="22" column="0" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application-local.properties" />
+      <jump line="26" column="32" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
+      <jump line="206" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.3.RELEASE/spring-webflux-5.2.3.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Backoff</text>
+        <text>environment</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Backoff</text>
+        <text>environment</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWV1ZUFubm90YXRpb25OYW1lXD4=</text>
+        <text encoding="base64">XDxjb25uZWN0b3JcPg==</text>
       </register>
       <register name="0" type="4">
         <text>https://referential-stg-eu-fr.bioserenity.cloud</text>
@@ -371,9 +376,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxxdWV1ZUFubm90YXRpb25OYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxjb25uZWN0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWV1ZUFubm90YXRpb25OYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb25uZWN0b3JcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
