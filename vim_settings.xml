@@ -146,8 +146,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590686290315">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/record-service/bff-api/pom.xml" timestamp="1590771717925" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" timestamp="1590756379828">
+        <mark key="'" line="96" column="132" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-reactivestreams/1.13.0/mongodb-driver-reactivestreams-1.13.0-sources.jar!/com/mongodb/reactivestreams/client/MongoCollection.java" timestamp="1590771659479">
+        <mark key="'" line="532" column="42" />
+      </file>
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffBlockMongoDBRepository.java" timestamp="1590771711219">
+        <mark key="[" line="94" column="73" />
+        <mark key="]" line="94" column="74" />
+        <mark key="^" line="94" column="74" />
+        <mark key="." line="94" column="73" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" timestamp="1590771048217">
         <mark key="[" line="51" column="79" />
@@ -164,29 +174,21 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" timestamp="1590756379828">
-        <mark key="'" line="96" column="132" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" timestamp="1590686174929">
-        <mark key="'" line="98" column="36" />
-        <mark key="[" line="27" column="4" />
-        <mark key="]" line="27" column="11" />
-        <mark key="^" line="27" column="11" />
-        <mark key="." line="27" column="10" />
-      </file>
       <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1590768465773">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="6" />
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1590765510078">
+      <file name="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/Document.java" timestamp="1590771651356">
+        <mark key="'" line="69" column="11" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-reactivestreams/1.13.0/mongodb-driver-reactivestreams-1.13.0.pom" timestamp="1590771747764" />
+      <file name="/fragment.java" timestamp="1590771528035">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="7" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepositoryTest.java" />
-      <jump line="28" column="40" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/TestableMongoDB.java" />
       <jump line="318" column="63" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepositoryTest.java" />
       <jump line="333" column="4" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepositoryTest.java" />
       <jump line="136" column="0" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepositoryTest.java" />
@@ -285,6 +287,8 @@
       <jump line="95" column="70" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
       <jump line="96" column="132" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" />
+      <jump line="69" column="11" filename="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/Document.java" />
+      <jump line="532" column="42" filename="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-reactivestreams/1.13.0/mongodb-driver-reactivestreams-1.13.0-sources.jar!/com/mongodb/reactivestreams/client/MongoCollection.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
