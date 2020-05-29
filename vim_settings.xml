@@ -146,12 +146,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/logback-local.xml" timestamp="1590771910415" />
       <file name="$USER_HOME$/work/record-service/bff-api/pom.xml" timestamp="1590771717925" />
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" timestamp="1590756379828">
         <mark key="'" line="96" column="132" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-reactivestreams/1.13.0/mongodb-driver-reactivestreams-1.13.0-sources.jar!/com/mongodb/reactivestreams/client/MongoCollection.java" timestamp="1590771659479">
         <mark key="'" line="532" column="42" />
+      </file>
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/logback-included.xml" timestamp="1590771913472">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="21" />
+        <mark key="^" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffBlockMongoDBRepository.java" timestamp="1590771711219">
         <mark key="[" line="94" column="73" />
@@ -184,7 +191,7 @@
         <mark key="'" line="69" column="11" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-reactivestreams/1.13.0/mongodb-driver-reactivestreams-1.13.0.pom" timestamp="1590771747764" />
-      <file name="/fragment.java" timestamp="1590771528035">
+      <file name="/fragment.java" timestamp="1590771821415">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -293,16 +300,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>#
-#
-#</text>
+      <register name="&quot;" type="4">
+        <text>INFO</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWRpc0lPXD4=</text>
