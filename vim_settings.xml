@@ -151,8 +151,8 @@
         <mark key="]" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.3.RELEASE/spring-webflux-5.2.3.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" timestamp="1590680841227">
-        <mark key="'" line="206" column="25" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" timestamp="1590756379828">
+        <mark key="'" line="96" column="132" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/client/DsComputeClientProperties.java" timestamp="1590684791867">
         <mark key="'" line="12" column="12" />
@@ -162,6 +162,7 @@
         <mark key="." line="24" column="44" />
       </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/BufferManager.scala" timestamp="1590744065417" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/ConsumersSupervisor.scala" timestamp="1590756412065" />
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application.properties" timestamp="1590685286121">
         <mark key="[" line="25" column="43" />
         <mark key="]" line="26" column="0" />
@@ -175,20 +176,11 @@
         <mark key="." line="151" column="4" />
         <mark key="^" line="39" column="4" />
       </file>
-      <file name="$USER_HOME$/work/file-generation-service/README.md" timestamp="1590755497391" />
+      <file name="$USER_HOME$/work/file-generation-service/README.md" timestamp="1590755545090" />
       <file name="/Dummy.txt" timestamp="1590686290315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/service/DsComputeQtSegmentService.java" timestamp="1590665621616">
-        <mark key="'" line="63" column="40" />
-        <mark key="[" line="66" column="25" />
-        <mark key="]" line="66" column="26" />
-        <mark key="^" line="66" column="26" />
-        <mark key="." line="66" column="25" />
-      </file>
-      <file name="/" timestamp="1590681913970">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/FGSApp.scala" timestamp="1590756318256" />
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/WorkerNodeApp.scala" timestamp="1590755266197" />
       <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" timestamp="1590686174929">
         <mark key="'" line="98" column="36" />
@@ -227,11 +219,6 @@
       <file name="$USER_HOME$/work/file-generation-service/build.sbt" timestamp="1590746970226" />
     </filemarks>
     <jumps>
-      <jump line="9" column="104" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/offset/EndOffsetComputor.java" />
-      <jump line="167" column="96" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3RepositoryTest.java" />
-      <jump line="76" column="12" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3RepositoryTest.java" />
-      <jump line="77" column="12" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3RepositoryTest.java" />
-      <jump line="192" column="77" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3RepositoryTest.java" />
       <jump line="241" column="62" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepositoryTest.java" />
       <jump line="189" column="7" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepositoryTest.java" />
       <jump line="28" column="40" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/TestableMongoDB.java" />
@@ -327,6 +314,11 @@
       <jump line="10" column="42" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/client/DsComputeClientConfiguration.java" />
       <jump line="95" column="14" filename="$USER_HOME$/work/ecg/ds-compute/src/test/java/com/bioserenity/ds/compute/client/DsComputeClientTest.java" />
       <jump line="151" column="4" filename="$USER_HOME$/work/ecg/ds-compute/src/test/java/com/bioserenity/ds/compute/client/DsComputeClientTest.java" />
+      <jump line="25" column="29" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
+      <jump line="92" column="78" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
+      <jump line="93" column="138" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
+      <jump line="95" column="70" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
+      <jump line="96" column="132" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,7 +333,7 @@
         <text>public</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25uZWN0b3JcPg==</text>
+        <text encoding="base64">XDxyZWRpc0lPXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8PSBOQl9SRVRSSUVTOyBpKyspIHsKICAgICAgICAgICAgbW9ja0JhY2tFbmQuZW5xdWV1ZShuZXcgTW9ja1Jlc3BvbnNlKCkuc2V0UmVzcG9uc2VDb2RlKDUwMCkuc2V0Qm9keSgiIikpOwogICAgICAgIH0K</text>
@@ -380,9 +372,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxjb25uZWN0b3JcPg==</last-search>
+      <last-search encoding="base64">XDxyZWRpc0lPXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25uZWN0b3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZWRpc0lPXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
