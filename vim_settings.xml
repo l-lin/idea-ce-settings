@@ -186,6 +186,9 @@
         <mark key="." line="151" column="4" />
         <mark key="^" line="39" column="4" />
       </file>
+      <file name="/Dummy.txt" timestamp="1590686290315">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/service/DsComputeQtSegmentService.java" timestamp="1590665621616">
         <mark key="'" line="63" column="40" />
         <mark key="[" line="66" column="25" />
@@ -196,16 +199,12 @@
       <file name="/" timestamp="1590681913970">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/controller/QtSegmentController.java" timestamp="1590658636598">
-        <mark key="[" line="48" column="15" />
-        <mark key="]" line="48" column="107" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" timestamp="1590685427496">
-        <mark key="'" line="94" column="36" />
-        <mark key="[" line="86" column="16" />
-        <mark key="]" line="26" column="71" />
-        <mark key="^" line="26" column="71" />
-        <mark key="." line="26" column="70" />
+      <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" timestamp="1590686174929">
+        <mark key="'" line="98" column="36" />
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="27" column="10" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/client/DsComputeClientConfiguration.java" timestamp="1590685325621">
         <mark key="'" line="10" column="42" />
@@ -348,13 +347,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>public</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25uZWN0b3JcPg==</text>
