@@ -165,7 +165,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/FGSApp.scala" timestamp="1590756318256" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" timestamp="1590768759399">
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" timestamp="1590769879064">
         <mark key="[" line="51" column="79" />
         <mark key="]" line="51" column="18" />
         <mark key="." line="51" column="17" />
@@ -173,10 +173,10 @@
       </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/grpc/ChannelService.java" timestamp="1590765061254" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffRecordDao.java" timestamp="1590764766249" />
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1590765630807">
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1590769554815">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="1" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="0" />
       </file>
@@ -189,19 +189,13 @@
         <mark key="." line="27" column="10" />
       </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/ConsumersSupervisorApp.scala" timestamp="1590745204966" />
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/client/DsComputeClientConfiguration.java" timestamp="1590685325621">
-        <mark key="'" line="10" column="42" />
-        <mark key="[" line="20" column="85" />
-        <mark key="]" line="20" column="151" />
-        <mark key="." line="20" column="150" />
-        <mark key="^" line="20" column="151" />
-      </file>
       <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1590768465773">
         <mark key="[" line="12" column="4" />
         <mark key="]" line="12" column="6" />
         <mark key="." line="12" column="5" />
         <mark key="^" line="12" column="6" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/Document.java" timestamp="1590769954931" />
       <file name="/fragment.java" timestamp="1590765510078">
         <mark key="[" line="0" column="0" />
       </file>
@@ -312,8 +306,10 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="8">
+        <text>#
+#
+#</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -327,32 +323,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8PSBOQl9SRVRSSUVTOyBpKyspIHsKICAgICAgICAgICAgbW9ja0JhY2tFbmQuZW5xdWV1ZShuZXcgTW9ja1Jlc3BvbnNlKCkuc2V0UmVzcG9uc2VDb2RlKDUwMCkuc2V0Qm9keSgiIikpOwogICAgICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIEZldGNoZWQgb2JqZWN0cyBpbiAxNTg5XzM2Ml8zNDJfMjA4XzIxNyA9PiAyMDIwLTA1LTEzIDA5OjMyOjIyLjIwOFoKICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBTVEFSVF9USU1FX0lOX01JQ1JPID0gMTU4OV8zNjJfMjk2XzIwN18wMDBMOwo=</text>
+      <register name="1" type="8">
+        <text>#
+#
+#</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBAQmVmb3JlQWxsCiAgICBzdGF0aWMgdm9pZCBzZXRVcCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIC8vIEZldGNoZWQgb2JqZWN0cyBpbiAxNTg5XzM2Ml8zNDJfMjA4XzIxNyA9PiAyMDIwLTA1LTEzIDA5OjMyOjIyLjIwOFoKICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBTVEFSVF9USU1FX0lOX01JQ1JPID0gMTU4OV8zNjJfMjk2XzIwN18wMDBMOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrQmFja0VuZC5zdGFydCgpOwo=</text>
+        <text encoding="base64">CiAgICBAQmVmb3JlQWxsCiAgICBzdGF0aWMgdm9pZCBzZXRVcCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrQmFja0VuZCA9IG5ldyBNb2NrV2ViU2VydmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2NrQmFja0VuZC5zdGFydCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrQmFja0VuZC5lbnF1ZXVlKG5ldyBNb2NrUmVzcG9uc2UoKS5zZXRSZXNwb25zZUNvZGUoNTAwKS5zZXRCb2R5KCIiKSk7CiAgICAgICAgbW9ja0JhY2tFbmQuZW5xdWV1ZShuZXcgTW9ja1Jlc3BvbnNlKCkuc2V0UmVzcG9uc2VDb2RlKDUwMCkuc2V0Qm9keSgiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb2NrQmFja0VuZCA9IG5ldyBNb2NrV2ViU2VydmVyKCk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtb2NrQmFja0VuZC5lbnF1ZXVlKG5ldyBNb2NrUmVzcG9uc2UoKS5zZXRSZXNwb25zZUNvZGUoNTAwKS5zZXRCb2R5KCIiKSk7CiAgICAgICAgbW9ja0JhY2tFbmQuZW5xdWV1ZShuZXcgTW9ja1Jlc3BvbnNlKCkuc2V0UmVzcG9uc2VDb2RlKDUwMCkuc2V0Qm9keSgiIikpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBtb2NrQmFja0VuZC5lbnF1ZXVlKG5ldyBNb2NrUmVzcG9uc2UoKS5zZXRSZXNwb25zZUNvZGUoNTAwKS5zZXRCb2R5KCIiKSk7Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">c3RhdGljIApzdGF0aWMg</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5vblN0YXR1cyhIdHRwU3RhdHVzOjppczV4eFNlcnZlckVycm9yLCByZXNwb25zZSAtPgogICAgICAgICAgICAgICAgICAgIE1vbm8uZXJyb3IobmV3IEFuYWx5c2lzRmFpbGVkRXhjZXB0aW9uKCJGYWlsZWQgdG8gZ2V0IHF0IHNlZ21lbnQgam9iIikpCiAgICAgICAgICAgICAgICApCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">V2hlbih0aHJvd2FibGVGbHV4IC0+IHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhyb3dhYmxlRmx1eC4KICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
