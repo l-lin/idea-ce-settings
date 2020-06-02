@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydERhdGVcPg==</entry>
-        <entry encoding="base64">XDxzM0FzeW5jQ2xpZW50XD4=</entry>
-        <entry encoding="base64">XDxMb25nXD4=</entry>
         <entry encoding="base64">XDxleHBlY3RlZFN0YXJ0VGltZVw+</entry>
         <entry encoding="base64">XDxlbmNvZGluZ1w+</entry>
         <entry encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxyZWRpc0lPXD4=</entry>
         <entry encoding="base64">XDxuYlJldHJpZXNcPg==</entry>
         <entry encoding="base64">XDxldmFsdWF0b3JMaXN0XD4=</entry>
+        <entry encoding="base64">XDxBTVFQX1RPUElDX09QVElPTlw+</entry>
+        <entry encoding="base64">XDxhbXFwQ2xpZW50SWRcPg==</entry>
+        <entry encoding="base64">XDxjb25zdW1lclRvcGljXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,37 +146,46 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-entrypoint.sh" timestamp="1591102213481" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-entrypoint.sh" timestamp="1591103872920" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" timestamp="1591103832940">
+        <mark key="'" line="23" column="31" />
+      </file>
+      <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/pom.xml" timestamp="1591103111456">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="40" />
+        <mark key="." line="18" column="39" />
+        <mark key="^" line="18" column="40" />
+      </file>
+      <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/java/multibinder/MultibinderApplication.java" timestamp="1591104191998">
+        <mark key="'" line="39" column="38" />
+        <mark key="[" line="39" column="24" />
+        <mark key="]" line="39" column="31" />
+        <mark key="." line="39" column="30" />
+        <mark key="^" line="39" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/resources/application-env.yml" timestamp="1591104230420">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="23" column="31" />
+      </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" timestamp="1591100284664">
         <mark key="[" line="54" column="75" />
         <mark key="]" line="54" column="75" />
         <mark key="." line="54" column="74" />
         <mark key="^" line="54" column="75" />
       </file>
-      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/resources/application.yml" timestamp="1591102126525" />
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1591099259087">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" timestamp="1591103962094">
+        <mark key="'" line="115" column="12" />
       </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1591093701913">
-        <mark key="]" line="54" column="97" />
-        <mark key="^" line="54" column="97" />
-        <mark key="." line="54" column="96" />
+      <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/resources/application.yml" timestamp="1591104238472">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="19" column="43" />
       </file>
-      <file name="/fragment.java" timestamp="1591093183721">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/README.adoc" timestamp="1591102789766" />
+      <file name="$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.4/commons-cli-1.4-sources.jar!/org/apache/commons/cli/Option.java" timestamp="1591103843905" />
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
-      <jump line="93" column="24" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
-      <jump line="6" column="34" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/S3FileLocBuilder.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/S3FileLocBuilderTest.java" />
-      <jump line="8" column="27" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/S3FileLocBuilder.java" />
-      <jump line="8" column="4" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/S3FileLocBuilderTest.java" />
       <jump line="18" column="0" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/S3FileLocBuilderTest.java" />
       <jump line="13" column="51" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/S3FileLocBuilderTest.java" />
       <jump line="54" column="4" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/S3KeyBuilder.java" />
@@ -271,53 +280,59 @@
       <jump line="37" column="25" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
       <jump line="90" column="27" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
       <jump line="39" column="40" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/pattern/ThrowableProxyConverter.java" />
+      <jump line="56" column="38" filename="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/java/multibinder/MultibinderApplication.java" />
+      <jump line="23" column="31" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
+      <jump line="150" column="23" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="214" column="21" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="105" column="12" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="115" column="12" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>emptySortedSet</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYmluZGVyczoKICAgICAgICByYWJiaXQ6CiAgICAgICAgICBlbnZpcm9ubWVudDoKICAgICAgICAgICAgc3ByaW5nOgogICAgICAgICAgICAgICMgaW5kaWNhdGUgcmFiYml0IGJyb2tlcnMgaW5mb3MKICAgICAgICAgICAgICByYWJiaXRtcToKICAgICAgICAgICAgICAgIGhvc3Q6IDEwLjEwLjIzLjI1MgogICAgICAgICAgICAgICAgcG9ydDogWzU2NzIsIDE1NjcyLCAxODgzXQogICAgICAgICAgICAgICAgdXNlcm5hbWU6IGFkbWluCiAgICAgICAgICAgICAgICAjdXNlcm5hbWU6IGd1ZXN0CiAgICAgICAgICAgICAgICBwYXNzd29yZDoga2dBeUlmUy1odTluc2ZKcmV6UElxb3BRTFIxMnF0bHEKICAgICAgICAgICAgICAgICNwYXNzd29yZDogZ3Vlc3QKICAgICAgICAgICAgICAgIHZpcnR1YWwtaG9zdDogLwo=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>emptySortedSet</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxldmFsdWF0b3JMaXN0XD4=</text>
+        <text encoding="base64">XDxjb25zdW1lclRvcGljXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bW9uZ29kYitzcnY6Ly9xYWxfdmV0Y286UWwyU1NsVWcyVEpVeGVPSUBub3Byb2QtbGo3bHMubW9uZ29kYi5uZXQvcWFsX3ZldGNvP3JldHJ5V3JpdGVzPXRydWUmYXV0aFNvdXJjZT1hZG1pbiZ3PTEmcmVhZFByZWZlcmVuY2U9cHJpbWFyeSZyZWFkQ29uY2VybkxldmVsPWxvY2Fs</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgYmluZGVyczoKICAgICAgICByYWJiaXQ6CiAgICAgICAgICBlbnZpcm9ubWVudDoKICAgICAgICAgICAgc3ByaW5nOgogICAgICAgICAgICAgICMgaW5kaWNhdGUgcmFiYml0IGJyb2tlcnMgaW5mb3MKICAgICAgICAgICAgICByYWJiaXRtcToKICAgICAgICAgICAgICAgIGhvc3Q6IDEwLjEwLjIzLjI1MgogICAgICAgICAgICAgICAgcG9ydDogWzU2NzIsIDE1NjcyLCAxODgzXQogICAgICAgICAgICAgICAgdXNlcm5hbWU6IGFkbWluCiAgICAgICAgICAgICAgICAjdXNlcm5hbWU6IGd1ZXN0CiAgICAgICAgICAgICAgICBwYXNzd29yZDoga2dBeUlmUy1odTluc2ZKcmV6UElxb3BRTFIxMnF0bHEKICAgICAgICAgICAgICAgICNwYXNzd29yZDogZ3Vlc3QKICAgICAgICAgICAgICAgIHZpcnR1YWwtaG9zdDogLwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhSW4KICAgICAgICAgIGJpbmRlcjoga2Fma2EKICAgICAgICBwcm9jZXNzLW91dC0wOgogICAgICAgICAgZGVzdGluYXRpb246IGRhdGFPdXQKICAgICAgICAgIGJpbmRlcjogcmFiYml0CiAgICAgICAgI1Rlc3Qgc2luayBiaW5kaW5nICh1c2VkIGZvciB0ZXN0aW5nKQogICAgICAgIHNlbmRUZXN0RGF0YS1vdXQtMDoKICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhSW4KICAgICAgICAgIGJpbmRlcjoga2Fma2EK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CUBCZWFuCglwdWJsaWMgRnVuY3Rpb248U3RyaW5nLCBTdHJpbmc+IHByb2Nlc3MoKSB7CgkJcmV0dXJuIHBheWxvYWQgLT4gcGF5bG9hZC50b1VwcGVyQ2FzZSgpOwoJfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CglzdGF0aWMgY2xhc3MgVGVzdFByb2R1Y2VyIHsKCgkJcHJpdmF0ZSBBdG9taWNCb29sZWFuIHNlbWFwaG9yZSA9IG5ldyBBdG9taWNCb29sZWFuKHRydWUpOwoKCQlAQmVhbgoJCXB1YmxpYyBTdXBwbGllcjxTdHJpbmc+IHNlbmRUZXN0RGF0YSgpIHsKCQkJcmV0dXJuICgpIC0+IHRoaXMuc2VtYXBob3JlLmdldEFuZFNldCghdGhpcy5zZW1hcGhvcmUuZ2V0KCkpID8gImZvbyIgOiAiYmFyIjsKCQl9Cgl9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByYWJiaXQ6CiAgICAgICAgICB0eXBlOiByYWJiaXQK</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ZCAtPiB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text encoding="base64">LnN0cmVhbSgpLm1hcChkb2N1bWVudDEgLT4KICAgICAgICAgICAgICAgIGJmZkJsb2NrQ29kZWMuZGVjb2RlKG5ldyBKc29uUmVhZGVyKGRvY3VtZW50MS50b0pzb24oKSksIERlY29kZXJDb250ZXh0LmJ1aWxkZXIoKS5idWlsZCgpKQogICAgICAgICkuY29sbGVjdChDb2xsZWN0b3JzLnRvQ29sbGVjdGlvbihUcmVlU2V0OjpuZXcpKQ==</text>
       </register>
-      <register name="3" type="8">
+      <register name="7" type="8">
         <text>#
 #
 #</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJhd0RhdGEpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJhd0RhdGEgPSBjaGFubmVsR3JwY09wZXJhdGlvbi5nZXREYXRhKGRhdGFSZXF1ZXN0KTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY2hhbm5lbCA9IE1hbmFnZWRDaGFubmVsQnVpbGRlci5mb3JBZGRyZXNzKFNFUlZFUiwgUE9SVCkudXNlUGxhaW50ZXh0KCkuYnVpbGQoKTsKICAgICAgICB2YXIgZGF0YVJlcXVlc3QgPSBEYXRhV2luZG93UmVxdWVzdC5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRSZWNvcmRJZChSRUNPUkRfSUQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0U3RhcnRUaW1lSW5NaWNyb3NlY29uZChTVEFSVF9USU1FX0lOX01JQ1JPKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldER1cmF0aW9uSW5NaWNyb3NlY29uZChEVVJBVElPTl9JTl9NSUNSTykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRBbGxTZWxlY3RlZENoYW5uZWxJZExpc3QoU0VMRUNURURfQ0hBTk5FTF9JRFMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICB2YXIgY2hhbm5lbEdycGNPcGVyYXRpb24gPSBDaGFubmVsU2VydmljZUdycGMubmV3QmxvY2tpbmdTdHViKGNoYW5uZWwpOwogICAgICAgIHZhciByYXdEYXRhID0gY2hhbm5lbEdycGNPcGVyYXRpb24uZ2V0RGF0YShkYXRhUmVxdWVzdCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJhd0RhdGEpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgRFVSQVRJT05fSU5fTUlDUk8gPSAzMDAwMDAwMDsgLy8gMzBzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJhd0RhdGEgPSBjaGFubmVsR3JwY09wZXJhdGlvbi5nZXREYXRhKGRhdGFSZXF1ZXN0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -326,9 +341,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxldmFsdWF0b3JMaXN0XD4=</last-search>
+      <last-search encoding="base64">XDxjb25zdW1lclRvcGljXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxldmFsdWF0b3JMaXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb25zdW1lclRvcGljXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
