@@ -146,50 +146,40 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/6.3/logstash-logback-encoder-6.3-sources.jar!/net/logstash/logback/stacktrace/ShortenedThrowableConverter.java" timestamp="1591091291270" />
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/logback-local.xml" timestamp="1591089116556" />
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application.properties" timestamp="1591083135667" />
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/logback-included.xml" timestamp="1591090933325">
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="21" />
-      </file>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-entrypoint.sh" timestamp="1591100900888" />
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/java/com/bioserenity/bridge/messaging/ProcessorStreamingBatch.java" timestamp="1591101060333" />
       <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/configuration/bff/BffMongoConfiguration.java" timestamp="1591094684846" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1591093886557" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" timestamp="1591098930826">
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/resources/application-env.yml" timestamp="1591101251344" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1591100369495" />
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/docker-compose.yml" timestamp="1591101522722" />
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/java/com/bioserenity/bridge/messaging/ProcessorStreamingLive.java" timestamp="1591101048475" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" timestamp="1591100284664">
         <mark key="[" line="54" column="75" />
         <mark key="]" line="54" column="75" />
         <mark key="." line="54" column="74" />
         <mark key="^" line="54" column="75" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/pattern/ThrowableProxyConverter.java" timestamp="1591091869449">
-        <mark key="'" line="39" column="40" />
-        <mark key="[" line="87" column="12" />
-        <mark key="]" line="87" column="12" />
-        <mark key="^" line="87" column="12" />
-        <mark key="." line="87" column="11" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/pattern/DynamicConverter.java" timestamp="1591091663007" />
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/resources/application.yml" timestamp="1591101827913" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" timestamp="1591100848034" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffRecordDao.java" timestamp="1591094646423" />
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1591098483131">
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1591099259087">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/6.3/logstash-logback-encoder-6.3-sources.jar!/net/logstash/logback/encoder/CompositeJsonEncoder.java" timestamp="1591089708355" />
       <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-local.yml" timestamp="1591094599583" />
-      <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" timestamp="1591083179625">
-        <mark key="'" line="90" column="27" />
-      </file>
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/java/com/bioserenity/bridge/listener/BrokerFailureEventListener.java" timestamp="1591100684478" />
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/java/com/bioserenity/bridge/config/BridgeBrokerProperties.java" timestamp="1591100671572" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffBlockMongoDBRepositoryTest.java" timestamp="1591100328057" />
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/java/com/bioserenity/bridge/worker/WorkerStreamingBatch.java" timestamp="1591100938681" />
       <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1591093701913">
         <mark key="]" line="54" column="97" />
         <mark key="^" line="54" column="97" />
         <mark key="." line="54" column="96" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/6.3/logstash-logback-encoder-6.3-sources.jar!/net/logstash/logback/composite/loggingevent/StackTraceJsonProvider.java" timestamp="1591089818387" />
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/java/com/bioserenity/bridge/messaging/ProcessorEventBatch.java" timestamp="1591101097215" />
       <file name="/fragment.java" timestamp="1591093183721">
         <mark key="[" line="0" column="0" />
       </file>
