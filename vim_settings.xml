@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxlcG9jaFJlY29yZFN0YXJ0VGltZUluTXNcPg==</entry>
         <entry encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydERhdGVcPg==</entry>
         <entry encoding="base64">XDxzM0FzeW5jQ2xpZW50XD4=</entry>
         <entry encoding="base64">XDxMb25nXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjb25uZWN0b3JcPg==</entry>
         <entry encoding="base64">XDxyZWRpc0lPXD4=</entry>
         <entry encoding="base64">XDxuYlJldHJpZXNcPg==</entry>
+        <entry encoding="base64">XDxldmFsdWF0b3JMaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,6 +146,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/6.3/logstash-logback-encoder-6.3-sources.jar!/net/logstash/logback/stacktrace/ShortenedThrowableConverter.java" timestamp="1591091291270" />
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/logback-local.xml" timestamp="1591089116556" />
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application.properties" timestamp="1591083135667" />
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/logback-included.xml" timestamp="1591090933325">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="21" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffBlockMongoDBRepository.java" timestamp="1590771711219">
         <mark key="[" line="94" column="73" />
         <mark key="]" line="94" column="74" />
@@ -158,38 +167,37 @@
         <mark key="." line="51" column="17" />
         <mark key="^" line="51" column="18" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/logback-local.xml" timestamp="1591089116556" />
-      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/pattern/ThrowableProxyConverter.java" timestamp="1591089863403" />
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/pattern/ThrowableProxyConverter.java" timestamp="1591091869449">
+        <mark key="'" line="39" column="40" />
+        <mark key="[" line="87" column="12" />
+        <mark key="]" line="87" column="12" />
+        <mark key="^" line="87" column="12" />
+        <mark key="." line="87" column="11" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/pattern/DynamicConverter.java" timestamp="1591091663007" />
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1591093171518">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/6.3/logstash-logback-encoder-6.3-sources.jar!/net/logstash/logback/encoder/CompositeJsonEncoder.java" timestamp="1591089708355" />
       <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" timestamp="1591083179625">
         <mark key="'" line="90" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-reactivestreams/1.13.0/mongodb-driver-reactivestreams-1.13.0-sources.jar!/com/mongodb/reactivestreams/client/MongoCollection.java" timestamp="1590771659479">
-        <mark key="'" line="532" column="42" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application.properties" timestamp="1591083135667" />
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/logback-included.xml" timestamp="1590771913472">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="22" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="22" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1591088388214">
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="6" />
-        <mark key="." line="20" column="4" />
-        <mark key="^" line="20" column="6" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/Document.java" timestamp="1590771651356">
-        <mark key="'" line="69" column="11" />
+      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1591092433550">
+        <mark key="[" line="47" column="31" />
+        <mark key="]" line="47" column="31" />
+        <mark key="^" line="47" column="31" />
+        <mark key="." line="47" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/net/logstash/logback/logstash-logback-encoder/6.3/logstash-logback-encoder-6.3-sources.jar!/net/logstash/logback/composite/loggingevent/StackTraceJsonProvider.java" timestamp="1591089818387" />
-      <file name="/fragment.java" timestamp="1590771821415">
+      <file name="/fragment.java" timestamp="1591092267996">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="214" column="46" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/BffBlockMongoDBRepositoryTest.java" />
       <jump line="91" column="0" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
       <jump line="93" column="24" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/BffChannelS3Repository.java" />
       <jump line="6" column="34" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/S3FileLocBuilder.java" />
@@ -289,53 +297,56 @@
       <jump line="35" column="81" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
       <jump line="37" column="25" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
       <jump line="90" column="27" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
+      <jump line="39" column="40" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/pattern/ThrowableProxyConverter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExpc3Q8U3RyaW5nPiBTRUxFQ1RFRF9DSEFOTkVMX0lEUyA9IExpc3Qub2YoCg==</text>
+      <register name="&quot;" type="8">
+        <text>#
+#
+#</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>1583510216927000L</text>
+        <text>EBUG</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuYlJldHJpZXNcPg==</text>
+        <text encoding="base64">XDxldmFsdWF0b3JMaXN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExpc3Q8U3RyaW5nPiBTRUxFQ1RFRF9DSEFOTkVMX0lEUyA9IExpc3Qub2YoCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">bW9uZ29kYitzcnY6Ly9xYWxfdmV0Y286UWwyU1NsVWcyVEpVeGVPSUBub3Byb2QtbGo3bHMubW9uZ29kYi5uZXQvcWFsX3ZldGNvP3JldHJ5V3JpdGVzPXRydWUmYXV0aFNvdXJjZT1hZG1pbiZ3PTEmcmVhZFByZWZlcmVuY2U9cHJpbWFyeSZyZWFkQ29uY2VybkxldmVsPWxvY2Fs</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgRFVSQVRJT05fSU5fTUlDUk8gPSAzMDAwMDAwMDsgLy8gMzBzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBSRUNPUkRfSUQgPSAid2VtdTE4NzI4IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgU1RBUlRfVElNRV9JTl9NSUNSTyA9IDE1ODI3MTQ2NzA3NDIwMDBMOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBSRUNPUkRfSUQgPSAid2VtdTE4NzI4IjsK</text>
-      </register>
-      <register name="4" type="8">
+      <register name="1" type="8">
         <text>#
 #
 #</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJhd0RhdGEpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJhd0RhdGEgPSBjaGFubmVsR3JwY09wZXJhdGlvbi5nZXREYXRhKGRhdGFSZXF1ZXN0KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIEZldGNoZWQgb2JqZWN0cyBpbiAxNTg5XzM2Ml8zNDJfMjA4XzIxNyA9PiAyMDIwLTA1LTEzIDA5OjMyOjIyLjIwOFoKICAgIC8vcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBTVEFSVF9USU1FX0lOX01JQ1JPID0gMTU4OV8zNjJfMjk2XzIwN18wMDBMOwo=</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBAQmVmb3JlQWxsCiAgICBzdGF0aWMgdm9pZCBzZXRVcCgpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY2hhbm5lbCA9IE1hbmFnZWRDaGFubmVsQnVpbGRlci5mb3JBZGRyZXNzKFNFUlZFUiwgUE9SVCkudXNlUGxhaW50ZXh0KCkuYnVpbGQoKTsKICAgICAgICB2YXIgZGF0YVJlcXVlc3QgPSBEYXRhV2luZG93UmVxdWVzdC5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRSZWNvcmRJZChSRUNPUkRfSUQpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuc2V0U3RhcnRUaW1lSW5NaWNyb3NlY29uZChTVEFSVF9USU1FX0lOX01JQ1JPKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldER1cmF0aW9uSW5NaWNyb3NlY29uZChEVVJBVElPTl9JTl9NSUNSTykKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRBbGxTZWxlY3RlZENoYW5uZWxJZExpc3QoU0VMRUNURURfQ0hBTk5FTF9JRFMpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICB2YXIgY2hhbm5lbEdycGNPcGVyYXRpb24gPSBDaGFubmVsU2VydmljZUdycGMubmV3QmxvY2tpbmdTdHViKGNoYW5uZWwpOwogICAgICAgIHZhciByYXdEYXRhID0gY2hhbm5lbEdycGNPcGVyYXRpb24uZ2V0RGF0YShkYXRhUmVxdWVzdCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJhd0RhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrQmFja0VuZC5zdGFydCgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgRFVSQVRJT05fSU5fTUlDUk8gPSAzMDAwMDAwMDsgLy8gMzBzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrQmFja0VuZCA9IG5ldyBNb2NrV2ViU2VydmVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBSRUNPUkRfSUQgPSAid2VtdTE4NzI4IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgU1RBUlRfVElNRV9JTl9NSUNSTyA9IDE1ODI3MTQ2NzA3NDIwMDBMOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2NrQmFja0VuZC5lbnF1ZXVlKG5ldyBNb2NrUmVzcG9uc2UoKS5zZXRSZXNwb25zZUNvZGUoNTAwKS5zZXRCb2R5KCIiKSk7CiAgICAgICAgbW9ja0JhY2tFbmQuZW5xdWV1ZShuZXcgTW9ja1Jlc3BvbnNlKCkuc2V0UmVzcG9uc2VDb2RlKDUwMCkuc2V0Qm9keSgiIikpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBSRUNPUkRfSUQgPSAid2VtdTE4NzI4IjsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -344,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxuYlJldHJpZXNcPg==</last-search>
+      <last-search encoding="base64">XDxldmFsdWF0b3JMaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuYlJldHJpZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxldmFsdWF0b3JMaXN0XD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
