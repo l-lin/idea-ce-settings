@@ -156,7 +156,8 @@
         <mark key="." line="18" column="39" />
         <mark key="^" line="18" column="40" />
       </file>
-      <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/java/multibinder/MultibinderApplication.java" timestamp="1591104191998">
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/java/com/bioserenity/bridge/worker/WorkerEventBatch.java" timestamp="1591105206041" />
+      <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/java/multibinder/MultibinderApplication.java" timestamp="1591105084145">
         <mark key="'" line="39" column="38" />
         <mark key="[" line="39" column="24" />
         <mark key="]" line="39" column="31" />
@@ -167,11 +168,11 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" timestamp="1591100284664">
-        <mark key="[" line="54" column="75" />
-        <mark key="]" line="54" column="75" />
-        <mark key="." line="54" column="74" />
-        <mark key="^" line="54" column="75" />
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/resources/application.yml" timestamp="1591104678527">
+        <mark key="[" line="57" column="40" />
+        <mark key="]" line="57" column="39" />
+        <mark key="^" line="57" column="39" />
+        <mark key="." line="57" column="38" />
       </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" timestamp="1591103962094">
         <mark key="'" line="115" column="12" />
@@ -184,6 +185,9 @@
       </file>
       <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/README.adoc" timestamp="1591102789766" />
       <file name="$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.4/commons-cli-1.4-sources.jar!/org/apache/commons/cli/Option.java" timestamp="1591103843905" />
+      <file name="/fragment.java" timestamp="1591104556439">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="18" column="0" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/S3FileLocBuilderTest.java" />
