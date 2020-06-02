@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</entry>
         <entry encoding="base64">XDxmaWxlTG9jXD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjb25zdW1lclRvcGljXD4=</entry>
         <entry encoding="base64">XDxwaXBlbGluZVw+</entry>
         <entry encoding="base64">XDxTQVdfRVhQT05FTlRfRElHSVRTXD4=</entry>
+        <entry encoding="base64">XDxiZmZCbG9ja0NvZGVjXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -166,7 +166,8 @@
         <mark key="." line="178" column="69" />
         <mark key="^" line="178" column="70" />
       </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" timestamp="1591111554940">
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" timestamp="1591111674979">
+        <mark key="'" line="31" column="34" />
         <mark key="[" line="39" column="99" />
         <mark key="]" line="39" column="15" />
         <mark key="^" line="39" column="15" />
@@ -186,17 +187,14 @@
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/BffCodecProvider.java" timestamp="1591109841552" />
       <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/java/com/bioserenity/bridge/worker/WorkerEventLive.java" timestamp="1591105937916" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodecTest.java" timestamp="1591111508502">
-        <mark key="[" line="31" column="22" />
-        <mark key="]" line="31" column="23" />
-        <mark key="." line="31" column="22" />
-        <mark key="^" line="31" column="23" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodecTest.java" timestamp="1591112244744">
+        <mark key="[" line="42" column="62" />
+        <mark key="]" line="42" column="72" />
+        <mark key="." line="42" column="71" />
+        <mark key="^" line="42" column="72" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="7" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/ByteRangeHeaderBuilderTest.java" />
-      <jump line="8" column="39" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/ByteRangeHeaderBuilderTest.java" />
-      <jump line="37" column="11" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/PointsComputorTest.java" />
       <jump line="15" column="0" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/PointsComputorTest.java" />
       <jump line="109" column="28" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/PointsComputorTest.java" />
       <jump line="143" column="25" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffSamplesComputorTest.java" />
@@ -294,53 +292,56 @@
       <jump line="386" column="21" filename="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/json/JsonScanner.java" />
       <jump line="396" column="52" filename="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/json/JsonScanner.java" />
       <jump line="545" column="8" filename="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/json/JsonScanner.java" />
+      <jump line="35" column="13" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" />
+      <jump line="54" column="16" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" />
+      <jump line="31" column="34" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>getSamplingRate</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>getSamplingRate</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTQVdfRVhQT05FTlRfRElHSVRTXD4=</text>
+        <text encoding="base64">XDxiZmZCbG9ja0NvZGVjXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDb2RlY1JlZ2lzdHJ5IGNvZGVjUmVnaXN0cnkgPQogICAgICAgICAgICAgICAgQ29kZWNSZWdpc3RyaWVzLmZyb21SZWdpc3RyaWVzKAogICAgICAgICAgICAgICAgICAgICAgICBDb2RlY1JlZ2lzdHJpZXMuZnJvbVByb3ZpZGVycyhuZXcgQmZmQ29kZWNQcm92aWRlcigpKSwKICAgICAgICAgICAgICAgICAgICAgICAgTW9uZ29DbGllbnRTZXR0aW5ncy5nZXREZWZhdWx0Q29kZWNSZWdpc3RyeSgpCiAgICAgICAgICAgICAgICApOwo=</text>
+      <register name="0" type="4">
+        <text>0.00007152558100642636</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhSW4KICAgICAgICAgIGJpbmRlcjoga2Fma2EKICAgICAgICBwcm9jZXNzLW91dC0wOgogICAgICAgICAgZGVzdGluYXRpb246IGRhdGFPdXQKICAgICAgICAgIGJpbmRlcjogcmFiYml0CiAgICAgICAgI1Rlc3Qgc2luayBiaW5kaW5nICh1c2VkIGZvciB0ZXN0aW5nKQogICAgICAgIHNlbmRUZXN0RGF0YS1vdXQtMDoKICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhSW4KICAgICAgICAgIGJpbmRlcjoga2Fma2EK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvZGVjUmVnaXN0cnkgPSBDb2RlY1JlZ2lzdHJpZXMuZnJvbVJlZ2lzdHJpZXMoCiAgICAgICAgICAgICAgICAgICAgQ29kZWNSZWdpc3RyaWVzLmZyb21Qcm92aWRlcnMobmV3IEJmZkNvZGVjUHJvdmlkZXIoKSksCiAgICAgICAgICAgICAgICAgICAgTW9uZ29DbGllbnRTZXR0aW5ncy5nZXREZWZhdWx0Q29kZWNSZWdpc3RyeSgpCiAgICAgICAgICAgICk7CiAgICAgICAgICAgIHZhciBjaGFubmVsTWV0YWRhdGFXaW5kb3dSZXNwb25zZUNvZGVjID0gbmV3IENoYW5uZWxNZXRhZGF0YVdpbmRvd1Jlc3BvbnNlQ29kZWMoY29kZWNSZWdpc3RyeSk7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBCZWFuCglwdWJsaWMgRnVuY3Rpb248U3RyaW5nLCBTdHJpbmc+IHByb2Nlc3MoKSB7CgkJcmV0dXJuIHBheWxvYWQgLT4gcGF5bG9hZC50b1VwcGVyQ2FzZSgpOwoJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhSW4KICAgICAgICAgIGJpbmRlcjoga2Fma2EKICAgICAgICBwcm9jZXNzLW91dC0wOgogICAgICAgICAgZGVzdGluYXRpb246IGRhdGFPdXQKICAgICAgICAgIGJpbmRlcjogcmFiYml0CiAgICAgICAgI1Rlc3Qgc2luayBiaW5kaW5nICh1c2VkIGZvciB0ZXN0aW5nKQogICAgICAgIHNlbmRUZXN0RGF0YS1vdXQtMDoKICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhSW4KICAgICAgICAgIGJpbmRlcjoga2Fma2EK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CglzdGF0aWMgY2xhc3MgVGVzdFByb2R1Y2VyIHsKCgkJcHJpdmF0ZSBBdG9taWNCb29sZWFuIHNlbWFwaG9yZSA9IG5ldyBBdG9taWNCb29sZWFuKHRydWUpOwoKCQlAQmVhbgoJCXB1YmxpYyBTdXBwbGllcjxTdHJpbmc+IHNlbmRUZXN0RGF0YSgpIHsKCQkJcmV0dXJuICgpIC0+IHRoaXMuc2VtYXBob3JlLmdldEFuZFNldCghdGhpcy5zZW1hcGhvcmUuZ2V0KCkpID8gImZvbyIgOiAiYmFyIjsKCQl9Cgl9Cg==</text>
+        <text encoding="base64">CUBCZWFuCglwdWJsaWMgRnVuY3Rpb248U3RyaW5nLCBTdHJpbmc+IHByb2Nlc3MoKSB7CgkJcmV0dXJuIHBheWxvYWQgLT4gcGF5bG9hZC50b1VwcGVyQ2FzZSgpOwoJfQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CglzdGF0aWMgY2xhc3MgVGVzdFByb2R1Y2VyIHsKCgkJcHJpdmF0ZSBBdG9taWNCb29sZWFuIHNlbWFwaG9yZSA9IG5ldyBBdG9taWNCb29sZWFuKHRydWUpOwoKCQlAQmVhbgoJCXB1YmxpYyBTdXBwbGllcjxTdHJpbmc+IHNlbmRUZXN0RGF0YSgpIHsKCQkJcmV0dXJuICgpIC0+IHRoaXMuc2VtYXBob3JlLmdldEFuZFNldCghdGhpcy5zZW1hcGhvcmUuZ2V0KCkpID8gImZvbyIgOiAiYmFyIjsKCQl9Cgl9Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByYWJiaXQ6CiAgICAgICAgICB0eXBlOiByYWJiaXQK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ZCAtPiB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LnN0cmVhbSgpLm1hcChkb2N1bWVudDEgLT4KICAgICAgICAgICAgICAgIGJmZkJsb2NrQ29kZWMuZGVjb2RlKG5ldyBKc29uUmVhZGVyKGRvY3VtZW50MS50b0pzb24oKSksIERlY29kZXJDb250ZXh0LmJ1aWxkZXIoKS5idWlsZCgpKQogICAgICAgICkuY29sbGVjdChDb2xsZWN0b3JzLnRvQ29sbGVjdGlvbihUcmVlU2V0OjpuZXcpKQ==</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>#
 #
 #</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJhd0RhdGEpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJhd0RhdGEgPSBjaGFubmVsR3JwY09wZXJhdGlvbi5nZXREYXRhKGRhdGFSZXF1ZXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJhd0RhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -349,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTQVdfRVhQT05FTlRfRElHSVRTXD4=</last-search>
+      <last-search encoding="base64">XDxiZmZCbG9ja0NvZGVjXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTQVdfRVhQT05FTlRfRElHSVRTXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiZmZCbG9ja0NvZGVjXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
