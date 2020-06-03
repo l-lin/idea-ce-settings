@@ -146,6 +146,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/static/debug.html" timestamp="1591179543574">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="4" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/event/FilePersisterConfiguration.java" timestamp="1591177418952" />
       <file name="/WebSocketConfiguration.java" timestamp="1591176566598" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/BffMongoDatabaseBuilder.java" timestamp="1591109920662">
@@ -172,11 +178,11 @@
       <file name="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/json/JsonScanner.java" timestamp="1591111408025">
         <mark key="'" line="545" column="8" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/static/ws-debug.html" timestamp="1591177740075">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="25" />
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/static/ws-debug.html" timestamp="1591179459940">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="29" />
+        <mark key="^" line="8" column="29" />
+        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/event/WebSocketConfiguration.java" timestamp="1591176367698">
         <mark key="[" line="30" column="5" />
@@ -196,10 +202,14 @@
         <mark key="[" line="48" column="54" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application-local.properties" timestamp="1591176707889" />
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/SecurityConfiguration.java" timestamp="1591176903900">
-        <mark key="[" line="37" column="97" />
-        <mark key="]" line="37" column="97" />
-        <mark key="." line="37" column="97" />
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/SecurityConfiguration.java" timestamp="1591179488586">
+        <mark key="[" line="38" column="75" />
+        <mark key="]" line="38" column="89" />
+        <mark key="." line="38" column="88" />
+        <mark key="^" line="38" column="89" />
+      </file>
+      <file name="/fragment.java" timestamp="1591179495467">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -308,48 +318,48 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>Open</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>Open</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZmZCbG9ja0NvZGVjXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>101500</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxidXR0b24gb25jbGljaz0ib3BlbldzcygpIj5PcGVuIFdTUzwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvZGVjUmVnaXN0cnkgPSBDb2RlY1JlZ2lzdHJpZXMuZnJvbVJlZ2lzdHJpZXMoCiAgICAgICAgICAgICAgICAgICAgQ29kZWNSZWdpc3RyaWVzLmZyb21Qcm92aWRlcnMobmV3IEJmZkNvZGVjUHJvdmlkZXIoKSksCiAgICAgICAgICAgICAgICAgICAgTW9uZ29DbGllbnRTZXR0aW5ncy5nZXREZWZhdWx0Q29kZWNSZWdpc3RyeSgpCiAgICAgICAgICAgICk7CiAgICAgICAgICAgIHZhciBjaGFubmVsTWV0YWRhdGFXaW5kb3dSZXNwb25zZUNvZGVjID0gbmV3IENoYW5uZWxNZXRhZGF0YVdpbmRvd1Jlc3BvbnNlQ29kZWMoY29kZWNSZWdpc3RyeSk7Cgo=</text>
+        <text encoding="base64">ICAgIHZhciBzb2NrZXQgPSBuZXcgV2ViU29ja2V0KCJ3c3M6Ly8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhSW4KICAgICAgICAgIGJpbmRlcjoga2Fma2EKICAgICAgICBwcm9jZXNzLW91dC0wOgogICAgICAgICAgZGVzdGluYXRpb246IGRhdGFPdXQKICAgICAgICAgIGJpbmRlcjogcmFiYml0CiAgICAgICAgI1Rlc3Qgc2luayBiaW5kaW5nICh1c2VkIGZvciB0ZXN0aW5nKQogICAgICAgIHNlbmRUZXN0RGF0YS1vdXQtMDoKICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhSW4KICAgICAgICAgIGJpbmRlcjoga2Fma2EK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvZGVjUmVnaXN0cnkgPSBDb2RlY1JlZ2lzdHJpZXMuZnJvbVJlZ2lzdHJpZXMoCiAgICAgICAgICAgICAgICAgICAgQ29kZWNSZWdpc3RyaWVzLmZyb21Qcm92aWRlcnMobmV3IEJmZkNvZGVjUHJvdmlkZXIoKSksCiAgICAgICAgICAgICAgICAgICAgTW9uZ29DbGllbnRTZXR0aW5ncy5nZXREZWZhdWx0Q29kZWNSZWdpc3RyeSgpCiAgICAgICAgICAgICk7CiAgICAgICAgICAgIHZhciBjaGFubmVsTWV0YWRhdGFXaW5kb3dSZXNwb25zZUNvZGVjID0gbmV3IENoYW5uZWxNZXRhZGF0YVdpbmRvd1Jlc3BvbnNlQ29kZWMoY29kZWNSZWdpc3RyeSk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBCZWFuCglwdWJsaWMgRnVuY3Rpb248U3RyaW5nLCBTdHJpbmc+IHByb2Nlc3MoKSB7CgkJcmV0dXJuIHBheWxvYWQgLT4gcGF5bG9hZC50b1VwcGVyQ2FzZSgpOwoJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhSW4KICAgICAgICAgIGJpbmRlcjoga2Fma2EKICAgICAgICBwcm9jZXNzLW91dC0wOgogICAgICAgICAgZGVzdGluYXRpb246IGRhdGFPdXQKICAgICAgICAgIGJpbmRlcjogcmFiYml0CiAgICAgICAgI1Rlc3Qgc2luayBiaW5kaW5nICh1c2VkIGZvciB0ZXN0aW5nKQogICAgICAgIHNlbmRUZXN0RGF0YS1vdXQtMDoKICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhSW4KICAgICAgICAgIGJpbmRlcjoga2Fma2EK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CglzdGF0aWMgY2xhc3MgVGVzdFByb2R1Y2VyIHsKCgkJcHJpdmF0ZSBBdG9taWNCb29sZWFuIHNlbWFwaG9yZSA9IG5ldyBBdG9taWNCb29sZWFuKHRydWUpOwoKCQlAQmVhbgoJCXB1YmxpYyBTdXBwbGllcjxTdHJpbmc+IHNlbmRUZXN0RGF0YSgpIHsKCQkJcmV0dXJuICgpIC0+IHRoaXMuc2VtYXBob3JlLmdldEFuZFNldCghdGhpcy5zZW1hcGhvcmUuZ2V0KCkpID8gImZvbyIgOiAiYmFyIjsKCQl9Cgl9Cg==</text>
+        <text encoding="base64">CUBCZWFuCglwdWJsaWMgRnVuY3Rpb248U3RyaW5nLCBTdHJpbmc+IHByb2Nlc3MoKSB7CgkJcmV0dXJuIHBheWxvYWQgLT4gcGF5bG9hZC50b1VwcGVyQ2FzZSgpOwoJfQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CglzdGF0aWMgY2xhc3MgVGVzdFByb2R1Y2VyIHsKCgkJcHJpdmF0ZSBBdG9taWNCb29sZWFuIHNlbWFwaG9yZSA9IG5ldyBBdG9taWNCb29sZWFuKHRydWUpOwoKCQlAQmVhbgoJCXB1YmxpYyBTdXBwbGllcjxTdHJpbmc+IHNlbmRUZXN0RGF0YSgpIHsKCQkJcmV0dXJuICgpIC0+IHRoaXMuc2VtYXBob3JlLmdldEFuZFNldCghdGhpcy5zZW1hcGhvcmUuZ2V0KCkpID8gImZvbyIgOiAiYmFyIjsKCQl9Cgl9Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByYWJiaXQ6CiAgICAgICAgICB0eXBlOiByYWJiaXQK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ZCAtPiB7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LnN0cmVhbSgpLm1hcChkb2N1bWVudDEgLT4KICAgICAgICAgICAgICAgIGJmZkJsb2NrQ29kZWMuZGVjb2RlKG5ldyBKc29uUmVhZGVyKGRvY3VtZW50MS50b0pzb24oKSksIERlY29kZXJDb250ZXh0LmJ1aWxkZXIoKS5idWlsZCgpKQogICAgICAgICkuY29sbGVjdChDb2xsZWN0b3JzLnRvQ29sbGVjdGlvbihUcmVlU2V0OjpuZXcpKQ==</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text>#
 #
 #</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJhd0RhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
