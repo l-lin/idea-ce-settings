@@ -149,19 +149,24 @@
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" timestamp="1591194434594">
         <mark key="'" line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/README.md" timestamp="1591188846030" />
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptor.java" timestamp="1591186858910">
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptor.java" timestamp="1591196694363">
         <mark key="[" line="53" column="35" />
         <mark key="]" line="53" column="38" />
         <mark key="^" line="53" column="38" />
         <mark key="." line="53" column="37" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit-core/3.0.5.RELEASE/spring-cloud-stream-binder-rabbit-core-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/provisioning/RabbitExchangeQueueProvisioner.java" timestamp="1591196187340" />
-      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/resources/application-env.yml" timestamp="1591188587888" />
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-compose.yml" timestamp="1591194394114">
         <mark key="[" line="57" column="33" />
       </file>
       <file name="$USER_HOME$/work/cloud-aqtp/src/main/java/com/bioserenity/aqtp/scenario/fota/FotaScenario.java" timestamp="1591192403805" />
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" timestamp="1591196814881">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="133" column="43" />
+        <mark key="]" line="133" column="52" />
+        <mark key="." line="133" column="51" />
+        <mark key="^" line="133" column="52" />
+      </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" timestamp="1591194386689">
         <mark key="'" line="130" column="28" />
       </file>
@@ -172,9 +177,11 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.5.RELEASE/spring-cloud-stream-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/DefaultBinding.java" timestamp="1591195424397" />
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-entrypoint.sh" timestamp="1591194883016" />
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/Dockerfile" timestamp="1591193622322" />
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInteceptorTest.java" timestamp="1591196699105">
+        <mark key="[" line="22" column="50" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.5.RELEASE/spring-cloud-stream-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/binding/BindingService.java" timestamp="1591196054209" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/5.3.0.RELEASE/spring-integration-core-5.3.0.RELEASE-sources.jar!/org/springframework/integration/context/IntegrationObjectSupport.java" timestamp="1591195352483" />
-      <file name="/Makefile" timestamp="1591188658440" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.5.RELEASE/spring-cloud-stream-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" timestamp="1591193264497" />
       <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/resources/application.yml" timestamp="1591196605662">
         <mark key="[" line="3" column="13" />
@@ -182,13 +189,15 @@
         <mark key="." line="7" column="37" />
         <mark key="^" line="7" column="38" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/SecurityConfiguration.java" timestamp="1591196917562">
+        <mark key="[" line="38" column="75" />
+        <mark key="]" line="38" column="89" />
+        <mark key="." line="38" column="88" />
+        <mark key="^" line="38" column="89" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit-core/3.0.5.RELEASE/spring-cloud-stream-binder-rabbit-core-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/properties/RabbitCommonProperties.java" timestamp="1591195877426" />
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/work/record-service/server/DEPLOYEMENT.md" />
-      <jump line="31" column="0" filename="$USER_HOME$/work/fota-service/DEPLOYMENT.md" />
-      <jump line="16" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/work/fota-service/DEPLOYMENT.md" />
       <jump line="27" column="12" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/MqttProperties.java" />
       <jump line="12" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/AwsS3Properties.java" />
       <jump line="76" column="43" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
@@ -285,52 +294,56 @@
       <jump line="130" column="28" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="32" column="19" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" />
       <jump line="18" column="52" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
+      <jump line="49" column="8" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
+      <jump line="114" column="8" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
+      <jump line="98" column="0" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
+      <jump line="93" column="0" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kZXI6CiAgICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>rabbit</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtcXR0VG9waWNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhvc3Q6IDEwLjEwLjIzLjI1MgogICAgICAgICAgICAgICAgdXNlcm5hbWU6IGFkbWluCiAgICAgICAgICAgICAgICBwYXNzd29yZDoga2dBeUlmUy1odTluc2ZKcmV6UElxb3BRTFIxMnF0bHEK</text>
+        <text encoding="base64">ICAgICAgICBNb2NrSHR0cFNlcnZsZXRSZXF1ZXN0IG1vY2tIdHRwU2VydmxldFJlcXVlc3QgPSBuZXcgTW9ja0h0dHBTZXJ2bGV0UmVxdWVzdCgpOwogICAgICAgIFNlcnZlckh0dHBSZXF1ZXN0IHNlcnZlckh0dHBSZXF1ZXN0ID0gbmV3IFNlcnZsZXRTZXJ2ZXJIdHRwUmVxdWVzdChtb2NrSHR0cFNlcnZsZXRSZXF1ZXN0KTsKICAgICAgICBtb2NrSHR0cFNlcnZsZXRSZXF1ZXN0LmFkZEhlYWRlcihUT0tFTl9OQU1FLCBUT0tFTl9WQUxVRSk7CiAgICAgICAgbW9ja0h0dHBTZXJ2bGV0UmVxdWVzdC5zZXRQYXJhbWV0ZXIoUkVDT1JES0VZX05BTUUsIFJFQ09SREtFWV9WQUxVRSk7CgogICAgICAgIGRvVGhyb3cobmV3IEF1dGhlbnRpY2F0aW9uRXhjZXB0aW9uKCIiKSkud2hlbihkZWZhdWx0QXV0aFNlcnZpY2UpCiAgICAgICAgICAgIC5jYW5SZWFkUmVmZXJlbnRpYWxSZWNvcmQoYW55KCksIGFueSgpKTsKCiAgICAgICAgTW9ja0h0dHBTZXJ2bGV0UmVzcG9uc2UgbW9ja0h0dHBTZXJ2bGV0UmVzcG9uc2UgPSBuZXcgTW9ja0h0dHBTZXJ2bGV0UmVzcG9uc2UoKTsKCiAgICAgICAgU2VydmVySHR0cFJlc3BvbnNlIHNlcnZlckh0dHBSZXNwb25zZSA9IG5ldyBTZXJ2bGV0U2VydmVySHR0cFJlc3BvbnNlKG1vY2tIdHRwU2VydmxldFJlc3BvbnNlKTsKCiAgICAgICAgYXV0aGVudGljYXRpb25IYW5kc2hha2VJbnRlcmNlcHRvci5iZWZvcmVIYW5kc2hha2Uoc2VydmVySHR0cFJlcXVlc3QsIHNlcnZlckh0dHBSZXNwb25zZSwgbnVsbCwgbnVsbCk7CgogICAgICAgIEFzc2VydGlvbnMuYXNzZXJ0RXF1YWxzKEh0dHBTdGF0dXMuVU5BVVRIT1JJWkVELnZhbHVlKCksIG1vY2tIdHRwU2VydmxldFJlc3BvbnNlLmdldFN0YXR1cygpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kZXI6CiAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7CmltcG9ydCBvcmcuanVuaXQuQmVmb3JlOwppbXBvcnQgb3JnLmp1bml0LlRlc3Q7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXVlTmFtZUdyb3VwT25seTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kZXI6CiAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmFiYml0OgogICAgICAgIGJpbmRpbmdzOgogICAgICAgICAgcmVjZWl2ZS06CiAgICAgICAgICAgIGNvbnN1bWVyOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXVlTmFtZUdyb3VwT25seTogdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBxdWV1ZU5hbWVHcm91cE9ubHk6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgcmFiYml0OgogICAgICAgIGJpbmRpbmdzOgogICAgICAgICAgcmVjZWl2ZS06CiAgICAgICAgICAgIGNvbnN1bWVyOgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBxdWV1ZU5hbWVHcm91cE9ubHk6IHRydWUK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnN1bWVyOgogICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text>#
 #</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJuYW1lOiBndWVzdAogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IGtnQXlJZlMtaHU5bnNmSnJlelBJcW9wUUxSMTJxdGxxCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvcnQ6IFs1NjcyLCAxNTY3MiwgMTg4M10K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICN1c2VybmFtZTogZ3Vlc3QKICAgICAgICAgICAgICAgICNwYXNzd29yZDogZ3Vlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvcnQ6IFs1NjcyLCAxNTY3MiwgMTg4M10K</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
