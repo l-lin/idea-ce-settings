@@ -160,11 +160,14 @@
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1591109284313" />
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/3.11.2/mongodb-driver-core-3.11.2-sources.jar!/com/mongodb/MongoClientSettings.java" timestamp="1591108218153" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffBlockMongoDBRepository.java" timestamp="1591107718224" />
+      <file name="/Dummy.txt" timestamp="1591112782730">
+        <mark key="[" line="0" column="17" />
+      </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDaoTest.java" timestamp="1591109454217">
-        <mark key="[" line="178" column="46" />
-        <mark key="]" line="178" column="70" />
-        <mark key="." line="178" column="69" />
-        <mark key="^" line="178" column="70" />
+        <mark key="[" line="132" column="46" />
+        <mark key="]" line="132" column="70" />
+        <mark key="." line="132" column="69" />
+        <mark key="^" line="132" column="70" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" timestamp="1591111674979">
         <mark key="'" line="31" column="34" />
@@ -186,16 +189,12 @@
         <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/BffCodecProvider.java" timestamp="1591109841552" />
-      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/java/com/bioserenity/bridge/worker/WorkerEventLive.java" timestamp="1591105937916" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodecTest.java" timestamp="1591112244744">
-        <mark key="[" line="42" column="62" />
-        <mark key="]" line="42" column="72" />
-        <mark key="." line="42" column="71" />
-        <mark key="^" line="42" column="72" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodecTest.java" timestamp="1591112524398">
+        <mark key="'" line="46" column="41" />
+        <mark key="[" line="48" column="54" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/PointsComputorTest.java" />
       <jump line="109" column="28" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/PointsComputorTest.java" />
       <jump line="143" column="25" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/repository/s3/BffSamplesComputorTest.java" />
       <jump line="44" column="66" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/DataBlockRequest.java" />
@@ -295,24 +294,25 @@
       <jump line="35" column="13" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" />
       <jump line="54" column="16" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" />
       <jump line="31" column="34" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" />
+      <jump line="47" column="41" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodecTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getSamplingRate</text>
+        <text>101500</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>getSamplingRate</text>
+        <text>etStartTime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiZmZCbG9ja0NvZGVjXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>0.00007152558100642636</text>
+        <text>101500</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvZGVjUmVnaXN0cnkgPSBDb2RlY1JlZ2lzdHJpZXMuZnJvbVJlZ2lzdHJpZXMoCiAgICAgICAgICAgICAgICAgICAgQ29kZWNSZWdpc3RyaWVzLmZyb21Qcm92aWRlcnMobmV3IEJmZkNvZGVjUHJvdmlkZXIoKSksCiAgICAgICAgICAgICAgICAgICAgTW9uZ29DbGllbnRTZXR0aW5ncy5nZXREZWZhdWx0Q29kZWNSZWdpc3RyeSgpCiAgICAgICAgICAgICk7CiAgICAgICAgICAgIHZhciBjaGFubmVsTWV0YWRhdGFXaW5kb3dSZXNwb25zZUNvZGVjID0gbmV3IENoYW5uZWxNZXRhZGF0YVdpbmRvd1Jlc3BvbnNlQ29kZWMoY29kZWNSZWdpc3RyeSk7Cgo=</text>
