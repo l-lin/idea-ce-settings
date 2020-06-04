@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0aWFsUmVzYW1wbGVkVHJlZVNldFBvaW50XD4=</entry>
         <entry>stack_trace</entry>
         <entry encoding="base64">XDxxdWV1ZUFubm90YXRpb25OYW1lXD4=</entry>
         <entry encoding="base64">XDxGRVRDSF9KT0JfU1RBVFVTX1JPVVRFXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxuYlByb2R1Y2Vyc1w+</entry>
         <entry encoding="base64">XDxjb25zdW1lclRvcGljXD4=</entry>
         <entry encoding="base64">XDxtcXR0VG9waWNcPg==</entry>
+        <entry encoding="base64">XDxldmVudFR5cGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,72 +146,108 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" timestamp="1591194434594">
-        <mark key="'" line="18" column="52" />
+      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/consumer/KafkaBcpStreamConsumerTest.java" timestamp="1591262037633">
+        <mark key="[" line="130" column="14" />
+        <mark key="]" line="130" column="18" />
+        <mark key="^" line="130" column="18" />
+        <mark key="." line="130" column="17" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptor.java" timestamp="1591199679360">
-        <mark key="[" line="53" column="35" />
-        <mark key="]" line="53" column="38" />
-        <mark key="^" line="53" column="38" />
-        <mark key="." line="53" column="37" />
+      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/EndRecordPayloadMapperTest.java" timestamp="1591264268494">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit-core/3.0.5.RELEASE/spring-cloud-stream-binder-rabbit-core-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/provisioning/RabbitExchangeQueueProvisioner.java" timestamp="1591196187340" />
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-compose.yml" timestamp="1591194394114">
-        <mark key="[" line="57" column="33" />
+      <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/EndRecordPayloadMapper.java" timestamp="1591263943451">
+        <mark key="[" line="13" column="48" />
+        <mark key="]" line="13" column="73" />
+        <mark key="^" line="13" column="73" />
+        <mark key="." line="13" column="72" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" timestamp="1591196814881">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="131" column="43" />
-        <mark key="]" line="131" column="52" />
-        <mark key="." line="131" column="51" />
-        <mark key="^" line="131" column="52" />
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.3.0/bioserenity-io-bcp-6.3.0-sources.jar!/com/bioserenity/bcp/payload/events/EndRecord.java" timestamp="1591264058592" />
+      <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/BcpToBffEventPayloadMapper.java" timestamp="1591264558958">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="49" />
+        <mark key="." line="10" column="48" />
+        <mark key="^" line="10" column="49" />
       </file>
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" timestamp="1591194386689">
-        <mark key="'" line="130" column="28" />
+      <file name="/BcpToBffEventMapper.java" timestamp="1591263075395" />
+      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/service/BffRecordKeyBuilderTest.java" timestamp="1591262228710">
+        <mark key="[" line="60" column="14" />
+        <mark key="]" line="60" column="18" />
+        <mark key="^" line="60" column="18" />
+        <mark key="." line="60" column="17" />
       </file>
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" timestamp="1591194425101">
-        <mark key="'" line="32" column="19" />
+      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/EndUploadV5PayloadMapperTest.java" timestamp="1591264285319">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="28" />
       </file>
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BrokerClientFactory.java" timestamp="1591193803025" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.5.RELEASE/spring-cloud-stream-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/DefaultBinding.java" timestamp="1591195424397" />
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-entrypoint.sh" timestamp="1591194883016" />
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/Dockerfile" timestamp="1591193622322" />
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInteceptorTest.java" timestamp="1591196699105">
-        <mark key="[" line="22" column="50" />
+      <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/WearablesUsagePayloadMapper.java" timestamp="1591263335460">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="4" />
+        <mark key="." line="29" column="3" />
+        <mark key="^" line="29" column="4" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.5.RELEASE/spring-cloud-stream-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/binding/BindingService.java" timestamp="1591196054209" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/integration/spring-integration-core/5.3.0.RELEASE/spring-integration-core-5.3.0.RELEASE-sources.jar!/org/springframework/integration/context/IntegrationObjectSupport.java" timestamp="1591195352483" />
-      <file name="/Dummy.txt" timestamp="1591197087637">
+      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/UserFlagPayloadMapperTest.java" timestamp="1591263692768">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/BcpToBffEventMapperTest.java" timestamp="1591262587161">
+        <mark key="[" line="75" column="35" />
+        <mark key="]" line="75" column="42" />
+        <mark key="^" line="84" column="24" />
+        <mark key="." line="75" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591263034195">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/UserFlagPayloadMapper.java" timestamp="1591263326127">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+        <mark key="^" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/EndUploadPayloadMapper.java" timestamp="1591265133931">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="33" />
+      </file>
+      <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/ComputedImpedanceListPayloadMapper.java" timestamp="1591263301118">
+        <mark key="[" line="52" column="4" />
+        <mark key="]" line="52" column="4" />
+        <mark key="." line="52" column="4" />
+        <mark key="^" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/EndUploadV5PayloadMapper.java" timestamp="1591263656664">
+        <mark key="]" line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/WearablesUsagePayloadMapperTest.java" timestamp="1591263694839">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/EndUploadPayloadMapperTest.java" timestamp="1591265391484">
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="17" />
+        <mark key="." line="16" column="16" />
+        <mark key="^" line="16" column="17" />
+      </file>
+      <file name="/fragment.java" timestamp="1591264097690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.5.RELEASE/spring-cloud-stream-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" timestamp="1591193264497" />
-      <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/resources/application.yml" timestamp="1591196605662">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="7" column="38" />
-        <mark key="." line="7" column="37" />
-        <mark key="^" line="7" column="38" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/SecurityConfiguration.java" timestamp="1591198131060">
-        <mark key="[" line="38" column="75" />
-        <mark key="]" line="38" column="89" />
-        <mark key="." line="38" column="88" />
-        <mark key="^" line="38" column="89" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream-binder-rabbit-core/3.0.5.RELEASE/spring-cloud-stream-binder-rabbit-core-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/binder/rabbit/properties/RabbitCommonProperties.java" timestamp="1591195877426" />
     </filemarks>
     <jumps>
-      <jump line="27" column="12" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/MqttProperties.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/config/AwsS3Properties.java" />
-      <jump line="76" column="43" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
-      <jump line="83" column="22" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/BrokerConsumerActorTest.java" />
-      <jump line="328" column="23" filename="$MAVEN_REPOSITORY$/io/micrometer/micrometer-core/1.5.1/micrometer-core-1.5.1-sources.jar!/io/micrometer/core/instrument/Timer.java" />
-      <jump line="191" column="38" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
-      <jump line="150" column="28" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
-      <jump line="360" column="40" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
-      <jump line="68" column="25" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
-      <jump line="122" column="20" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/actors/FotaActor.java" />
-      <jump line="138" column="16" filename="$USER_HOME$/work/fota-service/src/test/java/com/bioserenity/actors/FotaActorTest.java" />
       <jump line="59" column="24" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/command/SignalConfiguration.java" />
       <jump line="588" column="4" filename="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Set.java" />
       <jump line="148" column="63" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/SignalResampler.java" />
@@ -300,52 +336,63 @@
       <jump line="114" column="8" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
       <jump line="98" column="0" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
       <jump line="93" column="0" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
+      <jump line="13" column="4" filename="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/EndUploadPayloadMapper.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/BcpToBffEventMapperTest.java" />
+      <jump line="64" column="8" filename="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/BcpToBffEventMapperTest.java" />
+      <jump line="21" column="25" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.3.0/bioserenity-io-bcp-6.3.0-sources.jar!/com/bioserenity/bcp/payload/events/UserFlag.java" />
+      <jump line="35" column="12" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.3.0/bioserenity-io-bcp-6.3.0-sources.jar!/com/bioserenity/bcp/payload/events/UserFlag.java" />
+      <jump line="36" column="50" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.3.0/bioserenity-io-bcp-6.3.0-sources.jar!/com/bioserenity/bcp/payload/events/UserFlag.java" />
+      <jump line="71" column="15" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.3.0/bioserenity-io-bcp-6.3.0-sources.jar!/com/bioserenity/bcp/payload/events/UserFlag.java" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="14" column="0" filename="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/EndUploadV5PayloadMapperTest.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/EndUploadV5PayloadMapperTest.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/EndUploadPayloadMapperTest.java" />
+      <jump line="17" column="34" filename="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/EndUploadPayloadMapperTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjaGVja0JmZihuZXcgRW5kVXBsb2FkVjUoKSk7CiAgICAgICAgbG9uZyBsYXN0UGFja2V0VGltZXN0YW1wID0gMzQ0NTY1NDc1NTc2TDsKCiAgICAgICAgRW5kVXBsb2FkVjUgZW5kVXBsb2FkVjUgPSBuZXcgRW5kVXBsb2FkVjUoKTsKICAgICAgICBlbmRVcGxvYWRWNS5zZXRUaW1lc3RhbXAobGFzdFBhY2tldFRpbWVzdGFtcCk7CgogICAgICAgIGxvbmcgZXZlbnRUaW1lc3RhbXAgPSAxMjM0TDsKCiAgICAgICAgQmZmRXZlbnRQYXlsb2FkIGV4cGVjdGVkQmZmRXZlbnRQYXlsb2FkID0gbmV3IEJmZkVuZFJlY29yZFBheWxvYWQoZXZlbnRUaW1lc3RhbXAsIGxhc3RQYWNrZXRUaW1lc3RhbXApOwoKICAgICAgICBCZmZFdmVudFBheWxvYWQgYmZmRXZlbnRQYXlsb2FkID0gbmV3IEVuZFVwbG9hZFBheWxvYWRNYXBwZXIoKS5tYXAoZXZlbnRUaW1lc3RhbXAsIGVuZFVwbG9hZFY1KTsKCiAgICAgICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkQmZmRXZlbnRQYXlsb2FkLCBiZmZFdmVudFBheWxvYWQpOwo=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtcXR0VG9waWNcPg==</text>
+        <text encoding="base64">XDxldmVudFR5cGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NrSHR0cFNlcnZsZXRSZXF1ZXN0IG1vY2tIdHRwU2VydmxldFJlcXVlc3QgPSBuZXcgTW9ja0h0dHBTZXJ2bGV0UmVxdWVzdCgpOwogICAgICAgIFNlcnZlckh0dHBSZXF1ZXN0IHNlcnZlckh0dHBSZXF1ZXN0ID0gbmV3IFNlcnZsZXRTZXJ2ZXJIdHRwUmVxdWVzdChtb2NrSHR0cFNlcnZsZXRSZXF1ZXN0KTsKICAgICAgICBtb2NrSHR0cFNlcnZsZXRSZXF1ZXN0LmFkZEhlYWRlcihUT0tFTl9OQU1FLCBUT0tFTl9WQUxVRSk7CiAgICAgICAgbW9ja0h0dHBTZXJ2bGV0UmVxdWVzdC5zZXRQYXJhbWV0ZXIoUkVDT1JES0VZX05BTUUsIFJFQ09SREtFWV9WQUxVRSk7CgogICAgICAgIGRvVGhyb3cobmV3IEF1dGhlbnRpY2F0aW9uRXhjZXB0aW9uKCIiKSkud2hlbihkZWZhdWx0QXV0aFNlcnZpY2UpCiAgICAgICAgICAgIC5jYW5SZWFkUmVmZXJlbnRpYWxSZWNvcmQoYW55KCksIGFueSgpKTsKCiAgICAgICAgTW9ja0h0dHBTZXJ2bGV0UmVzcG9uc2UgbW9ja0h0dHBTZXJ2bGV0UmVzcG9uc2UgPSBuZXcgTW9ja0h0dHBTZXJ2bGV0UmVzcG9uc2UoKTsKCiAgICAgICAgU2VydmVySHR0cFJlc3BvbnNlIHNlcnZlckh0dHBSZXNwb25zZSA9IG5ldyBTZXJ2bGV0U2VydmVySHR0cFJlc3BvbnNlKG1vY2tIdHRwU2VydmxldFJlc3BvbnNlKTsKCiAgICAgICAgYXV0aGVudGljYXRpb25IYW5kc2hha2VJbnRlcmNlcHRvci5iZWZvcmVIYW5kc2hha2Uoc2VydmVySHR0cFJlcXVlc3QsIHNlcnZlckh0dHBSZXNwb25zZSwgbnVsbCwgbnVsbCk7CgogICAgICAgIEFzc2VydGlvbnMuYXNzZXJ0RXF1YWxzKEh0dHBTdGF0dXMuVU5BVVRIT1JJWkVELnZhbHVlKCksIG1vY2tIdHRwU2VydmxldFJlc3BvbnNlLmdldFN0YXR1cygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGxhc3RQYWNrZXRUaW1lc3RhbXAgPSAzNDQ1NjU0NzU1NzZMOwoKICAgICAgICBFbmRVcGxvYWRWNSBlbmRVcGxvYWRWNSA9IG5ldyBFbmRVcGxvYWRWNSgpOwogICAgICAgIGVuZFVwbG9hZFY1LnNldFRpbWVzdGFtcChsYXN0UGFja2V0VGltZXN0YW1wKTsKCiAgICAgICAgbG9uZyBldmVudFRpbWVzdGFtcCA9IDEyMzRMOwoKICAgICAgICBCZmZFdmVudFBheWxvYWQgZXhwZWN0ZWRCZmZFdmVudFBheWxvYWQgPSBuZXcgQmZmRW5kUmVjb3JkUGF5bG9hZChldmVudFRpbWVzdGFtcCwgbGFzdFBhY2tldFRpbWVzdGFtcCk7CgogICAgICAgIEJmZkV2ZW50UGF5bG9hZCBiZmZFdmVudFBheWxvYWQgPSBuZXcgRW5kVXBsb2FkUGF5bG9hZE1hcHBlcigpLm1hcChldmVudFRpbWVzdGFtcCxlbmRVcGxvYWRWNSk7CgogICAgICAgIGFzc2VydEVxdWFscyhleHBlY3RlZEJmZkV2ZW50UGF5bG9hZCxiZmZFdmVudFBheWxvYWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5Bc3NlcnQ7CmltcG9ydCBvcmcuanVuaXQuQmVmb3JlOwppbXBvcnQgb3JnLmp1bml0LlRlc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja0JmZihuZXcgRW5kVXBsb2FkVjUoKSk7CiAgICAgICAgbG9uZyBsYXN0UGFja2V0VGltZXN0YW1wID0gMzQ0NTY1NDc1NTc2TDsKCiAgICAgICAgRW5kVXBsb2FkVjUgZW5kVXBsb2FkVjUgPSBuZXcgRW5kVXBsb2FkVjUoKTsKICAgICAgICBlbmRVcGxvYWRWNS5zZXRUaW1lc3RhbXAobGFzdFBhY2tldFRpbWVzdGFtcCk7CgogICAgICAgIGxvbmcgZXZlbnRUaW1lc3RhbXAgPSAxMjM0TDsKCiAgICAgICAgQmZmRXZlbnRQYXlsb2FkIGV4cGVjdGVkQmZmRXZlbnRQYXlsb2FkID0gbmV3IEJmZkVuZFJlY29yZFBheWxvYWQoZXZlbnRUaW1lc3RhbXAsIGxhc3RQYWNrZXRUaW1lc3RhbXApOwoKICAgICAgICBCZmZFdmVudFBheWxvYWQgYmZmRXZlbnRQYXlsb2FkID0gbmV3IEVuZFVwbG9hZFBheWxvYWRNYXBwZXIoKS5tYXAoZXZlbnRUaW1lc3RhbXAsIGVuZFVwbG9hZFY1KTsKCiAgICAgICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkQmZmRXZlbnRQYXlsb2FkLCBiZmZFdmVudFBheWxvYWQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kZXI6CiAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBFbmRSZWNvcmQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHF1ZXVlTmFtZUdyb3VwT25seTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBFbmRSZWNvcmRQYXlsb2FkTWFwcGVyKExpc3Q8QmNwVG9CZmZFdmVudFBheWxvYWRNYXBwZXI8PyBleHRlbmRzIEV2ZW50Pj4gcGF5bG9hZE1hcHBlckxpc3QpIHsKICAgICAgICBzdXBlcihwYXlsb2FkTWFwcGVyTGlzdCk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmFiYml0OgogICAgICAgIGJpbmRpbmdzOgogICAgICAgICAgcmVjZWl2ZS06CiAgICAgICAgICAgIGNvbnN1bWVyOgo=</text>
+        <text encoding="base64">Y2hvcmU6IGNsZWFuIHBvbS54bWwgJiByZW1vdmUganVuaXQgZGVwZW5kZW5jeQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBxdWV1ZU5hbWVHcm91cE9ubHk6IHRydWUK</text>
+        <text>fix(CLOUD-6689): handle unsupported bcp v4 events</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN1bWVyOgogICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7CmltcG9ydCBvcmcuanVuaXQuVGVzdDsK</text>
       </register>
-      <register name="7" type="8">
-        <text>#
-#</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJPGxvZ3N0YXNoLWxvZ2JhY2stZW5jb2Rlci52ZXJzaW9uPjYuMzwvbG9nc3Rhc2gtbG9nYmFjay1lbmNvZGVyLnZlcnNpb24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXJuYW1lOiBndWVzdAogICAgICAgICAgICAgICAgcGFzc3dvcmQ6IGtnQXlJZlMtaHU5bnNmSnJlelBJcW9wUUxSMTJxdGxxCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxvbWJvay52ZXJzaW9uPjEuMTguMTA8L2xvbWJvay52ZXJzaW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvcnQ6IFs1NjcyLCAxNTY3MiwgMTg4M10K</text>
+        <text encoding="base64">CQkJPGJpb3NlcmVuaXR5LWZpbGUtZm9ybWF0LW1ldGFkYXRhLnZlcnNpb24+NC4wLjA8L2Jpb3NlcmVuaXR5LWZpbGUtZm9ybWF0LW1ldGFkYXRhLnZlcnNpb24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -354,9 +401,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtcXR0VG9waWNcPg==</last-search>
+      <last-search encoding="base64">XDxldmVudFR5cGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtcXR0VG9waWNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxldmVudFR5cGVcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
