@@ -197,12 +197,12 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/BcpToBffEventMapperTest.java" timestamp="1591262587161">
-        <mark key="[" line="75" column="35" />
-        <mark key="]" line="75" column="42" />
-        <mark key="^" line="84" column="24" />
-        <mark key="." line="75" column="25" />
+        <mark key="[" line="73" column="35" />
+        <mark key="]" line="73" column="42" />
+        <mark key="^" line="80" column="24" />
+        <mark key="." line="73" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591263034195">
+      <file name="/Dummy.txt" timestamp="1591265572530">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -214,12 +214,12 @@
         <mark key="." line="19" column="4" />
         <mark key="^" line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/EndUploadPayloadMapper.java" timestamp="1591265133931">
+      <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/EndUploadPayloadMapper.java" timestamp="1591265551586">
         <mark key="'" line="29" column="4" />
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="11" column="33" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="33" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="7" />
       </file>
       <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/ComputedImpedanceListPayloadMapper.java" timestamp="1591263301118">
         <mark key="[" line="52" column="4" />
@@ -353,13 +353,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja0JmZihuZXcgRW5kVXBsb2FkVjUoKSk7CiAgICAgICAgbG9uZyBsYXN0UGFja2V0VGltZXN0YW1wID0gMzQ0NTY1NDc1NTc2TDsKCiAgICAgICAgRW5kVXBsb2FkVjUgZW5kVXBsb2FkVjUgPSBuZXcgRW5kVXBsb2FkVjUoKTsKICAgICAgICBlbmRVcGxvYWRWNS5zZXRUaW1lc3RhbXAobGFzdFBhY2tldFRpbWVzdGFtcCk7CgogICAgICAgIGxvbmcgZXZlbnRUaW1lc3RhbXAgPSAxMjM0TDsKCiAgICAgICAgQmZmRXZlbnRQYXlsb2FkIGV4cGVjdGVkQmZmRXZlbnRQYXlsb2FkID0gbmV3IEJmZkVuZFJlY29yZFBheWxvYWQoZXZlbnRUaW1lc3RhbXAsIGxhc3RQYWNrZXRUaW1lc3RhbXApOwoKICAgICAgICBCZmZFdmVudFBheWxvYWQgYmZmRXZlbnRQYXlsb2FkID0gbmV3IEVuZFVwbG9hZFBheWxvYWRNYXBwZXIoKS5tYXAoZXZlbnRUaW1lc3RhbXAsIGVuZFVwbG9hZFY1KTsKCiAgICAgICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkQmZmRXZlbnRQYXlsb2FkLCBiZmZFdmVudFBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICogPGxpPntAbGluayBjb20uYmlvc2VyZW5pdHkuYmNwLnBheWxvYWQuZXZlbnRzLkVuZFVwbG9hZFY1fQo=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxldmVudFR5cGVcPg==</text>
@@ -368,31 +368,31 @@
         <text encoding="base64">ICAgICAgICBsb25nIGxhc3RQYWNrZXRUaW1lc3RhbXAgPSAzNDQ1NjU0NzU1NzZMOwoKICAgICAgICBFbmRVcGxvYWRWNSBlbmRVcGxvYWRWNSA9IG5ldyBFbmRVcGxvYWRWNSgpOwogICAgICAgIGVuZFVwbG9hZFY1LnNldFRpbWVzdGFtcChsYXN0UGFja2V0VGltZXN0YW1wKTsKCiAgICAgICAgbG9uZyBldmVudFRpbWVzdGFtcCA9IDEyMzRMOwoKICAgICAgICBCZmZFdmVudFBheWxvYWQgZXhwZWN0ZWRCZmZFdmVudFBheWxvYWQgPSBuZXcgQmZmRW5kUmVjb3JkUGF5bG9hZChldmVudFRpbWVzdGFtcCwgbGFzdFBhY2tldFRpbWVzdGFtcCk7CgogICAgICAgIEJmZkV2ZW50UGF5bG9hZCBiZmZFdmVudFBheWxvYWQgPSBuZXcgRW5kVXBsb2FkUGF5bG9hZE1hcHBlcigpLm1hcChldmVudFRpbWVzdGFtcCxlbmRVcGxvYWRWNSk7CgogICAgICAgIGFzc2VydEVxdWFscyhleHBlY3RlZEJmZkV2ZW50UGF5bG9hZCxiZmZFdmVudFBheWxvYWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGVja0JmZihuZXcgRW5kVXBsb2FkVjUoKSk7CiAgICAgICAgbG9uZyBsYXN0UGFja2V0VGltZXN0YW1wID0gMzQ0NTY1NDc1NTc2TDsKCiAgICAgICAgRW5kVXBsb2FkVjUgZW5kVXBsb2FkVjUgPSBuZXcgRW5kVXBsb2FkVjUoKTsKICAgICAgICBlbmRVcGxvYWRWNS5zZXRUaW1lc3RhbXAobGFzdFBhY2tldFRpbWVzdGFtcCk7CgogICAgICAgIGxvbmcgZXZlbnRUaW1lc3RhbXAgPSAxMjM0TDsKCiAgICAgICAgQmZmRXZlbnRQYXlsb2FkIGV4cGVjdGVkQmZmRXZlbnRQYXlsb2FkID0gbmV3IEJmZkVuZFJlY29yZFBheWxvYWQoZXZlbnRUaW1lc3RhbXAsIGxhc3RQYWNrZXRUaW1lc3RhbXApOwoKICAgICAgICBCZmZFdmVudFBheWxvYWQgYmZmRXZlbnRQYXlsb2FkID0gbmV3IEVuZFVwbG9hZFBheWxvYWRNYXBwZXIoKS5tYXAoZXZlbnRUaW1lc3RhbXAsIGVuZFVwbG9hZFY1KTsKCiAgICAgICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkQmZmRXZlbnRQYXlsb2FkLCBiZmZFdmVudFBheWxvYWQpOwo=</text>
+        <text encoding="base64">ICogPGxpPntAbGluayBjb20uYmlvc2VyZW5pdHkuYmNwLnBheWxvYWQuZXZlbnRzLkVuZFVwbG9hZFY1fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBFbmRSZWNvcmQoKQo=</text>
+        <text encoding="base64">ICogPGxpPntAbGluayBjb20uYmlvc2VyZW5pdHkuYmNwLnBheWxvYWQuZXZlbnRzLkVuZFJlY29yZFY1fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBFbmRSZWNvcmRQYXlsb2FkTWFwcGVyKExpc3Q8QmNwVG9CZmZFdmVudFBheWxvYWRNYXBwZXI8PyBleHRlbmRzIEV2ZW50Pj4gcGF5bG9hZE1hcHBlckxpc3QpIHsKICAgICAgICBzdXBlcihwYXlsb2FkTWFwcGVyTGlzdCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICoge0BsaW5rIGNvbS5iaW9zZXJlbml0eS5iY3AucGF5bG9hZC5ldmVudHMuRW5kVXBsb2FkVjV9LAogKiB7QGxpbmsgY29tLmJpb3NlcmVuaXR5LmJjcC5wYXlsb2FkLmV2ZW50cy5FbmRVcGxvYWR9IGFuZCB7QGxpbmsgY29tLmJpb3NlcmVuaXR5LmJjcC5wYXlsb2FkLmV2ZW50cy5FbmRSZWNvcmRWNX0uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2hvcmU6IGNsZWFuIHBvbS54bWwgJiByZW1vdmUganVuaXQgZGVwZW5kZW5jeQ==</text>
+        <text encoding="base64">ICAgICAgICBjaGVja0JmZihuZXcgRW5kVXBsb2FkVjUoKSk7CiAgICAgICAgbG9uZyBsYXN0UGFja2V0VGltZXN0YW1wID0gMzQ0NTY1NDc1NTc2TDsKCiAgICAgICAgRW5kVXBsb2FkVjUgZW5kVXBsb2FkVjUgPSBuZXcgRW5kVXBsb2FkVjUoKTsKICAgICAgICBlbmRVcGxvYWRWNS5zZXRUaW1lc3RhbXAobGFzdFBhY2tldFRpbWVzdGFtcCk7CgogICAgICAgIGxvbmcgZXZlbnRUaW1lc3RhbXAgPSAxMjM0TDsKCiAgICAgICAgQmZmRXZlbnRQYXlsb2FkIGV4cGVjdGVkQmZmRXZlbnRQYXlsb2FkID0gbmV3IEJmZkVuZFJlY29yZFBheWxvYWQoZXZlbnRUaW1lc3RhbXAsIGxhc3RQYWNrZXRUaW1lc3RhbXApOwoKICAgICAgICBCZmZFdmVudFBheWxvYWQgYmZmRXZlbnRQYXlsb2FkID0gbmV3IEVuZFVwbG9hZFBheWxvYWRNYXBwZXIoKS5tYXAoZXZlbnRUaW1lc3RhbXAsIGVuZFVwbG9hZFY1KTsKCiAgICAgICAgYXNzZXJ0RXF1YWxzKGV4cGVjdGVkQmZmRXZlbnRQYXlsb2FkLCBiZmZFdmVudFBheWxvYWQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text>fix(CLOUD-6689): handle unsupported bcp v4 events</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBFbmRSZWNvcmQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7CmltcG9ydCBvcmcuanVuaXQuVGVzdDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBFbmRSZWNvcmRQYXlsb2FkTWFwcGVyKExpc3Q8QmNwVG9CZmZFdmVudFBheWxvYWRNYXBwZXI8PyBleHRlbmRzIEV2ZW50Pj4gcGF5bG9hZE1hcHBlckxpc3QpIHsKICAgICAgICBzdXBlcihwYXlsb2FkTWFwcGVyTGlzdCk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJPGxvZ3N0YXNoLWxvZ2JhY2stZW5jb2Rlci52ZXJzaW9uPjYuMzwvbG9nc3Rhc2gtbG9nYmFjay1lbmNvZGVyLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">Y2hvcmU6IGNsZWFuIHBvbS54bWwgJiByZW1vdmUganVuaXQgZGVwZW5kZW5jeQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxvbWJvay52ZXJzaW9uPjEuMTguMTA8L2xvbWJvay52ZXJzaW9uPgo=</text>
+        <text>fix(CLOUD-6689): handle unsupported bcp v4 events</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJPGJpb3NlcmVuaXR5LWZpbGUtZm9ybWF0LW1ldGFkYXRhLnZlcnNpb24+NC4wLjA8L2Jpb3NlcmVuaXR5LWZpbGUtZm9ybWF0LW1ldGFkYXRhLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5CZWZvcmU7CmltcG9ydCBvcmcuanVuaXQuVGVzdDsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
