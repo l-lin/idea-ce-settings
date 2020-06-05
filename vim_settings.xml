@@ -158,11 +158,17 @@
         <mark key="." line="17" column="36" />
         <mark key="^" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1591345561517">
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1591347382596">
         <mark key="'" line="130" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.5.RELEASE/spring-cloud-stream-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" timestamp="1591288323474">
         <mark key="'" line="102" column="43" />
+      </file>
+      <file name="$USER_HOME$/work/file-generation-service/docker-compose.yml" timestamp="1591347492060">
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/BcpToBffEventPayloadMapper.java" timestamp="1591291450787">
         <mark key="[" line="10" column="45" />
@@ -171,12 +177,6 @@
         <mark key="^" line="10" column="64" />
       </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" timestamp="1591344555787" />
-      <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/java/multibinder/MultibinderApplication.java" timestamp="1591288185544">
-        <mark key="'" line="5" column="21" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/ComputedImpedanceListPayloadMapperTest.java" timestamp="1591291624970">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -320,8 +320,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHJldmVydCB0byB1c2UgbW9jayBvbiBVVCArIGFkZCBJVA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB3b3JrZXIwMjoKICAgIDw8OiAqd29ya2VyCg==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -333,7 +333,7 @@
         <text encoding="base64">XDx3b3JrZXJSb3V0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCZmZFdmVudFBheWxvYWQgZXhwZWN0ZWRCZmZFdmVudFBheWxvYWQgPSBuZXcgQmZmV2VhcmFibGVzVXNhZ2VQYXlsb2FkKGV2ZW50VGltZXN0YW1wLCBTZXQub2YobmV3IEJmZldlYXJhYmxlc1VzYWdlUGF5bG9hZC5XZWFyYWJsZVVzYWdlKAogICAgICAgICAgICAgICAgYmNwV2VhcmFibGVVc2FnZS5nZXRTZXJpYWxOdW1iZXIoKSwKICAgICAgICAgICAgICAgIGJjcFdlYXJhYmxlVXNhZ2UuZ2V0VXNhZ2VTdGFydFRpbWVNaWNyb3MoKSwKICAgICAgICAgICAgICAgIGJjcFdlYXJhYmxlVXNhZ2UuZ2V0UmVjb3JkRHVyYXRpb25Jbk1pbGxpcygpCiAgICAgICAgKSkpOwo=</text>
+        <text encoding="base64">ICB3b3JrZXIwMjoKICAgIDw8OiAqd29ya2VyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAogICAgQE5lc3RlZAogICAgY2xhc3MgTWFwSWZDb21wYXRpYmxlIHsKICAgICAgICBAVGVzdAogICAgICAgIHZvaWQgdGVzdAogICAgfQo=</text>
