@@ -146,11 +146,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1591291666209">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/perso/poc-testcontainers/pom.xml" timestamp="1591291843569">
         <mark key="[" line="17" column="35" />
         <mark key="]" line="17" column="36" />
         <mark key="." line="17" column="36" />
         <mark key="^" line="13" column="13" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.5.RELEASE/spring-cloud-stream-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" timestamp="1591288323474">
+        <mark key="'" line="102" column="43" />
       </file>
       <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/BcpToBffEventPayloadMapper.java" timestamp="1591291450787">
         <mark key="[" line="10" column="45" />
@@ -158,40 +167,23 @@
         <mark key="." line="10" column="63" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.3.RELEASE/spring-cloud-stream-3.0.3.RELEASE-sources.jar!/org/springframework/cloud/stream/function/FunctionConfiguration.java" timestamp="1591288766707" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" timestamp="1591344525918" />
       <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/java/multibinder/MultibinderApplication.java" timestamp="1591288185544">
         <mark key="'" line="5" column="21" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-function-context/3.0.7.RELEASE/spring-cloud-function-context-3.0.7.RELEASE-sources.jar!/org/springframework/cloud/function/context/catalog/SimpleFunctionRegistry.java" timestamp="1591288883180" />
+      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/ComputedImpedanceListPayloadMapperTest.java" timestamp="1591291624970">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+      </file>
       <file name="$USER_HOME$/perso/poc-testcontainers/src/test/java/com/oodrive/poc/demotestcontainers/CatDAOTest.java" timestamp="1591291875800">
         <mark key="[" line="48" column="35" />
         <mark key="]" line="49" column="36" />
         <mark key="^" line="49" column="36" />
         <mark key="." line="49" column="35" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-function-context/3.0.7.RELEASE/spring-cloud-function-context-3.0.7.RELEASE-sources.jar!/org/springframework/cloud/function/context/FunctionProperties.java" timestamp="1591288753482" />
-      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/BcpToBffEventMapperIT.java" timestamp="1591291555503">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591291666209">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.5.RELEASE/spring-cloud-stream-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" timestamp="1591288323474">
-        <mark key="'" line="102" column="43" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE-sources.jar!/org/springframework/context/annotation/Scope.java" timestamp="1591287904372" />
-      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/ComputedImpedanceListPayloadMapperTest.java" timestamp="1591291624970">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/resources/application.yml" timestamp="1591288847193">
         <mark key="'" line="29" column="13" />
@@ -200,15 +192,16 @@
         <mark key="." line="36" column="9" />
         <mark key="^" line="36" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.6.RELEASE/spring-beans-5.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/config/ConfigurableBeanFactory.java" timestamp="1591287843339" />
-      <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/java/multibinder/AppConfiguration.java" timestamp="1591289535028" />
       <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/WearablesUsagePayloadMapperTest.java" timestamp="1591291236856">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="27" column="12" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/bridge-mqtt-kafka/bridge-mqtt-kafka/src/main/java/com/bioserenity/bridge/model/RecordMessage.java" timestamp="1591289716747" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.6.RELEASE/spring-beans-5.2.6.RELEASE-sources.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.java" timestamp="1591288576711" />
+      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/BcpToBffEventMapperIT.java" timestamp="1591291555503">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+      </file>
       <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/EndUploadPayloadMapperTest.java" timestamp="1591290983752">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="48" />
