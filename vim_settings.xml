@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbXFwVmlydHVhbEhvc3RcPg==</entry>
-        <entry encoding="base64">XDxhbXFwVG9waWNcPg==</entry>
-        <entry encoding="base64">XDxBTVFQX1RPUElDX09QVElPTlw+</entry>
         <entry encoding="base64">XDxzaGFyZWRRdWV1ZVw+</entry>
         <entry encoding="base64">XDxwcm9kdWNpbmdRdWV1ZXNcPg==</entry>
         <entry encoding="base64">XDxuYlByb2R1Y2Vyc1w+</entry>
@@ -20,10 +17,13 @@
         <entry encoding="base64">XDx3b3JrZXJNYXN0ZXJQYXRoXD4=</entry>
         <entry encoding="base64">XDx0aW1lc3RhbXBcPg==</entry>
         <entry encoding="base64">XDxiaW5kaW5nc1w+</entry>
-        <entry encoding="base64">XDxDbHVzdGVyUm91dGVyR3JvdXBcPg==</entry>
-        <entry encoding="base64">XDxjbHVzdGVyR3JvdXBQcm9wc1w+</entry>
         <entry encoding="base64">XDxwcm9kdWNlclw+</entry>
         <entry>cluster</entry>
+        <entry encoding="base64">XDx0b3RhbEluc3RhbmNlXD4=</entry>
+        <entry encoding="base64">XDxyb3V0ZXJUeXBlXD4=</entry>
+        <entry encoding="base64">XDxzY2hlZHVsZXJcPg==</entry>
+        <entry encoding="base64">XDxDbHVzdGVyUm91dGVyR3JvdXBcPg==</entry>
+        <entry encoding="base64">XDxjbHVzdGVyR3JvdXBQcm9wc1w+</entry>
         <entry encoding="base64">XDx3b3JrZXJSb3V0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
@@ -146,12 +146,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/WorkersMaster.scala" timestamp="1591619866692" />
+      <file name="/WorkersMaster.scala" timestamp="1591621303454">
+        <mark key="'" line="63" column="25" />
+      </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/resources/fgs_conf.conf" timestamp="1591618402853">
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.kafka/kafka-clients/srcs/kafka-clients-2.4.0-sources.jar!/org/apache/kafka/clients/NetworkClient.java" timestamp="1591614733457" />
       <file name="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" timestamp="1591619917199">
         <mark key="'" line="129" column="6" />
         <mark key="[" line="63" column="0" />
@@ -159,6 +160,7 @@
         <mark key="^" line="104" column="15" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/work/file-generation-service/src/test/scala/com/bioserenity/fgs/master/TestWorkerWorkersMaster.scala" timestamp="1591621227526" />
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/ConsumersSupervisor.scala" timestamp="1591619781316">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="45" />
@@ -170,11 +172,6 @@
         <mark key="^" line="62" column="25" />
         <mark key="." line="62" column="24" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.kafka/kafka-clients/srcs/kafka-clients-2.4.0-sources.jar!/org/apache/kafka/common/security/JaasUtils.java" timestamp="1591611137286">
-        <mark key="'" line="45" column="47" />
-        <mark key="[" line="30" column="49" />
-        <mark key="]" line="30" column="69" />
-      </file>
       <file name="$USER_HOME$/work/file-generation-service/data/security/kafka.sasl.conf" timestamp="1591617882202" />
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/FGSApp.scala" timestamp="1591619661844">
         <mark key="[" line="68" column="63" />
@@ -182,12 +179,13 @@
         <mark key="." line="68" column="63" />
         <mark key="^" line="23" column="2" />
       </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1591619884393">
-        <mark key="'" line="70" column="0" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1591621860905">
+        <mark key="'" line="130" column="17" />
+        <mark key="k" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/work/file-generation-service/docker/docker-compose.yml" timestamp="1591618238333" />
       <file name="$USER_HOME$/work/file-generation-service/src/main/resources/node.consumer.conf" timestamp="1591618935331" />
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/WorkerNodeApp.scala" timestamp="1591619469225">
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/WorkerNodeApp.scala" timestamp="1591621780252">
         <mark key="[" line="39" column="59" />
         <mark key="]" line="39" column="69" />
         <mark key="^" line="39" column="69" />
@@ -206,21 +204,10 @@
       </file>
       <file name="$USER_HOME$/work/file-generation-service/docker/Makefile" timestamp="1591620525854" />
       <file name="$USER_HOME$/work/file-generation-service/JenkinsBuild" timestamp="1591620551392" />
-      <file name="$USER_HOME$/work/file-generation-service/build.sbt" timestamp="1591619027222">
-        <mark key="'" line="33" column="56" />
-      </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/srcs/akka-actor_2.11-2.5.29-sources.jar!/akka/actor/ActorRef.scala" timestamp="1591621920572" />
+      <file name="$USER_HOME$/work/file-generation-service/build.sbt" timestamp="1591621750371" />
     </filemarks>
     <jumps>
-      <jump line="25" column="29" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
-      <jump line="92" column="78" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
-      <jump line="93" column="138" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
-      <jump line="95" column="70" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
-      <jump line="96" column="132" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" />
-      <jump line="69" column="11" filename="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/Document.java" />
-      <jump line="532" column="42" filename="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-reactivestreams/1.13.0/mongodb-driver-reactivestreams-1.13.0-sources.jar!/com/mongodb/reactivestreams/client/MongoCollection.java" />
-      <jump line="31" column="22" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
-      <jump line="35" column="81" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
       <jump line="37" column="25" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
       <jump line="90" column="27" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
       <jump line="39" column="40" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/pattern/ThrowableProxyConverter.java" />
@@ -290,11 +277,7 @@
       <jump line="102" column="43" filename="$MAVEN_REPOSITORY$/org/springframework/cloud/spring-cloud-stream/3.0.5.RELEASE/spring-cloud-stream-3.0.5.RELEASE-sources.jar!/org/springframework/cloud/stream/config/BindingServiceProperties.java" />
       <jump line="29" column="13" filename="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/resources/application.yml" />
       <jump line="83" column="8" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
-      <jump line="6" column="29" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
-      <jump line="82" column="8" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
       <jump line="187" column="8" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
-      <jump line="85" column="66" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
-      <jump line="130" column="17" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
       <jump line="122" column="4" filename="$USER_HOME$/work/file-generation-service/docker-compose.yml" />
       <jump line="19" column="6" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" />
       <jump line="25" column="16" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" />
@@ -310,7 +293,21 @@
       <jump line="161" column="0" filename="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" />
       <jump line="120" column="6" filename="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" />
       <jump line="115" column="17" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
-      <jump line="70" column="0" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="47" column="4" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="60" column="25" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="62" column="25" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="32" column="8" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="38" column="35" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="48" column="19" filename="/WorkersMaster.scala" />
+      <jump line="63" column="25" filename="/WorkersMaster.scala" />
+      <jump line="68" column="8" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="70" column="35" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="123" column="16" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="128" column="20" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="6" column="29" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="82" column="8" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="85" column="66" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="130" column="17" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
