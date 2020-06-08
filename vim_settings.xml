@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxiZmZCbG9ja0NvZGVjXD4=</entry>
         <entry encoding="base64">XDxhbXFwVmlydHVhbEhvc3RcPg==</entry>
         <entry encoding="base64">XDxhbXFwVG9waWNcPg==</entry>
         <entry encoding="base64">XDxBTVFQX1RPUElDX09QVElPTlw+</entry>
@@ -23,8 +22,9 @@
         <entry encoding="base64">XDxiaW5kaW5nc1w+</entry>
         <entry encoding="base64">XDxDbHVzdGVyUm91dGVyR3JvdXBcPg==</entry>
         <entry encoding="base64">XDxjbHVzdGVyR3JvdXBQcm9wc1w+</entry>
-        <entry encoding="base64">XDx3b3JrZXJSb3V0ZXJcPg==</entry>
         <entry encoding="base64">XDxwcm9kdWNlclw+</entry>
+        <entry>cluster</entry>
+        <entry encoding="base64">XDx3b3JrZXJSb3V0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,98 +146,71 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591291666209">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-testcontainers/pom.xml" timestamp="1591291843569">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="36" />
-        <mark key="." line="17" column="36" />
-        <mark key="^" line="13" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1591347382596">
-        <mark key="'" line="130" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/resources/fgs_conf.conf" timestamp="1591372053550">
+      <file name="/WorkersMaster.scala" timestamp="1591619866692" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/resources/fgs_conf.conf" timestamp="1591618402853">
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="41" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.apache.kafka/kafka-clients/srcs/kafka-clients-2.4.0-sources.jar!/org/apache/kafka/clients/NetworkClient.java" timestamp="1591614733457" />
-      <file name="$USER_HOME$/work/file-generation-service/docker-compose.yml" timestamp="1591367663571">
-        <mark key="'" line="82" column="4" />
-        <mark key="[" line="44" column="96" />
-        <mark key="]" line="44" column="96" />
-        <mark key="." line="44" column="96" />
-        <mark key="^" line="56" column="13" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" timestamp="1591619917199">
+        <mark key="'" line="129" column="6" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="104" column="15" />
+        <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/BcpToBffEventPayloadMapper.java" timestamp="1591291450787">
-        <mark key="[" line="10" column="45" />
-        <mark key="]" line="10" column="64" />
-        <mark key="." line="10" column="63" />
-        <mark key="^" line="10" column="64" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/ConsumersSupervisor.scala" timestamp="1591619781316">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="45" />
       </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" timestamp="1591614693631">
-        <mark key="[" line="127" column="13" />
-        <mark key="]" line="127" column="15" />
-        <mark key="." line="127" column="14" />
-        <mark key="^" line="127" column="15" />
-      </file>
-      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/ComputedImpedanceListPayloadMapperTest.java" timestamp="1591291624970">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
-      <file name="$USER_HOME$/perso/poc-testcontainers/src/test/java/com/oodrive/poc/demotestcontainers/CatDAOTest.java" timestamp="1591291875800">
-        <mark key="[" line="48" column="35" />
-        <mark key="]" line="49" column="36" />
-        <mark key="^" line="49" column="36" />
-        <mark key="." line="49" column="35" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" timestamp="1591353257114">
-        <mark key="[" line="72" column="8" />
-        <mark key="]" line="72" column="10" />
-        <mark key="^" line="72" column="10" />
-        <mark key="." line="72" column="9" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/WorkerNodeApp.scala" timestamp="1591353263632">
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="56" column="10" />
-        <mark key="^" line="56" column="10" />
-        <mark key="." line="56" column="9" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" timestamp="1591357870040">
-        <mark key="'" line="14" column="14" />
-      </file>
-      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/WearablesUsagePayloadMapperTest.java" timestamp="1591291236856">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="27" column="12" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/work/file-generation-service/docker/kafka/certs/create_certs.sh" timestamp="1591617913488">
+        <mark key="'" line="9" column="23" />
+        <mark key="[" line="62" column="28" />
+        <mark key="]" line="62" column="25" />
+        <mark key="^" line="62" column="25" />
+        <mark key="." line="62" column="24" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/org.apache.kafka/kafka-clients/srcs/kafka-clients-2.4.0-sources.jar!/org/apache/kafka/common/security/JaasUtils.java" timestamp="1591611137286">
         <mark key="'" line="45" column="47" />
         <mark key="[" line="30" column="49" />
         <mark key="]" line="30" column="69" />
       </file>
-      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/BcpToBffEventMapperIT.java" timestamp="1591291555503">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/work/file-generation-service/data/security/kafka.sasl.conf" timestamp="1591617882202" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/FGSApp.scala" timestamp="1591619661844">
+        <mark key="[" line="68" column="63" />
+        <mark key="]" line="68" column="63" />
+        <mark key="." line="68" column="63" />
+        <mark key="^" line="23" column="2" />
       </file>
-      <file name="/fragment.java" timestamp="1591291416809">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1591619884393">
+        <mark key="'" line="70" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/file-generation-service/docker/docker-compose.yml" timestamp="1591618238333" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/resources/node.consumer.conf" timestamp="1591618935331" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/WorkerNodeApp.scala" timestamp="1591619469225">
+        <mark key="[" line="39" column="59" />
+        <mark key="]" line="39" column="69" />
+        <mark key="^" line="39" column="69" />
+        <mark key="." line="39" column="68" />
+      </file>
+      <file name="/application.conf" timestamp="1591619911830">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="91" column="39" />
+      </file>
+      <file name="$USER_HOME$/work/file-generation-service/docker/Dockerfile" timestamp="1591620469447" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/ConsumersSupervisorApp.scala" timestamp="1591619447473">
+        <mark key="[" line="29" column="59" />
+        <mark key="]" line="29" column="69" />
+        <mark key="." line="29" column="68" />
+        <mark key="^" line="29" column="69" />
+      </file>
+      <file name="$USER_HOME$/work/file-generation-service/docker/Makefile" timestamp="1591620525854" />
+      <file name="$USER_HOME$/work/file-generation-service/JenkinsBuild" timestamp="1591620551392" />
+      <file name="$USER_HOME$/work/file-generation-service/build.sbt" timestamp="1591619027222">
+        <mark key="'" line="33" column="56" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="32" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
-      <jump line="206" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.3.RELEASE/spring-webflux-5.2.3.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
-      <jump line="12" column="12" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/client/DsComputeClientProperties.java" />
-      <jump line="94" column="36" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
-      <jump line="10" column="42" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/client/DsComputeClientConfiguration.java" />
-      <jump line="95" column="14" filename="$USER_HOME$/work/ecg/ds-compute/src/test/java/com/bioserenity/ds/compute/client/DsComputeClientTest.java" />
-      <jump line="151" column="4" filename="$USER_HOME$/work/ecg/ds-compute/src/test/java/com/bioserenity/ds/compute/client/DsComputeClientTest.java" />
       <jump line="25" column="29" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
       <jump line="92" column="78" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
       <jump line="93" column="138" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/KafkaSourceConsumerApp.scala" />
@@ -331,12 +304,19 @@
       <jump line="14" column="14" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" />
       <jump line="51" column="26" filename="$USER_HOME$/.ivy2/cache/org.apache.kafka/kafka-clients/srcs/kafka-clients-2.4.0-sources.jar!/org/apache/kafka/common/security/JaasUtils.java" />
       <jump line="45" column="47" filename="$USER_HOME$/.ivy2/cache/org.apache.kafka/kafka-clients/srcs/kafka-clients-2.4.0-sources.jar!/org/apache/kafka/common/security/JaasUtils.java" />
+      <jump line="9" column="23" filename="$USER_HOME$/work/file-generation-service/docker/kafka/certs/create_certs.sh" />
+      <jump line="89" column="0" filename="$USER_HOME$/work/file-generation-service/build.sbt" />
+      <jump line="33" column="56" filename="$USER_HOME$/work/file-generation-service/build.sbt" />
+      <jump line="161" column="0" filename="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" />
+      <jump line="120" column="6" filename="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" />
+      <jump line="115" column="17" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="70" column="0" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>zookeeper.sasl.client</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -345,37 +325,39 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9kdWNlclw+</text>
+        <text encoding="base64">XDx3b3JrZXJSb3V0ZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>zookeeper.sasl.client</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gIE11c3QgYmUgdGhlIHB1YmxpYyBJUAogIG5vZGUtaXAgPSAibG9jYWxob3N0IgogIG5vZGUtaXAgPSAkez9GR1NfQ0xVU1RFUl9OT0RFX0lQfQogIG5vZGUtcG9ydD0yNTUxCiAgbm9kZS1wb3J0ID0gJHs/RkdTX0NMVVNURVJfTk9ERV9QT1JUfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRkdTX0tBRktBX0JST0tFUjoga2Fma2ExOjkwOTIsa2Fma2EyOjkwOTIsa2Fma2EzOjkwOTIKICAgICAgRkdTX0tBRktBX0lOVEVSTkFMX0JST0tFUjoga2Fma2ExOjkwOTIsa2Fma2EyOjkwOTIsa2Fma2EzOjkwOTIK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICAqIENyZWF0ZSByb3V0ZWUgb2YgdGhlIHJvdXRlcnMgd2UgY2FuIGNhbGwKICAgICAgKi8KICAgIHZhbCBjbHVzdGVyR3JvdXBTZXR0aW5ncyA9CiAgICAgICAgQ2x1c3RlclJvdXRlckdyb3VwU2V0dGluZ3MoCiAgICAgICAgICAgIHRvdGFsSW5zdGFuY2VzID0gdG90YWxJbnN0YW5jZSwKICAgICAgICAgICAgcm91dGVlc1BhdGhzID0gcm91dGVlcywKICAgICAgICAgICAgYWxsb3dMb2NhbFJvdXRlZXMgPSB0cnVlLAogICAgICAgICAgICB1c2VSb2xlID0gbm9kZVJvbGUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRkdTX0tBRktBX0JST0tFUjoga2Fma2ExOjkwOTIsa2Fma2EyOjkwOTIsa2Fma2EzOjkwOTIKICAgICAgRkdTX0tBRktBX0lOVEVSTkFMX0JST0tFUjoga2Fma2ExOjkwOTIsa2Fma2EyOjkwOTIsa2Fma2EzOjkwOTIK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWN0b3JTeXN0ZW1Db25maWcgPQogICAgICAgICAgICAoQ29uZmlnRmFjdG9yeSBwYXJzZVJlc291cmNlcyB3b3JrZXJOb2RlQ29uZmlnKQogICAgICAgICAgICAgICAgLndpdGhGYWxsYmFjayhha2thQ29uZmlnKQogICAgICAgICAgICAgICAgLnJlc29sdmUoKQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRkdTX0tBRktBX0JST0tFUjoga2Fma2ExOjkwOTIsa2Fma2EyOjkwOTIsa2Fma2EzOjkwOTIKICAgICAgRkdTX0tBRktBX0lOVEVSTkFMX0JST0tFUjoga2Fma2ExOjkwOTIsa2Fma2EyOjkwOTIsa2Fma2EzOjkwOTIK</text>
+        <text encoding="base64">CiAgICB2YWwgV09SS0VSX05PREVfQ09ORiA9ICJub2RlLndvcmtlci5jb25mIgoKICAgIHZhbCBDTFVTVEVSX0NMSUVOVF9OT0RFID0gIm5vZGUuY29uc3VtZXIuY29uZiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIFpPT0tFRVBFUlMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAgemsxOiAmemsKICAgIGltYWdlOiBjb25mbHVlbnRpbmMvY3Atem9va2VlcGVyOjUuNC4xCiAgICBlbnZpcm9ubWVudDoKICAgICAgWk9PS0VFUEVSX1NFUlZFUl9JRDogMQogICAgICBaT09LRUVQRVJfQ0xJRU5UX1BPUlQ6IDIxODEKICAgICAgWk9PS0VFUEVSX1RJQ0tfVElNRTogMjAwMAogICAgICBaT09LRUVQRVJfSU5JVF9MSU1JVDogNQogICAgICBaT09LRUVQRVJfU1lOQ19MSU1JVDogMgogICAgICBaT09LRUVQRVJfU0VSVkVSUzogemsxOjI4ODg6Mzg4ODt6azI6Mjg4ODozODg4O3prMzoyODg4OjM4ODgKICAgIGNvbnRhaW5lcl9uYW1lOiB6azEKICAgIHBvcnRzOgogICAgICAtIDEyMTgxOjIxODEKICB6azI6CiAgICA8PDogKnprCiAgICBlbnZpcm9ubWVudDoKICAgICAgWk9PS0VFUEVSX1NFUlZFUl9JRDogMgogICAgICBaT09LRUVQRVJfQ0xJRU5UX1BPUlQ6IDIxODEKICAgICAgWk9PS0VFUEVSX1RJQ0tfVElNRTogMjAwMAogICAgICBaT09LRUVQRVJfSU5JVF9MSU1JVDogNQogICAgICBaT09LRUVQRVJfU1lOQ19MSU1JVDogMgogICAgICBaT09LRUVQRVJfU0VSVkVSUzogemsxOjI4ODg6Mzg4ODt6azI6Mjg4ODozODg4O3prMzoyODg4OjM4ODgKICAgIGNvbnRhaW5lcl9uYW1lOiB6azIKICAgIHBvcnRzOgogICAgICAtIDIyMTgxOjIxODEKICB6azM6CiAgICA8PDogKnprCiAgICBlbnZpcm9ubWVudDoKICAgICAgWk9PS0VFUEVSX1NFUlZFUl9JRDogMwogICAgICBaT09LRUVQRVJfQ0xJRU5UX1BPUlQ6IDIxODEKICAgICAgWk9PS0VFUEVSX1RJQ0tfVElNRTogMjAwMAogICAgICBaT09LRUVQRVJfSU5JVF9MSU1JVDogNQogICAgICBaT09LRUVQRVJfU1lOQ19MSU1JVDogMgogICAgICBaT09LRUVQRVJfU0VSVkVSUzogemsxOjI4ODg6Mzg4ODt6azI6Mjg4ODozODg4O3prMzoyODg4OjM4ODgKICAgIGNvbnRhaW5lcl9uYW1lOiB6azMKICAgIHBvcnRzOgogICAgICAtIDMyMTgxOjIxODEKICAjIEtBRktBUyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAga2Fma2ExOiAma2Fma2EKICAgIGltYWdlOiBjb25mbHVlbnRpbmMvY3Ata2Fma2E6NS40LjEKICAgIGRlcGVuZHNfb246CiAgICAgIC0gemsxCiAgICAgIC0gemsyCiAgICAgIC0gemszCiAgICBlbnZpcm9ubWVudDoKICAgICAgS0FGS0FfQlJPS0VSX0lEOiAxCiAgICAgIEtBRktBX1pPT0tFRVBFUl9DT05ORUNUOiB6azE6MjE4MSx6azI6MjE4MSx6azM6MjE4MQogICAgICBLQUZLQV9BRFZFUlRJU0VEX0xJU1RFTkVSUzogUExBSU5URVhUOi8va2Fma2ExOjkwOTIKICAgIGNvbnRhaW5lcl9uYW1lOiBrYWZrYTEKICAgIHBvcnRzOgogICAgICAtIDE5MDkyOjkwOTIKICBrYWZrYTI6CiAgICA8PDogKmthZmthCiAgICBlbnZpcm9ubWVudDoKICAgICAgS0FGS0FfQlJPS0VSX0lEOiAyCiAgICAgIEtBRktBX1pPT0tFRVBFUl9DT05ORUNUOiB6azE6MjE4MSx6azI6MjE4MSx6azM6MjE4MQogICAgICBLQUZLQV9BRFZFUlRJU0VEX0xJU1RFTkVSUzogUExBSU5URVhUOi8va2Fma2EyOjkwOTIKICAgIGNvbnRhaW5lcl9uYW1lOiBrYWZrYTIKICAgIHBvcnRzOgogICAgICAtIDI5MDkyOjkwOTIKICBrYWZrYTM6CiAgICA8PDogKmthZmthCiAgICBlbnZpcm9ubWVudDoKICAgICAgS0FGS0FfQlJPS0VSX0lEOiAzCiAgICAgIEtBRktBX1pPT0tFRVBFUl9DT05ORUNUOiB6azE6MjE4MSx6azI6MjE4MSx6azM6MjE4MQogICAgICBLQUZLQV9BRFZFUlRJU0VEX0xJU1RFTkVSUzogUExBSU5URVhUOi8va2Fma2EzOjkwOTIKICAgIGNvbnRhaW5lcl9uYW1lOiBrYWZrYTMKICAgIHBvcnRzOgogICAgICAtIDM5MDkyOjkwOTIK</text>
+        <text encoding="base64">Ly8gIE11c3QgYmUgdGhlIHB1YmxpYyBJUAogIG5vZGUtaXAgPSAibG9jYWxob3N0IgogIG5vZGUtaXAgPSAkez9GR1NfQ0xVU1RFUl9OT0RFX0lQfQogIG5vZGUtcG9ydD0yNTUxCiAgbm9kZS1wb3J0ID0gJHs/RkdTX0NMVVNURVJfTk9ERV9QT1JUfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRkdTX0ZJUlNUX1NFRURfTk9ERV9QT1JUOiAyNTUxCiAgICAgIEZHU19GSVJTVF9TRUVEX05PREVfSVA6IHdvcmtlcjEKICAgICAgRkdTX1NFQ09ORF9TRUVEX05PREVfUE9SVDogMjU1MgogICAgICBGR1NfU0VDT05EX1NFRURfTk9ERV9JUDogd29ya2VyMgo=</text>
+        <text encoding="base64">ICAjIENob29zZSB0aGUgc2FtZSBuZWVkIHBvcnQgZm9yIHRoZSBzZWVkIG5vZGVzLiBTZWVkIG5vZGVzIG11c3QgYmUgb24KICAjIGRpZmZlcmVudCBtYWNoaW5lcy4KICBmc3Qtc2VlZC1ub2RlLXBvcnQgPSAyNTUxCiAgZnN0LXNlZWQtbm9kZS1wb3J0ID0gJHs/RkdTX0ZJUlNUX1NFRURfTk9ERV9QT1JUfQoKICBzbmQtc2VlZC1ub2RlLXBvcnQgPSAyNTUyCiAgc25kLXNlZWQtbm9kZS1wb3J0ID0gJHs/RkdTX1NFQ09ORF9TRUVEX05PREVfUE9SVH0KCiAgZnN0LXNlZWQtbm9kZS1pcD0ibG9jYWxob3N0IgogIGZzdC1zZWVkLW5vZGUtaXA9JHs/RkdTX0ZJUlNUX1NFRURfTk9ERV9JUH0KCgogIHNuZC1zZWVkLW5vZGUtaXA9ImxvY2FsaG9zdCIKICBzbmQtc2VlZC1ub2RlLWlwPSR7P0ZHU19TRUNPTkRfU0VFRF9OT0RFX0lQfQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVudmlyb25tZW50OgogICAgICBGR1NfS0FGS0FfQlJPS0VSOiBrYWZrYTE6OTA5MixrYWZrYTI6OTA5MixrYWZrYTM6OTA5MgogICAgICBGR1NfUkVESVNfTUFTVEVSX0hPU1ROQU1FOiByZWRpcwogICAgICBGR1NfUkVESVNfU0xBVkVTX0hPU1ROQU1FOiByZWRpcwogICAgICBGR1NfQ0xVU1RFUl9OT0RFX1BPUlQ6IDI1NTEK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWN0b3JTeXN0ZW1Db25maWcgPQogICAgICAgICAgICAoQ29uZmlnRmFjdG9yeSBwYXJzZVJlc291cmNlcyBjb25zdW1lck5vZGVDb25maWcpCiAgICAgICAgICAgICAgICAud2l0aEZhbGxiYWNrKGFra2FDb25maWcpCiAgICAgICAgICAgICAgICAucmVzb2x2ZQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB3b3JrZXIwMjoKICAgIDw8OiAqd29ya2VyCiAgd29ya2VyMDM6CiAgICA8PDogKndvcmtlcgo=</text>
+      <register name="7" type="4">
+        <text>consumerNodeConfig: String,
+                           clusterNamePath: String</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBrYWZrYTM6CiAgICBpbWFnZTogY29uZmx1ZW50aW5jL2NwLWthZmthOiR7Q09ORkxVRU5UX1RBR30KICAgIGRlcGVuZHNfb246CiAgICAgIC0gemsxCiAgICAgIC0gemsyCiAgICAgIC0gemszCiAgICBlbnZpcm9ubWVudDoKICAgICAgS0FGS0FfQlJPS0VSX0lEOiAzCiAgICAgIEtBRktBX1pPT0tFRVBFUl9DT05ORUNUOiB6azE6MjE4MSx6azI6MjE4MSx6azM6MjE4MQogICAgICBLQUZLQV9BRFZFUlRJU0VEX0xJU1RFTkVSUzogUExBSU5URVhUOi8va2Fma2EzOjkwOTIK</text>
+      <register name="8" type="4">
+        <text>workerNodeConfig: String,
+                          clusterNamePath: String</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiBjb25mbHVlbnRpbmMvY3Ata2Fma2E6JHtDT05GTFVFTlRfVEFHfQogICAgZGVwZW5kc19vbjoKICAgICAgLSB6azEKICAgICAgLSB6azIKICAgICAgLSB6azMK</text>
+        <text encoding="base64">CiAgICB2YWwgV09SS0VSX05PREVfQ09ORiA9ICJub2RlLndvcmtlci5jb25mIgoKICAgIHZhbCBDTFVTVEVSX0NMSUVOVF9OT0RFID0gIm5vZGUuY29uc3VtZXIuY29uZiIK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -384,9 +366,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcm9kdWNlclw+</last-search>
+      <last-search encoding="base64">XDx3b3JrZXJSb3V0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9kdWNlclw+</last-pattern>
+      <last-pattern encoding="base64">XDx3b3JrZXJSb3V0ZXJcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
