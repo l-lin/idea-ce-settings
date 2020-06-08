@@ -146,11 +146,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1591291666209">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/perso/poc-testcontainers/pom.xml" timestamp="1591291843569">
         <mark key="[" line="17" column="35" />
         <mark key="]" line="17" column="36" />
         <mark key="." line="17" column="36" />
         <mark key="^" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1591347382596">
+        <mark key="'" line="130" column="17" />
       </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/resources/fgs_conf.conf" timestamp="1591372053550">
         <mark key="[" line="19" column="17" />
@@ -169,11 +178,16 @@
         <mark key="." line="10" column="63" />
         <mark key="^" line="10" column="64" />
       </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" timestamp="1591373724245">
+      <file name="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" timestamp="1591610830820">
         <mark key="[" line="127" column="13" />
         <mark key="]" line="127" column="15" />
         <mark key="." line="127" column="14" />
         <mark key="^" line="127" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/ComputedImpedanceListPayloadMapperTest.java" timestamp="1591291624970">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/perso/poc-testcontainers/src/test/java/com/oodrive/poc/demotestcontainers/CatDAOTest.java" timestamp="1591291875800">
         <mark key="[" line="48" column="35" />
@@ -187,45 +201,29 @@
         <mark key="^" line="72" column="10" />
         <mark key="." line="72" column="9" />
       </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" timestamp="1591357870040">
-        <mark key="'" line="14" column="14" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/README.md" timestamp="1591366783326" />
-      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/BcpToBffEventMapperIT.java" timestamp="1591291555503">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/data/security/kafka.sasl.conf" timestamp="1591367753771" />
-      <file name="/Dummy.txt" timestamp="1591291666209">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1591347382596">
-        <mark key="'" line="130" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/docker/docker-compose.yml" timestamp="1591369791116">
-        <mark key="]" line="80" column="1" />
-        <mark key="^" line="80" column="1" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/ComputedImpedanceListPayloadMapperTest.java" timestamp="1591291624970">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/WorkerNodeApp.scala" timestamp="1591353263632">
         <mark key="[" line="56" column="8" />
         <mark key="]" line="56" column="10" />
         <mark key="^" line="56" column="10" />
         <mark key="." line="56" column="9" />
       </file>
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" timestamp="1591357870040">
+        <mark key="'" line="14" column="14" />
+      </file>
       <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/WearablesUsagePayloadMapperTest.java" timestamp="1591291236856">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="27" column="12" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.kafka/kafka-clients/srcs/kafka-clients-2.4.0-sources.jar!/org/apache/kafka/common/security/JaasUtils.java" timestamp="1591611137286">
+        <mark key="'" line="45" column="47" />
+        <mark key="[" line="30" column="49" />
+        <mark key="]" line="30" column="69" />
+      </file>
+      <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/BcpToBffEventMapperIT.java" timestamp="1591291555503">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/EndUploadPayloadMapperTest.java" timestamp="1591290983752">
         <mark key="[" line="29" column="0" />
@@ -238,8 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="58" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/service/SQSQueueService.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application-local.properties" />
       <jump line="26" column="32" filename="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" />
       <jump line="206" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.3.RELEASE/spring-webflux-5.2.3.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
       <jump line="12" column="12" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/client/DsComputeClientProperties.java" />
@@ -338,12 +334,14 @@
       <jump line="63" column="8" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" />
       <jump line="8" column="32" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" />
       <jump line="14" column="14" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" />
+      <jump line="51" column="26" filename="$USER_HOME$/.ivy2/cache/org.apache.kafka/kafka-clients/srcs/kafka-clients-2.4.0-sources.jar!/org/apache/kafka/common/security/JaasUtils.java" />
+      <jump line="45" column="47" filename="$USER_HOME$/.ivy2/cache/org.apache.kafka/kafka-clients/srcs/kafka-clients-2.4.0-sources.jar!/org/apache/kafka/common/security/JaasUtils.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>zookeeper.sasl.client</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -355,7 +353,7 @@
         <text encoding="base64">XDxwcm9kdWNlclw+</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0t</text>
+        <text>zookeeper.sasl.client</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgRkdTX0tBRktBX0JST0tFUjoga2Fma2ExOjkwOTIsa2Fma2EyOjkwOTIsa2Fma2EzOjkwOTIKICAgICAgRkdTX0tBRktBX0lOVEVSTkFMX0JST0tFUjoga2Fma2ExOjkwOTIsa2Fma2EyOjkwOTIsa2Fma2EzOjkwOTIK</text>
