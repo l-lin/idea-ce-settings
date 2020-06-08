@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxEb2NrZXJQbHVnaW5cPg==</entry>
         <entry encoding="base64">XDxDbHVzdGVyUm91dGVyR3JvdXBTZXR0aW5nc1w+</entry>
         <entry encoding="base64">XDxXb3JrZXJzTWFzdGVyXD4=</entry>
         <entry encoding="base64">XDx3b3JrZXJNYXN0ZXJQYXRoXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjbHVzdGVyR3JvdXBQcm9wc1w+</entry>
         <entry encoding="base64">XDx3b3JrZXJSb3V0ZXJcPg==</entry>
         <entry encoding="base64">XDxrYWZrYUpvYlByb2R1Y2VyXD4=</entry>
+        <entry encoding="base64">XDxiZmZSZWNvcmRzQ3JlYXRlZEJ5UmVjb3JkS2V5XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -156,6 +156,7 @@
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="41" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-cluster_2.11/srcs/akka-cluster_2.11-2.5.7-sources.jar!/akka/cluster/routing/ClusterRouterConfig.scala" timestamp="1591625146264" />
       <file name="$USER_HOME$/work/file-generation-service/src/test/scala/com/bioserenity/fgs/Test_Upload_Job_Searcher.scala" timestamp="1591623232206">
         <mark key="[" line="30" column="84" />
         <mark key="]" line="30" column="84" />
@@ -187,8 +188,8 @@
         <mark key="." line="68" column="63" />
         <mark key="^" line="23" column="2" />
       </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1591625054941">
-        <mark key="'" line="114" column="17" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1591626218398">
+        <mark key="'" line="319" column="21" />
         <mark key="k" line="6" column="28" />
         <mark key="[" line="40" column="32" />
         <mark key="]" line="40" column="32" />
@@ -196,17 +197,17 @@
         <mark key="^" line="37" column="48" />
       </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/WorkerNodeApp.scala" timestamp="1591624625473">
-        <mark key="[" line="39" column="59" />
-        <mark key="]" line="39" column="69" />
-        <mark key="^" line="39" column="69" />
-        <mark key="." line="39" column="68" />
+        <mark key="[" line="31" column="59" />
+        <mark key="]" line="31" column="69" />
+        <mark key="^" line="31" column="69" />
+        <mark key="." line="31" column="68" />
       </file>
       <file name="$USER_HOME$/work/file-generation-service/src/test/scala/com/bioserenity/fgs/Test_HR_Job_Searcher.scala" timestamp="1591623227945">
         <mark key="[" line="22" column="80" />
         <mark key="]" line="22" column="80" />
         <mark key="." line="22" column="80" />
       </file>
-      <file name="/application.conf" timestamp="1591619911830">
+      <file name="/application.conf" timestamp="1591625256797">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="91" column="39" />
       </file>
@@ -217,11 +218,6 @@
       <file name="$USER_HOME$/work/file-generation-service/build.sbt" timestamp="1591621750371" />
     </filemarks>
     <jumps>
-      <jump line="198" column="63" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="274" column="67" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="56" column="16" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="85" column="8" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="129" column="50" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="130" column="28" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="32" column="19" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" />
       <jump line="18" column="52" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
@@ -317,6 +313,11 @@
       <jump line="38" column="33" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/MelecBufferManager.scala" />
       <jump line="44" column="23" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/MelecBufferManager.scala" />
       <jump line="429" column="187" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/MelecBufferManager.scala" />
+      <jump line="351" column="8" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="460" column="24" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="306" column="20" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="318" column="21" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="319" column="21" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,7 +332,7 @@
         <text>_cluster</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxrYWZrYUpvYlByb2R1Y2VyXD4=</text>
+        <text encoding="base64">XDxiZmZSZWNvcmRzQ3JlYXRlZEJ5UmVjb3JkS2V5XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gIE11c3QgYmUgdGhlIHB1YmxpYyBJUAogIG5vZGUtaXAgPSAibG9jYWxob3N0IgogIG5vZGUtaXAgPSAkez9GR1NfQ0xVU1RFUl9OT0RFX0lQfQogIG5vZGUtcG9ydD0yNTUxCiAgbm9kZS1wb3J0ID0gJHs/RkdTX0NMVVNURVJfTk9ERV9QT1JUfQo=</text>
@@ -371,9 +372,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxrYWZrYUpvYlByb2R1Y2VyXD4=</last-search>
+      <last-search encoding="base64">XDxiZmZSZWNvcmRzQ3JlYXRlZEJ5UmVjb3JkS2V5XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxrYWZrYUpvYlByb2R1Y2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiZmZSZWNvcmRzQ3JlYXRlZEJ5UmVjb3JkS2V5XD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
