@@ -178,13 +178,10 @@
         <mark key="." line="72" column="9" />
       </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/BufferManager.scala" timestamp="1591625023424" />
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/ConsumersSupervisor.scala" timestamp="1591619781316">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="45" />
-      </file>
+      <file name="$USER_HOME$/work/file-generation-service/README.md" timestamp="1591629534346" />
       <file name="/fgs_conf.conf" timestamp="1591628132798" />
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1591627356072">
-        <mark key="'" line="319" column="21" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" timestamp="1591629622894">
+        <mark key="'" line="312" column="66" />
         <mark key="k" line="6" column="28" />
         <mark key="[" line="40" column="32" />
         <mark key="]" line="40" column="32" />
@@ -213,7 +210,6 @@
       <file name="$USER_HOME$/work/file-generation-service/build.sbt" timestamp="1591621750371" />
     </filemarks>
     <jumps>
-      <jump line="130" column="28" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="32" column="19" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" />
       <jump line="18" column="52" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
       <jump line="49" column="8" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
@@ -313,6 +309,7 @@
       <jump line="306" column="20" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
       <jump line="318" column="21" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
       <jump line="319" column="21" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
+      <jump line="312" column="66" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/WorkersMaster.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
