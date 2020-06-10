@@ -163,6 +163,12 @@
         <mark key="." line="44" column="96" />
         <mark key="^" line="56" column="13" />
       </file>
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Resources.java" timestamp="1591809057017">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="21" />
+        <mark key="^" line="17" column="22" />
+      </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" timestamp="1591702275279">
         <mark key="[" line="127" column="13" />
         <mark key="]" line="127" column="15" />
@@ -200,8 +206,8 @@
         <mark key="^" line="80" column="1" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591806427271">
-        <mark key="'" line="58" column="19" />
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591809048717">
+        <mark key="'" line="58" column="17" />
         <mark key="[" line="58" column="0" />
         <mark key="]" line="73" column="5" />
         <mark key="." line="27" column="0" />
@@ -225,11 +231,11 @@
         <mark key="[" line="71" column="0" />
         <mark key="]" line="87" column="21" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591806765015">
-        <mark key="[" line="57" column="56" />
-        <mark key="]" line="58" column="75" />
-        <mark key="." line="58" column="74" />
-        <mark key="^" line="58" column="75" />
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591808541057">
+        <mark key="[" line="58" column="56" />
+        <mark key="]" line="68" column="47" />
+        <mark key="." line="68" column="46" />
+        <mark key="^" line="68" column="47" />
       </file>
       <file name="/Clipboard.txt" timestamp="1591800840855">
         <mark key="[" line="0" column="0" />
@@ -335,25 +341,25 @@
       <jump line="57" column="203" filename="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" />
       <jump line="14" column="13" filename="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" />
       <jump line="27" column="0" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
-      <jump line="58" column="19" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
+      <jump line="58" column="17" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>pmd</text>
+        <text>twoResources</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>pmd</text>
+        <text>twoResources</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9KRUNUX0lEXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHZpb2xhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJzZXI+UE1EPC9wYXJzZXI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVwb3J0ZXI+UE1EPC9yZXBvcnRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmb2xkZXI+JHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX08L2ZvbGRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXR0ZXJuPi4qL3BtZFwueG1sJDwvcGF0dGVybj4KICAgICAgICAgICAgICAgICAgICAgICAgPC92aW9sYXRpb24+Cg==</text>
+        <text encoding="base64">ICAgIHZvaWQgdHdvUmVzb3VyY2VzKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICBGaWxlSW5wdXRTdHJlYW0gZmlzID0gbnVsbDsKICAgICAgICBGaWxlT3V0cHV0U3RyZWFtIGZvcyA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgZmlzID0gbmV3IEZpbGVJbnB1dFN0cmVhbShuZXcgRmlsZSgid2hhdGV2ZXIudHh0IikpOwogICAgICAgICAgICBmb3MgPSBuZXcgRmlsZU91dHB1dFN0cmVhbShuZXcgRmlsZSgiZXZlcndoYXQudHh0IikpOwogICAgICAgICAgICBmb3Mud3JpdGUoZmlzLnJlYWQoKSk7CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgaWYgKGZpcyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBmaXMuY2xvc2UoKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoZm9zICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGZvcy5jbG9zZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="1" type="8">
         <text>//
@@ -404,19 +410,7 @@
 //
 //</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+My4xMy4wPC9tYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+Cg==</text>
-      </register>
-      <register name="3" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
-      </register>
-      <register name="6" type="8">
+      <register name="2" type="8">
         <text>//
 //
 //
@@ -465,14 +459,72 @@
 //
 //</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLXZpb2xhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJzZXI+UE1EPC9wYXJzZXI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVwb3J0ZXI+UE1EPC9yZXBvcnRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmb2xkZXI+JHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX08L2ZvbGRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXR0ZXJuPi4qL3BtZC8uKlwueG1sJDwvcGF0dGVybj4KICAgICAgICAgICAgICAgICAgICAgICAgPC92aW9sYXRpb24tLT4K</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+My4xMy4wPC9tYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+Cg==</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
+      </register>
+      <register name="7" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEJvb2xlYW4gZm9vYmFyKCkgewogICAgICAgIE51bWJlcltdIG51bWJlcnMgPSBuZXcgSW50ZWdlclsxMF07CiAgICAgICAgbnVtYmVyc1swXSA9IDEuMDsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLXZpb2xhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJzZXI+UE1EPC9wYXJzZXI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVwb3J0ZXI+UE1EPC9yZXBvcnRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmb2xkZXI+JHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX08L2ZvbGRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXR0ZXJuPi4qL3BtZC8uKlwueG1sJDwvcGF0dGVybj4KICAgICAgICAgICAgICAgICAgICAgICAgPC92aW9sYXRpb24tLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmluZHNlY2J1Z3MtcGx1Z2luLnZlcnNpb24+MS4xMC4xPC9maW5kc2VjYnVncy1wbHVnaW4udmVyc2lvbj4KICAgICAgICA8c3BvdGJ1Z3MtbWF2ZW4tcGx1Z2luLnZlcnNpb24+NC4wLjA8L3Nwb3RidWdzLW1hdmVuLXBsdWdpbi52ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIEJvb2xlYW4gZm9vYmFyKCkgewogICAgICAgIE51bWJlcltdIG51bWJlcnMgPSBuZXcgSW50ZWdlclsxMF07CiAgICAgICAgbnVtYmVyc1swXSA9IDEuMDsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
