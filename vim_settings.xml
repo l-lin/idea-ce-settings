@@ -146,9 +146,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1591798498147">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="28" />
+        <mark key="." line="0" column="28" />
+      </file>
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Pointers.java" timestamp="1591806291112">
+        <mark key="^" line="15" column="4" />
+      </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/resources/fgs_conf.conf" timestamp="1591372053550">
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="41" />
+      </file>
+      <file name="$USER_HOME$/work/file-generation-service/docker/docker-compose.yml" timestamp="1591369791116">
+        <mark key="]" line="80" column="1" />
+        <mark key="^" line="80" column="1" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/DBConnection.java" timestamp="1591779762782">
         <mark key="[" line="6" column="30" />
@@ -163,6 +177,11 @@
         <mark key="." line="44" column="96" />
         <mark key="^" line="56" column="13" />
       </file>
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591868434093">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Resources.java" timestamp="1591809057017">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="22" />
@@ -175,49 +194,21 @@
         <mark key="." line="127" column="14" />
         <mark key="^" line="127" column="15" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" timestamp="1591807223750">
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" timestamp="1591868411835">
         <mark key="'" line="35" column="58" />
-        <mark key="[" line="104" column="40" />
-        <mark key="]" line="104" column="43" />
-        <mark key="." line="104" column="42" />
-        <mark key="^" line="104" column="43" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" timestamp="1591357870040">
-        <mark key="'" line="14" column="14" />
-      </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/reports/findbugs/main.xml" timestamp="1591802301706">
-        <mark key="'" line="245" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="127" column="0" />
-        <mark key="." line="126" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591798498147">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
-      </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Pointers.java" timestamp="1591806291112">
-        <mark key="^" line="15" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/docker/docker-compose.yml" timestamp="1591369791116">
-        <mark key="]" line="80" column="1" />
-        <mark key="^" line="80" column="1" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591811782666">
-        <mark key="'" line="58" column="17" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="73" column="5" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="2" />
+        <mark key="[" line="91" column="38" />
+        <mark key="]" line="91" column="43" />
+        <mark key="." line="91" column="42" />
+        <mark key="^" line="91" column="43" />
       </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/WorkerNodeApp.scala" timestamp="1591353263632">
         <mark key="[" line="56" column="8" />
         <mark key="]" line="56" column="10" />
         <mark key="^" line="56" column="10" />
         <mark key="." line="56" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" timestamp="1591357870040">
+        <mark key="'" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1591713068837">
         <mark key="'" line="9" column="0" />
@@ -226,16 +217,22 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="11" column="53" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/target/spotbugsXml.xml" timestamp="1591802810026" />
       <file name="/pom.xml" timestamp="1591800859775">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="87" column="21" />
       </file>
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/reports/findbugs/main.xml" timestamp="1591802301706">
+        <mark key="'" line="245" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="127" column="0" />
+        <mark key="." line="126" column="16" />
+      </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591808541057">
-        <mark key="[" line="58" column="56" />
-        <mark key="]" line="68" column="47" />
-        <mark key="." line="68" column="46" />
-        <mark key="^" line="68" column="47" />
+        <mark key="[" line="61" column="56" />
+        <mark key="]" line="71" column="47" />
+        <mark key="." line="71" column="46" />
+        <mark key="^" line="71" column="47" />
       </file>
       <file name="/Clipboard.txt" timestamp="1591800840855">
         <mark key="[" line="0" column="0" />
@@ -346,14 +343,60 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>twoResources</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>twoResources</text>
+        <text>Findbugs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9KRUNUX0lEXD4=</text>
@@ -459,19 +502,7 @@
 //
 //</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+My4xMy4wPC9tYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+Cg==</text>
-      </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
-      </register>
-      <register name="7" type="8">
+      <register name="3" type="8">
         <text>//
 //
 //
@@ -520,11 +551,69 @@
 //
 //</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLXZpb2xhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJzZXI+UE1EPC9wYXJzZXI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVwb3J0ZXI+UE1EPC9yZXBvcnRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmb2xkZXI+JHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX08L2ZvbGRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXR0ZXJuPi4qL3BtZC8uKlwueG1sJDwvcGF0dGVybj4KICAgICAgICAgICAgICAgICAgICAgICAgPC92aW9sYXRpb24tLT4K</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+My4xMy4wPC9tYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+Cg==</text>
+      </register>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
+      </register>
+      <register name="8" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEJvb2xlYW4gZm9vYmFyKCkgewogICAgICAgIE51bWJlcltdIG51bWJlcnMgPSBuZXcgSW50ZWdlclsxMF07CiAgICAgICAgbnVtYmVyc1swXSA9IDEuMDsKICAgICAgICByZXR1cm4gbnVsbDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLXZpb2xhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJzZXI+UE1EPC9wYXJzZXI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVwb3J0ZXI+UE1EPC9yZXBvcnRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmb2xkZXI+JHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX08L2ZvbGRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXR0ZXJuPi4qL3BtZC8uKlwueG1sJDwvcGF0dGVybj4KICAgICAgICAgICAgICAgICAgICAgICAgPC92aW9sYXRpb24tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
