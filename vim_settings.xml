@@ -147,6 +147,17 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-entrypoint.sh" timestamp="1591887932291" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.7.RELEASE/spring-boot-starter-parent-2.2.7.RELEASE.pom" timestamp="1591887274284" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" timestamp="1591890501512">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/src/main/resources/application-node-streaming-batch-0.yml" timestamp="1591881222314">
+        <mark key="'" line="52" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="52" column="47" />
+      </file>
       <file name="$USER_HOME$/work/bridge-mqtt-kafka/src/main/resources/application-foobar.yml" timestamp="1591881227827">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -164,27 +175,22 @@
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" timestamp="1591887933535">
         <mark key="'" line="23" column="12" />
       </file>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/.gitignore" timestamp="1591890196655">
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.4.0/kafka-clients-2.4.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" timestamp="1591888164040" />
+      <file name="/" timestamp="1591890084293">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/resources/application.yml" timestamp="1591881186707">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="48" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar!/com/rabbitmq/client/Channel.java" timestamp="1591880812469">
-        <mark key="[" line="236" column="5" />
-        <mark key="]" line="236" column="5" />
-        <mark key="^" line="236" column="5" />
-        <mark key="." line="236" column="4" />
-      </file>
       <file name="$USER_HOME$/work/bridge-mqtt-kafka/pom.xml" timestamp="1591887001934" />
       <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1591889100143" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.7.RELEASE/spring-boot-starter-parent-2.2.7.RELEASE.pom" timestamp="1591887274284" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.7.RELEASE/spring-boot-dependencies-2.2.7.RELEASE.pom" timestamp="1591887285050" />
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" timestamp="1591889147465" />
-      <file name="$USER_HOME$/work/bridge-mqtt-kafka/src/main/resources/application-node-streaming-batch-0.yml" timestamp="1591881222314">
-        <mark key="'" line="52" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="52" column="47" />
-      </file>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/Jenkinsfile" timestamp="1591890519502" />
       <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591888666445">
         <mark key="[" line="56" column="210" />
         <mark key="]" line="56" column="206" />
@@ -298,13 +304,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Name</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Name</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYlByb2R1Y2Vyc1w+</text>
