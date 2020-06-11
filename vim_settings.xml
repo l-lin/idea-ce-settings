@@ -146,24 +146,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-entrypoint.sh" timestamp="1591887932291" />
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/RecordMessage.java" timestamp="1591892562387">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="6" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.7.RELEASE/spring-boot-starter-parent-2.2.7.RELEASE.pom" timestamp="1591887274284" />
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" timestamp="1591892578987">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-      </file>
-      <file name="$USER_HOME$/work/bridge-mqtt-kafka/src/main/resources/application-node-streaming-batch-0.yml" timestamp="1591881222314">
-        <mark key="'" line="52" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="52" column="47" />
-      </file>
       <file name="$USER_HOME$/work/bridge-mqtt-kafka/src/main/resources/application-foobar.yml" timestamp="1591881227827">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -176,11 +158,12 @@
         <mark key="^" line="38" column="7" />
         <mark key="." line="38" column="6" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591888307069">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591904382879">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="2" />
       </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" timestamp="1591887933535">
         <mark key="'" line="23" column="12" />
@@ -192,14 +175,25 @@
         <mark key="]" line="32" column="0" />
         <mark key="^" line="32" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.4.0/kafka-clients-2.4.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" timestamp="1591888164040" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/RecordMessage.java" timestamp="1591892562387">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="6" />
+      </file>
       <file name="/" timestamp="1591890084293">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/bridge-mqtt-kafka/pom.xml" timestamp="1591887001934" />
-      <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1591889100143" />
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.7.RELEASE/spring-boot-dependencies-2.2.7.RELEASE.pom" timestamp="1591887285050" />
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/Jenkinsfile" timestamp="1591890519502" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" timestamp="1591892578987">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/src/main/resources/application-node-streaming-batch-0.yml" timestamp="1591881222314">
+        <mark key="'" line="52" column="20" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="52" column="47" />
+      </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591888666445">
         <mark key="[" line="56" column="210" />
         <mark key="]" line="56" column="206" />
@@ -208,7 +202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="52" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
       <jump line="49" column="8" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
       <jump line="114" column="8" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
       <jump line="98" column="0" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
@@ -308,18 +301,19 @@
       <jump line="42" column="29" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="160" column="35" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="178" column="8" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="15" column="4" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>/</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuYk1lc3NhZ2VzXD4=</text>
