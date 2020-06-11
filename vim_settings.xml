@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbXFwVmlydHVhbEhvc3RcPg==</entry>
-        <entry encoding="base64">XDxhbXFwVG9waWNcPg==</entry>
         <entry encoding="base64">XDxBTVFQX1RPUElDX09QVElPTlw+</entry>
         <entry encoding="base64">XDxzaGFyZWRRdWV1ZVw+</entry>
         <entry encoding="base64">XDxwcm9kdWNpbmdRdWV1ZXNcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDx3b3JrZXJSb3V0ZXJcPg==</entry>
         <entry encoding="base64">XDxwcm9kdWNlclw+</entry>
         <entry encoding="base64">XDxQUk9KRUNUX0lEXD4=</entry>
+        <entry encoding="base64">XDxiYXRjaFNpemVcPg==</entry>
+        <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,6 +146,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Resources.java" timestamp="1591809057017">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="21" />
+        <mark key="^" line="17" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" timestamp="1591878665699">
+        <mark key="'" line="35" column="58" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/src/main/java/com/bioserenity/bridge/worker/Worker.java" timestamp="1591879219549" />
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/reports/findbugs/main.xml" timestamp="1591802301706">
+        <mark key="'" line="245" column="16" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="^" line="127" column="0" />
+        <mark key="." line="126" column="16" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591798498147">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -161,27 +181,8 @@
       <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Pointers.java" timestamp="1591806291112">
         <mark key="^" line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/resources/fgs_conf.conf" timestamp="1591372053550">
-        <mark key="[" line="19" column="17" />
-        <mark key="]" line="19" column="41" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/docker/docker-compose.yml" timestamp="1591369791116">
-        <mark key="]" line="80" column="1" />
-        <mark key="^" line="80" column="1" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/DBConnection.java" timestamp="1591779762782">
-        <mark key="[" line="6" column="30" />
-        <mark key="]" line="6" column="35" />
-        <mark key="^" line="6" column="35" />
-        <mark key="." line="6" column="34" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/docker-compose.yml" timestamp="1591367663571">
-        <mark key="'" line="82" column="4" />
-        <mark key="[" line="44" column="96" />
-        <mark key="]" line="44" column="96" />
-        <mark key="." line="44" column="96" />
-        <mark key="^" line="56" column="13" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" timestamp="1591879806242">
+        <mark key="'" line="247" column="52" />
       </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591877328829">
         <mark key="'" line="27" column="0" />
@@ -189,41 +190,12 @@
         <mark key="]" line="21" column="34" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Resources.java" timestamp="1591809057017">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="21" />
-        <mark key="^" line="17" column="22" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/resources/application.conf" timestamp="1591702275279">
-        <mark key="[" line="127" column="13" />
-        <mark key="]" line="127" column="15" />
-        <mark key="." line="127" column="14" />
-        <mark key="^" line="127" column="15" />
-      </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" timestamp="1591878665699">
-        <mark key="'" line="35" column="58" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1591713068837">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="40" column="1" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="11" column="53" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" timestamp="1591879947576">
+        <mark key="'" line="23" column="12" />
       </file>
       <file name="/pom.xml" timestamp="1591800859775">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="87" column="21" />
-      </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/reports/findbugs/main.xml" timestamp="1591802301706">
-        <mark key="'" line="245" column="16" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="127" column="0" />
-        <mark key="." line="126" column="16" />
       </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591878391813">
         <mark key="[" line="50" column="27" />
@@ -237,20 +209,9 @@
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="11" />
       </file>
+      <file name="/BridgeMqttToKaka.java" timestamp="1591879762634" />
     </filemarks>
     <jumps>
-      <jump line="214" column="21" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="105" column="12" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="115" column="12" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="79" column="44" filename="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-async/3.11.2/mongodb-driver-async-3.11.2-sources.jar!/com/mongodb/async/client/AggregateIterableImpl.java" />
-      <jump line="87" column="79" filename="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-async/3.11.2/mongodb-driver-async-3.11.2-sources.jar!/com/mongodb/async/client/AggregateIterableImpl.java" />
-      <jump line="132" column="86" filename="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/3.11.2/mongodb-driver-core-3.11.2-sources.jar!/com/mongodb/internal/operation/AsyncOperations.java" />
-      <jump line="372" column="52" filename="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/json/JsonScanner.java" />
-      <jump line="381" column="44" filename="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/json/JsonScanner.java" />
-      <jump line="386" column="21" filename="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/json/JsonScanner.java" />
-      <jump line="396" column="52" filename="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/json/JsonScanner.java" />
-      <jump line="545" column="8" filename="$MAVEN_REPOSITORY$/org/mongodb/bson/3.11.2/bson-3.11.2-sources.jar!/org/bson/json/JsonScanner.java" />
-      <jump line="35" column="13" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" />
       <jump line="54" column="16" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" />
       <jump line="31" column="34" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" />
       <jump line="47" column="41" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodecTest.java" />
@@ -339,6 +300,18 @@
       <jump line="14" column="13" filename="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" />
       <jump line="58" column="17" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
       <jump line="27" column="0" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
+      <jump line="57" column="16" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="65" column="85" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="67" column="85" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="88" column="12" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="292" column="35" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="296" column="49" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="235" column="26" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="236" column="12" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="247" column="52" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="25" column="12" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" />
+      <jump line="21" column="57" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" />
+      <jump line="23" column="12" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,7 +326,7 @@
         <text>byte[] hashValue =</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQUk9KRUNUX0lEXD4=</text>
+        <text encoding="base64">XDxjaGFubmVsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJ5dGVbXSBoYXNoKFN0cmluZyBwYXNzd29yZCkgdGhyb3dzIE5vU3VjaEFsZ29yaXRobUV4Y2VwdGlvbiB7CiAgICAgICAgTWVzc2FnZURpZ2VzdCBtZDVEaWdlc3QgPSBNZXNzYWdlRGlnZXN0LmdldEluc3RhbmNlKCJNRDUiKTsKICAgICAgICBtZDVEaWdlc3QudXBkYXRlKHBhc3N3b3JkLmdldEJ5dGVzKCkpOwogICAgICAgIHJldHVybiBtZDVEaWdlc3QuZGlnZXN0KCk7CiAgICB9Cg==</text>
@@ -576,9 +549,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxQUk9KRUNUX0lEXD4=</last-search>
+      <last-search encoding="base64">XDxjaGFubmVsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQUk9KRUNUX0lEXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFubmVsXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
