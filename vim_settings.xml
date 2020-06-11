@@ -146,12 +146,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-entrypoint.sh" timestamp="1591880401245" />
       <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Resources.java" timestamp="1591809057017">
         <mark key="[" line="17" column="9" />
         <mark key="]" line="17" column="22" />
         <mark key="." line="17" column="21" />
         <mark key="^" line="17" column="22" />
       </file>
+      <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/docker-compose.yml" timestamp="1591880942458" />
       <file name="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" timestamp="1591878665699">
         <mark key="'" line="35" column="58" />
         <mark key="[" line="71" column="0" />
@@ -159,18 +161,10 @@
         <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/work/bridge-mqtt-kafka/src/main/java/com/bioserenity/bridge/worker/Worker.java" timestamp="1591879219549" />
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/reports/findbugs/main.xml" timestamp="1591802301706">
-        <mark key="'" line="245" column="16" />
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/src/main/resources/application-node-streaming-batch-0.yml" timestamp="1591881222314">
+        <mark key="'" line="52" column="20" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="^" line="127" column="0" />
-        <mark key="." line="126" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591798498147">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="28" />
-        <mark key="." line="0" column="28" />
+        <mark key="]" line="52" column="47" />
       </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/PasswordHasher.java" timestamp="1591878279131">
         <mark key="[" line="2" column="14" />
@@ -178,12 +172,15 @@
         <mark key="^" line="10" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Pointers.java" timestamp="1591806291112">
-        <mark key="^" line="15" column="4" />
+      <file name="$USER_HOME$/work/bridge-mqtt-kafka/src/main/resources/application-foobar.yml" timestamp="1591881227827">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" timestamp="1591879806242">
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" timestamp="1591880870311">
         <mark key="'" line="247" column="52" />
       </file>
+      <file name="/BridgeKafkaToMqtt.java" timestamp="1591880327132" />
       <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591877328829">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="21" column="0" />
@@ -193,15 +190,18 @@
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" timestamp="1591879947576">
         <mark key="'" line="23" column="12" />
       </file>
-      <file name="/pom.xml" timestamp="1591800859775">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="87" column="21" />
+      <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/resources/application.yml" timestamp="1591881186707">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="19" column="48" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.1.2/amqp-client-5.1.2-sources.jar!/com/rabbitmq/client/Channel.java" timestamp="1591880812469">
+        <mark key="[" line="236" column="5" />
+        <mark key="]" line="236" column="5" />
+        <mark key="^" line="236" column="5" />
+        <mark key="." line="236" column="4" />
       </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591878391813">
         <mark key="[" line="50" column="27" />
-      </file>
-      <file name="/Clipboard.txt" timestamp="1591800840855">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/PasswordGenerator.java" timestamp="1591877350227">
         <mark key="[" line="6" column="30" />
@@ -212,9 +212,6 @@
       <file name="/BridgeMqttToKaka.java" timestamp="1591879762634" />
     </filemarks>
     <jumps>
-      <jump line="54" column="16" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" />
-      <jump line="31" column="34" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodec.java" />
-      <jump line="47" column="41" filename="$USER_HOME$/work/record-service/bff-api/src/test/java/com/bioserenity/data/record/api/bff/codec/ChannelMetadataWindowResponseCodecTest.java" />
       <jump line="18" column="20" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application-local.properties" />
       <jump line="52" column="19" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="166" column="34" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
@@ -312,12 +309,15 @@
       <jump line="25" column="12" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" />
       <jump line="21" column="57" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" />
       <jump line="23" column="12" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" />
+      <jump line="52" column="20" filename="$USER_HOME$/work/bridge-mqtt-kafka/src/main/resources/application-node-streaming-batch-0.yml" />
+      <jump line="5" column="23" filename="$USER_HOME$/work/bridge-mqtt-kafka/src/main/resources/application-foobar.yml" />
+      <jump line="53" column="6" filename="$USER_HOME$/work/bridge-mqtt-kafka/src/main/resources/application-foobar.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPnNlLmJqdXJyLnZpb2xhdGlvbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD52aW9sYXRpb24tY29tbWVudHMtdG8tZ2l0bGFiLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7dmlvbGF0aW9uLWNvbW1lbnRzLXRvLWdpdGxhYi1tYXZlbi1wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8Z2l0TGFiVXJsPiR7R0lUTEFCX1VSTH08L2dpdExhYlVybD4KICAgICAgICAgICAgICAgICAgICA8bWVyZ2VSZXF1ZXN0SWlkPiR7R0lUTEFCX01FUkdFX1JFUVVFU1RfSUlEfTwvbWVyZ2VSZXF1ZXN0SWlkPgogICAgICAgICAgICAgICAgICAgIDxwcm9qZWN0SWQ+JHtHSVRMQUJfUFJPSkVDVF9JRH08L3Byb2plY3RJZD4KICAgICAgICAgICAgICAgICAgICA8Y29tbWVudE9ubHlDaGFuZ2VkQ29udGVudD50cnVlPC9jb21tZW50T25seUNoYW5nZWRDb250ZW50PgogICAgICAgICAgICAgICAgICAgIDxjcmVhdGVDb21tZW50V2l0aEFsbFNpbmdsZUZpbGVDb21tZW50cz5mYWxzZTwvY3JlYXRlQ29tbWVudFdpdGhBbGxTaW5nbGVGaWxlQ29tbWVudHM+CiAgICAgICAgICAgICAgICAgICAgPGNyZWF0ZVNpbmdsZUZpbGVDb21tZW50cz50cnVlPC9jcmVhdGVTaW5nbGVGaWxlQ29tbWVudHM+CiAgICAgICAgICAgICAgICAgICAgPGtlZXBPbGRDb21tZW50cz5mYWxzZTwva2VlcE9sZENvbW1lbnRzPgogICAgICAgICAgICAgICAgICAgIDxtaW5TZXZlcml0eT5JTkZPPC9taW5TZXZlcml0eT4KICAgICAgICAgICAgICAgICAgICA8YXBpVG9rZW5Qcml2YXRlPnRydWU8L2FwaVRva2VuUHJpdmF0ZT4KICAgICAgICAgICAgICAgICAgICA8YXBpVG9rZW4+JHtHSVRMQUJfQVBJX1RPS0VOfTwvYXBpVG9rZW4+CiAgICAgICAgICAgICAgICAgICAgPGlnbm9yZUNlcnRpZmljYXRlRXJyb3JzPnRydWU8L2lnbm9yZUNlcnRpZmljYXRlRXJyb3JzPgogICAgICAgICAgICAgICAgICAgIDxzaG91bGRTZXRXaXA+ZmFsc2U8L3Nob3VsZFNldFdpcD4KICAgICAgICAgICAgICAgICAgICA8dmlvbGF0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8L3Zpb2xhdGlvbnM+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8aWQ+VmlvbGF0aW9uQ29tbWVudHNUb0dpdExhYjwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnZpb2xhdGlvbi1jb21tZW50czwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">c3ByaW5nOgogIGNsb3VkOgogICAgc3RyZWFtOgogICAgICBiaW5kaW5nczoKICAgICAgICBwcm9jZXNzLWluLTA6CiAgICAgICAgICBkZXN0aW5hdGlvbjogZGF0YUluCiAgICAgICAgICBiaW5kZXI6IGthZmthCiAgICAgICAgcHJvY2Vzcy1vdXQtMDoKICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhT3V0CiAgICAgICAgICBiaW5kZXI6IHJhYmJpdAogICAgICAgICNUZXN0IHNpbmsgYmluZGluZyAodXNlZCBmb3IgdGVzdGluZykKICAgICAgICBzZW5kVGVzdERhdGEtb3V0LTA6CiAgICAgICAgICBkZXN0aW5hdGlvbjogZGF0YUluCiAgICAgICAgICBiaW5kZXI6IGthZmthCiAgICAgICAgI1Rlc3Qgc2luayBiaW5kaW5nICh1c2VkIGZvciB0ZXN0aW5nKQogICAgICAgIHJlY2VpdmUtaW4tMDoKICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhT3V0CiAgICAgICAgICBiaW5kZXI6IHJhYmJpdAogICAgICBmdW5jdGlvbjoKICAgICAgICBkZWZpbml0aW9uOiBzZW5kVGVzdERhdGE7cHJvY2VzcztyZWNlaXZlCg==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -329,59 +329,65 @@
         <text encoding="base64">XDxjaGFubmVsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJ5dGVbXSBoYXNoKFN0cmluZyBwYXNzd29yZCkgdGhyb3dzIE5vU3VjaEFsZ29yaXRobUV4Y2VwdGlvbiB7CiAgICAgICAgTWVzc2FnZURpZ2VzdCBtZDVEaWdlc3QgPSBNZXNzYWdlRGlnZXN0LmdldEluc3RhbmNlKCJNRDUiKTsKICAgICAgICBtZDVEaWdlc3QudXBkYXRlKHBhc3N3b3JkLmdldEJ5dGVzKCkpOwogICAgICAgIHJldHVybiBtZDVEaWdlc3QuZGlnZXN0KCk7CiAgICB9Cg==</text>
+        <text>spring:
+  cloud:
+    stream:
+      rabbit:
+        bindings:
+          # bind by enableBinding annotation
+          input_1:
+            consumer:
+              bindQueue: false
+              declareExchange: false
+              queueNameGroupOnly: true
+              bindingRoutingKey: 'streaming_batch.#'
+          input_2:
+            consumer:
+              bindQueue: false
+              declareExchange: false
+              queueNameGroupOnly: true
+              bindingRoutingKey: 'streaming_batch.#'
+      bindings:
+        default:
+          consumer:
+            destination: amq.topic
+            binder: rabbit # or kafka
+          producer:
+            binder: kafka # or rabbit
+        input_1:
+          destination: amq.topic
+          binder: rabbit # or kafka
+          group: streaming_batch
+          partitioned: true
+          instanceCount: 2
+          instanceIndex: 1
+        output_1:
+          binder: kafka # or rabbit
+          destination: streaming_batch
+        input_2:
+          destination: amq.topic
+          binder: rabbit # or kafka
+          group: streaming_batch
+          partitioned: true
+          instanceCount: 2
+          instanceIndex: 2
+        output_2:
+          binder: kafka # or rabbit
+          destination: streaming_batch
+        function:
+          definition: streamingBatchOne;streamingBatchSecond
+          batch-mode: true
+          bindings:
+            input_1: streamingBatchOne-in-0
+            output_1: streamingBatchOne-out-0
+            input_2: streamingBatchSecond-in-0
+            output_2: streamingBatchSecond-out-0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPnNlLmJqdXJyLnZpb2xhdGlvbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD52aW9sYXRpb24tY29tbWVudHMtdG8tZ2l0bGFiLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7dmlvbGF0aW9uLWNvbW1lbnRzLXRvLWdpdGxhYi1tYXZlbi1wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8Z2l0TGFiVXJsPiR7R0lUTEFCX1VSTH08L2dpdExhYlVybD4KICAgICAgICAgICAgICAgICAgICA8bWVyZ2VSZXF1ZXN0SWlkPiR7R0lUTEFCX01FUkdFX1JFUVVFU1RfSUlEfTwvbWVyZ2VSZXF1ZXN0SWlkPgogICAgICAgICAgICAgICAgICAgIDxwcm9qZWN0SWQ+JHtHSVRMQUJfUFJPSkVDVF9JRH08L3Byb2plY3RJZD4KICAgICAgICAgICAgICAgICAgICA8Y29tbWVudE9ubHlDaGFuZ2VkQ29udGVudD50cnVlPC9jb21tZW50T25seUNoYW5nZWRDb250ZW50PgogICAgICAgICAgICAgICAgICAgIDxjcmVhdGVDb21tZW50V2l0aEFsbFNpbmdsZUZpbGVDb21tZW50cz5mYWxzZTwvY3JlYXRlQ29tbWVudFdpdGhBbGxTaW5nbGVGaWxlQ29tbWVudHM+CiAgICAgICAgICAgICAgICAgICAgPGNyZWF0ZVNpbmdsZUZpbGVDb21tZW50cz50cnVlPC9jcmVhdGVTaW5nbGVGaWxlQ29tbWVudHM+CiAgICAgICAgICAgICAgICAgICAgPGtlZXBPbGRDb21tZW50cz5mYWxzZTwva2VlcE9sZENvbW1lbnRzPgogICAgICAgICAgICAgICAgICAgIDxtaW5TZXZlcml0eT5JTkZPPC9taW5TZXZlcml0eT4KICAgICAgICAgICAgICAgICAgICA8YXBpVG9rZW5Qcml2YXRlPnRydWU8L2FwaVRva2VuUHJpdmF0ZT4KICAgICAgICAgICAgICAgICAgICA8YXBpVG9rZW4+JHtHSVRMQUJfQVBJX1RPS0VOfTwvYXBpVG9rZW4+CiAgICAgICAgICAgICAgICAgICAgPGlnbm9yZUNlcnRpZmljYXRlRXJyb3JzPnRydWU8L2lnbm9yZUNlcnRpZmljYXRlRXJyb3JzPgogICAgICAgICAgICAgICAgICAgIDxzaG91bGRTZXRXaXA+ZmFsc2U8L3Nob3VsZFNldFdpcD4KICAgICAgICAgICAgICAgICAgICA8dmlvbGF0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8L3Zpb2xhdGlvbnM+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8aWQ+VmlvbGF0aW9uQ29tbWVudHNUb0dpdExhYjwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnZpb2xhdGlvbi1jb21tZW50czwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">c3ByaW5nOgogIGNsb3VkOgogICAgc3RyZWFtOgogICAgICBiaW5kaW5nczoKICAgICAgICBwcm9jZXNzLWluLTA6CiAgICAgICAgICBkZXN0aW5hdGlvbjogZGF0YUluCiAgICAgICAgICBiaW5kZXI6IGthZmthCiAgICAgICAgcHJvY2Vzcy1vdXQtMDoKICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhT3V0CiAgICAgICAgICBiaW5kZXI6IHJhYmJpdAogICAgICAgICNUZXN0IHNpbmsgYmluZGluZyAodXNlZCBmb3IgdGVzdGluZykKICAgICAgICBzZW5kVGVzdERhdGEtb3V0LTA6CiAgICAgICAgICBkZXN0aW5hdGlvbjogZGF0YUluCiAgICAgICAgICBiaW5kZXI6IGthZmthCiAgICAgICAgI1Rlc3Qgc2luayBiaW5kaW5nICh1c2VkIGZvciB0ZXN0aW5nKQogICAgICAgIHJlY2VpdmUtaW4tMDoKICAgICAgICAgIGRlc3RpbmF0aW9uOiBkYXRhT3V0CiAgICAgICAgICBiaW5kZXI6IHJhYmJpdAogICAgICBmdW5jdGlvbjoKICAgICAgICBkZWZpbml0aW9uOiBzZW5kVGVzdERhdGE7cHJvY2VzcztyZWNlaXZlCg==</text>
       </register>
-      <register name="2" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPnNlLmJqdXJyLnZpb2xhdGlvbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD52aW9sYXRpb24tY29tbWVudHMtdG8tZ2l0bGFiLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7dmlvbGF0aW9uLWNvbW1lbnRzLXRvLWdpdGxhYi1tYXZlbi1wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8Z2l0TGFiVXJsPiR7R0lUTEFCX1VSTH08L2dpdExhYlVybD4KICAgICAgICAgICAgICAgICAgICA8bWVyZ2VSZXF1ZXN0SWlkPiR7R0lUTEFCX01FUkdFX1JFUVVFU1RfSUlEfTwvbWVyZ2VSZXF1ZXN0SWlkPgogICAgICAgICAgICAgICAgICAgIDxwcm9qZWN0SWQ+JHtHSVRMQUJfUFJPSkVDVF9JRH08L3Byb2plY3RJZD4KICAgICAgICAgICAgICAgICAgICA8Y29tbWVudE9ubHlDaGFuZ2VkQ29udGVudD50cnVlPC9jb21tZW50T25seUNoYW5nZWRDb250ZW50PgogICAgICAgICAgICAgICAgICAgIDxjcmVhdGVDb21tZW50V2l0aEFsbFNpbmdsZUZpbGVDb21tZW50cz5mYWxzZTwvY3JlYXRlQ29tbWVudFdpdGhBbGxTaW5nbGVGaWxlQ29tbWVudHM+CiAgICAgICAgICAgICAgICAgICAgPGNyZWF0ZVNpbmdsZUZpbGVDb21tZW50cz50cnVlPC9jcmVhdGVTaW5nbGVGaWxlQ29tbWVudHM+CiAgICAgICAgICAgICAgICAgICAgPGtlZXBPbGRDb21tZW50cz5mYWxzZTwva2VlcE9sZENvbW1lbnRzPgogICAgICAgICAgICAgICAgICAgIDxtaW5TZXZlcml0eT5JTkZPPC9taW5TZXZlcml0eT4KICAgICAgICAgICAgICAgICAgICA8YXBpVG9rZW5Qcml2YXRlPnRydWU8L2FwaVRva2VuUHJpdmF0ZT4KICAgICAgICAgICAgICAgICAgICA8YXBpVG9rZW4+JHtHSVRMQUJfQVBJX1RPS0VOfTwvYXBpVG9rZW4+CiAgICAgICAgICAgICAgICAgICAgPGlnbm9yZUNlcnRpZmljYXRlRXJyb3JzPnRydWU8L2lnbm9yZUNlcnRpZmljYXRlRXJyb3JzPgogICAgICAgICAgICAgICAgICAgIDxzaG91bGRTZXRXaXA+ZmFsc2U8L3Nob3VsZFNldFdpcD4KICAgICAgICAgICAgICAgICAgICA8dmlvbGF0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8L3Zpb2xhdGlvbnM+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8aWQ+VmlvbGF0aW9uQ29tbWVudHNUb0dpdExhYjwvaWQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxnb2Fscz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnb2FsPnZpb2xhdGlvbi1jb21tZW50czwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="3" type="8">
         <text>//
@@ -530,14 +536,60 @@
 //
 //</text>
       </register>
-      <register name="6" type="2">
+      <register name="6" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxtYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+My4xMy4wPC9tYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
