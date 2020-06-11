@@ -152,6 +152,12 @@
         <mark key="]" line="0" column="28" />
         <mark key="." line="0" column="28" />
       </file>
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/PasswordHasher.java" timestamp="1591877380034">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="14" />
+      </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Pointers.java" timestamp="1591806291112">
         <mark key="^" line="15" column="4" />
       </file>
@@ -177,10 +183,10 @@
         <mark key="." line="44" column="96" />
         <mark key="^" line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591876102287">
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591877328829">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="34" />
         <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Resources.java" timestamp="1591809057017">
@@ -197,15 +203,6 @@
       </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" timestamp="1591870231667">
         <mark key="'" line="35" column="58" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/WorkerNodeApp.scala" timestamp="1591353263632">
-        <mark key="[" line="56" column="8" />
-        <mark key="]" line="56" column="10" />
-        <mark key="^" line="56" column="10" />
-        <mark key="." line="56" column="9" />
-      </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" timestamp="1591357870040">
-        <mark key="'" line="14" column="14" />
       </file>
       <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1591713068837">
         <mark key="'" line="9" column="0" />
@@ -228,6 +225,12 @@
       <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591875547592" />
       <file name="/Clipboard.txt" timestamp="1591800840855">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/PasswordGenerator.java" timestamp="1591877350227">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -335,66 +338,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="&quot;" type="4">
+        <text>DigestUtils.getMd5Digest()</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>findbugs</text>
+        <text>DigestUtils.getMd5Digest()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9KRUNUX0lEXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZvaWQgdHdvUmVzb3VyY2VzKCkgdGhyb3dzIElPRXhjZXB0aW9uIHsKICAgICAgICBGaWxlSW5wdXRTdHJlYW0gZmlzID0gbnVsbDsKICAgICAgICBGaWxlT3V0cHV0U3RyZWFtIGZvcyA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgZmlzID0gbmV3IEZpbGVJbnB1dFN0cmVhbShuZXcgRmlsZSgid2hhdGV2ZXIudHh0IikpOwogICAgICAgICAgICBmb3MgPSBuZXcgRmlsZU91dHB1dFN0cmVhbShuZXcgRmlsZSgiZXZlcndoYXQudHh0IikpOwogICAgICAgICAgICBmb3Mud3JpdGUoZmlzLnJlYWQoKSk7CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgaWYgKGZpcyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBmaXMuY2xvc2UoKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAoZm9zICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGZvcy5jbG9zZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBSYW5kb20gcm5nID0gbmV3IFJhbmRvbSgpOwo=</text>
       </register>
       <register name="1" type="8">
         <text>//
