@@ -177,7 +177,8 @@
         <mark key="." line="44" column="96" />
         <mark key="^" line="56" column="13" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591868434093">
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591876102287">
+        <mark key="'" line="27" column="0" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -196,10 +197,6 @@
       </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" timestamp="1591870231667">
         <mark key="'" line="35" column="58" />
-        <mark key="[" line="93" column="40" />
-        <mark key="]" line="93" column="49" />
-        <mark key="." line="93" column="48" />
-        <mark key="^" line="93" column="49" />
       </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/apps/WorkerNodeApp.scala" timestamp="1591353263632">
         <mark key="[" line="56" column="8" />
@@ -228,12 +225,7 @@
         <mark key="^" line="127" column="0" />
         <mark key="." line="126" column="16" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591870222845">
-        <mark key="[" line="58" column="56" />
-        <mark key="]" line="58" column="57" />
-        <mark key="." line="58" column="56" />
-        <mark key="^" line="58" column="57" />
-      </file>
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591875547592" />
       <file name="/Clipboard.txt" timestamp="1591800840855">
         <mark key="[" line="0" column="0" />
       </file>
@@ -337,14 +329,60 @@
       <jump line="58" column="26" filename="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" />
       <jump line="57" column="203" filename="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" />
       <jump line="14" column="13" filename="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" />
-      <jump line="27" column="0" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
       <jump line="58" column="17" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>findbugs</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -505,19 +543,7 @@
 //
 //</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+My4xMy4wPC9tYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+Cg==</text>
-      </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
-      </register>
-      <register name="8" type="8">
+      <register name="4" type="8">
         <text>//
 //
 //
@@ -566,8 +592,66 @@
 //
 //</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLXZpb2xhdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXJzZXI+UE1EPC9wYXJzZXI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cmVwb3J0ZXI+UE1EPC9yZXBvcnRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmb2xkZXI+JHtwcm9qZWN0LmJ1aWxkLmRpcmVjdG9yeX08L2ZvbGRlcj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwYXR0ZXJuPi4qL3BtZC8uKlwueG1sJDwvcGF0dGVybj4KICAgICAgICAgICAgICAgICAgICAgICAgPC92aW9sYXRpb24tLT4K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+My4xMy4wPC9tYXZlbi1wbWQtcGx1Z2luLnZlcnNpb24+Cg==</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIA==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGdpdGxhYkNvbW1pdFN0YXR1cyhuYW1lOiAnYW5hbHlzaXMnKSB7Cg==</text>
+      </register>
+      <register name="9" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
