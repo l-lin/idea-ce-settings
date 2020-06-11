@@ -147,8 +147,14 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-entrypoint.sh" timestamp="1591887932291" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/RecordMessage.java" timestamp="1591892562387">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="6" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.7.RELEASE/spring-boot-starter-parent-2.2.7.RELEASE.pom" timestamp="1591887274284" />
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" timestamp="1591890987038">
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" timestamp="1591892578987">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="16" />
         <mark key="." line="7" column="16" />
@@ -163,8 +169,12 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" timestamp="1591891175239">
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" timestamp="1591892547290">
         <mark key="'" line="178" column="8" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="7" />
+        <mark key="^" line="38" column="7" />
+        <mark key="." line="38" column="6" />
       </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591888307069">
         <mark key="'" line="27" column="0" />
@@ -175,6 +185,9 @@
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" timestamp="1591887933535">
         <mark key="'" line="23" column="12" />
       </file>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" timestamp="1591892549113">
+        <mark key="[" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/.gitignore" timestamp="1591890196655">
         <mark key="]" line="32" column="0" />
         <mark key="^" line="32" column="0" />
@@ -182,10 +195,6 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/kafka/kafka-clients/2.4.0/kafka-clients-2.4.0-sources.jar!/org/apache/kafka/clients/producer/ProducerConfig.java" timestamp="1591888164040" />
       <file name="/" timestamp="1591890084293">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/perso/spring-cloud-stream-samples/multi-binder-samples/multi-binder-kafka-rabbit/src/main/resources/application.yml" timestamp="1591881186707">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="19" column="48" />
       </file>
       <file name="$USER_HOME$/work/bridge-mqtt-kafka/pom.xml" timestamp="1591887001934" />
       <file name="$USER_HOME$/work/fota-service/pom.xml" timestamp="1591889100143" />
