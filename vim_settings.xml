@@ -158,18 +158,16 @@
         <mark key="^" line="38" column="7" />
         <mark key="." line="38" column="6" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1591904382879">
-        <mark key="'" line="15" column="4" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="2" />
-      </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" timestamp="1591887933535">
         <mark key="'" line="23" column="12" />
       </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" timestamp="1591892549113">
         <mark key="[" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" timestamp="1591948474942">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="81" column="21" />
       </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/.gitignore" timestamp="1591890196655">
         <mark key="]" line="32" column="0" />
@@ -184,6 +182,13 @@
       <file name="/" timestamp="1591890084293">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ecg/pom.xml" timestamp="1591948479382">
+        <mark key="'" line="76" column="8" />
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="316" column="21" />
+        <mark key="." line="309" column="0" />
+        <mark key="^" line="304" column="57" />
+      </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" timestamp="1591892578987">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="16" />
@@ -194,19 +199,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="47" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591888666445">
-        <mark key="[" line="56" column="210" />
-        <mark key="]" line="56" column="206" />
-        <mark key="." line="56" column="205" />
-        <mark key="^" line="56" column="206" />
-      </file>
+      <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591948177859" />
     </filemarks>
     <jumps>
-      <jump line="49" column="8" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
-      <jump line="114" column="8" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
-      <jump line="98" column="0" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
-      <jump line="93" column="0" filename="$USER_HOME$/work/ecg/ecg-processing-handler/src/test/java/com/bioserenity/processing/ecg/handler/AuthenticationHandshakeInterceptorTest.java" />
-      <jump line="13" column="4" filename="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/mapper/payload/EndUploadPayloadMapper.java" />
       <jump line="37" column="0" filename="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/BcpToBffEventMapperTest.java" />
       <jump line="64" column="8" filename="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/BcpToBffEventMapperTest.java" />
       <jump line="21" column="25" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.3.0/bioserenity-io-bcp-6.3.0-sources.jar!/com/bioserenity/bcp/payload/events/UserFlag.java" />
@@ -302,12 +297,17 @@
       <jump line="160" column="35" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="178" column="8" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="15" column="4" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
+      <jump line="72" column="19" filename="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" />
+      <jump line="80" column="0" filename="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" />
+      <jump line="301" column="69" filename="$USER_HOME$/work/ecg/pom.xml" />
+      <jump line="76" column="8" filename="$USER_HOME$/work/ecg/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXBtZC1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke21hdmVuLXBtZC1wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0SmRrPiR7amF2YS52ZXJzaW9ufTwvdGFyZ2V0SmRrPgogICAgICAgICAgICAgICAgICAgIDwhLS0gaW50ZW50aW9uYWxseSBzZXQgdG8gYSBsb3cgdmFsdWUgdG8gcHJvZHVjZSBhIGR1cGxpY2F0ZSBjb2RlIC0tPgogICAgICAgICAgICAgICAgICAgIDxtaW5pbXVtVG9rZW5zPjUwPC9taW5pbXVtVG9rZW5zPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -319,59 +319,7 @@
         <text encoding="base64">XDxuYk1lc3NhZ2VzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text>spring:
-  cloud:
-    stream:
-      rabbit:
-        bindings:
-          # bind by enableBinding annotation
-          input_1:
-            consumer:
-              bindQueue: false
-              declareExchange: false
-              queueNameGroupOnly: true
-              bindingRoutingKey: 'streaming_batch.#'
-          input_2:
-            consumer:
-              bindQueue: false
-              declareExchange: false
-              queueNameGroupOnly: true
-              bindingRoutingKey: 'streaming_batch.#'
-      bindings:
-        default:
-          consumer:
-            destination: amq.topic
-            binder: rabbit # or kafka
-          producer:
-            binder: kafka # or rabbit
-        input_1:
-          destination: amq.topic
-          binder: rabbit # or kafka
-          group: streaming_batch
-          partitioned: true
-          instanceCount: 2
-          instanceIndex: 1
-        output_1:
-          binder: kafka # or rabbit
-          destination: streaming_batch
-        input_2:
-          destination: amq.topic
-          binder: rabbit # or kafka
-          group: streaming_batch
-          partitioned: true
-          instanceCount: 2
-          instanceIndex: 2
-        output_2:
-          binder: kafka # or rabbit
-          destination: streaming_batch
-        function:
-          definition: streamingBatchOne;streamingBatchSecond
-          batch-mode: true
-          bindings:
-            input_1: streamingBatchOne-in-0
-            output_1: streamingBatchOne-out-0
-            input_2: streamingBatchSecond-in-0
-            output_2: streamingBatchSecond-out-0</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXBtZC1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4ke21hdmVuLXBtZC1wbHVnaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8Y29uZmlndXJhdGlvbj4KICAgICAgICAgICAgICAgICAgICA8dGFyZ2V0SmRrPiR7amF2YS52ZXJzaW9ufTwvdGFyZ2V0SmRrPgogICAgICAgICAgICAgICAgICAgIDwhLS0gaW50ZW50aW9uYWxseSBzZXQgdG8gYSBsb3cgdmFsdWUgdG8gcHJvZHVjZSBhIGR1cGxpY2F0ZSBjb2RlIC0tPgogICAgICAgICAgICAgICAgICAgIDxtaW5pbXVtVG9rZW5zPjUwPC9taW5pbXVtVG9rZW5zPgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcG9zdCB7CiAgICAgICAgICAgICAgICBmYWlsdXJlIHsKICAgICAgICAgICAgICAgICAgICB3aXRoQ3JlZGVudGlhbHMoW3N0cmluZyhjcmVkZW50aWFsc0lkOiBlbnYuQ1JFREVOVElBTFNfSUQsIHZhcmlhYmxlOiAiSkVOS0lOU19UT0tFTiIpXSkgewogICAgICAgICAgICAgICAgICAgICAgICBzaCAibXZuIHZpb2xhdGlvbi1jb21tZW50cy10by1naXRsYWI6dmlvbGF0aW9uLWNvbW1lbnRzIC1ER0lUTEFCX1VSTD0ke2Vudi5HSVRMQUJfVVJMfSAtREdJVExBQl9NRVJHRV9SRVFVRVNUX0lJRD0ke2Vudi5naXRsYWJNZXJnZVJlcXVlc3RJaWR9IC1ER0lUTEFCX1BST0pFQ1RfSUQ9JHtlbnYuR0lUTEFCX1BST0pFQ1RfSUR9IC1ER0lUTEFCX0FQSV9UT0tFTj0ke0pFTktJTlNfVE9LRU59IgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
