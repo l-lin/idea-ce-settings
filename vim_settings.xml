@@ -146,6 +146,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-entrypoint.sh" timestamp="1591951086023" />
       <file name="$USER_HOME$/work/bridge-mqtt-kafka/src/main/resources/application-foobar.yml" timestamp="1591881227827">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -164,7 +165,6 @@
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" timestamp="1591892549113">
         <mark key="[" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/pom.xml" timestamp="1591948607913" />
       <file name="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" timestamp="1591948474942">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="72" column="0" />
@@ -183,7 +183,6 @@
       <file name="/" timestamp="1591890084293">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/pom.xml" timestamp="1591948598202" />
       <file name="$USER_HOME$/work/ecg/pom.xml" timestamp="1591948479382">
         <mark key="'" line="76" column="8" />
         <mark key="[" line="309" column="0" />
@@ -201,7 +200,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="52" column="47" />
       </file>
-      <file name="$USER_HOME$/work/tool-analysis-benchmark/Jenkinsfile" timestamp="1591948177859" />
     </filemarks>
     <jumps>
       <jump line="37" column="0" filename="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/BcpToBffEventMapperTest.java" />
