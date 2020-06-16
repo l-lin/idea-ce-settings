@@ -146,21 +146,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/kafka-consumer/src/main/java/com/bioserenity/kafka/kafkaconsumer/KafkaConsumerApplication.java" timestamp="1592296004657">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="17" />
-        <mark key="." line="21" column="16" />
-        <mark key="^" line="21" column="17" />
+      <file name="$USER_HOME$/work/kafka-consumer/src/main/java/com/bioserenity/kafka/kafkaconsumer/KafkaConsumerApplication.java" timestamp="1592297897205">
+        <mark key="[" line="20" column="50" />
+        <mark key="]" line="20" column="73" />
+        <mark key="." line="20" column="72" />
+        <mark key="^" line="20" column="73" />
       </file>
-      <file name="$USER_HOME$/work/kafka-consumer/src/main/resources/application-stg-eu-fr.yml" timestamp="1592294113174">
-        <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="16" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="10" column="16" />
+      <file name="$USER_HOME$/work/kafka-consumer/src/main/resources/application-local.yml" timestamp="1592297737448">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/kafka-consumer/src/main/resources/application-stg-eu-fr.yml" timestamp="1592297934280">
+        <mark key="'" line="3" column="55" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/kafka-consumer/kafka/kafka.sasl.conf" timestamp="1592241782308">
         <mark key="[" line="3" column="12" />
         <mark key="]" line="3" column="75" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.1.RELEASE/spring-boot-dependencies-2.3.1.RELEASE.pom" timestamp="1592297134632">
+        <mark key="'" line="2198" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/kafka-consumer/src/main/resources/application-stg-eu-fr-ssl.yml" timestamp="1592297928123">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1592122954056">
         <mark key="'" line="39" column="0" />
@@ -184,7 +197,7 @@
       <file name="$USER_HOME$/work/bioserenity-processing-service/app/services/StreamConsumer.scala" timestamp="1592232492674">
         <mark key="'" line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/work/bioserenity-processing-service/app/services/connectors/KafkaBcpConsumer.scala" timestamp="1592232375855">
+      <file name="$USER_HOME$/work/bioserenity-processing-service/app/services/connectors/KafkaBcpConsumer.scala" timestamp="1592296783302">
         <mark key="'" line="24" column="8" />
       </file>
       <file name="$USER_HOME$/work/demo/pom.xml" timestamp="1592210208690">
@@ -194,12 +207,10 @@
         <mark key="." line="23" column="46" />
         <mark key="^" line="23" column="47" />
       </file>
-      <file name="$USER_HOME$/work/kafka-consumer/src/main/resources/application.yml" timestamp="1592294125463">
-        <mark key="'" line="15" column="26" />
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="23" />
-        <mark key="^" line="12" column="24" />
+      <file name="$USER_HOME$/work/kafka-consumer/src/main/resources/application.yml" timestamp="1592297905334">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/work/kafka-consumer/pom.xml" timestamp="1592247286746">
         <mark key="[" line="25" column="0" />
@@ -210,17 +221,16 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/work/bioserenity-processing-service/app/services/kafka/KafkaConfigService.scala" timestamp="1592242033437">
+      <file name="$USER_HOME$/work/bioserenity-processing-service/app/services/kafka/KafkaConfigService.scala" timestamp="1592296393857">
         <mark key="[" line="46" column="37" />
         <mark key="]" line="46" column="95" />
       </file>
-      <file name="/fragment.java" timestamp="1592241952610">
+      <file name="$USER_HOME$/work/bioserenity-processing-service/conf/application.conf" timestamp="1592296336641" />
+      <file name="/fragment.java" timestamp="1592297754975">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="15" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.3.0/bioserenity-io-bcp-6.3.0-sources.jar!/com/bioserenity/bcp/payload/events/UserFlag.java" />
-      <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="14" column="0" filename="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/EndUploadV5PayloadMapperTest.java" />
       <jump line="13" column="0" filename="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/EndUploadV5PayloadMapperTest.java" />
       <jump line="16" column="0" filename="$USER_HOME$/work/bcp-event-dump/src/test/java/com/bioserenity/processing/mapper/payload/EndUploadPayloadMapperTest.java" />
@@ -319,18 +329,20 @@
       <jump line="24" column="8" filename="$USER_HOME$/work/bioserenity-processing-service/app/services/connectors/KafkaBcpConsumer.scala" />
       <jump line="16" column="8" filename="$USER_HOME$/work/bioserenity-processing-service/app/services/StreamConsumer.scala" />
       <jump line="21" column="26" filename="$USER_HOME$/work/kafka-consumer/src/main/resources/application.yml" />
+      <jump line="2198" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.1.RELEASE/spring-boot-dependencies-2.3.1.RELEASE.pom" />
+      <jump line="3" column="55" filename="$USER_HOME$/work/kafka-consumer/src/main/resources/application-stg-eu-fr.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlY3VyaXR5OgogICAgICBwcm90b2NvbDogU0FTTF9TU0wK</text>
+        <text encoding="base64">ICAgICAgI3Byb3RvY29sOiBTQVNMX1NTTAojICAgIHNzbDoKIyAgICAgIHRydXN0LXN0b3JlLWxvY2F0aW9uOiBmaWxlOi9ob21lL2xsaW4vd29yay9rYWZrYS1jb25zdW1lci9rYWZrYS9zdGctZXUtZnIva2Fma2Euc2VydmVycy50cnVzdG9yZS5qa3MKIyAgICAgIHRydXN0LXN0b3JlLXBhc3N3b3JkOiBISixtLU5INVZnY1VSa3Z6bHpMNzlDLHdsdGZQdlNwXwo=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>web</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUT1BJQ19VUFw+</text>
@@ -339,34 +351,33 @@
         <text encoding="base64">ICAgIHNlY3VyaXR5OgogICAgICBwcm90b2NvbDogU0FTTF9TU0wK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3NsOgogICAgICAgIHRydXN0bWFuYWdlcjoKICAgICAgICAgIGFsZ29yaXRobTogUEtDUzEy</text>
+        <text encoding="base64">ICAgICAgI3Byb3RvY29sOiBTQVNMX1NTTAojICAgIHNzbDoKIyAgICAgIHRydXN0LXN0b3JlLWxvY2F0aW9uOiBmaWxlOi9ob21lL2xsaW4vd29yay9rYWZrYS1jb25zdW1lci9rYWZrYS9zdGctZXUtZnIva2Fma2Euc2VydmVycy50cnVzdG9yZS5qa3MKIyAgICAgIHRydXN0LXN0b3JlLXBhc3N3b3JkOiBISixtLU5INVZnY1VSa3Z6bHpMNzlDLHdsdGZQdlNwXwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXdlYmZsdXg8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXdlYjwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+CiAgICAgICAgPGRlcGVuZGVuY3k+CiAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci13ZWJmbHV4PC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5TWFuYWdlbWVudD4KICAgICAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LWRlcGVuZGVuY2llczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuMy4xLlJFTEVBU0U8L3ZlcnNpb24+CiAgICAgICAgICAgICAgICA8dHlwZT5wb208L3R5cGU+CiAgICAgICAgICAgICAgICA8c2NvcGU+aW1wb3J0PC9zY29wZT4KICAgICAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDwvZGVwZW5kZW5jaWVzPgogICAgPC9kZXBlbmRlbmN5TWFuYWdlbWVudD4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNzbDoKICAgICAgdHJ1c3Qtc3RvcmUtbG9jYXRpb246IGZpbGU6L2hvbWUvbGxpbi93b3JrL2thZmthLWNvbnN1bWVyL2thZmthL2thZmthLnNlcnZlcnMudHJ1c3RvcmUuamtzCiAgICAgIHRydXN0LXN0b3JlLXBhc3N3b3JkOiBISixtLU5INVZnY1VSa3Z6bHpMNzlDLHdsdGZQdlNwXwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb3B0aW9uczoKICAgICAgICB1c2VybmFtZTogYmlvc2VyZW5pdHlDb25zdW1lcgogICAgICAgIHBhc3N3b3JkOiBCUF5sLFZYVV1lUH5OanFUalpQfHNKdid0PkpVbFRUbjJDTnxQZD0xbCdbOHhwYDw9WnNrNypnYjY+WSpZOSoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZW5hYmxlZDogdHJ1ZQogICAgICBsb2dpbi1tb2R1bGU6IG9yZy5hcGFjaGUua2Fma2EuY29tbW9uLnNlY3VyaXR5LnBsYWluLlBsYWluTG9naW5Nb2R1bGUKICAgICAgY29udHJvbC1mbGFnOiBSRVFVSVJFRAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvb3RzdHJhcC1zZXJ2ZXJzOgogICAgICAtIGthZmthLWludGVybmFsLXN0Zy1ldS1mci5iaW9zZXJlbml0eS5jbG91ZDo5MDk0Cg==</text>
-      </register>
-      <register name="9" type="8">
+      <register name="2" type="8">
         <text>#
 #
-#
 #</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHNlY3VyaXR5OgogICAgICBwcm90b2NvbDogUExBSU5URVhUCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGphYXM6CiAgICAgIGVuYWJsZWQ6IGZhbHNlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByb3BlcnRpZXM6CiAgICAgIHNhc2w6CiAgICAgICAgbWVjaGFuaXNtOiBQTEFJTgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNlY3VyaXR5OgogICAgICBwcm90b2NvbDogU0FTTF9TU0wKICAgIHByb3BlcnRpZXM6CiAgICAgIHNhc2w6CiAgICAgICAgbWVjaGFuaXNtOiBQTEFJTgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGphYXM6CiAgICAgIGVuYWJsZWQ6IHRydWUKICAgICAgbG9naW4tbW9kdWxlOiBvcmcuYXBhY2hlLmthZmthLmNvbW1vbi5zZWN1cml0eS5wbGFpbi5QbGFpbkxvZ2luTW9kdWxlCiAgICAgIGNvbnRyb2wtZmxhZzogUkVRVUlSRUQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyAgICBzc2w6CiMgICAgICB0cnVzdC1zdG9yZS1sb2NhdGlvbjogZmlsZTovaG9tZS9sbGluL3dvcmsva2Fma2EtY29uc3VtZXIva2Fma2Evc3RnLWV1LWZyL2thZmthLnNlcnZlcnMudHJ1c3RvcmUuamtzCiMgICAgICB0cnVzdC1zdG9yZS1wYXNzd29yZDogSEosbS1OSDVWZ2NVUmt2emx6TDc5Qyx3bHRmUHZTcF8K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGphYXM6CiAgICAgIG9wdGlvbnM6CiAgICAgICAgdXNlcm5hbWU6IGJpb3NlcmVuaXR5Q29uc3VtZXIKICAgICAgICBwYXNzd29yZDogQlBebCxWWFVdZVB+TmpxVGpaUHxzSnYndD5KVWxUVG4yQ058UGQ9MWwnWzh4cGA8PVpzazcqZ2I2PlkqWTkqCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
