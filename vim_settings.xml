@@ -155,23 +155,20 @@
       <file name="/a.dummy" timestamp="1592380576984">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.1.RELEASE/spring-boot-dependencies-2.3.1.RELEASE.pom" timestamp="1592380432242">
-        <mark key="'" line="2198" column="8" />
-      </file>
       <file name="$USER_HOME$/work/shared-controllers/pom.xml" timestamp="1592380481012">
         <mark key="[" line="27" column="16" />
         <mark key="]" line="28" column="156" />
         <mark key="^" line="28" column="156" />
         <mark key="." line="28" column="155" />
       </file>
-      <file name="$USER_HOME$/work/bridges-manager/pom.xml" timestamp="1592389430094">
-        <mark key="[" line="57" column="21" />
-        <mark key="]" line="59" column="45" />
-        <mark key="^" line="59" column="45" />
-        <mark key="." line="59" column="44" />
+      <file name="$USER_HOME$/work/bridges-manager/pom.xml" timestamp="1592389603165">
+        <mark key="[" line="91" column="24" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/work/shared-controllers/.gitignore" timestamp="1592385595572" />
       <file name="$USER_HOME$/work/bridges-manager/src/main/java/com/bioserenity/bridgemqttkafka/mapper/connector/AmqpToKafkaConnector.java" timestamp="1592386645054" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" timestamp="1592389969177" />
       <file name="$USER_HOME$/work/bridges-manager/src/main/java/com/bioserenity/bridgemqttkafka/worker/Worker.java" timestamp="1592389299037" />
       <file name="$USER_HOME$/work/shared-controllers/shared-controllers-spring-webflux/src/main/java/com/bioserenity/shared/controllers/spring/webflux/SpringSharedControllersConfig.java" timestamp="1592381046381">
         <mark key="[" line="22" column="4" />
@@ -327,7 +324,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RocmVhZCB0aHJlYWQxID0gbmV3IFRocmVhZChydW5uYWJsZTEpOwogICAgICAgIC8vVGhyZWFkIHRocmVhZDIgPSBuZXcgVGhyZWFkKHJ1bm5hYmxlMik7CiAgICAgICAgLy9UaHJlYWQgdGhyZWFkMyA9IG5ldyBUaHJlYWQocnVubmFibGUzKTsKICAgICAgICAvL3RocmVhZDEuc3RhcnQoKTsKICAgICAgICAvL3RocmVhZDIuc3RhcnQoKTsKICAgICAgICAvL3RocmVhZDMuc3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y2gucW9zLmxvZ2JhY2s8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bG9nYmFjay1jbGFzc2ljPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+Cg==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -342,35 +339,35 @@
         <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZWFkMSA9IG5ldyBUaHJlYWQocnVubmFibGUxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RocmVhZCB0aHJlYWQxID0gbmV3IFRocmVhZChydW5uYWJsZTEpOwogICAgICAgIC8vVGhyZWFkIHRocmVhZDIgPSBuZXcgVGhyZWFkKHJ1bm5hYmxlMik7CiAgICAgICAgLy9UaHJlYWQgdGhyZWFkMyA9IG5ldyBUaHJlYWQocnVubmFibGUzKTsKICAgICAgICAvL3RocmVhZDEuc3RhcnQoKTsKICAgICAgICAvL3RocmVhZDIuc3RhcnQoKTsKICAgICAgICAvL3RocmVhZDMuc3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y2gucW9zLmxvZ2JhY2s8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bG9nYmFjay1jbGFzc2ljPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSdW5uYWJsZSBydW5uYWJsZTEgPSAoKSAtPiB7CiAgICAgICAgfTsKICAgICAgICBSdW5uYWJsZSBydW5uYWJsZTIgPSAoKSAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhcnRpbmcgcnVubmFibGUgMiIpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7fQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuZGluZyBydW5uYWJsZSAyIik7CiAgICAgICAgfTsKICAgICAgICBSdW5uYWJsZSBydW5uYWJsZTMgPSAoKSAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhcnRpbmcgcnVubmFibGUgMyIpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7fQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuZGluZyBydW5uYWJsZSAzIik7CiAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAvL1RocmVhZCB0aHJlYWQxID0gbmV3IFRocmVhZChydW5uYWJsZTEpOwogICAgICAgIC8vVGhyZWFkIHRocmVhZDIgPSBuZXcgVGhyZWFkKHJ1bm5hYmxlMik7CiAgICAgICAgLy9UaHJlYWQgdGhyZWFkMyA9IG5ldyBUaHJlYWQocnVubmFibGUzKTsKICAgICAgICAvL3RocmVhZDEuc3RhcnQoKTsKICAgICAgICAvL3RocmVhZDIuc3RhcnQoKTsKICAgICAgICAvL3RocmVhZDMuc3RhcnQoKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBSdW5uYWJsZSBydW5uYWJsZTEgPSAoKSAtPiB7CiAgICAgICAgfTsKICAgICAgICBSdW5uYWJsZSBydW5uYWJsZTIgPSAoKSAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhcnRpbmcgcnVubmFibGUgMiIpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7fQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuZGluZyBydW5uYWJsZSAyIik7CiAgICAgICAgfTsKICAgICAgICBSdW5uYWJsZSBydW5uYWJsZTMgPSAoKSAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhcnRpbmcgcnVubmFibGUgMyIpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7fQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuZGluZyBydW5uYWJsZSAzIik7CiAgICAgICAgfTsK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdGFydGluZyBydW5uYWJsZSAxIik7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHt9CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZW5kaW5nIHJ1bm5hYmxlIDEiKTsK</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text>runnable1.run();
 runnable2.run();
 runnable3.run();</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjMuMS5SRUxFQVNFPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgI3Byb3RvY29sOiBTQVNMX1NTTAojICAgIHNzbDoKIyAgICAgIHRydXN0LXN0b3JlLWxvY2F0aW9uOiBmaWxlOi9ob21lL2xsaW4vd29yay9rYWZrYS1jb25zdW1lci9rYWZrYS9zdGctZXUtZnIva2Fma2Euc2VydmVycy50cnVzdG9yZS5qa3MKIyAgICAgIHRydXN0LXN0b3JlLXBhc3N3b3JkOiBISixtLU5INVZnY1VSa3Z6bHpMNzlDLHdsdGZQdlNwXwo=</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text>#
 #
 #</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlY3VyaXR5OgogICAgICBwcm90b2NvbDogUExBSU5URVhUCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGphYXM6CiAgICAgIGVuYWJsZWQ6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgIHNlY3VyaXR5OgogICAgICBwcm90b2NvbDogUExBSU5URVhUCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
