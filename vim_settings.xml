@@ -175,15 +175,9 @@
         <mark key="'" line="39" column="13" />
       </file>
       <file name="$USER_HOME$/work/shared-controllers/shared-controllers-spring-web/src/main/java/com/bioserenity/shared/controllers/spring/web/SpringWebPingController.java" timestamp="1592379800703" />
-      <file name="$USER_HOME$/work/kafka-consumer/src/main/resources/application-qal-eu-fr.yml" timestamp="1592302334188">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="60" />
-        <mark key="^" line="3" column="56" />
-        <mark key="." line="3" column="55" />
-      </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" timestamp="1592308168991" />
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/Main.java" timestamp="1592307493600" />
-      <file name="$USER_HOME$/work/shared-controllers/shared-controllers-spring-webflux/src/main/java/com/bioserenity/shared/controllers/spring/webflux/SpringSharedControllersConfig.java" timestamp="1592380188746">
+      <file name="$USER_HOME$/work/shared-controllers/shared-controllers-spring-webflux/src/main/java/com/bioserenity/shared/controllers/spring/webflux/SpringSharedControllersConfig.java" timestamp="1592381046381">
         <mark key="[" line="22" column="4" />
         <mark key="]" line="22" column="4" />
         <mark key="." line="22" column="4" />
@@ -200,6 +194,12 @@
         <mark key="]" line="1" column="75" />
         <mark key="." line="1" column="75" />
       </file>
+      <file name="$USER_HOME$/work/sample-webflux/pom.xml" timestamp="1592381059919">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="26" column="35" />
+      </file>
       <file name="$USER_HOME$/work/sample-web/pom.xml" timestamp="1592379947063">
         <mark key="[" line="24" column="21" />
         <mark key="]" line="26" column="36" />
@@ -212,8 +212,8 @@
         <mark key="." line="1" column="71" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-cli/commons-cli/1.4/commons-cli-1.4-sources.jar!/org/apache/commons/cli/DefaultParser.java" timestamp="1592308129908" />
-      <file name="/fragment.java" timestamp="1592380582322">
-        <mark key="[" line="0" column="42" />
+      <file name="/fragment.java" timestamp="1592381033327">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="42" />
       </file>
@@ -328,8 +328,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4yLjMuMS5SRUxFQVNFPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
