@@ -155,24 +155,22 @@
       </file>
       <file name="/Main.java" timestamp="1592570223537" />
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/resources/application.properties" timestamp="1592570755153" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1592567257534">
-        <mark key="'" line="37" column="22" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/MessageCard.groovy" timestamp="1592573973977">
+        <mark key="'" line="6" column="11" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResultMerger.java" timestamp="1592562552177">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="22" column="8" />
-        <mark key="^" line="22" column="8" />
-        <mark key="." line="22" column="7" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/Section.groovy" timestamp="1592574322110">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="59" />
+        <mark key="." line="6" column="58" />
+        <mark key="^" line="6" column="59" />
       </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" timestamp="1592568331000">
         <mark key="'" line="35" column="26" />
       </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/test/java/com/bioserenity/bridge/mapper/CommandLineBuilderTest.java" timestamp="1592569851034" />
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/mapper/connector/KafkaToMqttConnector.java" timestamp="1592570890743" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/model/AlgoResultTest.java" timestamp="1592561815262" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1592561554623">
-        <mark key="'" line="83" column="33" />
-      </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/worker/WorkerManager.java" timestamp="1592570961948">
         <mark key="[" line="41" column="27" />
         <mark key="]" line="41" column="40" />
@@ -185,7 +183,20 @@
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" timestamp="1592570297105">
         <mark key="'" line="267" column="24" />
       </file>
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/ThemeColor.groovy" timestamp="1592573917150">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="6" />
+      </file>
       <file name="/docker-entrypoint.sh" timestamp="1592570706844" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsMessageCard.groovy" timestamp="1592573936375">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="9" column="17" />
+        <mark key="." line="9" column="16" />
+      </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/test/java/com/bioserenity/bridge/RecordMessageTest.java" timestamp="1592568924976" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1592567300384">
         <mark key="'" line="95" column="44" />
@@ -194,8 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="29" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="160" column="35" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="178" column="8" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="15" column="4" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
       <jump line="72" column="19" filename="$USER_HOME$/work/tool-analysis-benchmark/pom.xml" />
@@ -294,12 +303,14 @@
       <jump line="40" column="29" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="27" column="31" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
       <jump line="127" column="33" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
+      <jump line="8" column="13" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsMessageCard.groovy" />
+      <jump line="6" column="11" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/MessageCard.groovy" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Runnable::run</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGFja2FnZSBub3RpZmljYXRpb24udGVhbXMK</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -311,7 +322,7 @@
         <text encoding="base64">XDxSRVZFUlNFX09QVElPTlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWxBbGdvUmVzdWx0LmdldFFyc0xpc3QoKS5hZGRBbGwoYWxnb1Jlc3VsdC5nZXRRcnNMaXN0KCkpOwogICAgICAgICAgICBmaW5hbEFsZ29SZXN1bHQuZ2V0R2FwTGlzdCgpLmFkZEFsbChhbGdvUmVzdWx0LmdldEdhcExpc3QoKSk7CiAgICAgICAgICAgIGZpbmFsQWxnb1Jlc3VsdC5nZXRDaGFuZ2VMZWFkTGlzdCgpLmFkZEFsbChhbGdvUmVzdWx0LmdldENoYW5nZUxlYWRMaXN0KCkpOwogICAgICAgICAgICBmaW5hbEFsZ29SZXN1bHQuZ2V0U3RTZWdtZW50TGlzdCgpLmFkZEFsbChhbGdvUmVzdWx0LmdldFN0U2VnbWVudExpc3QoKSk7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBub3RpZmljYXRpb24udGVhbXMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBBbGdvUmVzdWx0IGZpbmFsQWxnb1Jlc3VsdCA9IG5ldyBBbGdvUmVzdWx0KCk7Cg==</text>
