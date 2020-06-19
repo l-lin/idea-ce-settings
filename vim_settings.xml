@@ -163,8 +163,8 @@
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/DeployHelper.groovy" timestamp="1592574671167">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/DeployNotifier.groovy" timestamp="1592576367420">
-        <mark key="[" line="4" column="2" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/DeployNotifier.groovy" timestamp="1592577625550">
+        <mark key="[" line="4" column="46" />
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="6" />
         <mark key="^" line="4" column="7" />
@@ -187,6 +187,9 @@
         <mark key="]" line="30" column="48" />
         <mark key="^" line="30" column="53" />
         <mark key="." line="30" column="48" />
+      </file>
+      <file name="/Dummy.groovy" timestamp="1592577618782">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" timestamp="1592577073180" />
       <file name="$USER_HOME$/work/cloud-software-factory/content.json" timestamp="1592574624599">
@@ -218,25 +221,18 @@
         <mark key="^" line="2" column="6" />
         <mark key="." line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsDeployNotifier.groovy" timestamp="1592576743808">
-        <mark key="[" line="14" column="39" />
-        <mark key="]" line="10" column="19" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="18" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsMessageCard.groovy" timestamp="1592573936375">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="16" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsDeployNotifier.groovy" timestamp="1592578175755">
+        <mark key="[" line="17" column="111" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="23" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1592577271465">
         <mark key="'" line="95" column="44" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="127" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1592575483614">
+      <file name="/fragment.java" timestamp="1592577618773">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -345,14 +341,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBbGdvUmVzdWx0TWVyZ2VyIG1lcmdlRXZlbnRzKCkgewoKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IiA6ICJGQUlMRUQgLSAke2FwcE5hbWV9OiR7dmVyc2lvbn0gZmFpbGVkIHRvIGRlcGxveSB0byA=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>interface</text>
+        <text encoding="base64">IiA6ICJGQUlMRUQgLSAke2FwcE5hbWV9OiR7dmVyc2lvbn0gZmFpbGVkIHRvIGRlcGxveSB0byA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydFJlc3VsdHNcPg==</text>
