@@ -20,11 +20,11 @@
         <entry encoding="base64">XDxWZXJzaW9uTnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50RGV0ZWN0ZWRFdmVudHNcPg==</entry>
         <entry encoding="base64">XDxkZXRlY3RlZEV2ZW50c1w+</entry>
-        <entry encoding="base64">XDxldmVudExpc3RcPg==</entry>
         <entry encoding="base64">XDxhbGdvUmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydFJlc3VsdHNcPg==</entry>
         <entry encoding="base64">XDxyZXN1bHRzQnVmZmVySGVscGVyXD4=</entry>
         <entry encoding="base64">XDxyZWNvcmRFdmVudFdyaXRlclw+</entry>
+        <entry encoding="base64">XDxldmVudExpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -197,7 +197,7 @@
       <file name="$USER_HOME$/work/cloud-software-factory/test/examples/GitflowMavenHelperExample.jenkins" timestamp="1592506784937">
         <mark key="'" line="84" column="15" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1592559585904">
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1592567257534">
         <mark key="'" line="37" column="22" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResultMerger.java" timestamp="1592562552177">
@@ -206,16 +206,14 @@
         <mark key="^" line="22" column="8" />
         <mark key="." line="22" column="7" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1592562083134">
-        <mark key="'" line="46" column="25" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1592567300384">
+        <mark key="'" line="95" column="44" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="127" column="5" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessor.java" timestamp="1592559554748" />
     </filemarks>
     <jumps>
-      <jump line="236" column="29" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="136" column="8" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="61" column="16" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="125" column="12" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="145" column="111" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
@@ -283,10 +281,6 @@
       <jump line="143" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
       <jump line="147" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
       <jump line="171" column="82" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
-      <jump line="27" column="16" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
-      <jump line="37" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
-      <jump line="41" column="70" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
-      <jump line="46" column="25" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
       <jump line="57" column="51" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
       <jump line="61" column="12" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
       <jump line="66" column="66" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
@@ -314,6 +308,12 @@
       <jump line="52" column="36" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" />
       <jump line="72" column="32" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" />
       <jump line="83" column="33" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" />
+      <jump line="27" column="16" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="37" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="41" column="70" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="46" column="25" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="93" column="25" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="95" column="44" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -328,7 +328,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWNvcmRFdmVudFdyaXRlclw+</text>
+        <text encoding="base64">XDxldmVudExpc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmluYWxBbGdvUmVzdWx0LmdldFFyc0xpc3QoKS5hZGRBbGwoYWxnb1Jlc3VsdC5nZXRRcnNMaXN0KCkpOwogICAgICAgICAgICBmaW5hbEFsZ29SZXN1bHQuZ2V0R2FwTGlzdCgpLmFkZEFsbChhbGdvUmVzdWx0LmdldEdhcExpc3QoKSk7CiAgICAgICAgICAgIGZpbmFsQWxnb1Jlc3VsdC5nZXRDaGFuZ2VMZWFkTGlzdCgpLmFkZEFsbChhbGdvUmVzdWx0LmdldENoYW5nZUxlYWRMaXN0KCkpOwogICAgICAgICAgICBmaW5hbEFsZ29SZXN1bHQuZ2V0U3RTZWdtZW50TGlzdCgpLmFkZEFsbChhbGdvUmVzdWx0LmdldFN0U2VnbWVudExpc3QoKSk7Cg==</text>
@@ -367,9 +367,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxyZWNvcmRFdmVudFdyaXRlclw+</last-search>
+      <last-search encoding="base64">XDxldmVudExpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWNvcmRFdmVudFdyaXRlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxldmVudExpc3RcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
