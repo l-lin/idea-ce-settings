@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYlByb2R1Y2Vyc1w+</entry>
         <entry encoding="base64">XDxuYk1lc3NhZ2VzXD4=</entry>
         <entry encoding="base64">XDx0b3BpY3NcPg==</entry>
         <entry encoding="base64">XDxUT1BJQ19VUFw+</entry>
@@ -19,12 +18,13 @@
         <entry encoding="base64">XDxyZXN1bHRzQnVmZmVySGVscGVyXD4=</entry>
         <entry encoding="base64">XDxyZWNvcmRFdmVudFdyaXRlclw+</entry>
         <entry encoding="base64">XDxldmVudExpc3RcPg==</entry>
-        <entry encoding="base64">XDxsb2diYWNrXD4=</entry>
         <entry encoding="base64">XDxSRVZFUlNFX09QVElPTlw+</entry>
         <entry encoding="base64">XDxqZW5raW5zVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydFJlc3VsdHNcPg==</entry>
         <entry encoding="base64">XDxjYW5jZWxlZFw+</entry>
         <entry encoding="base64">XDx0aW1lclNhbXBsZXNcPg==</entry>
+        <entry encoding="base64">XDxsb2diYWNrXD4=</entry>
+        <entry encoding="base64">XDxlY2xpcHNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -152,9 +152,6 @@
         <mark key="^" line="14" column="59" />
         <mark key="." line="14" column="58" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferHelper.java" timestamp="1592577099460">
-        <mark key="'" line="49" column="17" />
-      </file>
       <file name="/a.dummy" timestamp="1592579417550">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="4" />
@@ -194,16 +191,16 @@
         <mark key="^" line="10" column="30" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/Section.groovy" timestamp="1592575392639">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="38" />
-        <mark key="^" line="9" column="33" />
-        <mark key="." line="6" column="38" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttKafkaApplication.java" timestamp="1592585221335">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttKafkaApplication.java" timestamp="1592580470016">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/resources/application-env.properties" timestamp="1592585798207">
+        <mark key="[" line="3" column="47" />
+        <mark key="]" line="3" column="55" />
+        <mark key="." line="3" column="54" />
+        <mark key="^" line="3" column="55" />
       </file>
       <file name="/Dummy.groovy" timestamp="1592577618782">
         <mark key="[" line="0" column="0" />
@@ -221,22 +218,34 @@
         <mark key="^" line="10" column="21" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResultMerger.java" timestamp="1592576826763">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" timestamp="1592585280749">
+        <mark key="'" line="33" column="59" />
+        <mark key="[" line="135" column="48" />
+        <mark key="]" line="135" column="48" />
+        <mark key="." line="135" column="48" />
+      </file>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/rabbitmq/init_topics.sh" timestamp="1592585875645">
+        <mark key="[" line="13" column="112" />
+        <mark key="]" line="13" column="113" />
+        <mark key="^" line="13" column="113" />
+        <mark key="." line="13" column="112" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1592577271465">
         <mark key="'" line="95" column="44" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="127" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1592579427262">
+      <file name="/fragment.java" timestamp="1592585675571">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/docker-compose.yml" timestamp="1592585561267">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="1" />
+        <mark key="^" line="53" column="1" />
+        <mark key="." line="53" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="8" filename="$USER_HOME$/work/bioserenity-processing-service/app/services/connectors/KafkaBcpConsumer.scala" />
       <jump line="16" column="8" filename="$USER_HOME$/work/bioserenity-processing-service/app/services/StreamConsumer.scala" />
       <jump line="21" column="26" filename="$USER_HOME$/work/kafka-consumer/src/main/resources/application.yml" />
       <jump line="2198" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.3.1.RELEASE/spring-boot-dependencies-2.3.1.RELEASE.pom" />
@@ -303,7 +312,6 @@
       <jump line="46" column="25" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
       <jump line="93" column="25" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
       <jump line="95" column="44" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
-      <jump line="35" column="26" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" />
       <jump line="22" column="29" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" />
       <jump line="100" column="8" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" />
       <jump line="158" column="16" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" />
@@ -336,21 +344,23 @@
       <jump line="175" column="16" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="118" column="8" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
       <jump line="30" column="44" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" />
+      <jump line="35" column="56" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" />
+      <jump line="33" column="59" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;https://web.hook&quot;)</text>
+        <text>.version</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;https://web.hook&quot;)</text>
+        <text>.version</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lclNhbXBsZXNcPg==</text>
+        <text encoding="base64">XDxlY2xpcHNlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lc3NhZ2VDYXJkLnBvdGVudGlhbEFjdGlvbnMuYWRkKG1vbml0b3JBcHBBY3Rpb24pCg==</text>
@@ -389,9 +399,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDx0aW1lclNhbXBsZXNcPg==</last-search>
+      <last-search encoding="base64">XDxlY2xpcHNlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lclNhbXBsZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxlY2xpcHNlXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
