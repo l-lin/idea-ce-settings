@@ -146,16 +146,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsDeployNotifierTest.groovy" timestamp="1592579643627">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="7" column="19" />
+        <mark key="^" line="7" column="19" />
+        <mark key="." line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferHelper.java" timestamp="1592577099460">
+        <mark key="'" line="49" column="17" />
+      </file>
       <file name="/a.dummy" timestamp="1592579417550">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/GitflowHelper.groovy" timestamp="1592575031268">
-        <mark key="'" line="324" column="105" />
-        <mark key="[" line="572" column="0" />
-        <mark key="]" line="572" column="0" />
-        <mark key="." line="572" column="0" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/DeployNotifier.groovy" timestamp="1592577625550">
         <mark key="[" line="4" column="46" />
@@ -183,44 +186,8 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/build.gradle" timestamp="1592575176147">
-        <mark key="[" line="30" column="48" />
-        <mark key="]" line="30" column="48" />
-        <mark key="^" line="30" column="53" />
-        <mark key="." line="30" column="48" />
-      </file>
       <file name="/Dummy.groovy" timestamp="1592577618782">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" timestamp="1592577073180" />
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/PotentialAction.groovy" timestamp="1592578990654">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="10" column="21" />
-        <mark key="^" line="10" column="21" />
-        <mark key="." line="10" column="20" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/DeployNotifier.groovy" timestamp="1592575195121">
-        <mark key="'" line="7" column="47" />
-        <mark key="[" line="7" column="47" />
-        <mark key="]" line="7" column="47" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="47" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResultMerger.java" timestamp="1592576826763">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1592577404533" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/model/AlgoResultTest.java" timestamp="1592577353601" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferHelper.java" timestamp="1592577099460">
-        <mark key="'" line="49" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/Fact.groovy" timestamp="1592575297048">
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="5" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsDeployNotifier.groovy" timestamp="1592579408452">
         <mark key="'" line="25" column="0" />
@@ -228,6 +195,17 @@
         <mark key="]" line="17" column="79" />
         <mark key="^" line="17" column="79" />
         <mark key="." line="17" column="78" />
+      </file>
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/PotentialAction.groovy" timestamp="1592578990654">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResultMerger.java" timestamp="1592576826763">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1592577271465">
         <mark key="'" line="95" column="44" />
