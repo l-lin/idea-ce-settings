@@ -163,11 +163,11 @@
         <mark key="]" line="577" column="3" />
         <mark key="." line="573" column="0" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsMessageCard.groovy" timestamp="1592506983884">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="2" column="91" />
-        <mark key="^" line="2" column="8" />
-        <mark key="." line="2" column="91" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsMessageCard.groovy" timestamp="1592508678461">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="1" column="39" />
+        <mark key="^" line="1" column="39" />
+        <mark key="." line="1" column="38" />
       </file>
       <file name="$USER_HOME$/work/bridges-manager/pom.xml" timestamp="1592497051370">
         <mark key="[" line="91" column="24" />
@@ -180,6 +180,7 @@
         <mark key="]" line="117" column="0" />
         <mark key="." line="117" column="0" />
       </file>
+      <file name="$USER_HOME$/work/cloud-software-factory/test/GitflowJsHelperTest.groovy" timestamp="1592508853834" />
       <file name="$USER_HOME$/work/cloud-software-factory/src/GitflowMavenHelper.groovy" timestamp="1592506859676" />
       <file name="$USER_HOME$/work/bridges-manager/src/main/java/com/bioserenity/bridgemqttkafka/worker/Worker.java" timestamp="1592407304564">
         <mark key="[" line="21" column="61" />
@@ -202,11 +203,12 @@
         <mark key="." line="57" column="24" />
         <mark key="^" line="57" column="25" />
       </file>
-      <file name="$USER_HOME$/work/bridges-manager/src/main/java/com/bioserenity/bridgemqttkafka/worker/Foobar.java" timestamp="1592389290369">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="22" column="47" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsMessageCard.groovy" timestamp="1592508911361">
+        <mark key="'" line="8" column="1" />
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/test/examples/GitflowMavenHelperExample.jenkins" timestamp="1592506784937">
         <mark key="'" line="84" column="15" />
@@ -218,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="32" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" />
       <jump line="14" column="14" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/consumers/services/KafkaJobProducer.scala" />
       <jump line="39" column="0" filename="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" />
       <jump line="9" column="0" filename="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" />
@@ -318,18 +319,19 @@
       <jump line="94" column="15" filename="$USER_HOME$/work/cloud-software-factory/test/examples/GitflowMavenHelperExample.jenkins" />
       <jump line="84" column="15" filename="$USER_HOME$/work/cloud-software-factory/test/examples/GitflowMavenHelperExample.jenkins" />
       <jump line="72" column="15" filename="$USER_HOME$/work/cloud-software-factory/src/GitflowSBTHelper.groovy" />
+      <jump line="6" column="1" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsMessageCard.groovy" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWZXJzaW9uTnVtYmVyXD4=</text>
@@ -338,33 +340,31 @@
         <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZWFkMSA9IG5ldyBUaHJlYWQocnVubmFibGUxKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmIG5vdGlmeU1pY3Jvc29mdFdlYmhvb2soU3RyaW5nIHdlYmhvb2tVcmwsIFN0cmluZyBhcHBOYW1lLCBTdHJpbmcgdmVyc2lvbiwgYm9vbGVhbiBpc1N1Y2Nlc3MpIHsKICAgIGRlZiBjYXJkQ29udGVudCA9ICJ7fSIKCiAgICBzaCAiIiIKIiIiCn0K</text>
+        <text encoding="base64">ICogU2VlCiAqIHtAbGluayB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAp9</text>
+        <text encoding="base64">ZGVmIG5vdGlmeU1pY3Jvc29mdFdlYmhvb2soU3RyaW5nIHdlYmhvb2tVcmwsIFN0cmluZyBhcHBOYW1lLCBTdHJpbmcgdmVyc2lvbiwgYm9vbGVhbiBpc1N1Y2Nlc3MpIHsKICAgIGRlZiBjYXJkQ29udGVudCA9ICJ7fSIKCiAgICBzaCAiIiIKIiIiCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVudi5EUllfUlVOID09ICJ0cnVlIiAmJiBlbnYuV0VCSE9PSyAhPSAiIikgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">IAp9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcmlwdCB7CiAgICAgICAgICAgICAgICAgICAgc2gKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVudi5EUllfUlVOID09ICJ0cnVlIiAmJiBlbnYuV0VCSE9PSyAhPSAiIikgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y2gucW9zLmxvZ2JhY2s8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bG9nYmFjay1jbGFzc2ljPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjcmlwdCB7CiAgICAgICAgICAgICAgICAgICAgc2gKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RocmVhZCB0aHJlYWQxID0gbmV3IFRocmVhZChydW5uYWJsZTEpOwogICAgICAgIC8vVGhyZWFkIHRocmVhZDIgPSBuZXcgVGhyZWFkKHJ1bm5hYmxlMik7CiAgICAgICAgLy9UaHJlYWQgdGhyZWFkMyA9IG5ldyBUaHJlYWQocnVubmFibGUzKTsKICAgICAgICAvL3RocmVhZDEuc3RhcnQoKTsKICAgICAgICAvL3RocmVhZDIuc3RhcnQoKTsKICAgICAgICAvL3RocmVhZDMuc3RhcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxleGNsdXNpb24+CiAgICAgICAgICAgICAgICAgICAgPGdyb3VwSWQ+Y2gucW9zLmxvZ2JhY2s8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bG9nYmFjay1jbGFzc2ljPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPC9leGNsdXNpb24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSdW5uYWJsZSBydW5uYWJsZTEgPSAoKSAtPiB7CiAgICAgICAgfTsKICAgICAgICBSdW5uYWJsZSBydW5uYWJsZTIgPSAoKSAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhcnRpbmcgcnVubmFibGUgMiIpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7fQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuZGluZyBydW5uYWJsZSAyIik7CiAgICAgICAgfTsKICAgICAgICBSdW5uYWJsZSBydW5uYWJsZTMgPSAoKSAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhcnRpbmcgcnVubmFibGUgMyIpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7fQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuZGluZyBydW5uYWJsZSAzIik7CiAgICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAvL1RocmVhZCB0aHJlYWQxID0gbmV3IFRocmVhZChydW5uYWJsZTEpOwogICAgICAgIC8vVGhyZWFkIHRocmVhZDIgPSBuZXcgVGhyZWFkKHJ1bm5hYmxlMik7CiAgICAgICAgLy9UaHJlYWQgdGhyZWFkMyA9IG5ldyBUaHJlYWQocnVubmFibGUzKTsKICAgICAgICAvL3RocmVhZDEuc3RhcnQoKTsKICAgICAgICAvL3RocmVhZDIuc3RhcnQoKTsKICAgICAgICAvL3RocmVhZDMuc3RhcnQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdGFydGluZyBydW5uYWJsZSAxIik7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHt9CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZW5kaW5nIHJ1bm5hYmxlIDEiKTsK</text>
+        <text encoding="base64">ICAgICAgICBSdW5uYWJsZSBydW5uYWJsZTEgPSAoKSAtPiB7CiAgICAgICAgfTsKICAgICAgICBSdW5uYWJsZSBydW5uYWJsZTIgPSAoKSAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhcnRpbmcgcnVubmFibGUgMiIpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7fQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuZGluZyBydW5uYWJsZSAyIik7CiAgICAgICAgfTsKICAgICAgICBSdW5uYWJsZSBydW5uYWJsZTMgPSAoKSAtPiB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigic3RhcnRpbmcgcnVubmFibGUgMyIpOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7fQogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVuZGluZyBydW5uYWJsZSAzIik7CiAgICAgICAgfTsK</text>
       </register>
-      <register name="9" type="8">
-        <text>runnable1.run();
-runnable2.run();
-runnable3.run();</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJzdGFydGluZyBydW5uYWJsZSAxIik7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludGVycnVwdGVkRXhjZXB0aW9uIGUpIHt9CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZW5kaW5nIHJ1bm5hYmxlIDEiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
