@@ -21,10 +21,10 @@
         <entry encoding="base64">XDxyZWNvcmRFdmVudFdyaXRlclw+</entry>
         <entry encoding="base64">XDxldmVudExpc3RcPg==</entry>
         <entry encoding="base64">XDxsb2diYWNrXD4=</entry>
-        <entry encoding="base64">XDxjYW5jZWxlZFw+</entry>
         <entry encoding="base64">XDxSRVZFUlNFX09QVElPTlw+</entry>
         <entry encoding="base64">XDxqZW5raW5zVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydFJlc3VsdHNcPg==</entry>
+        <entry encoding="base64">XDxjYW5jZWxlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -160,6 +160,16 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" timestamp="1592580177330">
+        <mark key="'" line="118" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeFactory.java" timestamp="1592580304058">
+        <mark key="[" line="33" column="65" />
+        <mark key="]" line="33" column="65" />
+        <mark key="." line="33" column="65" />
+        <mark key="^" line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" timestamp="1592580254035" />
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/DeployNotifier.groovy" timestamp="1592577625550">
         <mark key="[" line="4" column="46" />
         <mark key="]" line="4" column="7" />
@@ -185,6 +195,11 @@
         <mark key="]" line="6" column="38" />
         <mark key="^" line="9" column="33" />
         <mark key="." line="6" column="38" />
+      </file>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttKafkaApplication.java" timestamp="1592580470016">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="/Dummy.groovy" timestamp="1592577618782">
         <mark key="[" line="0" column="0" />
@@ -217,8 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="4" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
-      <jump line="39" column="0" filename="$USER_HOME$/work/tool-analysis-benchmark/src/main/java/com/bioserenity/benchmark/Main.java" />
       <jump line="17" column="23" filename="$USER_HOME$/work/demo/pom.xml" />
       <jump line="24" column="8" filename="$USER_HOME$/work/bioserenity-processing-service/app/services/connectors/KafkaBcpConsumer.scala" />
       <jump line="16" column="8" filename="$USER_HOME$/work/bioserenity-processing-service/app/services/StreamConsumer.scala" />
@@ -317,51 +330,53 @@
       <jump line="5" column="2" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/OpenUriPotentialAction.groovy" />
       <jump line="17" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsDeployNotifier.groovy" />
       <jump line="25" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsDeployNotifier.groovy" />
+      <jump line="175" column="16" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
+      <jump line="118" column="8" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBtZXNzYWdlQ2FyZCA9IG5ldyBNZXNzYWdlQ2FyZCgpCiAgICBtZXNzYWdlQ2FyZC50aXRsZSA9IGlzU3VjY2VzcyA/ICIqKlNVQ0NFU1MqKiIgOiAiKipGQUlMKioiICsgIi0gJHthcHBOYW1lfToke3ZlcnNpb259IGRlcGxveWVkIHRvICR7ZW52aXJvbm1lbnR9IDpva19oYW5kOiIKICAgIG1lc3NhZ2VDYXJkLnRleHQgPSBtZXNzYWdlQ2FyZC50aXRsZQogICAgbWVzc2FnZUNhcmQudGhlbWVDb2xvciA9IGlzU3VjY2VzcyA/IFNVQ0NFU1NfQ09MT1IgOiBGQUlMX0NPTE9SCiAgICBkZWYgc2VjdGlvbiA9IG5ldyBTZWN0aW9uKCkKICAgIHNlY3Rpb24uYWRkRmFjdCgiYXBwIiwgYXBwTmFtZSkKICAgIHNlY3Rpb24uYWRkRmFjdCgidmVyc2lvbiIsIHZlcnNpb24pCiAgICBzZWN0aW9uLmFkZEZhY3QoImVudmlyb25tZW50IiwgZW52aXJvbm1lbnQpCiAgICBtZXNzYWdlQ2FyZC5zZWN0aW9ucy5hZGQoc2VjdGlvbikKICAgIGRlZiBsb2dzQXBwQWN0aW9uID0gbmV3IE9wZW5VcmlQb3RlbnRpYWxBY3Rpb24oKQogICAgbG9nc0FwcEFjdGlvbi5uYW1lID0gIlZpZXcgbG9ncyIKICAgIGxvZ3NBcHBBY3Rpb24udGFyZ2V0cy5hZGQobmV3IE9wZW5VcmlQb3RlbnRpYWxBY3Rpb24uVGFyZ2V0KGxvZ3NBcHBVcmwpKQogICAgZGVmIG1vbml0b3JBcHBBY3Rpb24gPSBuZXcgT3BlblVyaVBvdGVudGlhbEFjdGlvbigpCiAgICBtb25pdG9yQXBwQWN0aW9uLm5hbWUgPSAiVmlldyBtb25pdG9yaW5nIgogICAgbW9uaXRvckFwcEFjdGlvbi50YXJnZXRzLmFkZChuZXcgT3BlblVyaVBvdGVudGlhbEFjdGlvbi5UYXJnZXQobW9uaXRvcmluZ0FwcFVybCkpCiAgICBtZXNzYWdlQ2FyZC5wb3RlbnRpYWxBY3Rpb25zLmFkZChsb2dzQXBwQWN0aW9uKQogICAgbWVzc2FnZUNhcmQucG90ZW50aWFsQWN0aW9ucy5hZGQobW9uaXRvckFwcEFjdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy87CiAgICAgICAgLy99KTsK</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>monitorAppAction</text>
+        <text>workerList.forEach(Cancelable::cancel)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydFJlc3VsdHNcPg==</text>
+        <text encoding="base64">XDxjYW5jZWxlZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lc3NhZ2VDYXJkLnBvdGVudGlhbEFjdGlvbnMuYWRkKG1vbml0b3JBcHBBY3Rpb24pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiBtZXNzYWdlQ2FyZCA9IG5ldyBNZXNzYWdlQ2FyZCgpCiAgICBtZXNzYWdlQ2FyZC50aXRsZSA9IGlzU3VjY2VzcyA/ICIqKlNVQ0NFU1MqKiIgOiAiKipGQUlMKioiICsgIi0gJHthcHBOYW1lfToke3ZlcnNpb259IGRlcGxveWVkIHRvICR7ZW52aXJvbm1lbnR9IDpva19oYW5kOiIKICAgIG1lc3NhZ2VDYXJkLnRleHQgPSBtZXNzYWdlQ2FyZC50aXRsZQogICAgbWVzc2FnZUNhcmQudGhlbWVDb2xvciA9IGlzU3VjY2VzcyA/IFNVQ0NFU1NfQ09MT1IgOiBGQUlMX0NPTE9SCiAgICBkZWYgc2VjdGlvbiA9IG5ldyBTZWN0aW9uKCkKICAgIHNlY3Rpb24uYWRkRmFjdCgiYXBwIiwgYXBwTmFtZSkKICAgIHNlY3Rpb24uYWRkRmFjdCgidmVyc2lvbiIsIHZlcnNpb24pCiAgICBzZWN0aW9uLmFkZEZhY3QoImVudmlyb25tZW50IiwgZW52aXJvbm1lbnQpCiAgICBtZXNzYWdlQ2FyZC5zZWN0aW9ucy5hZGQoc2VjdGlvbikKICAgIGRlZiBsb2dzQXBwQWN0aW9uID0gbmV3IE9wZW5VcmlQb3RlbnRpYWxBY3Rpb24oKQogICAgbG9nc0FwcEFjdGlvbi5uYW1lID0gIlZpZXcgbG9ncyIKICAgIGxvZ3NBcHBBY3Rpb24udGFyZ2V0cy5hZGQobmV3IE9wZW5VcmlQb3RlbnRpYWxBY3Rpb24uVGFyZ2V0KGxvZ3NBcHBVcmwpKQogICAgZGVmIG1vbml0b3JBcHBBY3Rpb24gPSBuZXcgT3BlblVyaVBvdGVudGlhbEFjdGlvbigpCiAgICBtb25pdG9yQXBwQWN0aW9uLm5hbWUgPSAiVmlldyBtb25pdG9yaW5nIgogICAgbW9uaXRvckFwcEFjdGlvbi50YXJnZXRzLmFkZChuZXcgT3BlblVyaVBvdGVudGlhbEFjdGlvbi5UYXJnZXQobW9uaXRvcmluZ0FwcFVybCkpCiAgICBtZXNzYWdlQ2FyZC5wb3RlbnRpYWxBY3Rpb25zLmFkZChsb2dzQXBwQWN0aW9uKQogICAgbWVzc2FnZUNhcmQucG90ZW50aWFsQWN0aW9ucy5hZGQobW9uaXRvckFwcEFjdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy87CiAgICAgICAgLy99KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBBbGdvUmVzdWx0TWVyZ2VyIG1lcmdlRXZlbnRzKCkgewoKICAgIH0K</text>
+        <text encoding="base64">ICAgIGRlZiBtZXNzYWdlQ2FyZCA9IG5ldyBNZXNzYWdlQ2FyZCgpCiAgICBtZXNzYWdlQ2FyZC50aXRsZSA9IGlzU3VjY2VzcyA/ICIqKlNVQ0NFU1MqKiIgOiAiKipGQUlMKioiICsgIi0gJHthcHBOYW1lfToke3ZlcnNpb259IGRlcGxveWVkIHRvICR7ZW52aXJvbm1lbnR9IDpva19oYW5kOiIKICAgIG1lc3NhZ2VDYXJkLnRleHQgPSBtZXNzYWdlQ2FyZC50aXRsZQogICAgbWVzc2FnZUNhcmQudGhlbWVDb2xvciA9IGlzU3VjY2VzcyA/IFNVQ0NFU1NfQ09MT1IgOiBGQUlMX0NPTE9SCiAgICBkZWYgc2VjdGlvbiA9IG5ldyBTZWN0aW9uKCkKICAgIHNlY3Rpb24uYWRkRmFjdCgiYXBwIiwgYXBwTmFtZSkKICAgIHNlY3Rpb24uYWRkRmFjdCgidmVyc2lvbiIsIHZlcnNpb24pCiAgICBzZWN0aW9uLmFkZEZhY3QoImVudmlyb25tZW50IiwgZW52aXJvbm1lbnQpCiAgICBtZXNzYWdlQ2FyZC5zZWN0aW9ucy5hZGQoc2VjdGlvbikKICAgIGRlZiBsb2dzQXBwQWN0aW9uID0gbmV3IE9wZW5VcmlQb3RlbnRpYWxBY3Rpb24oKQogICAgbG9nc0FwcEFjdGlvbi5uYW1lID0gIlZpZXcgbG9ncyIKICAgIGxvZ3NBcHBBY3Rpb24udGFyZ2V0cy5hZGQobmV3IE9wZW5VcmlQb3RlbnRpYWxBY3Rpb24uVGFyZ2V0KGxvZ3NBcHBVcmwpKQogICAgZGVmIG1vbml0b3JBcHBBY3Rpb24gPSBuZXcgT3BlblVyaVBvdGVudGlhbEFjdGlvbigpCiAgICBtb25pdG9yQXBwQWN0aW9uLm5hbWUgPSAiVmlldyBtb25pdG9yaW5nIgogICAgbW9uaXRvckFwcEFjdGlvbi50YXJnZXRzLmFkZChuZXcgT3BlblVyaVBvdGVudGlhbEFjdGlvbi5UYXJnZXQobW9uaXRvcmluZ0FwcFVybCkpCiAgICBtZXNzYWdlQ2FyZC5wb3RlbnRpYWxBY3Rpb25zLmFkZChsb2dzQXBwQWN0aW9uKQogICAgbWVzc2FnZUNhcmQucG90ZW50aWFsQWN0aW9ucy5hZGQobW9uaXRvckFwcEFjdGlvbikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWYgbm90aWZ5KFN0cmluZyBhcHBOYW1lLCBTdHJpbmcgdmVyc2lvbiwgYm9vbGVhbiBpc1N1Y2Nlc3MpIHsKICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBBbGdvUmVzdWx0TWVyZ2VyIG1lcmdlRXZlbnRzKCkgewoKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgbm90aWZ5KFN0cmluZyBhcHBOYW1lLCBTdHJpbmcgdmVyc2lvbiwgYm9vbGVhbiBpc1N1Y2Nlc3MpIHsKICAgIGRlZiBjYXJkQ29udGVudCA9ICJ7fSIKCiAgICBzaCAiIiIKY3VybCAtTCAtdiAtayAke3dlYmhvb2t9IC1kICR7Y2FyZENvbnRlbnR9CiIiIgogIH0K</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBkZWYgbm90aWZ5KFN0cmluZyBhcHBOYW1lLCBTdHJpbmcgdmVyc2lvbiwgYm9vbGVhbiBpc1N1Y2Nlc3MpIHsKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpCg==</text>
+        <text encoding="base64">ICBkZWYgbm90aWZ5KFN0cmluZyBhcHBOYW1lLCBTdHJpbmcgdmVyc2lvbiwgYm9vbGVhbiBpc1N1Y2Nlc3MpIHsKICAgIGRlZiBjYXJkQ29udGVudCA9ICJ7fSIKCiAgICBzaCAiIiIKY3VybCAtTCAtdiAtayAke3dlYmhvb2t9IC1kICR7Y2FyZENvbnRlbnR9CiIiIgogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBjYXJkQ29udGVudCA9ICJ7fSIKCiAgICBzaCAiIiIKY3VybCAtTCAtdiAtayAke3dlYmhvb2t9IC1kICR7Y2FyZENvbnRlbnR9CiIiIgogIH0K</text>
+        <text encoding="base64">ICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTdHJpbmcgd2ViaG9vawogIFN0cmluZyBhcHAKICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpCgo=</text>
+        <text encoding="base64">ICAgIGRlZiBjYXJkQ29udGVudCA9ICJ7fSIKCiAgICBzaCAiIiIKY3VybCAtTCAtdiAtayAke3dlYmhvb2t9IC1kICR7Y2FyZENvbnRlbnR9CiIiIgogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZhY3RzLnB1dChrZXksIHZhbHVlKQo=</text>
+        <text encoding="base64">ICBTdHJpbmcgd2ViaG9vawogIFN0cmluZyBhcHAKICBPYmplY3RNYXBwZXIgb2JqZWN0TWFwcGVyID0gbmV3IE9iamVjdE1hcHBlcigpCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgbm90aWZ5TWljcm9zb2Z0V2ViaG9vayhTdHJpbmcgd2ViaG9va1VybCwgU3RyaW5nIGFwcE5hbWUsIFN0cmluZyB2ZXJzaW9uLCBib29sZWFuIGlzU3VjY2VzcykgewogICAgZGVmIGNhcmRDb250ZW50ID0gInt9IgoKICAgIHNoICIiIgoiIiIKICB9Cg==</text>
+        <text encoding="base64">ICAgIGZhY3RzLnB1dChrZXksIHZhbHVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -370,9 +385,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydFJlc3VsdHNcPg==</last-search>
+      <last-search encoding="base64">XDxjYW5jZWxlZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydFJlc3VsdHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjYW5jZWxlZFw+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
