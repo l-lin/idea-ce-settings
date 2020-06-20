@@ -190,6 +190,12 @@
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/DateInput.groovy" timestamp="1592649112051">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" timestamp="1592661059301">
+        <mark key="[" line="21" column="48" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="24" column="31" />
+      </file>
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/InvokeAddInCommandPotentialAction.groovy" timestamp="1592649133836">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="7" column="42" />
@@ -202,12 +208,12 @@
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/var/notifyTeams.groovy" timestamp="1592660528066">
-        <mark key="'" line="1" column="27" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="48" />
-        <mark key="^" line="1" column="48" />
-        <mark key="." line="1" column="47" />
+      <file name="$USER_HOME$/work/cloud-software-factory/var/notifyTeams.groovy" timestamp="1592661957395">
+        <mark key="'" line="3" column="27" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="57" />
+        <mark key="^" line="4" column="56" />
+        <mark key="." line="4" column="55" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsDeployNotifier.groovy" timestamp="1592653945304">
         <mark key="'" line="16" column="9" />
@@ -229,13 +235,16 @@
         <mark key="^" line="21" column="178" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/Input.groovy" timestamp="1592649086268">
-        <mark key="[" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1592659889106">
         <mark key="'" line="350" column="4" />
         <mark key="[" line="360" column="0" />
         <mark key="]" line="360" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/cloud-software-factory/test/TeamsDeployNotifierTest.groovy" timestamp="1592661715572">
+        <mark key="[" line="48" column="17" />
+        <mark key="]" line="48" column="18" />
+        <mark key="." line="48" column="18" />
+        <mark key="^" line="35" column="75" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/TextInput.groovy" timestamp="1592649100264">
         <mark key="[" line="3" column="0" />
@@ -243,21 +252,22 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" timestamp="1592658830001">
-        <mark key="[" line="21" column="42" />
-        <mark key="]" line="22" column="50" />
-        <mark key="." line="22" column="49" />
-        <mark key="^" line="22" column="50" />
+      <file name="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" timestamp="1592662556859">
+        <mark key="'" line="19" column="26" />
+        <mark key="[" line="48" column="42" />
+        <mark key="]" line="48" column="46" />
+        <mark key="." line="48" column="45" />
+        <mark key="^" line="48" column="46" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsDeployNotifierExample.jenkins" timestamp="1592653766933">
-        <mark key="'" line="12" column="10" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsDeployNotifierExample.jenkins" timestamp="1592661183158">
+        <mark key="'" line="9" column="10" />
+        <mark key="[" line="2" column="137" />
+        <mark key="]" line="2" column="194" />
+        <mark key="." line="2" column="137" />
+        <mark key="^" line="2" column="137" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="66" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
       <jump line="70" column="12" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
       <jump line="74" column="36" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
       <jump line="79" column="12" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
@@ -357,51 +367,52 @@
       <jump line="386" column="4" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="350" column="4" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="1" column="27" filename="$USER_HOME$/work/cloud-software-factory/var/notifyTeams.groovy" />
+      <jump line="19" column="26" filename="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGVudi5XRUJIT09LICE9ICIiKSB7CiAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgIG5vdGlmaWVyLm1ldHJpY3NVcmwgPSBlbnYuTUVUUklDU19VUkwKICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIGZhbHNlKQogICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBlbnYuQVBQX05BTUUgPSAndGVhbXMtbm90aWZpY2F0aW9uLXNhbXBsZScKICAgICAgICBlbnYuQVBQX1ZFUlNJT04gPSAnMS4yLjMtU05BUFNIT1QnCiAgICAgICAgZW52LkJJT1NFUkVOSVRZX0VOVklST05NRU5UID0gJ3Rlc3QtZXUtZnInCg==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Send teams notification</text>
+        <text>isSuccess</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2NyaXB0IHsKICAgICAgICBpZiAoZW52LldFQkhPT0sgIT0gIiIpIHsKICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHRoaXMsIGVudi5XRUJIT09LKQogICAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgICAgbm90aWZpZXIubWV0cmljc1VybCA9IGVudi5NRVRSSUNTX1VSTAogICAgICAgICAgbm90aWZpZXIuYnVpbGRVcmwgPSBlbnYuQlVJTERfVVJMCiAgICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIHRydWUpCiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKGVudi5XRUJIT09LLCBlbnYuQlVJTERfVVJMLCBlbnYuTE9HU19VUkwsIGVudi5NRVRSSUNTX1VSTCkKICAgICAgICAgIG5vdGlmaWVyLnNlbmQoZW52LkFQUF9OQU1FLCBlbnYuVkVSU0lPTiwgZW52LkJJT1NFUkVOSVRZX0VOVklST05NRU5ULCB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGVudi5XRUJIT09LICE9ICIiKSB7CiAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgIG5vdGlmaWVyLm1ldHJpY3NVcmwgPSBlbnYuTUVUUklDU19VUkwKICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIGZhbHNlKQogICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBlbnYuQVBQX05BTUUgPSAndGVhbXMtbm90aWZpY2F0aW9uLXNhbXBsZScKICAgICAgICBlbnYuQVBQX1ZFUlNJT04gPSAnMS4yLjMtU05BUFNIT1QnCiAgICAgICAgZW52LkJJT1NFUkVOSVRZX0VOVklST05NRU5UID0gJ3Rlc3QtZXUtZnInCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGVudi5XRUJIT09LICE9ICIiKSB7CiAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgIG5vdGlmaWVyLm1ldHJpY3NVcmwgPSBlbnYuTUVUUklDU19VUkwKICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIHRydWUpCiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHdlYmhvb2ssIGJ1aWxkVXJsLCBsb2dzVXJsLCBtZXRyaWNzVXJsKQogICAgICAgICAgbm90aWZpZXIuc2VuZChhcHBOYW1lLCB2ZXJzaW9uLCBlbnZpcm9ubWVudCwgaXNTdWNjZXNzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2NyaXB0IHsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHRoaXMsIGVudi5XRUJIT09LKQogICAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgICAgbm90aWZpZXIubWV0cmljc1VybCA9IGVudi5NRVRSSUNTX1VSTAogICAgICAgICAgbm90aWZpZXIuYnVpbGRVcmwgPSBlbnYuQlVJTERfVVJMCiAgICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIGZhbHNlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZW52LldFQkhPT0sgIT0gIiIpIHsKICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHRoaXMsIGVudi5XRUJIT09LKQogICAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgICAgbm90aWZpZXIubWV0cmljc1VybCA9IGVudi5NRVRSSUNTX1VSTAogICAgICAgICAgbm90aWZpZXIuYnVpbGRVcmwgPSBlbnYuQlVJTERfVVJMCiAgICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIHRydWUpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5vdGlmeVRlYW1zIHN0ZXBzOiB0aGlzLCB3ZWJob29rOiBlbnYuV0VCSE9PSyAsIGJ1aWxkVXJsOiBlbnYuQlVJTERfVVJMLCBsb2dzVXJsOiBlbnYuTE9HU19VUkwsIG1ldHJpY3NVcmw6IGVudi5NRVRSSUNTX1VSTAogICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgICBub3RpZmllci5sb2dzVXJsID0gZW52LkxPR1NfVVJMCiAgICAgICAgICBub3RpZmllci5tZXRyaWNzVXJsID0gZW52Lk1FVFJJQ1NfVVJMCiAgICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICAgIG5vdGlmaWVyLnNlbmQoZW52LkFQUF9OQU1FLCBlbnYuQVBQX1ZFUlNJT04sIGVudi5CSU9TRVJFTklUWV9FTlZJUk9OTUVOVCwgdHJ1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWVyLmxvZ3NVcmwgPSAiaHR0cHM6Ly9sb2dzLnRlc3QiCiAgICBub3RpZmllci5tZXRyaWNzVXJsID0gImh0dHBzOi8vbWV0cmljcy50ZXN0Igo=</text>
+        <text encoding="base64">ICAgIG5vdGlmaWVyLmxvZ3NVcmwgPSAKICAgIG5vdGlmaWVyLm1ldHJpY3NVcmwgPSAKICAgIG5vdGlmaWVyLmJ1aWxkVXJsID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChsb2dzVXJsICE9IG51bGwgJiYgIWxvZ3NVcmwuaXNCbGFuaygpKSB7CiAgICAgIGRlZiBsb2dzQXBwQWN0aW9uID0gbmV3IE9wZW5VcmlQb3RlbnRpYWxBY3Rpb24oKQogICAgICBsb2dzQXBwQWN0aW9uLm5hbWUgPSAiQ2hlY2sgbG9ncyIKICAgICAgbG9nc0FwcEFjdGlvbi5hZGRUYXJnZXQobG9nc1VybCkKICAgICAgbWVzc2FnZUNhcmQucG90ZW50aWFsQWN0aW9uLmFkZChsb2dzQXBwQWN0aW9uKQogICAgfQoKICAgIGlmIChtZXRyaWNzVXJsICE9IG51bGwgJiYgIW1ldHJpY3NVcmwuaXNCbGFuaygpKSB7CiAgICAgIGRlZiBtb25pdG9yQXBwQWN0aW9uID0gbmV3IE9wZW5VcmlQb3RlbnRpYWxBY3Rpb24oKQogICAgICBtb25pdG9yQXBwQWN0aW9uLm5hbWUgPSAiQ2hlY2sgbWV0cmljcyIKICAgICAgbW9uaXRvckFwcEFjdGlvbi5hZGRUYXJnZXQobWV0cmljc1VybCkKICAgICAgbWVzc2FnZUNhcmQucG90ZW50aWFsQWN0aW9uLmFkZChtb25pdG9yQXBwQWN0aW9uKQogICAgfQoK</text>
+        <text encoding="base64">ICBTdHJpbmcgYnVpbGRVcmwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIE1pY3Jvc29mdCB0ZWFtcyBjYXJkIHJlcHJlc2VudGF0aW9uLgogKi8K</text>
+        <text encoding="base64">ICAgICAgaWYgKGVudi5XRUJIT09LICE9ICIiKSB7CiAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgIG5vdGlmaWVyLm1ldHJpY3NVcmwgPSBlbnYuTUVUUklDU19VUkwKICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIGZhbHNlKQogICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWVyLmxvZ3NBcHBVcmwgPSAiaHR0cHM6Ly9sb2cuYXBwIgogICAgbm90aWZpZXIubW9uaXRvcmluZ0FwcFVybCA9ICJodHRwczovL21vbml0b3JpbmcuYXBwIgo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGVudi5XRUJIT09LICE9ICIiKSB7CiAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgIG5vdGlmaWVyLm1ldHJpY3NVcmwgPSBlbnYuTUVUUklDU19VUkwKICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIHRydWUpCiAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogU2VlIDxhIGhyZWY9Imh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL291dGxvb2svYWN0aW9uYWJsZS1tZXNzYWdlcy9tZXNzYWdlLWNhcmQtcmVmZXJlbmNlI2NhcmQtZmllbGRzIj5NaWNyb3NvZnQgbWVzc2FnZSBjYXJkIHJlZmVyZW5jZTwvYT4K</text>
+        <text encoding="base64">ICAgICAgc2NyaXB0IHsKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
