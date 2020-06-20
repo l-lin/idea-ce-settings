@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="Jenkinsfile-stg-eu-fr" type="Groovy" />
       <mapping pattern="Jenkinsfile-qualification" type="Groovy" />
       <mapping ext="jenkins" type="Groovy" />

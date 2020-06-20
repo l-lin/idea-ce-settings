@@ -5,9 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21tYW5kTGluZVw+</entry>
-        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
-        <entry encoding="base64">XDxjbWRMaW5lU3ludGF4XD4=</entry>
         <entry encoding="base64">XDxWZXJzaW9uTnVtYmVyXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50RGV0ZWN0ZWRFdmVudHNcPg==</entry>
         <entry encoding="base64">XDxkZXRlY3RlZEV2ZW50c1w+</entry>
@@ -25,6 +22,9 @@
         <entry encoding="base64">XDxsb2dzQXBwVXJsXD4=</entry>
         <entry encoding="base64">XDxHaXRmbG93SGVscGVyXD4=</entry>
         <entry encoding="base64">XDxHaXRmbG93TWF2ZW5IZWxwZXJcPg==</entry>
+        <entry encoding="base64">XDxXRUJIT09LXD4=</entry>
+        <entry encoding="base64">XDxqc29uR3Jvb3Z5U2NyaXB0XD4=</entry>
+        <entry encoding="base64">XDxWZXJzaW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,37 +146,37 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/Jenkinsfile" timestamp="1592652530589">
+      <file name="$USER_HOME$/work/fota-service/Jenkinsfile" timestamp="1592652697277">
         <mark key="'" line="4" column="7" />
-        <mark key="[" line="20" column="58" />
-        <mark key="]" line="23" column="24" />
-        <mark key="^" line="23" column="24" />
-        <mark key="." line="23" column="23" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="25" />
+        <mark key="^" line="22" column="96" />
+        <mark key="." line="22" column="95" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsDeployNotifierTest.groovy" timestamp="1592649657684">
-        <mark key="'" line="58" column="46" />
-        <mark key="[" line="58" column="42" />
-        <mark key="]" line="58" column="47" />
-        <mark key="." line="58" column="46" />
-        <mark key="^" line="58" column="47" />
+      <file name="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsDeployNotifierTest.groovy" timestamp="1592654042773">
+        <mark key="'" line="21" column="25" />
+        <mark key="[" line="33" column="17" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="59" column="538" />
       </file>
       <file name="/a.dummy" timestamp="1592649595337">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/DeployNotifier.groovy" timestamp="1592649196205">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="65" />
-        <mark key="." line="3" column="64" />
-        <mark key="^" line="3" column="65" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/DeployNotifier.groovy" timestamp="1592652920000">
+        <mark key="[" line="7" column="8" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="8" column="1" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/test/GitflowHelperTest.groovy" timestamp="1592649944169">
         <mark key="'" line="156" column="0" />
         <mark key="[" line="160" column="108" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsNotifier.groovy" timestamp="1592649386100">
-        <mark key="[" line="7" column="6" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsNotifier.groovy" timestamp="1592652903550">
+        <mark key="[" line="21" column="7" />
         <mark key="]" line="7" column="12" />
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="12" />
@@ -202,12 +202,12 @@
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="60" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsDeployNotifier.groovy" timestamp="1592649450313">
-        <mark key="'" line="15" column="9" />
-        <mark key="[" line="7" column="92" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="8" column="3" />
-        <mark key="." line="8" column="2" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsDeployNotifier.groovy" timestamp="1592653945304">
+        <mark key="'" line="16" column="9" />
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="53" column="23" />
+        <mark key="^" line="48" column="44" />
+        <mark key="." line="53" column="23" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/HttpPOSTPotentialAction.groovy" timestamp="1592649062085">
         <mark key="[" line="3" column="0" />
@@ -230,6 +230,13 @@
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/Input.groovy" timestamp="1592649086268">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1592653260819">
+        <mark key="'" line="133" column="19" />
+        <mark key="[" line="361" column="36" />
+        <mark key="]" line="361" column="41" />
+        <mark key="^" line="361" column="41" />
+        <mark key="." line="361" column="40" />
+      </file>
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/ActionCardPotentialCard.groovy" timestamp="1592649074310">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="9" column="50" />
@@ -248,34 +255,14 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsDeployNotifierExample.jenkins" timestamp="1592649589758">
-        <mark key="'" line="11" column="10" />
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="45" />
-        <mark key="^" line="6" column="45" />
-        <mark key="." line="6" column="44" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/PotentialAction.groovy" timestamp="1592649045023">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="6" column="98" />
-        <mark key="." line="6" column="97" />
-        <mark key="^" line="6" column="98" />
+      <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsDeployNotifierExample.jenkins" timestamp="1592653766933">
+        <mark key="'" line="12" column="10" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="13" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="40" column="29" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="143" column="34" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="145" column="28" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="156" column="26" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="163" column="26" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="171" column="26" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="178" column="26" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="182" column="22" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="201" column="26" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="214" column="22" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="32" column="19" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="38" column="22" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
       <jump line="572" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/GitflowHelper.groovy" />
       <jump line="94" column="15" filename="$USER_HOME$/work/cloud-software-factory/test/examples/GitflowMavenHelperExample.jenkins" />
       <jump line="84" column="15" filename="$USER_HOME$/work/cloud-software-factory/test/examples/GitflowMavenHelperExample.jenkins" />
@@ -363,51 +350,64 @@
       <jump line="39" column="34" filename="$USER_HOME$/work/fota-service/Jenkinsfile" />
       <jump line="4" column="7" filename="$USER_HOME$/work/fota-service/Jenkinsfile" />
       <jump line="58" column="46" filename="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsDeployNotifierTest.groovy" />
+      <jump line="359" column="49" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="191" column="34" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="371" column="10" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="138" column="26" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="8" column="4" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="292" column="64" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="291" column="100" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="185" column="66" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="133" column="19" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="19" column="41" filename="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsDeployNotifierTest.groovy" />
+      <jump line="20" column="47" filename="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsDeployNotifierTest.groovy" />
+      <jump line="59" column="549" filename="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsDeployNotifierTest.groovy" />
+      <jump line="21" column="25" filename="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsDeployNotifierTest.groovy" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>,&quot;@type&quot;:&quot;OpenUri&quot;</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxHaXRmbG93TWF2ZW5IZWxwZXJcPg==</text>
+        <text encoding="base64">XDxWZXJzaW9uc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAVGVzdAogIHZvaWQgdGVzdERlcGxveSgpIHsKICAgIGRlZiBzY3JpcHQgPSBsb2FkU2NyaXB0KCJ0ZXN0L2V4YW1wbGVzL0dpdGZsb3dIZWxwZXJFeGFtcGxlLmplbmtpbnMiKQogICAgc2NyaXB0LmV4ZWN1dGVEZXBsb3koKQogICAgcHJpbnRDYWxsU3RhY2soKQoKICAgIGFzc2VydFNoKH4vY3VybC4qLS1kYXRhLXVybGVuY29kZS4qZmFrZUFwcC4qMy4yLjEuKkJpZy1jbG91ZF9zdGFnaW5nXC9idWlsZC8sIGhlbHBlcikKICB9Cg==</text>
+      <register name="0" type="4">
+        <text>,&quot;@type&quot;:&quot;OpenUri&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIE1pY3Jvc29mdCB0ZWFtcyBjYXJkIHJlcHJlc2VudGF0aW9uLgogKi8K</text>
+        <text encoding="base64">ICAgIG5vdGlmaWVyLmxvZ3NVcmwgPSAiaHR0cHM6Ly9sb2dzLnRlc3QiCiAgICBub3RpZmllci5tZXRyaWNzVXJsID0gImh0dHBzOi8vbWV0cmljcy50ZXN0Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWVyLmxvZ3NBcHBVcmwgPSAiaHR0cHM6Ly9sb2cuYXBwIgogICAgbm90aWZpZXIubW9uaXRvcmluZ0FwcFVybCA9ICJodHRwczovL21vbml0b3JpbmcuYXBwIgo=</text>
+        <text encoding="base64">ICAgIGlmIChsb2dzVXJsICE9IG51bGwgJiYgIWxvZ3NVcmwuaXNCbGFuaygpKSB7CiAgICAgIGRlZiBsb2dzQXBwQWN0aW9uID0gbmV3IE9wZW5VcmlQb3RlbnRpYWxBY3Rpb24oKQogICAgICBsb2dzQXBwQWN0aW9uLm5hbWUgPSAiQ2hlY2sgbG9ncyIKICAgICAgbG9nc0FwcEFjdGlvbi5hZGRUYXJnZXQobG9nc1VybCkKICAgICAgbWVzc2FnZUNhcmQucG90ZW50aWFsQWN0aW9uLmFkZChsb2dzQXBwQWN0aW9uKQogICAgfQoKICAgIGlmIChtZXRyaWNzVXJsICE9IG51bGwgJiYgIW1ldHJpY3NVcmwuaXNCbGFuaygpKSB7CiAgICAgIGRlZiBtb25pdG9yQXBwQWN0aW9uID0gbmV3IE9wZW5VcmlQb3RlbnRpYWxBY3Rpb24oKQogICAgICBtb25pdG9yQXBwQWN0aW9uLm5hbWUgPSAiQ2hlY2sgbWV0cmljcyIKICAgICAgbW9uaXRvckFwcEFjdGlvbi5hZGRUYXJnZXQobWV0cmljc1VybCkKICAgICAgbWVzc2FnZUNhcmQucG90ZW50aWFsQWN0aW9uLmFkZChtb25pdG9yQXBwQWN0aW9uKQogICAgfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogU2VlIDxhIGhyZWY9Imh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL291dGxvb2svYWN0aW9uYWJsZS1tZXNzYWdlcy9tZXNzYWdlLWNhcmQtcmVmZXJlbmNlI2NhcmQtZmllbGRzIj5NaWNyb3NvZnQgbWVzc2FnZSBjYXJkIHJlZmVyZW5jZTwvYT4K</text>
+        <text encoding="base64">LyoqCiAqIE1pY3Jvc29mdCB0ZWFtcyBjYXJkIHJlcHJlc2VudGF0aW9uLgogKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZmluYWwgT2JqZWN0TWFwcGVyIE9CSkVDVF9NQVBQRVIgPSBuZXcgT2JqZWN0TWFwcGVyKCkK</text>
+        <text encoding="base64">ICAgIG5vdGlmaWVyLmxvZ3NBcHBVcmwgPSAiaHR0cHM6Ly9sb2cuYXBwIgogICAgbm90aWZpZXIubW9uaXRvcmluZ0FwcFVybCA9ICJodHRwczovL21vbml0b3JpbmcuYXBwIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUKICB2b2lkIG5vdGlmeShTdHJpbmcgd2ViSG9vaywgTWVzc2FnZUNhcmQgbWVzc2FnZUNhcmQpIHsKICAgIGRlZiBtZXNzYWdlQ2FyZEpzb24gPSBPQkpFQ1RfTUFQUEVSLndyaXRlVmFsdWVBc1N0cmluZyhtZXNzYWdlQ2FyZCkKICAgIHN0ZXBzLnNoICIiIgpjdXJsIC1MIC12ICR7d2ViSG9va30gLWQgJyR7bWVzc2FnZUNhcmRKc29ufScKIiIiCiAgfQo=</text>
+        <text encoding="base64">ICogU2VlIDxhIGhyZWY9Imh0dHBzOi8vZG9jcy5taWNyb3NvZnQuY29tL2VuLXVzL291dGxvb2svYWN0aW9uYWJsZS1tZXNzYWdlcy9tZXNzYWdlLWNhcmQtcmVmZXJlbmNlI2NhcmQtZmllbGRzIj5NaWNyb3NvZnQgbWVzc2FnZSBjYXJkIHJlZmVyZW5jZTwvYT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3RlcHMgPSBzdGVwcwogICAgdGhpcy53ZWJIb29rID0gd2ViSG9vawo=</text>
+        <text encoding="base64">ICBzdGF0aWMgZmluYWwgT2JqZWN0TWFwcGVyIE9CSkVDVF9NQVBQRVIgPSBuZXcgT2JqZWN0TWFwcGVyKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBtZXNzYWdlQ2FyZEpzb24gPSBPQkpFQ1RfTUFQUEVSLndyaXRlVmFsdWVBc1N0cmluZyhtZXNzYWdlQ2FyZCkKICAgIHN0ZXBzLnNoICIiIgpjdXJsIC1MIC12ICR7d2ViSG9va30gLWQgJyR7bWVzc2FnZUNhcmRKc29ufScKIiIiCg==</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICB2b2lkIG5vdGlmeShTdHJpbmcgd2ViSG9vaywgTWVzc2FnZUNhcmQgbWVzc2FnZUNhcmQpIHsKICAgIGRlZiBtZXNzYWdlQ2FyZEpzb24gPSBPQkpFQ1RfTUFQUEVSLndyaXRlVmFsdWVBc1N0cmluZyhtZXNzYWdlQ2FyZCkKICAgIHN0ZXBzLnNoICIiIgpjdXJsIC1MIC12ICR7d2ViSG9va30gLWQgJyR7bWVzc2FnZUNhcmRKc29ufScKIiIiCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWVyLmxvZ3NBcHBVcmwgPSAiaHR0cHM6Ly9sb2dzLmFwcCIKICAgIG5vdGlmaWVyLm1vbml0b3JpbmdBcHBVcmwgPSAiaHR0cHM6Ly9tb25pdG9yaW5nLmFwcCIK</text>
+        <text encoding="base64">ICAgIHRoaXMuc3RlcHMgPSBzdGVwcwogICAgdGhpcy53ZWJIb29rID0gd2ViSG9vawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygiYXBwIiwgbWVzc2FnZUNhcmQuc2VjdGlvbnMuZ2V0KDApLmZhY3RzLmdldCgwKS5uYW1lKQogICAgYXNzZXJ0RXF1YWxzKCJzdXBlci1hcHAiLCBtZXNzYWdlQ2FyZC5zZWN0aW9ucy5nZXQoMCkuZmFjdHMuZ2V0KDApLm5hbWUpCiAgICBhc3NlcnRFcXVhbHMoIiIsIG1lc3NhZ2VDYXJkLnRpdGxlKQogICAgYXNzZXJ0RXF1YWxzKCIiLCBtZXNzYWdlQ2FyZC50aXRsZSkKICAgIGFzc2VydEVxdWFscygiIiwgbWVzc2FnZUNhcmQudGl0bGUpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBtZXNzYWdlQ2FyZEpzb24gPSBPQkpFQ1RfTUFQUEVSLndyaXRlVmFsdWVBc1N0cmluZyhtZXNzYWdlQ2FyZCkKICAgIHN0ZXBzLnNoICIiIgpjdXJsIC1MIC12ICR7d2ViSG9va30gLWQgJyR7bWVzc2FnZUNhcmRKc29ufScKIiIiCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -416,9 +416,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxHaXRmbG93TWF2ZW5IZWxwZXJcPg==</last-search>
+      <last-search encoding="base64">XDxWZXJzaW9uc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxHaXRmbG93TWF2ZW5IZWxwZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxWZXJzaW9uc1w+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
