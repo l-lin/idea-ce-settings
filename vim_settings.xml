@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWNvcmRFdmVudFdyaXRlclw+</entry>
-        <entry encoding="base64">XDxldmVudExpc3RcPg==</entry>
         <entry encoding="base64">XDxSRVZFUlNFX09QVElPTlw+</entry>
         <entry encoding="base64">XDxqZW5raW5zVG9rZW5cPg==</entry>
         <entry encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydFJlc3VsdHNcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</entry>
         <entry encoding="base64">XDx0ZXN0UmVjb3JkS2V5XD4=</entry>
         <entry encoding="base64">XDxleHBlY3RlZFBhaXJcPg==</entry>
+        <entry encoding="base64">XDxhcnRpZmFjdFJlcG9zaXRvcnlVUkxcPg==</entry>
+        <entry encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,24 +146,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/Jenkinsfile" timestamp="1592820295390">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="102" />
-        <mark key="^" line="240" column="101" />
-        <mark key="." line="3" column="51" />
-      </file>
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" timestamp="1592820738588">
         <mark key="[" line="26" column="33" />
         <mark key="]" line="26" column="33" />
         <mark key="^" line="24" column="50" />
         <mark key="." line="26" column="33" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/README.md" timestamp="1592820372614">
-        <mark key="[" line="106" column="97" />
-        <mark key="]" line="106" column="98" />
-        <mark key="." line="106" column="97" />
-        <mark key="^" line="106" column="98" />
       </file>
       <file name="/ApiStatusUpdater.java" timestamp="1592821205654" />
       <file name="$USER_HOME$/work/cloud-software-factory/Jenkinsfile" timestamp="1592825947872" />
@@ -181,6 +168,10 @@
         <mark key="]" line="29" column="13" />
         <mark key="." line="29" column="13" />
       </file>
+      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/resources/application.properties" timestamp="1592828609198" />
+      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" timestamp="1592828264241">
+        <mark key="'" line="168" column="34" />
+      </file>
       <file name="/StatusUpdaterConfiguration.java" timestamp="1592821091206" />
       <file name="/MicrometerMetricMonitor.java" timestamp="1592821422615" />
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/config/SecurityConfiguration.java" timestamp="1592820918584" />
@@ -193,14 +184,12 @@
       </file>
       <file name="/ApiStatusUpdaterTest.java" timestamp="1592821298151" />
       <file name="/pom.xml" timestamp="1592821573088" />
+      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/resources/application-env.properties" timestamp="1592828370415" />
       <file name="/fragment.java" timestamp="1592827965622">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="25" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
-      <jump line="118" column="35" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
-      <jump line="119" column="21" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="123" column="15" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="130" column="52" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="56" column="38" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
@@ -298,6 +287,9 @@
       <jump line="22" column="0" filename="$USER_HOME$/work/fota-service/Jenkinsfile" />
       <jump line="61" column="32" filename="/QueueConsumerTest.java" />
       <jump line="62" column="33" filename="/QueueConsumerTest.java" />
+      <jump line="25" column="62" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" />
+      <jump line="26" column="53" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" />
+      <jump line="168" column="34" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,7 +304,7 @@
         <text>spring</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBlY3RlZFBhaXJcPg==</text>
+        <text encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bG9nZ2luZy5jb25maWc9Y2xhc3NwYXRoOmxvZ2JhY2stc3ByaW5nLnhtbAo=</text>
@@ -351,9 +343,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxleHBlY3RlZFBhaXJcPg==</last-search>
+      <last-search encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBlY3RlZFBhaXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
