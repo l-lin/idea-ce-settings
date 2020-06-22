@@ -146,24 +146,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" timestamp="1592838139568">
+        <mark key="'" line="26" column="38" />
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/converter-service/converter-service-worker/pom.xml" timestamp="1592838020025">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/work/converter-service/converter-service-shared/src/main/java/com/bioserenity/converter/shared/service/AmazonS3Service.java" timestamp="1592835439278">
         <mark key="[" line="30" column="80" />
         <mark key="]" line="30" column="22" />
         <mark key="^" line="30" column="22" />
         <mark key="." line="30" column="21" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/Jenkinsfile" timestamp="1592825947872" />
       <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/resources/application-local.properties" timestamp="1592830157716">
         <mark key="[" line="1" column="69" />
         <mark key="]" line="1" column="69" />
         <mark key="." line="1" column="69" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="/QueueConsumer.java" timestamp="1592821510561" />
-      <file name="/QueueConsumerTest.java" timestamp="1592821561967">
-        <mark key="'" line="62" column="33" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/test/java/com/bioserenity/converter/worker/service/QueueConsumerTest.java" timestamp="1592837494052">
+        <mark key="[" line="29" column="83" />
+        <mark key="]" line="29" column="89" />
+        <mark key="^" line="29" column="89" />
+        <mark key="." line="29" column="88" />
       </file>
-      <file name="$USER_HOME$/work/converter-service/converter-service-shared/src/main/java/com/bioserenity/converter/shared/monitoring/MetricMonitor.java" timestamp="1592827622465" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/java/com/bioserenity/converter/worker/service/QueueConsumer.java" timestamp="1592837423894">
+        <mark key="[" line="29" column="41" />
+        <mark key="]" line="29" column="47" />
+        <mark key="^" line="29" column="47" />
+        <mark key="." line="29" column="46" />
+      </file>
       <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/resources/application.properties" timestamp="1592829356893">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="64" />
@@ -173,26 +191,29 @@
         <mark key="]" line="49" column="30" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" timestamp="1592828264241">
-        <mark key="'" line="168" column="34" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/test/java/com/bioserenity/converter/api/AuthentUtilsTest.java" timestamp="1592837546896" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-env.properties" timestamp="1592838133577">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorBuilder.java" timestamp="1592830820041" />
       <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/Worker.java" timestamp="1592835051510" />
       <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" timestamp="1592830053428" />
-      <file name="$USER_HOME$/work/converter-service/converter-service-shared/pom.xml" timestamp="1592827401325" />
-      <file name="/pom.xml" timestamp="1592821573088" />
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/resources/application-env.properties" timestamp="1592829194844">
-        <mark key="[" line="4" column="47" />
-        <mark key="]" line="4" column="55" />
-        <mark key="." line="4" column="54" />
-        <mark key="^" line="4" column="55" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-shared/pom.xml" timestamp="1592838061541">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/resources/application-local.properties" timestamp="1592837901338">
+        <mark key="[" line="19" column="41" />
+        <mark key="]" line="19" column="55" />
+        <mark key="." line="19" column="54" />
+        <mark key="^" line="19" column="55" />
       </file>
       <file name="/fragment.java" timestamp="1592829232416">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="15" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="130" column="52" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="56" column="38" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="77" column="38" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
@@ -292,51 +313,52 @@
       <jump line="25" column="62" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" />
       <jump line="26" column="53" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" />
       <jump line="168" column="34" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" />
+      <jump line="26" column="38" filename="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBrYWZrYS1tYW5hZ2VyOgogICAgaW1hZ2U6IHNoZWVwa2lsbGVyL2thZmthLW1hbmFnZXIKICAgIHBvcnRzOgogICAgICAtIDkwMDA6OTAwMAogICAgZW52aXJvbm1lbnQ6CiAgICAgIFpLX0hPU1RTOiB6b29rZWVwZXI6MjE4MQo=</text>
+        <text encoding="base64">IyBDT1JTCmNvcnMuYWxsb3dlZC5vcmlnaW5zPSoK</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>15676</text>
+        <text>kafka-internal-01:9092,kafka-internal-02:9092</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBrYWZrYS1tYW5hZ2VyOgogICAgaW1hZ2U6IHNoZWVwa2lsbGVyL2thZmthLW1hbmFnZXIKICAgIHBvcnRzOgogICAgICAtIDkwMDA6OTAwMAogICAgZW52aXJvbm1lbnQ6CiAgICAgIFpLX0hPU1RTOiB6b29rZWVwZXI6MjE4MQo=</text>
+        <text encoding="base64">IyBDT1JTCmNvcnMuYWxsb3dlZC5vcmlnaW5zPSoK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jeT4KICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWFjdHVhdG9yPC9hcnRpZmFjdElkPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">YXdzLmFjY2Vzcy5rZXk9CmF3cy5zZWNyZXQua2V5PQphd3MucmVnaW9uPQo=</text>
       </register>
-      <register name="2" type="8">
+      <register name="3" type="8">
         <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIHNjcmlwdCB7CiAgICAgICAgICAgIGlmIChlbnYuV0VCSE9PSyAhPSAiIikgewogICAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0ssIGVudi5CVUlMRF9VUkwsIGVudi5MT0dTX1VSTCwgZW52Lk1FVFJJQ1NfVVJMKQogICAgICAgICAgICAgICAgbm90aWZpZXIuc2VuZChlbnYuQVBQX05BTUUsIGVudi5BUFBfVkVSU0lPTiwgZW52LkJJT1NFUkVOSVRZX0VOVklST05NRU5ULCBmYWxzZSkKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlbnYuRFJZX1JVTiA9PSAiZmFsc2UiICYmIGVudi5XRUJIT09LICE9ICIiKSB7CiAgICAgICAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgICAgICAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgICAgICAgICAgICAgIG5vdGlmaWVyLm1ldHJpY3NVcmwgPSBlbnYuTUVUUklDU19VUkwKICAgICAgICAgICAgICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICAgICAgICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIHRydWUpCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGVudi5XRUJIT09LICE9ICIiKSB7CiAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0ssIGVudi5CVUlMRF9VUkwsIGVudi5MT0dTX1VSTCwgZW52Lk1FVFJJQ1NfVVJMKQogICAgICAgICAgICAgIG5vdGlmaWVyLnNlbmQoZW52LkFQUF9OQU1FLCBlbnYuQVBQX1ZFUlNJT04sIGVudi5CSU9TRVJFTklUWV9FTlZJUk9OTUVOVCwgZmFsc2UpCiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBpZiAoZW52LkRSWV9SVU4gPT0gImZhbHNlIiAmJiBlbnYuV0VCSE9PSyAhPSAiIikgewogICAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgICAgICAgICBub3RpZmllci5sb2dzVXJsID0gZW52LkxPR1NfVVJMCiAgICAgICAgICAgICAgICBub3RpZmllci5tZXRyaWNzVXJsID0gZW52Lk1FVFJJQ1NfVVJMCiAgICAgICAgICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICAgICAgICAgIG5vdGlmaWVyLnNlbmQoZW52LkFQUF9OQU1FLCBlbnYuQVBQX1ZFUlNJT04sIGVudi5CSU9TRVJFTklUWV9FTlZJUk9OTUVOVCwgZmFsc2UpCiAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBlbnYuQVBQX05BTUUgPSAndGVhbXMtbm90aWZpY2F0aW9uLXNhbXBsZScKICAgICAgICBlbnYuQVBQX1ZFUlNJT04gPSAnMS4yLjMtU05BUFNIT1QnCiAgICAgICAgZW52LkJJT1NFUkVOSVRZX0VOVklST05NRU5UID0gJ3Rlc3QtZXUtZnInCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHdlYmhvb2ssIGJ1aWxkVXJsLCBsb2dzVXJsLCBtZXRyaWNzVXJsKQogICAgICAgICAgbm90aWZpZXIuc2VuZChhcHBOYW1lLCB2ZXJzaW9uLCBlbnZpcm9ubWVudCwgaXNTdWNjZXNzKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHRoaXMsIGVudi5XRUJIT09LKQogICAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgICAgbm90aWZpZXIubWV0cmljc1VybCA9IGVudi5NRVRSSUNTX1VSTAogICAgICAgICAgbm90aWZpZXIuYnVpbGRVcmwgPSBlbnYuQlVJTERfVVJMCiAgICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHdlYmhvb2ssIGJ1aWxkVXJsLCBsb2dzVXJsLCBtZXRyaWNzVXJsKQogICAgICAgICAgbm90aWZpZXIuc2VuZChhcHBOYW1lLCB2ZXJzaW9uLCBlbnZpcm9ubWVudCwgaXNTdWNjZXNzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
