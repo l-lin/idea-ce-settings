@@ -146,6 +146,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/converter-service/converter-service-shared/src/main/java/com/bioserenity/converter/shared/service/AmazonS3Service.java" timestamp="1592835439278">
+        <mark key="[" line="30" column="80" />
+        <mark key="]" line="30" column="22" />
+        <mark key="^" line="30" column="22" />
+        <mark key="." line="30" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/service/annotations/EventAndReportSaveService.java" timestamp="1592841916288" />
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application.properties" timestamp="1592841740399" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/service/ApiStatusUpdater.java" timestamp="1592840034012">
+        <mark key="'" line="63" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/Worker.java" timestamp="1592835051510" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-shared/pom.xml" timestamp="1592838061541">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="20" column="21" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/resources/application-local.properties" timestamp="1592840757052">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="39" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/service/annotations/report/updater/EventUpdater.java" timestamp="1592842224136" />
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" timestamp="1592839962335">
         <mark key="'" line="26" column="38" />
         <mark key="[" line="20" column="41" />
@@ -157,12 +180,6 @@
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/converter-service/converter-service-shared/src/main/java/com/bioserenity/converter/shared/service/AmazonS3Service.java" timestamp="1592835439278">
-        <mark key="[" line="30" column="80" />
-        <mark key="]" line="30" column="22" />
-        <mark key="^" line="30" column="22" />
-        <mark key="." line="30" column="21" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1592839331265" />
       <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/test/java/com/bioserenity/converter/worker/service/QueueConsumerTest.java" timestamp="1592837494052">
@@ -177,30 +194,15 @@
         <mark key="]" line="127" column="5" />
       </file>
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/test/java/com/bioserenity/converter/api/AuthentUtilsTest.java" timestamp="1592837546896" />
-      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/service/ApiStatusUpdater.java" timestamp="1592840034012">
-        <mark key="'" line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-env.properties" timestamp="1592838133577">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="22" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorBuilder.java" timestamp="1592830820041" />
-      <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/Worker.java" timestamp="1592835051510" />
-      <file name="$USER_HOME$/work/converter-service/converter-service-shared/pom.xml" timestamp="1592838061541">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="20" column="21" />
       </file>
       <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/resources/application-local.properties" timestamp="1592837901338">
         <mark key="[" line="19" column="41" />
         <mark key="]" line="19" column="55" />
         <mark key="." line="19" column="54" />
         <mark key="^" line="19" column="55" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/resources/application-local.properties" timestamp="1592839135265">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="/pom.xml" timestamp="1592839836624" />
       <file name="/fragment.java" timestamp="1592838898389">
