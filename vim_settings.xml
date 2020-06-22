@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbGdvUmVzdWx0XD4=</entry>
-        <entry encoding="base64">XDxyZXN1bHRzQnVmZmVySGVscGVyXD4=</entry>
         <entry encoding="base64">XDxyZWNvcmRFdmVudFdyaXRlclw+</entry>
         <entry encoding="base64">XDxldmVudExpc3RcPg==</entry>
         <entry encoding="base64">XDxSRVZFUlNFX09QVElPTlw+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxEUllfUlVOXD4=</entry>
         <entry encoding="base64">XDx2ZXJzaW9uc0xpc3RIdG1sXD4=</entry>
         <entry encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0UmVjb3JkS2V5XD4=</entry>
+        <entry encoding="base64">XDxleHBlY3RlZFBhaXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -153,11 +153,11 @@
         <mark key="^" line="240" column="101" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" timestamp="1592820557722">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="50" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" timestamp="1592820738588">
+        <mark key="[" line="26" column="33" />
+        <mark key="]" line="26" column="33" />
         <mark key="^" line="24" column="50" />
-        <mark key="." line="24" column="49" />
+        <mark key="." line="26" column="33" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/README.md" timestamp="1592820372614">
         <mark key="[" line="106" column="97" />
@@ -169,72 +169,39 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="42" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsNotifier.groovy" timestamp="1592656748205">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="44" />
-        <mark key="." line="11" column="43" />
-        <mark key="^" line="11" column="44" />
+      <file name="/ApiStatusUpdater.java" timestamp="1592821205654" />
+      <file name="$USER_HOME$/work/cloud-software-factory/Jenkinsfile" timestamp="1592825947872" />
+      <file name="/QueueConsumer.java" timestamp="1592821510561" />
+      <file name="/QueueConsumerTest.java" timestamp="1592821561967">
+        <mark key="'" line="62" column="33" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" timestamp="1592661059301">
-        <mark key="[" line="21" column="48" />
-        <mark key="]" line="24" column="32" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="24" column="31" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/resources/application.properties" timestamp="1592820708841">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="43" />
       </file>
-      <file name="$USER_HOME$/work/converter-service/README.md" timestamp="1592817030841" />
-      <file name="$USER_HOME$/work/cloud-software-factory/var/notifyTeams.groovy" timestamp="1592661957395">
-        <mark key="'" line="3" column="27" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="57" />
-        <mark key="^" line="4" column="56" />
-        <mark key="." line="4" column="55" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application.properties" timestamp="1592820977361">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="13" />
+        <mark key="." line="29" column="13" />
       </file>
-      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/resources/application.properties" timestamp="1592818723137" />
-      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application.properties" timestamp="1592820417640" />
-      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1592663239841">
-        <mark key="'" line="349" column="4" />
-        <mark key="[" line="366" column="18" />
-        <mark key="]" line="366" column="20" />
-        <mark key="." line="366" column="19" />
-        <mark key="^" line="366" column="20" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/test/TeamsDeployNotifierTest.groovy" timestamp="1592661715572">
-        <mark key="[" line="48" column="17" />
-        <mark key="]" line="48" column="18" />
-        <mark key="." line="48" column="18" />
-        <mark key="^" line="35" column="75" />
-      </file>
-      <file name="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" timestamp="1592810826020">
-        <mark key="'" line="19" column="26" />
-        <mark key="[" line="39" column="84" />
-        <mark key="]" line="39" column="88" />
-        <mark key="." line="39" column="87" />
-        <mark key="^" line="39" column="88" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/worker/ThreadWorker.java" timestamp="1592815784694">
-        <mark key="'" line="191" column="0" />
-      </file>
+      <file name="/StatusUpdaterConfiguration.java" timestamp="1592821091206" />
+      <file name="/MicrometerMetricMonitor.java" timestamp="1592821422615" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/config/SecurityConfiguration.java" timestamp="1592820918584" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-shared/pom.xml" timestamp="1592821613658" />
       <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/resources/application-local.properties" timestamp="1592820492643">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="20" />
         <mark key="." line="18" column="80" />
         <mark key="^" line="18" column="81" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsDeployNotifierExample.jenkins" timestamp="1592661183158">
-        <mark key="'" line="9" column="10" />
-        <mark key="[" line="2" column="137" />
-        <mark key="]" line="2" column="194" />
-        <mark key="." line="2" column="137" />
-        <mark key="^" line="2" column="137" />
-      </file>
+      <file name="/ApiStatusUpdaterTest.java" timestamp="1592821298151" />
       <file name="$USER_HOME$/work/converter-service/converter-service-api/pom.xml" timestamp="1592818952663" />
-      <file name="/fragment.java" timestamp="1592818338882">
+      <file name="/pom.xml" timestamp="1592821573088" />
+      <file name="/fragment.java" timestamp="1592820687576">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="18" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
-      <jump line="114" column="39" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="115" column="25" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="118" column="35" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="119" column="21" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
@@ -333,24 +300,26 @@
       <jump line="21" column="19" filename="$USER_HOME$/work/fota-service/Jenkinsfile" />
       <jump line="230" column="0" filename="$USER_HOME$/work/fota-service/Jenkinsfile" />
       <jump line="22" column="0" filename="$USER_HOME$/work/fota-service/Jenkinsfile" />
+      <jump line="61" column="32" filename="/QueueConsumerTest.java" />
+      <jump line="62" column="33" filename="/QueueConsumerTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">YXdzLmFjY2Vzcy5rZXk9CmF3cy5zZWNyZXQua2V5PQphd3MucmVnaW9uPQo=</text>
+      <register name="&quot;" type="4">
+        <text>spring</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>fota-service</text>
+        <text>spring</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</text>
+        <text encoding="base64">XDxleHBlY3RlZFBhaXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXdzLmFjY2Vzcy5rZXk9QUtJQVE3M00zWUtZWVFPT1ZOSDYKYXdzLnNlY3JldC5rZXk9TFlxTjZUbXZNb0ZJV2N0aFIxWnY4UnNXbGxjWlhiNDlqUGNYTWZUZwphd3MucmVnaW9uPWV1LXdlc3QtMwo=</text>
+        <text encoding="base64">bG9nZ2luZy5jb25maWc9Y2xhc3NwYXRoOmxvZ2JhY2stc3ByaW5nLnhtbAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YXdzLmFjY2Vzcy5rZXk9CmF3cy5zZWNyZXQua2V5PQphd3MucmVnaW9uPQo=</text>
@@ -386,9 +355,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</last-search>
+      <last-search encoding="base64">XDxleHBlY3RlZFBhaXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxleHBlY3RlZFBhaXJcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
