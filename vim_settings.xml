@@ -146,18 +146,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" timestamp="1592820738588">
-        <mark key="[" line="26" column="33" />
-        <mark key="]" line="26" column="33" />
-        <mark key="^" line="24" column="50" />
-        <mark key="." line="26" column="33" />
-      </file>
       <file name="/ApiStatusUpdater.java" timestamp="1592821205654" />
       <file name="$USER_HOME$/work/cloud-software-factory/Jenkinsfile" timestamp="1592825947872" />
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/resources/application-local.properties" timestamp="1592829363281">
-        <mark key="[" line="9" column="63" />
-        <mark key="]" line="9" column="64" />
-        <mark key="." line="9" column="64" />
+      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/resources/application-local.properties" timestamp="1592830157716">
+        <mark key="[" line="1" column="69" />
+        <mark key="]" line="1" column="69" />
+        <mark key="." line="1" column="69" />
         <mark key="^" line="8" column="0" />
       </file>
       <file name="/QueueConsumer.java" timestamp="1592821510561" />
@@ -174,13 +168,18 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="64" />
       </file>
+      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/docker-compose.yml" timestamp="1592830456386">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="49" column="30" />
+        <mark key="." line="44" column="0" />
+      </file>
       <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" timestamp="1592828264241">
         <mark key="'" line="168" column="34" />
       </file>
       <file name="/StatusUpdaterConfiguration.java" timestamp="1592821091206" />
       <file name="/MicrometerMetricMonitor.java" timestamp="1592821422615" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorBuilder.java" timestamp="1592830820041" />
       <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" timestamp="1592830053428" />
-      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/config/SecurityConfiguration.java" timestamp="1592820918584" />
       <file name="$USER_HOME$/work/converter-service/converter-service-shared/pom.xml" timestamp="1592827401325" />
       <file name="/ApiStatusUpdaterTest.java" timestamp="1592821298151" />
       <file name="/pom.xml" timestamp="1592821573088" />
@@ -300,19 +299,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">YnJpZGdlLmFtcXAtdG8ta2Fma2EuYmluZGluZ3Muc3RyZWFtaW5nX2JhdGNoLm51bWJlci1vZi1zaGFyZHM9NAo=</text>
+        <text encoding="base64">ICBrYWZrYS1tYW5hZ2VyOgogICAgaW1hZ2U6IHNoZWVwa2lsbGVyL2thZmthLW1hbmFnZXIKICAgIHBvcnRzOgogICAgICAtIDkwMDA6OTAwMAogICAgZW52aXJvbm1lbnQ6CiAgICAgIFpLX0hPU1RTOiB6b29rZWVwZXI6MjE4MQo=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>q</text>
+        <text>15676</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YnJpZGdlLmFtcXAtdG8ta2Fma2EuYmluZGluZ3Muc3RyZWFtaW5nX2JhdGNoLm51bWJlci1vZi1zaGFyZHM9NAo=</text>
+        <text encoding="base64">ICBrYWZrYS1tYW5hZ2VyOgogICAgaW1hZ2U6IHNoZWVwa2lsbGVyL2thZmthLW1hbmFnZXIKICAgIHBvcnRzOgogICAgICAtIDkwMDA6OTAwMAogICAgZW52aXJvbm1lbnQ6CiAgICAgIFpLX0hPU1RTOiB6b29rZWVwZXI6MjE4MQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">YXdzLmFjY2Vzcy5rZXk9CmF3cy5zZWNyZXQua2V5PQphd3MucmVnaW9uPQo=</text>
