@@ -171,6 +171,10 @@
         <mark key="." line="8" column="1" />
         <mark key="^" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/resources/application.properties" timestamp="1592818452376">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="42" />
+      </file>
       <file name="$USER_HOME$/work/cloud-software-factory/test/GitflowHelperTest.groovy" timestamp="1592649944169">
         <mark key="'" line="156" column="0" />
         <mark key="[" line="160" column="108" />
@@ -188,12 +192,6 @@
         <mark key="." line="24" column="31" />
       </file>
       <file name="$USER_HOME$/work/converter-service/README.md" timestamp="1592817030841" />
-      <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsNotifierExample.jenkins" timestamp="1592649573954">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="60" />
-        <mark key="." line="5" column="59" />
-        <mark key="^" line="5" column="60" />
-      </file>
       <file name="$USER_HOME$/work/cloud-software-factory/var/notifyTeams.groovy" timestamp="1592661957395">
         <mark key="'" line="3" column="27" />
         <mark key="[" line="3" column="0" />
@@ -207,12 +205,6 @@
         <mark key="]" line="53" column="23" />
         <mark key="^" line="48" column="44" />
         <mark key="." line="53" column="23" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/test/examples/GitflowHelperExample.jenkins" timestamp="1592649551394">
-        <mark key="[" line="56" column="100" />
-        <mark key="]" line="56" column="104" />
-        <mark key="." line="56" column="103" />
-        <mark key="^" line="56" column="104" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsNotifierTest.groovy" timestamp="1592649698167">
         <mark key="'" line="8" column="5" />
@@ -244,11 +236,11 @@
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/worker/ThreadWorker.java" timestamp="1592815784694">
         <mark key="'" line="191" column="0" />
       </file>
-      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/resources/application-local.properties" timestamp="1592817184282">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="20" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/resources/application-local.properties" timestamp="1592818508878">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="4" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsDeployNotifierExample.jenkins" timestamp="1592661183158">
         <mark key="'" line="9" column="10" />
@@ -256,6 +248,9 @@
         <mark key="]" line="2" column="194" />
         <mark key="." line="2" column="137" />
         <mark key="^" line="2" column="137" />
+      </file>
+      <file name="/fragment.java" timestamp="1592818338882">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -363,20 +358,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>key</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bG9nZ2luZy5jb25maWc9Y2xhc3NwYXRoOmxvZ2JhY2stbG9jYWwueG1sCg==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NyaXB0IHsKICAgICAgICAgICAgICAgIGlmIChlbnYuV0VCSE9PSyAhPSAiIikgewogICAgICAgICAgICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHRoaXMsIGVudi5XRUJIT09LLCBlbnYuQlVJTERfVVJMLCBlbnYuTE9HU19VUkwsIGVudi5NRVRSSUNTX1VSTCkgICAgCiAgICAgICAgICAgICAgICAgIG5vdGlmaWVyLnNlbmQoZW52LkFQUF9OQU1FLCBlbnYuQVBQX1ZFUlNJT04sIGVudi5CSU9TRVJFTklUWV9FTlZJUk9OTUVOVCwgdHJ1ZSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">bG9nZ2luZy5jb25maWc9Y2xhc3NwYXRoOmxvZ2JhY2stbG9jYWwueG1sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHNjcmlwdCB7CiAgICAgICAgICAgIGlmIChlbnYuV0VCSE9PSyAhPSAiIikgewogICAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0ssIGVudi5CVUlMRF9VUkwsIGVudi5MT0dTX1VSTCwgZW52Lk1FVFJJQ1NfVVJMKQogICAgICAgICAgICAgICAgbm90aWZpZXIuc2VuZChlbnYuQVBQX05BTUUsIGVudi5BUFBfVkVSU0lPTiwgZW52LkJJT1NFUkVOSVRZX0VOVklST05NRU5ULCBmYWxzZSkKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
