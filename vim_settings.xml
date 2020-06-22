@@ -146,38 +146,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/fota-service/Jenkinsfile" timestamp="1592657406717">
-        <mark key="'" line="4" column="7" />
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="3" column="51" />
+      <file name="$USER_HOME$/work/fota-service/Jenkinsfile" timestamp="1592820295390">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="102" />
         <mark key="^" line="240" column="101" />
         <mark key="." line="3" column="51" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsDeployNotifierTest.groovy" timestamp="1592654042773">
-        <mark key="'" line="21" column="25" />
-        <mark key="[" line="33" column="17" />
-        <mark key="]" line="33" column="18" />
-        <mark key="." line="33" column="18" />
-        <mark key="^" line="59" column="538" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" timestamp="1592820557722">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="50" />
+        <mark key="^" line="24" column="50" />
+        <mark key="." line="24" column="49" />
       </file>
-      <file name="/a.dummy" timestamp="1592649595337">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/DeployNotifier.groovy" timestamp="1592652920000">
-        <mark key="[" line="7" column="8" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="8" column="1" />
-        <mark key="^" line="9" column="0" />
+      <file name="$USER_HOME$/work/cloud-software-factory/README.md" timestamp="1592820372614">
+        <mark key="[" line="106" column="97" />
+        <mark key="]" line="106" column="98" />
+        <mark key="." line="106" column="97" />
+        <mark key="^" line="106" column="98" />
       </file>
       <file name="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/resources/application.properties" timestamp="1592818452376">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="42" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/test/GitflowHelperTest.groovy" timestamp="1592649944169">
-        <mark key="'" line="156" column="0" />
-        <mark key="[" line="160" column="108" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsNotifier.groovy" timestamp="1592656748205">
         <mark key="[" line="11" column="20" />
@@ -199,20 +189,8 @@
         <mark key="^" line="4" column="56" />
         <mark key="." line="4" column="55" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsDeployNotifier.groovy" timestamp="1592653945304">
-        <mark key="'" line="16" column="9" />
-        <mark key="[" line="53" column="23" />
-        <mark key="]" line="53" column="23" />
-        <mark key="^" line="48" column="44" />
-        <mark key="." line="53" column="23" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsNotifierTest.groovy" timestamp="1592649698167">
-        <mark key="'" line="8" column="5" />
-        <mark key="[" line="21" column="42" />
-        <mark key="]" line="21" column="38" />
-        <mark key="^" line="21" column="178" />
-        <mark key="." line="21" column="38" />
-      </file>
+      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/resources/application.properties" timestamp="1592818723137" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application.properties" timestamp="1592820417640" />
       <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1592663239841">
         <mark key="'" line="349" column="4" />
         <mark key="[" line="366" column="18" />
@@ -236,11 +214,11 @@
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/worker/ThreadWorker.java" timestamp="1592815784694">
         <mark key="'" line="191" column="0" />
       </file>
-      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/resources/application-local.properties" timestamp="1592818508878">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="4" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/resources/application-local.properties" timestamp="1592820492643">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="18" column="80" />
+        <mark key="^" line="18" column="81" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsDeployNotifierExample.jenkins" timestamp="1592661183158">
         <mark key="'" line="9" column="10" />
@@ -249,14 +227,12 @@
         <mark key="." line="2" column="137" />
         <mark key="^" line="2" column="137" />
       </file>
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/pom.xml" timestamp="1592818952663" />
       <file name="/fragment.java" timestamp="1592818338882">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="36" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
-      <jump line="79" column="12" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
-      <jump line="82" column="63" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
       <jump line="113" column="18" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="114" column="39" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="115" column="25" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
@@ -354,51 +330,54 @@
       <jump line="1" column="27" filename="$USER_HOME$/work/cloud-software-factory/var/notifyTeams.groovy" />
       <jump line="19" column="26" filename="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" />
       <jump line="191" column="0" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/worker/ThreadWorker.java" />
+      <jump line="21" column="19" filename="$USER_HOME$/work/fota-service/Jenkinsfile" />
+      <jump line="230" column="0" filename="$USER_HOME$/work/fota-service/Jenkinsfile" />
+      <jump line="22" column="0" filename="$USER_HOME$/work/fota-service/Jenkinsfile" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bG9nZ2luZy5jb25maWc9Y2xhc3NwYXRoOmxvZ2JhY2stbG9jYWwueG1sCg==</text>
+        <text encoding="base64">YXdzLmFjY2Vzcy5rZXk9CmF3cy5zZWNyZXQua2V5PQphd3MucmVnaW9uPQo=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>token</text>
+        <text>fota-service</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nZ2luZy5jb25maWc9Y2xhc3NwYXRoOmxvZ2JhY2stbG9jYWwueG1sCg==</text>
+        <text encoding="base64">YXdzLmFjY2Vzcy5rZXk9QUtJQVE3M00zWUtZWVFPT1ZOSDYKYXdzLnNlY3JldC5rZXk9TFlxTjZUbXZNb0ZJV2N0aFIxWnY4UnNXbGxjWlhiNDlqUGNYTWZUZwphd3MucmVnaW9uPWV1LXdlc3QtMwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjcmlwdCB7CiAgICAgICAgICAgIGlmIChlbnYuV0VCSE9PSyAhPSAiIikgewogICAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0ssIGVudi5CVUlMRF9VUkwsIGVudi5MT0dTX1VSTCwgZW52Lk1FVFJJQ1NfVVJMKQogICAgICAgICAgICAgICAgbm90aWZpZXIuc2VuZChlbnYuQVBQX05BTUUsIGVudi5BUFBfVkVSU0lPTiwgZW52LkJJT1NFUkVOSVRZX0VOVklST05NRU5ULCBmYWxzZSkKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">YXdzLmFjY2Vzcy5rZXk9CmF3cy5zZWNyZXQua2V5PQphd3MucmVnaW9uPQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlbnYuRFJZX1JVTiA9PSAiZmFsc2UiICYmIGVudi5XRUJIT09LICE9ICIiKSB7CiAgICAgICAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgICAgICAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgICAgICAgICAgICAgIG5vdGlmaWVyLm1ldHJpY3NVcmwgPSBlbnYuTUVUUklDU19VUkwKICAgICAgICAgICAgICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICAgICAgICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIHRydWUpCiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVudi5XRUJIT09LICE9ICIiKSB7CiAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0ssIGVudi5CVUlMRF9VUkwsIGVudi5MT0dTX1VSTCwgZW52Lk1FVFJJQ1NfVVJMKQogICAgICAgICAgICAgIG5vdGlmaWVyLnNlbmQoZW52LkFQUF9OQU1FLCBlbnYuQVBQX1ZFUlNJT04sIGVudi5CSU9TRVJFTklUWV9FTlZJUk9OTUVOVCwgZmFsc2UpCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIHNjcmlwdCB7CiAgICAgICAgICAgIGlmIChlbnYuV0VCSE9PSyAhPSAiIikgewogICAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0ssIGVudi5CVUlMRF9VUkwsIGVudi5MT0dTX1VSTCwgZW52Lk1FVFJJQ1NfVVJMKQogICAgICAgICAgICAgICAgbm90aWZpZXIuc2VuZChlbnYuQVBQX05BTUUsIGVudi5BUFBfVkVSU0lPTiwgZW52LkJJT1NFUkVOSVRZX0VOVklST05NRU5ULCBmYWxzZSkKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoZW52LkRSWV9SVU4gPT0gImZhbHNlIiAmJiBlbnYuV0VCSE9PSyAhPSAiIikgewogICAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgICAgICAgICBub3RpZmllci5sb2dzVXJsID0gZW52LkxPR1NfVVJMCiAgICAgICAgICAgICAgICBub3RpZmllci5tZXRyaWNzVXJsID0gZW52Lk1FVFJJQ1NfVVJMCiAgICAgICAgICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICAgICAgICAgIG5vdGlmaWVyLnNlbmQoZW52LkFQUF9OQU1FLCBlbnYuQVBQX1ZFUlNJT04sIGVudi5CSU9TRVJFTklUWV9FTlZJUk9OTUVOVCwgZmFsc2UpCiAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChlbnYuRFJZX1JVTiA9PSAiZmFsc2UiICYmIGVudi5XRUJIT09LICE9ICIiKSB7CiAgICAgICAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgICAgICAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgICAgICAgICAgICAgIG5vdGlmaWVyLm1ldHJpY3NVcmwgPSBlbnYuTUVUUklDU19VUkwKICAgICAgICAgICAgICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICAgICAgICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIHRydWUpCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbnYuQVBQX05BTUUgPSAndGVhbXMtbm90aWZpY2F0aW9uLXNhbXBsZScKICAgICAgICBlbnYuQVBQX1ZFUlNJT04gPSAnMS4yLjMtU05BUFNIT1QnCiAgICAgICAgZW52LkJJT1NFUkVOSVRZX0VOVklST05NRU5UID0gJ3Rlc3QtZXUtZnInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVudi5XRUJIT09LICE9ICIiKSB7CiAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0ssIGVudi5CVUlMRF9VUkwsIGVudi5MT0dTX1VSTCwgZW52Lk1FVFJJQ1NfVVJMKQogICAgICAgICAgICAgIG5vdGlmaWVyLnNlbmQoZW52LkFQUF9OQU1FLCBlbnYuQVBQX1ZFUlNJT04sIGVudi5CSU9TRVJFTklUWV9FTlZJUk9OTUVOVCwgZmFsc2UpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHdlYmhvb2ssIGJ1aWxkVXJsLCBsb2dzVXJsLCBtZXRyaWNzVXJsKQogICAgICAgICAgbm90aWZpZXIuc2VuZChhcHBOYW1lLCB2ZXJzaW9uLCBlbnZpcm9ubWVudCwgaXNTdWNjZXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoZW52LkRSWV9SVU4gPT0gImZhbHNlIiAmJiBlbnYuV0VCSE9PSyAhPSAiIikgewogICAgICAgICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgICAgICAgICBub3RpZmllci5sb2dzVXJsID0gZW52LkxPR1NfVVJMCiAgICAgICAgICAgICAgICBub3RpZmllci5tZXRyaWNzVXJsID0gZW52Lk1FVFJJQ1NfVVJMCiAgICAgICAgICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICAgICAgICAgIG5vdGlmaWVyLnNlbmQoZW52LkFQUF9OQU1FLCBlbnYuQVBQX1ZFUlNJT04sIGVudi5CSU9TRVJFTklUWV9FTlZJUk9OTUVOVCwgZmFsc2UpCiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHRoaXMsIGVudi5XRUJIT09LKQogICAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgICAgbm90aWZpZXIubWV0cmljc1VybCA9IGVudi5NRVRSSUNTX1VSTAogICAgICAgICAgbm90aWZpZXIuYnVpbGRVcmwgPSBlbnYuQlVJTERfVVJMCiAgICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbnYuQVBQX05BTUUgPSAndGVhbXMtbm90aWZpY2F0aW9uLXNhbXBsZScKICAgICAgICBlbnYuQVBQX1ZFUlNJT04gPSAnMS4yLjMtU05BUFNIT1QnCiAgICAgICAgZW52LkJJT1NFUkVOSVRZX0VOVklST05NRU5UID0gJ3Rlc3QtZXUtZnInCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5vdGlmeVRlYW1zIHN0ZXBzOiB0aGlzLCB3ZWJob29rOiBlbnYuV0VCSE9PSyAsIGJ1aWxkVXJsOiBlbnYuQlVJTERfVVJMLCBsb2dzVXJsOiBlbnYuTE9HU19VUkwsIG1ldHJpY3NVcmw6IGVudi5NRVRSSUNTX1VSTAogICAgICAgICAgZGVmIG5vdGlmaWVyID0gbmV3IFRlYW1zRGVwbG95Tm90aWZpZXIodGhpcywgZW52LldFQkhPT0spCiAgICAgICAgICBub3RpZmllci5sb2dzVXJsID0gZW52LkxPR1NfVVJMCiAgICAgICAgICBub3RpZmllci5tZXRyaWNzVXJsID0gZW52Lk1FVFJJQ1NfVVJMCiAgICAgICAgICBub3RpZmllci5idWlsZFVybCA9IGVudi5CVUlMRF9VUkwKICAgICAgICAgIG5vdGlmaWVyLnNlbmQoZW52LkFQUF9OQU1FLCBlbnYuQVBQX1ZFUlNJT04sIGVudi5CSU9TRVJFTklUWV9FTlZJUk9OTUVOVCwgdHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHdlYmhvb2ssIGJ1aWxkVXJsLCBsb2dzVXJsLCBtZXRyaWNzVXJsKQogICAgICAgICAgbm90aWZpZXIuc2VuZChhcHBOYW1lLCB2ZXJzaW9uLCBlbnZpcm9ubWVudCwgaXNTdWNjZXNzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5vdGlmaWVyLmxvZ3NVcmwgPSAKICAgIG5vdGlmaWVyLm1ldHJpY3NVcmwgPSAKICAgIG5vdGlmaWVyLmJ1aWxkVXJsID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHRoaXMsIGVudi5XRUJIT09LKQogICAgICAgICAgbm90aWZpZXIubG9nc1VybCA9IGVudi5MT0dTX1VSTAogICAgICAgICAgbm90aWZpZXIubWV0cmljc1VybCA9IGVudi5NRVRSSUNTX1VSTAogICAgICAgICAgbm90aWZpZXIuYnVpbGRVcmwgPSBlbnYuQlVJTERfVVJMCiAgICAgICAgICBub3RpZmllci5zZW5kKGVudi5BUFBfTkFNRSwgZW52LkFQUF9WRVJTSU9OLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQsIGZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
