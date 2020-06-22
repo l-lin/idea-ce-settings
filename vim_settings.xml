@@ -248,18 +248,15 @@
         <mark key="." line="48" column="18" />
         <mark key="^" line="35" column="75" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/TextInput.groovy" timestamp="1592649100264">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" timestamp="1592810826020">
         <mark key="'" line="19" column="26" />
         <mark key="[" line="39" column="84" />
         <mark key="]" line="39" column="88" />
         <mark key="." line="39" column="87" />
         <mark key="^" line="39" column="88" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/worker/ThreadWorker.java" timestamp="1592815784694">
+        <mark key="'" line="191" column="0" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsDeployNotifierExample.jenkins" timestamp="1592661183158">
         <mark key="'" line="9" column="10" />
@@ -270,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="12" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
       <jump line="74" column="36" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
       <jump line="79" column="12" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
       <jump line="82" column="63" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
@@ -370,6 +366,7 @@
       <jump line="350" column="4" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="1" column="27" filename="$USER_HOME$/work/cloud-software-factory/var/notifyTeams.groovy" />
       <jump line="19" column="26" filename="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" />
+      <jump line="191" column="0" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/worker/ThreadWorker.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
