@@ -146,12 +146,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" timestamp="1592838139568">
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" timestamp="1592839962335">
         <mark key="'" line="26" column="38" />
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="30" column="0" />
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="20" column="41" />
         <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+        <mark key="." line="20" column="41" />
       </file>
       <file name="$USER_HOME$/work/converter-service/converter-service-worker/pom.xml" timestamp="1592838020025">
         <mark key="[" line="17" column="0" />
@@ -164,41 +164,28 @@
         <mark key="^" line="30" column="22" />
         <mark key="." line="30" column="21" />
       </file>
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/resources/application-local.properties" timestamp="1592830157716">
-        <mark key="[" line="1" column="69" />
-        <mark key="]" line="1" column="69" />
-        <mark key="." line="1" column="69" />
-        <mark key="^" line="8" column="0" />
-      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1592839331265" />
       <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/test/java/com/bioserenity/converter/worker/service/QueueConsumerTest.java" timestamp="1592837494052">
         <mark key="[" line="29" column="83" />
         <mark key="]" line="29" column="89" />
         <mark key="^" line="29" column="89" />
         <mark key="." line="29" column="88" />
       </file>
-      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/java/com/bioserenity/converter/worker/service/QueueConsumer.java" timestamp="1592837423894">
-        <mark key="[" line="29" column="41" />
-        <mark key="]" line="29" column="47" />
-        <mark key="^" line="29" column="47" />
-        <mark key="." line="29" column="46" />
-      </file>
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/resources/application.properties" timestamp="1592829356893">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="64" />
-      </file>
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/docker-compose.yml" timestamp="1592830456386">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="49" column="30" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1592839725222">
+        <mark key="'" line="95" column="44" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="127" column="5" />
       </file>
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/test/java/com/bioserenity/converter/api/AuthentUtilsTest.java" timestamp="1592837546896" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/service/ApiStatusUpdater.java" timestamp="1592840034012">
+        <mark key="'" line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-env.properties" timestamp="1592838133577">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorBuilder.java" timestamp="1592830820041" />
       <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/Worker.java" timestamp="1592835051510" />
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" timestamp="1592830053428" />
       <file name="$USER_HOME$/work/converter-service/converter-service-shared/pom.xml" timestamp="1592838061541">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="20" column="21" />
@@ -209,12 +196,18 @@
         <mark key="." line="19" column="54" />
         <mark key="^" line="19" column="55" />
       </file>
-      <file name="/fragment.java" timestamp="1592829232416">
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/resources/application-local.properties" timestamp="1592839135265">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/pom.xml" timestamp="1592839836624" />
+      <file name="/fragment.java" timestamp="1592838898389">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="52" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="56" column="38" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="77" column="38" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="85" column="35" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
@@ -314,12 +307,13 @@
       <jump line="26" column="53" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" />
       <jump line="168" column="34" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" />
       <jump line="26" column="38" filename="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" />
+      <jump line="63" column="0" filename="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/service/ApiStatusUpdater.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBDT1JTCmNvcnMuYWxsb3dlZC5vcmlnaW5zPSoK</text>
+      <register name="&quot;" type="4">
+        <text>kafka-internal-01:9092,kafka-internal-02:9092</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
