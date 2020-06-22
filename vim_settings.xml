@@ -187,12 +187,6 @@
         <mark key="^" line="24" column="32" />
         <mark key="." line="24" column="31" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/InvokeAddInCommandPotentialAction.groovy" timestamp="1592649133836">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="7" column="42" />
-        <mark key="^" line="12" column="2" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/work/converter-service/README.md" timestamp="1592817030841" />
       <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsNotifierExample.jenkins" timestamp="1592649573954">
         <mark key="[" line="5" column="55" />
@@ -249,6 +243,12 @@
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/worker/ThreadWorker.java" timestamp="1592815784694">
         <mark key="'" line="191" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/resources/application-local.properties" timestamp="1592817184282">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsDeployNotifierExample.jenkins" timestamp="1592661183158">
         <mark key="'" line="9" column="10" />
@@ -364,13 +364,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>https://outlook.office.com/webhook/55332957-235d-4f71-8797-85ecb542f30e@1403a2a5-2a4b-49df-9483-2901d7ee9031/IncomingWebhook/a77dec3cd9154a2683fb363800105c22/4f471e67-73eb-4668-a0bc-f86cc53c232b</text>
+        <text>key</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>https://outlook.office.com/webhook/55332957-235d-4f71-8797-85ecb542f30e@1403a2a5-2a4b-49df-9483-2901d7ee9031/IncomingWebhook/a77dec3cd9154a2683fb363800105c22/4f471e67-73eb-4668-a0bc-f86cc53c232b</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</text>
