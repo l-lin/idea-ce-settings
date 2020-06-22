@@ -146,6 +146,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/converter-service/converter-service-shared/src/main/java/com/bioserenity/converter/shared/service/AmazonS3Service.java" timestamp="1592835439278">
+        <mark key="[" line="31" column="80" />
+        <mark key="]" line="32" column="22" />
+        <mark key="^" line="32" column="22" />
+        <mark key="." line="32" column="21" />
+      </file>
       <file name="$USER_HOME$/work/cloud-software-factory/Jenkinsfile" timestamp="1592825947872" />
       <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/resources/application-local.properties" timestamp="1592830157716">
         <mark key="[" line="1" column="69" />
@@ -170,7 +176,6 @@
       <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" timestamp="1592828264241">
         <mark key="'" line="168" column="34" />
       </file>
-      <file name="/MicrometerMetricMonitor.java" timestamp="1592821422615" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorBuilder.java" timestamp="1592830820041" />
       <file name="$USER_HOME$/work/bcp-event-dump/src/main/java/com/bioserenity/processing/Worker.java" timestamp="1592835051510" />
       <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" timestamp="1592830053428" />
