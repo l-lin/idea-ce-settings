@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxWZXJzaW9uc1w+</entry>
         <entry encoding="base64">XDxEUllfUlVOXD4=</entry>
         <entry encoding="base64">XDx2ZXJzaW9uc0xpc3RIdG1sXD4=</entry>
         <entry encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxyZWNvcmRQcm9jZXNzb3JNYW5hZ2VyXD4=</entry>
         <entry encoding="base64">XDxiY3BCbG9ja1dpdGhQYXJ0aXRpb25cPg==</entry>
         <entry encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</entry>
+        <entry encoding="base64">XDx1c2VEZWZhdWx0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -149,7 +149,7 @@
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" timestamp="1592905588328">
         <mark key="'" line="195" column="43" />
       </file>
-      <file name="/Event.java" timestamp="1592903505225" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/Profiles.java" timestamp="1592911113233" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" timestamp="1592905079838">
         <mark key="'" line="89" column="13" />
       </file>
@@ -157,35 +157,43 @@
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/EventStats.java" timestamp="1592905795548">
         <mark key="'" line="32" column="15" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/config/algoprocessor/AlgoProcessorConfiguration.java" timestamp="1592911152659">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="30" column="66" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/resources/application-local.properties" timestamp="1592908853130">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="42" />
         <mark key="^" line="25" column="42" />
         <mark key="." line="25" column="41" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/BradycardiaDetector.java" timestamp="1592903890331" />
+      <file name="$USER_HOME$/work/ecg/ecg-live-service/src/main/java/com/bioserenity/ecgliveservice/config/processor/message/MessageProcessorConfiguration.java" timestamp="1592911051327">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="26" column="80" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1592908714113">
         <mark key="'" line="63" column="32" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" timestamp="1592905412245">
         <mark key="'" line="49" column="40" />
       </file>
-      <file name="/AlgoResult.java" timestamp="1592903181021" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" timestamp="1592908325837">
-        <mark key="'" line="198" column="31" />
-        <mark key="[" line="216" column="26" />
-        <mark key="]" line="216" column="81" />
-        <mark key="." line="216" column="80" />
-        <mark key="^" line="216" column="81" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" timestamp="1592911748578">
+        <mark key="'" line="237" column="8" />
+        <mark key="[" line="72" column="38" />
+        <mark key="]" line="72" column="39" />
+        <mark key="." line="72" column="38" />
+        <mark key="^" line="72" column="39" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/resources/application.properties" timestamp="1592908758691">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="43" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/resources/application.properties" timestamp="1592911481647">
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="31" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1592905281170">
         <mark key="'" line="143" column="13" />
       </file>
-      <file name="/AlgoResultTest.java" timestamp="1592903489454" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" timestamp="1592911142996">
+        <mark key="'" line="36" column="13" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/worker/ThreadWorker.java" timestamp="1592908006346">
         <mark key="'" line="38" column="41" />
         <mark key="[" line="109" column="34" />
@@ -198,13 +206,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1592908836926">
+      <file name="/fragment.java" timestamp="1592908938755">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="359" column="49" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="191" column="34" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="371" column="10" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="138" column="26" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="8" column="4" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
@@ -303,51 +309,53 @@
       <jump line="59" column="13" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
       <jump line="196" column="55" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
       <jump line="198" column="31" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
+      <jump line="36" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" />
+      <jump line="235" column="8" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>;</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</text>
+        <text encoding="base64">XDx1c2VEZWZhdWx0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bG9nZ2luZy5jb25maWc9Y2xhc3NwYXRoOmxvZ2JhY2stbG9jYWwueG1sCg==</text>
+      <register name="0" type="4">
+        <text>7,8,10</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjcmVhdGVSZWNvcmRQcm9jZXNzb3JPckxhdW5jaFJlcGxheUlmTm90Rmlyc3RCbG9ja1JlY2VpdmVkKEJDUEJsb2NrV2l0aFBhcnRpdGlvbiBiY3BCbG9ja1dpdGhQYXJ0aXRpb24pIHsKCiAgICAgICAgQkNQQmxvY2sgYmNwQmxvY2sgPSBiY3BCbG9ja1dpdGhQYXJ0aXRpb24uZ2V0QmNwQmxvY2soKTsKICAgICAgICBTdHJpbmcgcmVjb3JkS2V5ID0gYmNwQmxvY2suZ2V0UmVjb3JkS2V5KCk7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIC8vSUYgaXMgZmlyc3QgYmxvY2sgb2YgcmVjb3JkCiAgICAgICAgICAgIGlmICh0aGlzLnByb2Nlc3NpbmdFdmVudFNlcnZpY2UuZ2V0QmxvY2tMaXN0QXRQcmV2aW91c0RhdGUoYmNwQmxvY2spLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgTE9HR0VSLmluZm8oIltyZWNvcmQ6e31dIFJlY2VpdmVkIGZpcnN0IGJsb2NrIG9mIHJlY29yZCA9PiBjcmVhdGUgUmVjb3JkUHJvY2Vzc29yIiwgYmNwQmxvY2suZ2V0UmVjb3JkS2V5KCkpOwoKICAgICAgICAgICAgICAgIGZpbmFsIFJlY29yZFByb2Nlc3NvciBjcmVhdGVkUmVjb3JkUHJvY2Vzc29yID0gdGhpcy5yZWNvcmRQcm9jZXNzb3JNYW5hZ2VyLmNyZWF0ZShiY3BCbG9ja1dpdGhQYXJ0aXRpb24pOwogICAgICAgICAgICAgICAgdGhpcy5jYWxsUmVjb3JkUHJvY2Vzc29yKGNyZWF0ZWRSZWNvcmRQcm9jZXNzb3IsIGJjcEJsb2NrLCByZWNvcmRLZXkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgTE9HR0VSLmluZm8oIltyZWNvcmQ6e31dIFJlY29yZFByb2Nlc3NvciBkb2VzIG5vdCBleGlzdHMgYnV0IGl0IGlzIG5vdCBmaXJzdCBibG9jayBvZiB0aGUgcmVjb3JkID0+IHN0YXJ0IHJlcGxheSIsIHJlY29yZEtleSk7CgogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoQmxvY2tOb3RDb21wbGV0ZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBCbG9ja1Byb2Nlc3NpbmdFeGNlcHRpb24oIkZhaWwgdG8gc3RhcnQgcHJvY2Vzc2luZyBvZiByZWNvcmQiLCBlKTsKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGV4cGVjdGVkTWVzc2FnZUNvdW50LCB0aGlzLmFsZ29Qcm9jZXNzb3Iuc2lnbmFsTGlzdC5zaXplKCkpOwogICAgICAgIC8vIG5vIGdhcHMgaGF2ZSBiZWVuIGFwcGxpZWQKICAgICAgICBBc3NlcnQuYXNzZXJ0VHJ1ZSh0aGlzLmFsZ29Qcm9jZXNzb3IuZ2Fwcy5pc0VtcHR5KCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyBJRiBSZWRpcyBjb250YWlucyBmaXJzdCBibG9jayBvZiByZWNvcmQsIHN0YXJ0IHJlcGxheQogICAgICAgICAgICAgICAgdGhpcy5yZXBsYXlSZWNvcmQocmVjb3JkS2V5LCBiY3BCbG9ja1dpdGhQYXJ0aXRpb24uZ2V0UGFydGl0aW9uKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBNb3J0YXJhUHJvY2Vzc29yQnVpbGRlci5idWlsZGVyKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAud2l0aERlZmF1bHRQcm9jZXNzb3JIb2xkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoQWxnb0NvbmZpZ1NlcnZpY2UobmV3IExpdmVBKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoV2RldExlYWRzKHRoaXMucHJvcGVydGllcy5nZXRMZWFkcygpLmdldFdkZXQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAud2l0aExlYWRTd2l0Y2hNb2RlKHRoaXMucHJvcGVydGllcy5nZXRMZWFkcygpLmdldFN3aXRjaE1vZGUoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjcmVhdGVSZWNvcmRQcm9jZXNzb3JPckxhdW5jaFJlcGxheUlmTm90Rmlyc3RCbG9ja1JlY2VpdmVkKEJDUEJsb2NrV2l0aFBhcnRpdGlvbiBiY3BCbG9ja1dpdGhQYXJ0aXRpb24pIHsKCiAgICAgICAgQkNQQmxvY2sgYmNwQmxvY2sgPSBiY3BCbG9ja1dpdGhQYXJ0aXRpb24uZ2V0QmNwQmxvY2soKTsKICAgICAgICBTdHJpbmcgcmVjb3JkS2V5ID0gYmNwQmxvY2suZ2V0UmVjb3JkS2V5KCk7CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIC8vSUYgaXMgZmlyc3QgYmxvY2sgb2YgcmVjb3JkCiAgICAgICAgICAgIGlmICh0aGlzLnByb2Nlc3NpbmdFdmVudFNlcnZpY2UuZ2V0QmxvY2tMaXN0QXRQcmV2aW91c0RhdGUoYmNwQmxvY2spLmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgTE9HR0VSLmluZm8oIltyZWNvcmQ6e31dIFJlY2VpdmVkIGZpcnN0IGJsb2NrIG9mIHJlY29yZCA9PiBjcmVhdGUgUmVjb3JkUHJvY2Vzc29yIiwgYmNwQmxvY2suZ2V0UmVjb3JkS2V5KCkpOwoKICAgICAgICAgICAgICAgIGZpbmFsIFJlY29yZFByb2Nlc3NvciBjcmVhdGVkUmVjb3JkUHJvY2Vzc29yID0gdGhpcy5yZWNvcmRQcm9jZXNzb3JNYW5hZ2VyLmNyZWF0ZShiY3BCbG9ja1dpdGhQYXJ0aXRpb24pOwogICAgICAgICAgICAgICAgdGhpcy5jYWxsUmVjb3JkUHJvY2Vzc29yKGNyZWF0ZWRSZWNvcmRQcm9jZXNzb3IsIGJjcEJsb2NrLCByZWNvcmRLZXkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgTE9HR0VSLmluZm8oIltyZWNvcmQ6e31dIFJlY29yZFByb2Nlc3NvciBkb2VzIG5vdCBleGlzdHMgYnV0IGl0IGlzIG5vdCBmaXJzdCBibG9jayBvZiB0aGUgcmVjb3JkID0+IHN0YXJ0IHJlcGxheSIsIHJlY29yZEtleSk7CgogICAgICAgICAgICB9CiAgICAgICAgfSBjYXRjaCAoQmxvY2tOb3RDb21wbGV0ZUV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBCbG9ja1Byb2Nlc3NpbmdFeGNlcHRpb24oIkZhaWwgdG8gc3RhcnQgcHJvY2Vzc2luZyBvZiByZWNvcmQiLCBlKTsKICAgICAgICB9CiAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAvLyBJRiBSZWRpcyBjb250YWlucyBmaXJzdCBibG9jayBvZiByZWNvcmQsIHN0YXJ0IHJlcGxheQogICAgICAgICAgICAgICAgdGhpcy5yZXBsYXlSZWNvcmQocmVjb3JkS2V5LCBiY3BCbG9ja1dpdGhQYXJ0aXRpb24uZ2V0UGFydGl0aW9uKCkpOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvKgogICAgICAgICAqIEhlcmUgd2UgdGVzdFJlcG9ydEV2ZW50UHVibGlzaCB0aGUgY2FzZSB3aGVuIHRoZXJlIGlzIG5vIGdhcAogICAgICAgICAqIFdlIGFzc2VydCB0aGF0IHdlIGhhdmUgbm90IGFwcGxpZWQgYSBnYXAKICAgICAgICAgKi8KCg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgU3RyaW5nIGdldFRpdGxlKCkgewogICAgcmV0dXJuIHRpdGxlCiAgfQoKICB2b2lkIHNldFRpdGxlKFN0cmluZyB0aXRsZSkgewogICAgdGhpcy50aXRsZSA9IHRpdGxlCiAgfQoKICBCb29sZWFuIGdldFN0YXJ0R3JvdXAoKSB7CiAgICByZXR1cm4gc3RhcnRHcm91cAogIH0KCiAgdm9pZCBzZXRTdGFydEdyb3VwKEJvb2xlYW4gc3RhcnRHcm91cCkgewogICAgdGhpcy5zdGFydEdyb3VwID0gc3RhcnRHcm91cAogIH0KCiAgU3RyaW5nIGdldEFjdGl2aXR5SW1hZ2UoKSB7CiAgICByZXR1cm4gYWN0aXZpdHlJbWFnZQogIH0KCiAgdm9pZCBzZXRBY3Rpdml0eUltYWdlKFN0cmluZyBhY3Rpdml0eUltYWdlKSB7CiAgICB0aGlzLmFjdGl2aXR5SW1hZ2UgPSBhY3Rpdml0eUltYWdlCiAgfQoKICBTdHJpbmcgZ2V0QWN0aXZpdHlUaXRsZSgpIHsKICAgIHJldHVybiBhY3Rpdml0eVRpdGxlCiAgfQoKICB2b2lkIHNldEFjdGl2aXR5VGl0bGUoU3RyaW5nIGFjdGl2aXR5VGl0bGUpIHsKICAgIHRoaXMuYWN0aXZpdHlUaXRsZSA9IGFjdGl2aXR5VGl0bGUKICB9CgogIFN0cmluZyBnZXRBY3Rpdml0eVN1YnRpdGxlKCkgewogICAgcmV0dXJuIGFjdGl2aXR5U3VidGl0bGUKICB9CgogIHZvaWQgc2V0QWN0aXZpdHlTdWJ0aXRsZShTdHJpbmcgYWN0aXZpdHlTdWJ0aXRsZSkgewogICAgdGhpcy5hY3Rpdml0eVN1YnRpdGxlID0gYWN0aXZpdHlTdWJ0aXRsZQogIH0KCiAgU3RyaW5nIGdldEFjdGl2aXR5VGV4dCgpIHsKICAgIHJldHVybiBhY3Rpdml0eVRleHQKICB9CgogIHZvaWQgc2V0QWN0aXZpdHlUZXh0KFN0cmluZyBhY3Rpdml0eVRleHQpIHsKICAgIHRoaXMuYWN0aXZpdHlUZXh0ID0gYWN0aXZpdHlUZXh0CiAgfQoKICBJbWFnZSBnZXRIZXJvSW1hZ2UoKSB7CiAgICByZXR1cm4gaGVyb0ltYWdlCiAgfQoKICB2b2lkIHNldEhlcm9JbWFnZShJbWFnZSBoZXJvSW1hZ2UpIHsKICAgIHRoaXMuaGVyb0ltYWdlID0gaGVyb0ltYWdlCiAgfQoKICBTdHJpbmcgZ2V0VGV4dCgpIHsKICAgIHJldHVybiB0ZXh0CiAgfQoKICB2b2lkIHNldFRleHQoU3RyaW5nIHRleHQpIHsKICAgIHRoaXMudGV4dCA9IHRleHQKICB9CgogIExpc3Q8RmFjdD4gZ2V0RmFjdHMoKSB7CiAgICByZXR1cm4gZmFjdHMKICB9CgogIHZvaWQgc2V0RmFjdHMoTGlzdDxGYWN0PiBmYWN0cykgewogICAgdGhpcy5mYWN0cyA9IGZhY3RzCiAgfQoKICBMaXN0PEltYWdlPiBnZXRJbWFnZXMoKSB7CiAgICByZXR1cm4gaW1hZ2VzCiAgfQoKICB2b2lkIHNldEltYWdlcyhMaXN0PEltYWdlPiBpbWFnZXMpIHsKICAgIHRoaXMuaW1hZ2VzID0gaW1hZ2VzCiAgfQoKICBMaXN0PFBvdGVudGlhbEFjdGlvbj4gZ2V0UG90ZW50aWFsQWN0aW9uKCkgewogICAgcmV0dXJuIHBvdGVudGlhbEFjdGlvbgogIH0KCiAgdm9pZCBzZXRQb3RlbnRpYWxBY3Rpb24oTGlzdDxQb3RlbnRpYWxBY3Rpb24+IHBvdGVudGlhbEFjdGlvbikgewogICAgdGhpcy5wb3RlbnRpYWxBY3Rpb24gPSBwb3RlbnRpYWxBY3Rpb24KICB9Cg==</text>
       </register>
-      <register name="7" type="8">
-        <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgU3RyaW5nIGdldFR5cGUoKSB7CiAgICByZXR1cm4gdHlwZQogIH0KCiAgU3RyaW5nIGdldENvbnRleHQoKSB7CiAgICByZXR1cm4gY29udGV4dAogIH0KCiAgTGlzdDxTdHJpbmc+IGdldEV4cGVjdGVkQWN0b3JzKCkgewogICAgcmV0dXJuIGV4cGVjdGVkQWN0b3JzCiAgfQoKICB2b2lkIHNldEV4cGVjdGVkQWN0b3JzKExpc3Q8U3RyaW5nPiBleHBlY3RlZEFjdG9ycykgewogICAgdGhpcy5leHBlY3RlZEFjdG9ycyA9IGV4cGVjdGVkQWN0b3JzCiAgfQoKICBTdHJpbmcgZ2V0T3JpZ2luYXRvcigpIHsKICAgIHJldHVybiBvcmlnaW5hdG9yCiAgfQoKICB2b2lkIHNldE9yaWdpbmF0b3IoU3RyaW5nIG9yaWdpbmF0b3IpIHsKICAgIHRoaXMub3JpZ2luYXRvciA9IG9yaWdpbmF0b3IKICB9CgogIFN0cmluZyBnZXRTdW1tYXJ5KCkgewogICAgcmV0dXJuIHN1bW1hcnkKICB9CgogIHZvaWQgc2V0U3VtbWFyeShTdHJpbmcgc3VtbWFyeSkgewogICAgdGhpcy5zdW1tYXJ5ID0gc3VtbWFyeQogIH0KCiAgU3RyaW5nIGdldFRoZW1lQ29sb3IoKSB7CiAgICByZXR1cm4gdGhlbWVDb2xvcgogIH0KCiAgdm9pZCBzZXRUaGVtZUNvbG9yKFN0cmluZyB0aGVtZUNvbG9yKSB7CiAgICB0aGlzLnRoZW1lQ29sb3IgPSB0aGVtZUNvbG9yCiAgfQoKICBCb29sZWFuIGdldEhpZGVPcmlnaW5hbEJvZHkoKSB7CiAgICByZXR1cm4gaGlkZU9yaWdpbmFsQm9keQogIH0KCiAgdm9pZCBzZXRIaWRlT3JpZ2luYWxCb2R5KEJvb2xlYW4gaGlkZU9yaWdpbmFsQm9keSkgewogICAgdGhpcy5oaWRlT3JpZ2luYWxCb2R5ID0gaGlkZU9yaWdpbmFsQm9keQogIH0KCiAgU3RyaW5nIGdldFRpdGxlKCkgewogICAgcmV0dXJuIHRpdGxlCiAgfQoKICB2b2lkIHNldFRpdGxlKFN0cmluZyB0aXRsZSkgewogICAgdGhpcy50aXRsZSA9IHRpdGxlCiAgfQoKICBTdHJpbmcgZ2V0VGV4dCgpIHsKICAgIHJldHVybiB0ZXh0CiAgfQoKICB2b2lkIHNldFRleHQoU3RyaW5nIHRleHQpIHsKICAgIHRoaXMudGV4dCA9IHRleHQKICB9CgogIExpc3Q8U2VjdGlvbj4gZ2V0U2VjdGlvbnMoKSB7CiAgICByZXR1cm4gc2VjdGlvbnMKICB9CgogIHZvaWQgc2V0U2VjdGlvbnMoTGlzdDxTZWN0aW9uPiBzZWN0aW9ucykgewogICAgdGhpcy5zZWN0aW9ucyA9IHNlY3Rpb25zCiAgfQoKICBMaXN0PFBvdGVudGlhbEFjdGlvbj4gZ2V0UG90ZW50aWFsQWN0aW9uKCkgewogICAgcmV0dXJuIHBvdGVudGlhbEFjdGlvbgogIH0KCiAgdm9pZCBzZXRQb3RlbnRpYWxBY3Rpb24oTGlzdDxQb3RlbnRpYWxBY3Rpb24+IHBvdGVudGlhbEFjdGlvbikgewogICAgdGhpcy5wb3RlbnRpYWxBY3Rpb24gPSBwb3RlbnRpYWxBY3Rpb24KICB9Cg==</text>
-      </register>
       <register name="9" type="8">
-        <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
+        <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -356,9 +364,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</last-search>
+      <last-search encoding="base64">XDx1c2VEZWZhdWx0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VEZWZhdWx0XD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
