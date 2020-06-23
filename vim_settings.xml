@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcnRpZmFjdFJlcG9zaXRvcnlVUkxcPg==</entry>
-        <entry encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</entry>
         <entry encoding="base64">XDxjdXJyZW50RXZlbnRUaW1lRnJhbWVcPg==</entry>
         <entry encoding="base64">XDxzdFNlZ21lbnRMaXN0XD4=</entry>
         <entry encoding="base64">XDxzdFByb2Nlc3Nvclw+</entry>
@@ -20,11 +18,13 @@
         <entry encoding="base64">XDxiY3BCbG9ja1dpdGhQYXJ0aXRpb25cPg==</entry>
         <entry encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</entry>
         <entry encoding="base64">XDx1c2VEZWZhdWx0XD4=</entry>
-        <entry encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</entry>
         <entry encoding="base64">XDxXRUJIT09LXD4=</entry>
         <entry encoding="base64">XDxWZXJzaW9uc1w+</entry>
-        <entry encoding="base64">XDxqc29uR3Jvb3Z5U2NyaXB0XD4=</entry>
         <entry encoding="base64">XDxzZW5zb3JDb25maWd1cmF0aW9uTGlzdFw+</entry>
+        <entry encoding="base64">XDxqc29uR3Jvb3Z5U2NyaXB0XD4=</entry>
+        <entry encoding="base64">XDxhcHAydmFyXD4=</entry>
+        <entry encoding="base64">XDxsaW1pdFw+</entry>
+        <entry encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -159,7 +159,8 @@
         <mark key="." line="52" column="122" />
         <mark key="^" line="52" column="123" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1592919787392" />
+      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-qualification" timestamp="1592921526633" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1592920728150" />
       <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/Message.java" timestamp="1592919279105">
         <mark key="'" line="66" column="64" />
       </file>
@@ -190,12 +191,12 @@
         <mark key="^" line="304" column="46" />
         <mark key="." line="303" column="0" />
       </file>
-      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1592918545137">
-        <mark key="'" line="8" column="4" />
-        <mark key="[" line="366" column="18" />
-        <mark key="]" line="366" column="20" />
-        <mark key="." line="366" column="19" />
-        <mark key="^" line="366" column="20" />
+      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1592923148885">
+        <mark key="'" line="118" column="7" />
+        <mark key="[" line="174" column="57" />
+        <mark key="]" line="241" column="43" />
+        <mark key="." line="241" column="42" />
+        <mark key="^" line="241" column="43" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/test/TeamsDeployNotifierTest.groovy" timestamp="1592914693786">
         <mark key="[" line="52" column="21" />
@@ -203,16 +204,12 @@
         <mark key="." line="48" column="18" />
         <mark key="^" line="35" column="75" />
       </file>
-      <file name="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" timestamp="1592918038027">
+      <file name="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" timestamp="1592922563883">
         <mark key="'" line="19" column="26" />
-        <mark key="[" line="39" column="84" />
-        <mark key="]" line="39" column="88" />
-        <mark key="." line="39" column="87" />
-        <mark key="^" line="39" column="88" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/config/algoprocessor/AlgoProcessorConfiguration.java" timestamp="1592911152659">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="30" column="66" />
+        <mark key="[" line="14" column="3" />
+        <mark key="]" line="14" column="196" />
+        <mark key="." line="14" column="195" />
+        <mark key="^" line="14" column="196" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/test/GitflowHelperTest.groovy" timestamp="1592917456875">
         <mark key="[" line="153" column="0" />
@@ -249,46 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="33" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="224" column="24" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="246" column="24" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="292" column="149" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="2" column="7" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="265" column="22" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="1" column="7" filename="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" />
-      <jump line="20" column="29" filename="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" />
-      <jump line="386" column="4" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="350" column="4" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="1" column="27" filename="$USER_HOME$/work/cloud-software-factory/var/notifyTeams.groovy" />
-      <jump line="19" column="26" filename="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" />
-      <jump line="191" column="0" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/worker/ThreadWorker.java" />
-      <jump line="21" column="19" filename="$USER_HOME$/work/fota-service/Jenkinsfile" />
-      <jump line="230" column="0" filename="$USER_HOME$/work/fota-service/Jenkinsfile" />
-      <jump line="22" column="0" filename="$USER_HOME$/work/fota-service/Jenkinsfile" />
-      <jump line="61" column="32" filename="/QueueConsumerTest.java" />
-      <jump line="62" column="33" filename="/QueueConsumerTest.java" />
-      <jump line="25" column="62" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" />
-      <jump line="26" column="53" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" />
-      <jump line="168" column="34" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/pom.xml" />
-      <jump line="26" column="38" filename="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" />
-      <jump line="63" column="0" filename="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/service/ApiStatusUpdater.java" />
-      <jump line="11" column="2" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/Input.groovy" />
-      <jump line="19" column="26" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/MultichoiceInput.groovy" />
-      <jump line="12" column="2" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/InvokeAddInCommandPotentialAction.groovy" />
-      <jump line="12" column="2" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/MessageCard.groovy" />
-      <jump line="13" column="2" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/MessageCard.groovy" />
-      <jump line="17" column="2" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/TextInput.groovy" />
-      <jump line="16" column="2" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/ActionCardPotentialCard.groovy" />
-      <jump line="28" column="4" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/HttpPOSTPotentialAction.groovy" />
-      <jump line="17" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/PotentialAction.groovy" />
-      <jump line="15" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/Image.groovy" />
-      <jump line="10" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/Fact.groovy" />
-      <jump line="24" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/MessageCard.groovy" />
-      <jump line="107" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/Section.groovy" />
-      <jump line="98" column="26" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
-      <jump line="107" column="84" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
-      <jump line="197" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
-      <jump line="25" column="20" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
       <jump line="35" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
       <jump line="44" column="41" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
       <jump line="77" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
@@ -335,35 +292,75 @@
       <jump line="198" column="31" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
       <jump line="36" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" />
       <jump line="235" column="8" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
-      <jump line="118" column="26" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="364" column="24" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="365" column="69" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="373" column="24" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="374" column="69" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="133" column="19" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="185" column="66" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="294" column="100" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="295" column="64" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="138" column="26" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="8" column="4" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="72" column="53" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" />
       <jump line="66" column="64" filename="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/Message.java" />
       <jump line="55" column="58" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoaderTest.java" />
+      <jump line="8" column="4" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="195" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="196" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="197" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="198" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="199" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="200" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="201" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="202" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="203" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="204" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="205" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="206" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="207" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="208" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="209" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="210" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="212" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="213" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="214" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="215" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="216" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="217" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="218" column="20" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="225" column="50" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="233" column="79" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="237" column="47" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="240" column="41" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="245" column="33" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="249" column="50" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="257" column="79" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="261" column="47" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="264" column="41" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="193" column="24" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="232" column="28" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="238" column="28" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="256" column="28" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="262" column="28" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="268" column="32" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="287" column="22" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="182" column="24" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="365" column="39" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="374" column="39" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="118" column="7" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE1lc3NhZ2U+IG1lc3NhZ2VzID0gQkNQRmlsZVJlYWRlcgogICAgICAgICAgICAgICAgLnBhcnNlKGdldEZpbGUoIi9ob21lL2xsaW4vRG93bmxvYWRzLzIwMjAwNjIzLTEyMzAuMDAuMDAwXzEwMDUtMTAwMDItRVVQMDAyNjIwMDA1X05Vbml3YS5iY3AiKSwKICAgICAgICAgICAgICAgICAgICAgICAgQ2FyZGlvc2tpblNlbnNvckJ1aWxkZXIuZ2V0Q2FyZGlvc2tpblY0SVNlbnNvckNvbmZpZ3VyYXRpb25MaXN0KCkpOwoK</text>
+      <register name="&quot;" type="4">
+        <text>https://outlook.office.com/webhook/8c42ba93-5647-4ebe-aa1f-6c90ade2a854@1403a2a5-2a4b-49df-9483-2901d7ee9031/IncomingWebhook/361ab715c0464d0d9e1a70f511b219fe/4f471e67-73eb-4668-a0bc-f86cc53c232b</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>https://outlook.office.com/webhook/8c42ba93-5647-4ebe-aa1f-6c90ade2a854@1403a2a5-2a4b-49df-9483-2901d7ee9031/IncomingWebhook/361ab715c0464d0d9e1a70f511b219fe/4f471e67-73eb-4668-a0bc-f86cc53c232b</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5zb3JDb25maWd1cmF0aW9uTGlzdFw+</text>
+        <text encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>$USER_HOME$/Downloads/20200623-1230.00.000_1005-10002-EUP002620005_NUniwa.bcp</text>
@@ -402,9 +399,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzZW5zb3JDb25maWd1cmF0aW9uTGlzdFw+</last-search>
+      <last-search encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5zb3JDb25maWd1cmF0aW9uTGlzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
