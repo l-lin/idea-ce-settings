@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxEYXRhRXhjaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxkYXRhRXhjaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxzdEJhc2VkRXZlbnREZXRlY3Rvckxpc3RcPg==</entry>
         <entry encoding="base64">XDxldmVudExpc3RcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxQYXVzZUNvbmZpZ3VyYXRpb25cPg==</entry>
         <entry encoding="base64">XDxxdWFsaXR5U2Vuc29yXD4=</entry>
         <entry encoding="base64">XDxxdWFsaXR5U2Vuc29yU3BlY2lmaWNhdGlvblw+</entry>
+        <entry encoding="base64">XDxzdEV2ZW50TWVyZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -166,28 +166,28 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="87" column="157" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" timestamp="1592936382542">
+        <mark key="'" line="38" column="13" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationWithMessageValidationTest.java" timestamp="1592927369253">
         <mark key="[" line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1592936391041">
+        <mark key="'" line="26" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1592926298713">
         <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/Application.java" timestamp="1592925198657">
-        <mark key="[" line="30" column="117" />
-        <mark key="]" line="30" column="118" />
-        <mark key="^" line="30" column="118" />
-        <mark key="." line="30" column="117" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1592924941750" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/merge/StEventMerger.java" timestamp="1592936924317" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1592930124670">
         <mark key="[" line="47" column="32" />
         <mark key="]" line="48" column="8" />
         <mark key="." line="48" column="7" />
         <mark key="^" line="48" column="8" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/merge/AbstractEventMerger.java" timestamp="1592931191242" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/merge/AbstractEventMerger.java" timestamp="1592936603446" />
       <file name="/AlgoResult.java" timestamp="1592928462473" />
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1592927910820" />
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/filter/StreamBatchValidatorInfo.java" timestamp="1592929308231">
@@ -219,8 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
-      <jump line="82" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
       <jump line="83" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
       <jump line="85" column="69" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
       <jump line="87" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
@@ -319,6 +317,8 @@
       <jump line="72" column="0" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" />
       <jump line="87" column="156" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" />
       <jump line="13" column="34" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/merge/EventMerger.java" />
+      <jump line="38" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" />
+      <jump line="26" column="29" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,7 +333,7 @@
         <text encoding="base64">LCBMaXN0SXRlcmF0b3I8PyBleHRlbmRzIEU+IGxpc3RJdGVyYXRvciwgVGltZUZyYW1lIGN1cnJlbnRFdmVudFRpbWVGcmFtZQ==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWFsaXR5U2Vuc29yU3BlY2lmaWNhdGlvblw+</text>
+        <text encoding="base64">XDxzdEV2ZW50TWVyZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cHVibGljIGludGVyZmFjZSBFdmVudE1lcmdlcjxFIGV4dGVuZHMgRXZlbnQ+IHsKCiAgIExpc3Q8RT4gbWVyZ2UoRSBjdXJyZW50RXZlbnQpOwp9Cg==</text>
@@ -372,9 +372,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxxdWFsaXR5U2Vuc29yU3BlY2lmaWNhdGlvblw+</last-search>
+      <last-search encoding="base64">XDxzdEV2ZW50TWVyZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWFsaXR5U2Vuc29yU3BlY2lmaWNhdGlvblw+</last-pattern>
+      <last-pattern encoding="base64">XDxzdEV2ZW50TWVyZ2VyXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
