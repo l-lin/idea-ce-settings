@@ -146,27 +146,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/converter-service/converter-service-shared/src/main/java/com/bioserenity/converter/shared/service/AmazonS3Service.java" timestamp="1592835439278">
-        <mark key="[" line="30" column="80" />
-        <mark key="]" line="30" column="22" />
-        <mark key="^" line="30" column="22" />
-        <mark key="." line="30" column="21" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/service/annotations/EventAndReportSaveService.java" timestamp="1592841916288" />
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/resources/application.properties" timestamp="1592841740399" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/MultichoiceInput.groovy" timestamp="1592896645929">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="8" />
+        <mark key="^" line="10" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/DateInput.groovy" timestamp="1592896634926">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="10" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/StSegmentBlockFile.java" timestamp="1592843367494" />
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/service/ApiStatusUpdater.java" timestamp="1592840034012">
         <mark key="'" line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/work/converter-service/converter-service-shared/pom.xml" timestamp="1592838061541">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="20" column="21" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/ActionCardPotentialCard.groovy" timestamp="1592896573065">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="9" />
+        <mark key="^" line="8" column="9" />
+        <mark key="." line="8" column="8" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/resources/application-local.properties" timestamp="1592840757052">
         <mark key="[" line="22" column="20" />
         <mark key="]" line="23" column="40" />
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="39" />
+      </file>
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/PotentialAction.groovy" timestamp="1592896753581">
+        <mark key="[" line="11" column="2" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="2" />
+        <mark key="^" line="11" column="10" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/service/annotations/report/updater/EventUpdater.java" timestamp="1592842224136" />
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-local.properties" timestamp="1592839962335">
@@ -176,33 +190,41 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/work/converter-service/converter-service-worker/pom.xml" timestamp="1592838020025">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1592839331265" />
-      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/test/java/com/bioserenity/converter/worker/service/QueueConsumerTest.java" timestamp="1592837494052">
-        <mark key="[" line="29" column="83" />
-        <mark key="]" line="29" column="89" />
-        <mark key="^" line="29" column="89" />
-        <mark key="." line="29" column="88" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" timestamp="1592896523786">
+        <mark key="[" line="43" column="2" />
+        <mark key="]" line="43" column="10" />
+        <mark key="^" line="43" column="10" />
+        <mark key="." line="43" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/InvokeAddInCommandPotentialAction.groovy" timestamp="1592896599351">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+        <mark key="." line="9" column="9" />
+      </file>
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/HttpPOSTPotentialAction.groovy" timestamp="1592896555640">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1592839725222">
         <mark key="'" line="95" column="44" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="127" column="5" />
       </file>
-      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/test/java/com/bioserenity/converter/api/AuthentUtilsTest.java" timestamp="1592837546896" />
-      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/resources/application-env.properties" timestamp="1592838133577">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="27" column="22" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/OpenUriPotentialAction.groovy" timestamp="1592896796586">
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="32" column="16" />
+        <mark key="^" line="32" column="16" />
+        <mark key="." line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/work/converter-service/converter-service-worker/src/main/resources/application-local.properties" timestamp="1592837901338">
-        <mark key="[" line="19" column="41" />
-        <mark key="]" line="19" column="55" />
-        <mark key="." line="19" column="54" />
-        <mark key="^" line="19" column="55" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/TextInput.groovy" timestamp="1592896658056">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="8" />
       </file>
       <file name="/pom.xml" timestamp="1592839836624" />
       <file name="/fragment.java" timestamp="1592838898389">
@@ -315,13 +337,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>kafka-internal-01:9092,kafka-internal-02:9092</text>
+        <text>public</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>kafka-internal-01:9092,kafka-internal-02:9092</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</text>
