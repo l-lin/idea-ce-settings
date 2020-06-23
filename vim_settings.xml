@@ -158,7 +158,6 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/service/annotations/EventAndReportSaveService.java" timestamp="1592841916288" />
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/MultichoiceInput.groovy" timestamp="1592898229405">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -197,7 +196,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/service/annotations/report/updater/EventUpdater.java" timestamp="1592842224136" />
       <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" timestamp="1592898374326">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="2" />
@@ -216,6 +214,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="3" column="16" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/test/java/com/bioserenity/bcp/file/BCPFileReaderTest.java" timestamp="1592902478258">
+        <mark key="[" line="47" column="49" />
+        <mark key="]" line="47" column="104" />
+        <mark key="." line="47" column="103" />
+        <mark key="^" line="47" column="104" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/HttpPOSTPotentialAction.groovy" timestamp="1592898264507">
         <mark key="[" line="27" column="0" />
@@ -243,6 +247,9 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/worker/ThreadWorker.java" timestamp="1592902249001">
+        <mark key="'" line="191" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -350,14 +357,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
+      <register name="&quot;" type="4">
+        <text>20200615-1600.00.000_1005-10002-EUDRG3136104_Buh32Q.bcp</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>20200615-1600.00.000_1005-10002-EUDRG3136104_Buh32Q.bcp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</text>
