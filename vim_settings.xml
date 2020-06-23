@@ -5,15 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRVZFUlNFX09QVElPTlw+</entry>
-        <entry encoding="base64">XDxqZW5raW5zVG9rZW5cPg==</entry>
-        <entry encoding="base64">XDxwcmV2aW91c0ludGVybWVkaWF0ZVJlcG9ydFJlc3VsdHNcPg==</entry>
-        <entry encoding="base64">XDxjYW5jZWxlZFw+</entry>
-        <entry encoding="base64">XDx0aW1lclNhbXBsZXNcPg==</entry>
-        <entry encoding="base64">XDxsb2diYWNrXD4=</entry>
-        <entry encoding="base64">XDxlY2xpcHNlXD4=</entry>
-        <entry encoding="base64">XDxsb2dzQXBwVXJsXD4=</entry>
-        <entry encoding="base64">XDxHaXRmbG93SGVscGVyXD4=</entry>
         <entry encoding="base64">XDxHaXRmbG93TWF2ZW5IZWxwZXJcPg==</entry>
         <entry encoding="base64">XDxXRUJIT09LXD4=</entry>
         <entry encoding="base64">XDxqc29uR3Jvb3Z5U2NyaXB0XD4=</entry>
@@ -25,6 +16,15 @@
         <entry encoding="base64">XDxleHBlY3RlZFBhaXJcPg==</entry>
         <entry encoding="base64">XDxhcnRpZmFjdFJlcG9zaXRvcnlVUkxcPg==</entry>
         <entry encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</entry>
+        <entry encoding="base64">XDxjdXJyZW50RXZlbnRUaW1lRnJhbWVcPg==</entry>
+        <entry encoding="base64">XDxzdFNlZ21lbnRMaXN0XD4=</entry>
+        <entry encoding="base64">XDxzdFByb2Nlc3Nvclw+</entry>
+        <entry encoding="base64">XDxEYXRhRXhjaGFuZ2VcPg==</entry>
+        <entry encoding="base64">XDxkYXRhRXhjaGFuZ2VcPg==</entry>
+        <entry encoding="base64">XDxzdEJhc2VkRXZlbnREZXRlY3Rvckxpc3RcPg==</entry>
+        <entry encoding="base64">XDxldmVudExpc3RcPg==</entry>
+        <entry encoding="base64">XDxldmVudExpc3RXaXRoRXBvY2hUaW1lc3RhbXBcPg==</entry>
+        <entry encoding="base64">XDxldmVudFN0YXRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -158,31 +158,12 @@
         <mark key="." line="13" column="2" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/MultichoiceInput.groovy" timestamp="1592898229405">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="18" column="1" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" timestamp="1592905588328">
+        <mark key="'" line="195" column="43" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/DateInput.groovy" timestamp="1592898188807">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/StSegmentBlockFile.java" timestamp="1592843367494" />
-      <file name="$USER_HOME$/work/cloud-software-factory/src/GitflowCarthageHelper.groovy" timestamp="1592897574027" />
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/Input.groovy" timestamp="1592898201781">
-        <mark key="'" line="11" column="2" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="11" column="10" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/ActionCardPotentialCard.groovy" timestamp="1592898248627">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="15" column="0" />
+      <file name="/Event.java" timestamp="1592903505225" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" timestamp="1592905079838">
+        <mark key="'" line="89" column="13" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/test/TeamsDeployNotifierTest.groovy" timestamp="1592898543432">
         <mark key="[" line="52" column="21" />
@@ -190,11 +171,12 @@
         <mark key="." line="48" column="18" />
         <mark key="^" line="35" column="75" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/PotentialAction.groovy" timestamp="1592898308223">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="11" column="10" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/EventStats.java" timestamp="1592905795548">
+        <mark key="'" line="32" column="15" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/BradycardiaDetector.java" timestamp="1592903890331" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" timestamp="1592905412245">
+        <mark key="'" line="49" column="40" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" timestamp="1592898374326">
         <mark key="[" line="15" column="2" />
@@ -202,12 +184,12 @@
         <mark key="^" line="15" column="23" />
         <mark key="." line="15" column="2" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/InvokeAddInCommandPotentialAction.groovy" timestamp="1592898274020">
-        <mark key="'" line="12" column="2" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="10" column="10" />
-        <mark key="." line="17" column="0" />
+      <file name="/AlgoResult.java" timestamp="1592903181021" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" timestamp="1592906444879">
+        <mark key="[" line="216" column="26" />
+        <mark key="]" line="216" column="81" />
+        <mark key="." line="216" column="80" />
+        <mark key="^" line="216" column="81" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/Fact.groovy" timestamp="1592898321827">
         <mark key="[" line="10" column="0" />
@@ -221,75 +203,21 @@
         <mark key="." line="47" column="103" />
         <mark key="^" line="47" column="104" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/HttpPOSTPotentialAction.groovy" timestamp="1592898264507">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1592905281170">
+        <mark key="'" line="143" column="13" />
       </file>
+      <file name="/AlgoResultTest.java" timestamp="1592903489454" />
       <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/MessageCard.groovy" timestamp="1592898339448">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="23" column="21" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/OpenUriPotentialAction.groovy" timestamp="1592898300121">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="21" column="3" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/Image.groovy" timestamp="1592898315414">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/input/TextInput.groovy" timestamp="1592898237986">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/worker/ThreadWorker.java" timestamp="1592902249001">
         <mark key="'" line="191" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="44" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
-      <jump line="22" column="29" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" />
-      <jump line="100" column="8" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" />
-      <jump line="158" column="16" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" />
-      <jump line="237" column="24" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" />
-      <jump line="267" column="24" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeMqttToKaka.java" />
-      <jump line="136" column="15" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="194" column="16" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="287" column="19" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="298" column="74" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="309" column="37" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="349" column="24" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="380" column="24" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="40" column="29" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="27" column="31" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="127" column="33" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/utils/CLI.java" />
-      <jump line="8" column="13" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsMessageCard.groovy" />
-      <jump line="6" column="11" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/MessageCard.groovy" />
-      <jump line="469" column="11" filename="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/HashMap.java" />
-      <jump line="328" column="34" filename="$USER_HOME$/work/cloud-software-factory/src/GitflowHelper.groovy" />
-      <jump line="324" column="105" filename="$USER_HOME$/work/cloud-software-factory/src/GitflowHelper.groovy" />
-      <jump line="7" column="47" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/DeployNotifier.groovy" />
-      <jump line="68" column="20" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferHelper.java" />
-      <jump line="79" column="20" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferHelper.java" />
-      <jump line="91" column="13" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferHelper.java" />
-      <jump line="26" column="29" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferHelper.java" />
-      <jump line="49" column="17" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferHelper.java" />
-      <jump line="5" column="2" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/OpenUriPotentialAction.groovy" />
-      <jump line="17" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsDeployNotifier.groovy" />
-      <jump line="25" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsDeployNotifier.groovy" />
-      <jump line="175" column="16" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="118" column="8" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/src/main/java/com/bioserenity/bridge/BridgeAmqpToKaka.java" />
-      <jump line="30" column="44" filename="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/monitoring/micrometer/MicrometerMetricMonitor.java" />
-      <jump line="35" column="56" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" />
-      <jump line="33" column="59" filename="$USER_HOME$/work/bioserenity-mqtt-kafka-bridge/pom.xml" />
-      <jump line="7" column="29" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/potentialaction/AbstractInput.groovy" />
-      <jump line="12" column="9" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsDeployNotifier.groovy" />
       <jump line="10" column="0" filename="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsDeployNotifierTest.groovy" />
       <jump line="147" column="0" filename="$USER_HOME$/work/cloud-software-factory/test/GitflowHelperTest.groovy" />
       <jump line="8" column="53" filename="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsDeployNotifierTest.groovy" />
@@ -353,51 +281,88 @@
       <jump line="10" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/Fact.groovy" />
       <jump line="24" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/MessageCard.groovy" />
       <jump line="107" column="0" filename="$USER_HOME$/work/cloud-software-factory/src/notification/teams/Section.groovy" />
+      <jump line="98" column="26" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="107" column="84" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="197" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="25" column="20" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="35" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="44" column="41" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="77" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
+      <jump line="23" column="30" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
+      <jump line="36" column="39" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
+      <jump line="45" column="27" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
+      <jump line="20" column="14" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="60" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="68" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="70" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="72" column="69" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="74" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="78" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="80" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="82" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="83" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="85" column="69" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="87" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="88" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="89" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
+      <jump line="40" column="54" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
+      <jump line="49" column="40" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
+      <jump line="17" column="41" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/EventStats.java" />
+      <jump line="32" column="15" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/EventStats.java" />
+      <jump line="27" column="16" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="37" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="41" column="70" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="46" column="25" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="93" column="25" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="95" column="44" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="143" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
+      <jump line="139" column="13" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
+      <jump line="195" column="43" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>20200615-1600.00.000_1005-10002-EUDRG3136104_Buh32Q.bcp</text>
+        <text>ghap/betweenLastMessageAndFirstMessage/20200410-0545.00.000_CCW120QTP1_Hi3AUU.bcp</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>20200615-1600.00.000_1005-10002-EUDRG3136104_Buh32Q.bcp</text>
+        <text>ghap/betweenLastMessageAndFirstMessage/20200410-0545.00.000_CCW120QTP1_Hi3AUU.bcp</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</text>
+        <text encoding="base64">XDxldmVudFN0YXRzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyBDT1JTCmNvcnMuYWxsb3dlZC5vcmlnaW5zPSoK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBnaXZlblR3b0Jsb2Nrc1dpdGhvdXRBbnlHYXBzSW5CZXR3ZWVuX3doZW5Qcm9jZXNzaW5nQmxvY2tzX3RoZW5Ob0dhcHNTaG91bGRCZVJldHVybmVkKCkKICAgICAgICAgICAgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgLyoKICAgICAgICAgKiBIZXJlIHdlIHRlc3RSZXBvcnRFdmVudFB1Ymxpc2ggdGhlIGNhc2Ugd2hlbiB0aGVyZSBpcyBubyBnYXAKICAgICAgICAgKiBXZSBhc3NlcnQgdGhhdCB3ZSBoYXZlIG5vdCBhcHBsaWVkIGEgZ2FwCiAgICAgICAgICovCgogICAgICAgIC8vIGdpdmVuCgogICAgICAgIGZpbmFsIExvY2FsRGF0ZVRpbWUgYmxvY2tEYXRlMSA9IExvY2FsRGF0ZVRpbWUub2YoMjAyMCwgNCwgMTAsIDUsIDMwKTsKICAgICAgICBmaW5hbCBMb2NhbERhdGVUaW1lIGJsb2NrRGF0ZTIgPSBibG9ja0RhdGUxLnBsdXNNaW51dGVzKDE1KTsKCiAgICAgICAgZmluYWwgQkNQQmxvY2sgYmNwQmxvY2sgPSBuZXcgQkNQQmxvY2soInJlY29yZEtleSIsICJDQ1cxMjBRVFAxIiwgIjBmak1VWCIsIGJsb2NrRGF0ZTEpOwogICAgICAgIGZpbmFsIEJDUEJsb2NrIGJjcEJsb2NrMSA9IG5ldyBCQ1BCbG9jaygicmVjb3JkS2V5IiwgIkNDVzEyMFFUUDEiLCAiSGkzQVVVIiwgYmxvY2tEYXRlMik7CgogICAgICAgIGZpbmFsIGJ5dGVbXSBiY3BCeXRlID0gSU9VdGlscy50b0J5dGVBcnJheShSZWNvcmRQcm9jZXNzb3JUZXN0LmNsYXNzCiAgICAgICAgICAgICAgICAuZ2V0UmVzb3VyY2VBc1N0cmVhbSgKICAgICAgICAgICAgICAgICAgICAgICAgIi9nYXAvYmV0d2Vlbkxhc3RNZXNzYWdlQW5kRmlyc3RNZXNzYWdlLzIwMjAwNDEwLTA1MzAuMDAuMDAwX0NDVzEyMFFUUDFfMGZqTVVYLmJjcCIpKTsKICAgICAgICBmaW5hbCBieXRlW10gYmNwQnl0ZTEgPSBJT1V0aWxzLnRvQnl0ZUFycmF5KFJlY29yZFByb2Nlc3NvclRlc3QuY2xhc3MKICAgICAgICAgICAgICAgIC5nZXRSZXNvdXJjZUFzU3RyZWFtKAogICAgICAgICAgICAgICAgICAgICAgICAiL2dhcC9iZXR3ZWVuTGFzdE1lc3NhZ2VBbmRGaXJzdE1lc3NhZ2UvMjAyMDA0MTAtMDU0NS4wMC4wMDBfQ0NXMTIwUVRQMV9IaTNBVVUuYmNwIikpOwoKICAgICAgICAvLyB3aGVuCgogICAgICAgIE1vY2tpdG8ud2hlbih0aGlzLnByb2Nlc3NpbmdFdmVudFNlcnZpY2UuZ2V0QmxvY2tMaXN0QXRDdXJyZW50RGF0ZShiY3BCbG9jaykpCiAgICAgICAgICAgICAgICAudGhlblJldHVybihDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KGJjcEJsb2NrKSk7CiAgICAgICAgTW9ja2l0by53aGVuKHRoaXMucHJvY2Vzc2luZ0V2ZW50U2VydmljZS5nZXRCbG9ja0xpc3RBdFByZXZpb3VzRGF0ZShiY3BCbG9jaykpCiAgICAgICAgICAgICAgICAudGhlblJldHVybihDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKSk7CgogICAgICAgIE1vY2tpdG8ud2hlbih0aGlzLnByb2Nlc3NpbmdFdmVudFNlcnZpY2UuZ2V0QmxvY2tMaXN0QXRDdXJyZW50RGF0ZShiY3BCbG9jazEpKQogICAgICAgICAgICAgICAgLnRoZW5SZXR1cm4oQ29sbGVjdGlvbnMuc2luZ2xldG9uTGlzdChiY3BCbG9jazEpKTsKICAgICAgICBNb2NraXRvLndoZW4odGhpcy5wcm9jZXNzaW5nRXZlbnRTZXJ2aWNlLmdldEJsb2NrTGlzdEF0UHJldmlvdXNEYXRlKGJjcEJsb2NrMSkpCiAgICAgICAgICAgICAgICAudGhlblJldHVybihDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KGJjcEJsb2NrKSk7CgogICAgICAgIE1vY2tpdG8ud2hlbih0aGlzLmJjcEJsb2NrRmlsZUNsaWVudC5nZXRCbG9jayhiY3BCbG9jaykpLnRoZW5SZXR1cm4oYmNwQnl0ZSk7CgogICAgICAgIE1vY2tpdG8ud2hlbih0aGlzLmJjcEJsb2NrRmlsZUNsaWVudC5nZXRCbG9jayhiY3BCbG9jazEpKS50aGVuUmV0dXJuKGJjcEJ5dGUxKTsKCiAgICAgICAgZmluYWwgUmVjb3JkUHJvY2Vzc29yIHJlY29yZFByb2Nlc3NvciA9IHRoaXMuY3JlYXRlUmVjb3JkUHJvY2Vzc29yKGJjcEJsb2NrKTsKCiAgICAgICAgcmVjb3JkUHJvY2Vzc29yLnByb2Nlc3MoYmNwQmxvY2spOwogICAgICAgIHJlY29yZFByb2Nlc3Nvci5wcm9jZXNzKGJjcEJsb2NrMSk7CgogICAgICAgIC8vIHRoZW4KCiAgICAgICAgLy8gdHdvIGJsb2NrIGhhdmUgYmVlbiBwcm9jZXNzZWQKICAgICAgICBmaW5hbCBMaXN0PGJ5dGVbXT4gYmNwQnl0ZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKCiAgICAgICAgYmNwQnl0ZXMuYWRkKGJjcEJ5dGUxKTsKICAgICAgICBiY3BCeXRlcy5hZGQoYmNwQnl0ZSk7CiAgICAgICAgZmluYWwgU29ydGVkU2V0PE1lc3NhZ2U+IHNvcnRlZFNldCA9IHRoaXMuYnl0ZVJlYWRlcldpdGhNZXNzYWdlRGVkdXBsaWNhdGlvbgogICAgICAgICAgICAgICAgLmdldFNldE9mTWVzc2FnZShiY3BCeXRlcywgQ0FSRElPU0tJTl9DT05GSUdVUkFUSU9OKTsKCiAgICAgICAgZmluYWwgaW50IGV4cGVjdGVkTWVzc2FnZUNvdW50ID0gc29ydGVkU2V0LnNpemUoKTsKCiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscyhleHBlY3RlZE1lc3NhZ2VDb3VudCwgdGhpcy5hbGdvUHJvY2Vzc29yLnNpZ25hbExpc3Quc2l6ZSgpKTsKICAgICAgICAvLyBubyBnYXBzIGhhdmUgYmVlbiBhcHBsaWVkCiAgICAgICAgQXNzZXJ0LmFzc2VydFRydWUodGhpcy5hbGdvUHJvY2Vzc29yLmdhcHMuaXNFbXB0eSgpKTsKICAgIH0K</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvKgogICAgICAgICAqIEhlcmUgd2UgdGVzdFJlcG9ydEV2ZW50UHVibGlzaCB0aGUgY2FzZSB3aGVuIHRoZXJlIGlzIG5vIGdhcAogICAgICAgICAqIFdlIGFzc2VydCB0aGF0IHdlIGhhdmUgbm90IGFwcGxpZWQgYSBnYXAKICAgICAgICAgKi8KCg==</text>
       </register>
       <register name="2" type="8">
+        <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
+      </register>
+      <register name="3" type="8">
         <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">CiAgU3RyaW5nIGdldFRpdGxlKCkgewogICAgcmV0dXJuIHRpdGxlCiAgfQoKICB2b2lkIHNldFRpdGxlKFN0cmluZyB0aXRsZSkgewogICAgdGhpcy50aXRsZSA9IHRpdGxlCiAgfQoKICBCb29sZWFuIGdldFN0YXJ0R3JvdXAoKSB7CiAgICByZXR1cm4gc3RhcnRHcm91cAogIH0KCiAgdm9pZCBzZXRTdGFydEdyb3VwKEJvb2xlYW4gc3RhcnRHcm91cCkgewogICAgdGhpcy5zdGFydEdyb3VwID0gc3RhcnRHcm91cAogIH0KCiAgU3RyaW5nIGdldEFjdGl2aXR5SW1hZ2UoKSB7CiAgICByZXR1cm4gYWN0aXZpdHlJbWFnZQogIH0KCiAgdm9pZCBzZXRBY3Rpdml0eUltYWdlKFN0cmluZyBhY3Rpdml0eUltYWdlKSB7CiAgICB0aGlzLmFjdGl2aXR5SW1hZ2UgPSBhY3Rpdml0eUltYWdlCiAgfQoKICBTdHJpbmcgZ2V0QWN0aXZpdHlUaXRsZSgpIHsKICAgIHJldHVybiBhY3Rpdml0eVRpdGxlCiAgfQoKICB2b2lkIHNldEFjdGl2aXR5VGl0bGUoU3RyaW5nIGFjdGl2aXR5VGl0bGUpIHsKICAgIHRoaXMuYWN0aXZpdHlUaXRsZSA9IGFjdGl2aXR5VGl0bGUKICB9CgogIFN0cmluZyBnZXRBY3Rpdml0eVN1YnRpdGxlKCkgewogICAgcmV0dXJuIGFjdGl2aXR5U3VidGl0bGUKICB9CgogIHZvaWQgc2V0QWN0aXZpdHlTdWJ0aXRsZShTdHJpbmcgYWN0aXZpdHlTdWJ0aXRsZSkgewogICAgdGhpcy5hY3Rpdml0eVN1YnRpdGxlID0gYWN0aXZpdHlTdWJ0aXRsZQogIH0KCiAgU3RyaW5nIGdldEFjdGl2aXR5VGV4dCgpIHsKICAgIHJldHVybiBhY3Rpdml0eVRleHQKICB9CgogIHZvaWQgc2V0QWN0aXZpdHlUZXh0KFN0cmluZyBhY3Rpdml0eVRleHQpIHsKICAgIHRoaXMuYWN0aXZpdHlUZXh0ID0gYWN0aXZpdHlUZXh0CiAgfQoKICBJbWFnZSBnZXRIZXJvSW1hZ2UoKSB7CiAgICByZXR1cm4gaGVyb0ltYWdlCiAgfQoKICB2b2lkIHNldEhlcm9JbWFnZShJbWFnZSBoZXJvSW1hZ2UpIHsKICAgIHRoaXMuaGVyb0ltYWdlID0gaGVyb0ltYWdlCiAgfQoKICBTdHJpbmcgZ2V0VGV4dCgpIHsKICAgIHJldHVybiB0ZXh0CiAgfQoKICB2b2lkIHNldFRleHQoU3RyaW5nIHRleHQpIHsKICAgIHRoaXMudGV4dCA9IHRleHQKICB9CgogIExpc3Q8RmFjdD4gZ2V0RmFjdHMoKSB7CiAgICByZXR1cm4gZmFjdHMKICB9CgogIHZvaWQgc2V0RmFjdHMoTGlzdDxGYWN0PiBmYWN0cykgewogICAgdGhpcy5mYWN0cyA9IGZhY3RzCiAgfQoKICBMaXN0PEltYWdlPiBnZXRJbWFnZXMoKSB7CiAgICByZXR1cm4gaW1hZ2VzCiAgfQoKICB2b2lkIHNldEltYWdlcyhMaXN0PEltYWdlPiBpbWFnZXMpIHsKICAgIHRoaXMuaW1hZ2VzID0gaW1hZ2VzCiAgfQoKICBMaXN0PFBvdGVudGlhbEFjdGlvbj4gZ2V0UG90ZW50aWFsQWN0aW9uKCkgewogICAgcmV0dXJuIHBvdGVudGlhbEFjdGlvbgogIH0KCiAgdm9pZCBzZXRQb3RlbnRpYWxBY3Rpb24oTGlzdDxQb3RlbnRpYWxBY3Rpb24+IHBvdGVudGlhbEFjdGlvbikgewogICAgdGhpcy5wb3RlbnRpYWxBY3Rpb24gPSBwb3RlbnRpYWxBY3Rpb24KICB9Cg==</text>
       </register>
-      <register name="4" type="8">
+      <register name="5" type="8">
         <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgU3RyaW5nIGdldFR5cGUoKSB7CiAgICByZXR1cm4gdHlwZQogIH0KCiAgU3RyaW5nIGdldENvbnRleHQoKSB7CiAgICByZXR1cm4gY29udGV4dAogIH0KCiAgTGlzdDxTdHJpbmc+IGdldEV4cGVjdGVkQWN0b3JzKCkgewogICAgcmV0dXJuIGV4cGVjdGVkQWN0b3JzCiAgfQoKICB2b2lkIHNldEV4cGVjdGVkQWN0b3JzKExpc3Q8U3RyaW5nPiBleHBlY3RlZEFjdG9ycykgewogICAgdGhpcy5leHBlY3RlZEFjdG9ycyA9IGV4cGVjdGVkQWN0b3JzCiAgfQoKICBTdHJpbmcgZ2V0T3JpZ2luYXRvcigpIHsKICAgIHJldHVybiBvcmlnaW5hdG9yCiAgfQoKICB2b2lkIHNldE9yaWdpbmF0b3IoU3RyaW5nIG9yaWdpbmF0b3IpIHsKICAgIHRoaXMub3JpZ2luYXRvciA9IG9yaWdpbmF0b3IKICB9CgogIFN0cmluZyBnZXRTdW1tYXJ5KCkgewogICAgcmV0dXJuIHN1bW1hcnkKICB9CgogIHZvaWQgc2V0U3VtbWFyeShTdHJpbmcgc3VtbWFyeSkgewogICAgdGhpcy5zdW1tYXJ5ID0gc3VtbWFyeQogIH0KCiAgU3RyaW5nIGdldFRoZW1lQ29sb3IoKSB7CiAgICByZXR1cm4gdGhlbWVDb2xvcgogIH0KCiAgdm9pZCBzZXRUaGVtZUNvbG9yKFN0cmluZyB0aGVtZUNvbG9yKSB7CiAgICB0aGlzLnRoZW1lQ29sb3IgPSB0aGVtZUNvbG9yCiAgfQoKICBCb29sZWFuIGdldEhpZGVPcmlnaW5hbEJvZHkoKSB7CiAgICByZXR1cm4gaGlkZU9yaWdpbmFsQm9keQogIH0KCiAgdm9pZCBzZXRIaWRlT3JpZ2luYWxCb2R5KEJvb2xlYW4gaGlkZU9yaWdpbmFsQm9keSkgewogICAgdGhpcy5oaWRlT3JpZ2luYWxCb2R5ID0gaGlkZU9yaWdpbmFsQm9keQogIH0KCiAgU3RyaW5nIGdldFRpdGxlKCkgewogICAgcmV0dXJuIHRpdGxlCiAgfQoKICB2b2lkIHNldFRpdGxlKFN0cmluZyB0aXRsZSkgewogICAgdGhpcy50aXRsZSA9IHRpdGxlCiAgfQoKICBTdHJpbmcgZ2V0VGV4dCgpIHsKICAgIHJldHVybiB0ZXh0CiAgfQoKICB2b2lkIHNldFRleHQoU3RyaW5nIHRleHQpIHsKICAgIHRoaXMudGV4dCA9IHRleHQKICB9CgogIExpc3Q8U2VjdGlvbj4gZ2V0U2VjdGlvbnMoKSB7CiAgICByZXR1cm4gc2VjdGlvbnMKICB9CgogIHZvaWQgc2V0U2VjdGlvbnMoTGlzdDxTZWN0aW9uPiBzZWN0aW9ucykgewogICAgdGhpcy5zZWN0aW9ucyA9IHNlY3Rpb25zCiAgfQoKICBMaXN0PFBvdGVudGlhbEFjdGlvbj4gZ2V0UG90ZW50aWFsQWN0aW9uKCkgewogICAgcmV0dXJuIHBvdGVudGlhbEFjdGlvbgogIH0KCiAgdm9pZCBzZXRQb3RlbnRpYWxBY3Rpb24oTGlzdDxQb3RlbnRpYWxBY3Rpb24+IHBvdGVudGlhbEFjdGlvbikgewogICAgdGhpcy5wb3RlbnRpYWxBY3Rpb24gPSBwb3RlbnRpYWxBY3Rpb24KICB9Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSAKcHJpdmF0ZSA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgU3RyaW5nIGdldE5hbWUoKSB7CiAgICByZXR1cm4gbmFtZQogIH0KCiAgU3RyaW5nIGdldFZhbHVlKCkgewogICAgcmV0dXJuIHZhbHVlCiAgfQo=</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">cHJpdmF0ZSAKcHJpdmF0ZSA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgU3RyaW5nIGdldEltYWdlKCkgewogICAgcmV0dXJuIGltYWdlCiAgfQoKICBTdHJpbmcgZ2V0VGl0bGUoKSB7CiAgICByZXR1cm4gdGl0bGUKICB9CgogIHZvaWQgc2V0VGl0bGUoU3RyaW5nIHRpdGxlKSB7CiAgICB0aGlzLnRpdGxlID0gdGl0bGUKICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -406,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</last-search>
+      <last-search encoding="base64">XDxldmVudFN0YXRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb2NrZXJSZWdpc3RyeVVSTFw+</last-pattern>
+      <last-pattern encoding="base64">XDxldmVudFN0YXRzXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
