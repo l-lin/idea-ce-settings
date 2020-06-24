@@ -146,33 +146,38 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/merge/EventMerger.java" timestamp="1592985749272">
-        <mark key="]" line="41" column="1" />
-        <mark key="." line="4" column="31" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1592935716268">
         <mark key="'" line="58" column="110" />
       </file>
       <file name="/a.dummy" timestamp="1592930462034">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1592929840051">
-        <mark key="'" line="87" column="156" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="52" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="87" column="157" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" timestamp="1592982848042">
-        <mark key="'" line="38" column="13" />
-      </file>
-      <file name="/StElevationEventDetector.java" timestamp="1592984675800" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/service/ConcatenateService.java" timestamp="1592986611416" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" timestamp="1592984530825" />
+      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/README.md" timestamp="1592987664787" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1592982835893">
         <mark key="'" line="26" column="29" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/ResultsBufferHelper.java" timestamp="1592984002027" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/merge/AbstractEventMerger.java" timestamp="1592983856322" />
+      <file name="/AlgoResult.java" timestamp="1592984519115" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/merge/EventMergerAdapter.java" timestamp="1592986128058">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1592982398438" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/merge/EventMerger.java" timestamp="1592985749272">
+        <mark key="]" line="41" column="1" />
+        <mark key="." line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/docker-compose.yml" timestamp="1592988252322">
+        <mark key="[" line="5" column="10" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" timestamp="1592982848042">
+        <mark key="'" line="38" column="13" />
+      </file>
+      <file name="/StElevationEventDetector.java" timestamp="1592987417554" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1592983167429">
         <mark key="[" line="297" column="9" />
       </file>
@@ -188,22 +193,7 @@
         <mark key="." line="48" column="7" />
         <mark key="^" line="48" column="8" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/merge/AbstractEventMerger.java" timestamp="1592983856322" />
-      <file name="/AlgoResult.java" timestamp="1592984519115" />
-      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1592927910820" />
-      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/filter/StreamBatchValidatorInfo.java" timestamp="1592929308231">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="19" column="53" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/merge/EventMergerAdapter.java" timestamp="1592986128058">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/fota-service/src/main/java/com/bioserenity/FotaApp.java" timestamp="1592982398438" />
-      <file name="/fragment.java" timestamp="1592927657801">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/java/com/bioserenity/bridge/BrokerClientFactory.java" timestamp="1592987552535" />
     </filemarks>
     <jumps>
       <jump line="83" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" />
