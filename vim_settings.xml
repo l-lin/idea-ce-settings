@@ -146,23 +146,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1593001366742">
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1593002766891">
         <mark key="'" line="47" column="49" />
-        <mark key="[" line="47" column="17" />
+        <mark key="[" line="50" column="65" />
         <mark key="]" line="51" column="66" />
         <mark key="^" line="51" column="66" />
         <mark key="." line="51" column="65" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.1/bioserenity-io-bcp-6.2.1-sources.jar!/com/bioserenity/bcp/MessageHeader.java" timestamp="1592991487958" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoaderTest.java" timestamp="1592990998062">
-        <mark key="[" line="94" column="105" />
-        <mark key="]" line="94" column="106" />
-        <mark key="." line="94" column="106" />
-        <mark key="^" line="94" column="176" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoaderTest.java" timestamp="1593001567675">
+        <mark key="[" line="94" column="121" />
+        <mark key="]" line="94" column="163" />
+        <mark key="." line="94" column="162" />
+        <mark key="^" line="94" column="163" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1592994789346">
         <mark key="'" line="26" column="29" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1593002604911" />
       <file name="$USER_HOME$/work/bcp-dump/dump-application/src/main/java/com/bioserenity/processing/dump/service/BCPService.java" timestamp="1592991625351" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" timestamp="1592993854067">
         <mark key="'" line="29" column="45" />
@@ -170,7 +171,6 @@
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" timestamp="1592993010428">
         <mark key="'" line="59" column="42" />
       </file>
-      <file name="$USER_HOME$/work/bcp-dump/dump-application/src/main/java/com/bioserenity/processing/dump/model/RecordMessage.java" timestamp="1592990460928" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" timestamp="1592991102752">
         <mark key="'" line="211" column="57" />
         <mark key="[" line="231" column="39" />
@@ -178,13 +178,13 @@
         <mark key="." line="231" column="39" />
         <mark key="^" line="228" column="40" />
       </file>
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/docker-compose.yml" timestamp="1592989394321">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="8" column="9" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/resources/application.properties" timestamp="1593002825117">
+        <mark key="[" line="38" column="26" />
+        <mark key="]" line="38" column="31" />
       </file>
       <file name="/CardioskinLoader.java" timestamp="1592993386836" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StDepressionEventDetector.java" timestamp="1592994191014" />
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/stream/selfdescribed/StreamSelfDescInflated.java" timestamp="1593002815069" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" timestamp="1592994145630">
         <mark key="'" line="38" column="13" />
       </file>
@@ -197,9 +197,10 @@
         <mark key="." line="18" column="28" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1592993132762">
+      <file name="/fragment.java" timestamp="1593001612929">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-processing-handler/src/main/java/com/bioserenity/processing/ecg/handler/configuration/qt/SecurityConfiguration.java" timestamp="1593002757454" />
     </filemarks>
     <jumps>
       <jump line="139" column="13" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
@@ -307,13 +308,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Stream::getSensorsId)</text>
+        <text>20200623-1230.00.000_1005-10002-EUP002620005_YrCSQy.bcp</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>Stream::getSensorsId)</text>
+        <text>20200623-1230.00.000_1005-10002-EUP002620005_YrCSQy.bcp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdEJhc2VkRXZlbnREZXRlY3Rvckxpc3RcPg==</text>
