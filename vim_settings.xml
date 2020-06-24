@@ -146,6 +146,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/sensor/SensorBuilder.java" timestamp="1593012918142" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1593012258251">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -155,12 +156,7 @@
       <file name="/a.dummy" timestamp="1593010756673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/sensor/SensorFinder.java" timestamp="1593010662585">
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="55" />
-        <mark key="^" line="7" column="30" />
-        <mark key="." line="8" column="31" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.1/bioserenity-io-bcp-6.2.1-sources.jar!/com/bioserenity/bcp/sensor/SensorBuilder.java" timestamp="1593013003222" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/sensor/QualitySensor250HzFinder.java" timestamp="1593010742724">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="13" />
@@ -208,20 +204,11 @@
         <mark key="." line="28" column="40" />
         <mark key="^" line="28" column="41" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/SensorConfigurationFinderFacade.java" timestamp="1593010281612">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="77" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/EcgSensorFinder.java" timestamp="1593012377318">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="82" />
         <mark key="^" line="40" column="74" />
         <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/sensor/config/QualitySensor250HzConfigurationFinder.java" timestamp="1593010722690">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="34" column="5" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/sensor/config/SensorConfigurationFinderFacade.java" timestamp="1593010800455">
         <mark key="[" line="14" column="0" />
@@ -233,11 +220,11 @@
         <mark key="^" line="10" column="13" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/QualitySensorFinder.java" timestamp="1593012411117">
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="36" column="35" />
-        <mark key="." line="36" column="34" />
-        <mark key="^" line="36" column="35" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/QualitySensorFinder.java" timestamp="1593013009299">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="29" />
+        <mark key="." line="29" column="28" />
+        <mark key="^" line="29" column="29" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQITest.java" timestamp="1593012023564" />
       <file name="/fragment.java" timestamp="1593011841138">
