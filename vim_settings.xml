@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdEJhc2VkRXZlbnREZXRlY3Rvckxpc3RcPg==</entry>
         <entry encoding="base64">XDxldmVudExpc3RcPg==</entry>
         <entry encoding="base64">XDxldmVudExpc3RXaXRoRXBvY2hUaW1lc3RhbXBcPg==</entry>
         <entry encoding="base64">XDxldmVudFN0YXRzXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzdEV2ZW50TWVyZ2VyXD4=</entry>
         <entry encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</entry>
         <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxzdEJhc2VkRXZlbnREZXRlY3Rvckxpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -160,13 +160,13 @@
         <mark key="." line="94" column="106" />
         <mark key="^" line="94" column="176" />
       </file>
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/README.md" timestamp="1592987664787" />
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/resources/application-local.properties" timestamp="1592988669941">
-        <mark key="[" line="1" column="69" />
-        <mark key="]" line="1" column="69" />
-        <mark key="." line="1" column="69" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1592994214830">
+        <mark key="'" line="26" column="29" />
       </file>
       <file name="$USER_HOME$/work/bcp-dump/dump-application/src/main/java/com/bioserenity/processing/dump/service/BCPService.java" timestamp="1592991625351" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" timestamp="1592993854067">
+        <mark key="'" line="29" column="45" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" timestamp="1592993010428">
         <mark key="'" line="59" column="42" />
       </file>
@@ -184,8 +184,12 @@
         <mark key="." line="8" column="9" />
       </file>
       <file name="/CardioskinLoader.java" timestamp="1592993386836" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StDepressionEventDetector.java" timestamp="1592994191014" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" timestamp="1592994145630">
+        <mark key="'" line="38" column="13" />
+      </file>
       <file name="$USER_HOME$/work/bcp-dump/dump-application/src/main/java/com/bioserenity/processing/dump/model/RecordCache.java" timestamp="1592991894980" />
-      <file name="/StElevationEventDetector.java" timestamp="1592987417554" />
+      <file name="/StElevationEventDetector.java" timestamp="1592994311936" />
       <file name="$USER_HOME$/work/bcp-dump/README.md" timestamp="1592992382406" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/resources/application-local.properties" timestamp="1592992305339">
         <mark key="[" line="18" column="26" />
@@ -193,13 +197,11 @@
         <mark key="." line="18" column="28" />
         <mark key="^" line="18" column="29" />
       </file>
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/java/com/bioserenity/bridge/BrokerClientFactory.java" timestamp="1592987552535" />
       <file name="/fragment.java" timestamp="1592993132762">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="44" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
       <jump line="143" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" />
       <jump line="139" column="13" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
       <jump line="195" column="43" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" />
@@ -299,6 +301,7 @@
       <jump line="29" column="18" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" />
       <jump line="50" column="8" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" />
       <jump line="59" column="42" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" />
+      <jump line="29" column="45" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,7 +316,7 @@
         <text encoding="base64">bWVzc2FnZS5nZXRJZCgpLCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3Rpb25cPg==</text>
+        <text encoding="base64">XDxzdEJhc2VkRXZlbnREZXRlY3Rvckxpc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNlbnNvciBxdWFsaXR5U2Vuc29yID0gZ2V0UXVhbGl0eVNlbnNvcigoU3RyZWFtKSBmaXJzdE1lc3NhZ2VQYXlsb2FkKTsK</text>
@@ -353,9 +356,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhY3Rpb25cPg==</last-search>
+      <last-search encoding="base64">XDxzdEJhc2VkRXZlbnREZXRlY3Rvckxpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3Rpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdEJhc2VkRXZlbnREZXRlY3Rvckxpc3RcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDx3aW5kb3dTdGFydFRpbWVcPg==</last-substitute>
       <last-dir>1</last-dir>
