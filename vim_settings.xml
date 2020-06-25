@@ -146,11 +146,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1593080484535">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="28" column="42" />
-        <mark key="^" line="47" column="100" />
-        <mark key="." line="47" column="99" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1593080992475">
+        <mark key="[" line="43" column="78" />
+        <mark key="]" line="43" column="97" />
+        <mark key="^" line="43" column="97" />
+        <mark key="." line="43" column="96" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" timestamp="1593080891650">
         <mark key="'" line="133" column="0" />
@@ -181,12 +181,6 @@
         <mark key="]" line="17" column="51" />
         <mark key="^" line="17" column="51" />
         <mark key="." line="17" column="50" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/SensorFinder.java" timestamp="1593075165002">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="36" column="89" />
-        <mark key="^" line="37" column="20" />
-        <mark key="." line="36" column="89" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/report/TimeFrame.java" timestamp="1593078099726">
         <mark key="[" line="17" column="29" />
@@ -237,6 +231,9 @@
         <mark key="]" line="28" column="61" />
         <mark key="^" line="28" column="61" />
         <mark key="." line="28" column="60" />
+      </file>
+      <file name="/fragment.java" timestamp="1593081068232">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/StreamSensorFinder.java" timestamp="1593075221565">
         <mark key="[" line="14" column="6" />
@@ -351,13 +348,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>signalGeneratorWithMElecSQI</text>
+        <text>ecgSensorResult</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>signalGeneratorWithMElecSQI</text>
+        <text>ecgSensorResult</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzb3JQcm9wZXJ0aWVzXD4=</text>
