@@ -16,7 +16,6 @@
         <entry encoding="base64">XDxNT1JUQVJBX1NBTVBMSU5HX1JBVEVcPg==</entry>
         <entry encoding="base64">XDxNT1JUQVJBX1BFUklPRF9JTl9NSUNST1w+</entry>
         <entry encoding="base64">XDxzaWduYWxHZW5lcmF0b3JcPg==</entry>
-        <entry encoding="base64">XDxzZW5zb3JQb2ludHNcPg==</entry>
         <entry encoding="base64">XDxzdEV2ZW50TWVyZ2VyXD4=</entry>
         <entry encoding="base64">XDxsaXN0SXRlcmF0b3JcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzb3JQcm9wZXJ0aWVzXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxsYXN0R2VuZXJhdGVkUG9pbnRUaW1lc3RhbXBJbk1pY3JvU2Vjb25kXD4=</entry>
         <entry encoding="base64">XDxFQ0dfQ0hBTk5FTF9DT1VOVFw+</entry>
         <entry encoding="base64">XDxnZXRTaWduYWxRdWFsaXRpZXNcPg==</entry>
+        <entry encoding="base64">XDxzZW5zb3JQb2ludHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -156,33 +156,34 @@
         <mark key="]" line="3" column="5" />
       </file>
       <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/time/Duration.java" timestamp="1593093049247" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" timestamp="1593095625556">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" timestamp="1593096469102">
+        <mark key="'" line="56" column="16" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="43" />
         <mark key="^" line="117" column="117" />
         <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith250MElecSQI.java" timestamp="1593095418061">
-        <mark key="[" line="43" column="95" />
-        <mark key="]" line="43" column="96" />
-        <mark key="^" line="43" column="96" />
-        <mark key="." line="43" column="95" />
+        <mark key="[" line="40" column="95" />
+        <mark key="]" line="40" column="96" />
+        <mark key="^" line="40" column="96" />
+        <mark key="." line="40" column="95" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcher.java" timestamp="1593095520126">
-        <mark key="[" line="30" column="91" />
-        <mark key="]" line="30" column="153" />
-        <mark key="." line="30" column="91" />
-        <mark key="^" line="30" column="91" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcher.java" timestamp="1593096530854">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" timestamp="1593094620111">
         <mark key="[" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQI.java" timestamp="1593094975970">
-        <mark key="'" line="25" column="93" />
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="12" column="94" />
-        <mark key="." line="12" column="93" />
-        <mark key="^" line="12" column="94" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQI.java" timestamp="1593096402197">
+        <mark key="'" line="28" column="93" />
+        <mark key="[" line="24" column="65" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="3" />
+        <mark key="^" line="25" column="4" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorBuilder.java" timestamp="1593093978614">
         <mark key="[" line="17" column="116" />
@@ -239,11 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="30" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" />
-      <jump line="97" column="72" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" />
-      <jump line="114" column="31" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" />
-      <jump line="129" column="31" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" />
-      <jump line="135" column="62" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" />
       <jump line="136" column="41" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" />
       <jump line="19" column="18" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" />
       <jump line="25" column="73" filename="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/MessageHeader.java" />
@@ -339,24 +335,29 @@
       <jump line="23" column="83" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" />
       <jump line="136" column="34" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" />
       <jump line="135" column="28" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" />
+      <jump line="32" column="43" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" />
+      <jump line="38" column="70" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" />
+      <jump line="42" column="28" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" />
+      <jump line="51" column="39" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" />
+      <jump line="56" column="16" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RhdGljIGZpbmFsIA==</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIGZpbmFsIA==</text>
+        <text encoding="base64">ZmluYWwg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRTaWduYWxRdWFsaXRpZXNcPg==</text>
+        <text encoding="base64">XDxzZW5zb3JQb2ludHNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">TGlzdDxDYXJkaW9za2luMjUwU3FpQ2hhbm5lbFByb2Nlc3Nvcj4gc3FpQ2hhbm5lbFByb2Nlc3Nvckxpc3Q=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFNpZ25hbFF1YWxpdHlbXSBCQURfU0lHTkFMX1FVQUxJVElFUyA9IEludFN0cmVhbS5yYW5nZSgwLCBFQ0dfQ0hBTk5FTF9DT1VOVCkKICAgICAgICAgICAgLm1hcFRvT2JqKGkgLT4gU2lnbmFsUXVhbGl0eS5CQUQpCiAgICAgICAgICAgIC50b0FycmF5KFNpZ25hbFF1YWxpdHlbXTo6bmV3KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBpbnQgRUNHX0NIQU5ORUxfQ09VTlQgPSAxMjsK</text>
@@ -392,9 +393,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxnZXRTaWduYWxRdWFsaXRpZXNcPg==</last-search>
+      <last-search encoding="base64">XDxzZW5zb3JQb2ludHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRTaWduYWxRdWFsaXRpZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5zb3JQb2ludHNcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxsaXN0SXRlcmF0b3JcPg==</last-substitute>
       <last-dir>1</last-dir>
