@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxqc29uR3Jvb3Z5U2NyaXB0XD4=</entry>
         <entry encoding="base64">XDxhcHAydmFyXD4=</entry>
         <entry encoding="base64">XDxsaW1pdFw+</entry>
         <entry encoding="base64">XDxUZWFtc0RlcGxveU5vdGlmaWVyXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxzaWduYWxHZW5lcmF0b3JcPg==</entry>
         <entry encoding="base64">XDxzZW5zb3JQb2ludHNcPg==</entry>
         <entry encoding="base64">XDxzdEV2ZW50TWVyZ2VyXD4=</entry>
+        <entry encoding="base64">XDxsaXN0SXRlcmF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,41 +146,37 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/merge/EventMerger.java" timestamp="1593071405516" />
       <file name="/TimeFramesBuffer.java" timestamp="1593072158251" />
       <file name="/StEvent.java" timestamp="1593069193151" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/report/TimeFrameOverlap.java" timestamp="1593072052227">
-        <mark key="[" line="33" column="16" />
-      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/report/TimeFrameOverlap.java" timestamp="1593074832096" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" timestamp="1593070413355" />
       <file name="/TimeFrame.java" timestamp="1593072055601" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1593070819120" />
-      <file name="/TimeFrameOverlap.java" timestamp="1593069346015" />
-      <file name="/EventsOverlapService.java" timestamp="1593070228495" />
-      <file name="/AlgoResult.java" timestamp="1593072378692" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/merge/StEventMerger.java" timestamp="1593070883508" />
-      <file name="/AlgoResultTest.java" timestamp="1593069160348" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" timestamp="1593069061444">
-        <mark key="'" line="39" column="13" />
-      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/merge/StEventMerger.java" timestamp="1593074668840" />
       <file name="/StEventMerger.java" timestamp="1593070375034" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" timestamp="1593069084117" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/test/java/com/bioserenity/processing/ecg/model/file/report/TimeFrameOverlapTest.java" timestamp="1593069442460">
         <mark key="[" line="9" column="57" />
         <mark key="]" line="10" column="43" />
         <mark key="^" line="10" column="43" />
         <mark key="." line="10" column="42" />
       </file>
-      <file name="/EventMerger.java" timestamp="1593070154248" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/report/TimeFramesBuffer.java" timestamp="1593073591526" />
+      <file name="/EventMerger.java" timestamp="1593073468878" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/merge/EventMerger.java" timestamp="1593074041614" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/merge/AbstractEventMerger.java" timestamp="1593073709946" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1593070819120" />
+      <file name="/TimeFrameOverlap.java" timestamp="1593069346015" />
+      <file name="/EventsOverlapService.java" timestamp="1593070228495" />
+      <file name="/AlgoResult.java" timestamp="1593074119552">
+        <mark key="'" line="102" column="48" />
+      </file>
+      <file name="/StElevationEventDetectorTest.java" timestamp="1593073356375" />
+      <file name="/StDepressionEventDetectorTest.java" timestamp="1593073365812" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/report/UnexploitableSignalInfo.java" timestamp="1593072128176" />
       <file name="/fragment.java" timestamp="1593069419395">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="47" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="264" column="41" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
-      <jump line="193" column="24" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="232" column="28" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="238" column="28" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="256" column="28" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
@@ -278,12 +274,15 @@
       <jump line="68" column="23" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" />
       <jump line="22" column="42" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" />
       <jump line="39" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" />
+      <jump line="171" column="34" filename="/AlgoResult.java" />
+      <jump line="112" column="28" filename="/AlgoResult.java" />
+      <jump line="102" column="48" filename="/AlgoResult.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk7</text>
+        <text>public static final TimeFrameOverlap DEFAULT = new TimeFrameOverlap(0);</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -292,10 +291,10 @@
         <text encoding="base64">bmV3IEFycmF5TGlzdDw+KCk7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdEV2ZW50TWVyZ2VyXD4=</text>
+        <text encoding="base64">XDxsaXN0SXRlcmF0b3JcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vckVsc2VUaHJvdygoKSAtPiBuZXcgQnl0ZVJlYWRFeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgKICAgICAgICAgICAgICAgICAgICAgICAgIk5vIHN1cHBvcnRlZCBzZW5zb3IgZm91bmQgaW4gdGhlIHN0cmVhbSBwYXlsb2FkLiBFeHBlY3RlZCBvbmUgb2YgWyVzXSwgZ290IFslc10uIiwKICAgICAgICAgICAgICAgICAgICAgICAgc3VwcG9ydGVkU2Vuc29ycy5zdHJlYW0oKS5tYXAoU2Vuc29yOjpnZXRJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKSwKICAgICAgICAgICAgICAgICAgICAgICAgcGF5bG9hZC5nZXRTZW5zb3JzSWQoKQogICAgICAgICAgICAgICAgKSkpOwo=</text>
+      <register name="0" type="4">
+        <text>public static final TimeFrameOverlap DEFAULT = new TimeFrameOverlap(0);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIG1zZ1BheWxvYWRGb3JRdWFsaXR5U2Vuc29yID0gbXNnUGF5bG9hZEZldGNoZXIuZmV0Y2hGb3JRdWFsaXR5U2Vuc29yKAogICAgICAgICAgICAgICAgICAgIGVjZ1NlbnNvckNvbmZpZ3VyYXRpb24uZ2V0U2VsZWN0ZWRTYW1wbGluZ1JhdGUoKQogICAgICAgICAgICApOwo=</text>
@@ -334,9 +333,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzdEV2ZW50TWVyZ2VyXD4=</last-search>
+      <last-search encoding="base64">XDxsaXN0SXRlcmF0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdEV2ZW50TWVyZ2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsaXN0SXRlcmF0b3JcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxjYXJkaW9za2luQ29uZmlndXJhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
