@@ -209,12 +209,6 @@
         <mark key="^" line="46" column="79" />
         <mark key="." line="23" column="66" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/config/algoprocessor/AlgoProcessorConfiguration.java" timestamp="1593107159036">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="123" />
-        <mark key="^" line="4" column="123" />
-        <mark key="." line="4" column="122" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcher.java" timestamp="1593162735002">
         <mark key="'" line="39" column="34" />
         <mark key="[" line="15" column="4" />
@@ -236,7 +230,12 @@
         <mark key="." line="206" column="3" />
         <mark key="^" line="206" column="4" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/resources/application-local.properties" timestamp="1593175284875" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/resources/application-local.properties" timestamp="1593176631814">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="20" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/sensor-specification/1.9.0/sensor-specification-1.9.0.jar!/com/bioserenity/sensors/Sensor.class" timestamp="1593162867218" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQITest.java" timestamp="1593161144974">
         <mark key="'" line="352" column="53" />
@@ -245,7 +244,7 @@
         <mark key="^" line="70" column="171" />
         <mark key="." line="70" column="170" />
       </file>
-      <file name="/fragment.java" timestamp="1593161780903">
+      <file name="/fragment.java" timestamp="1593176497157">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -355,13 +354,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>stg-eu-fr-converter-redis.lmtd08.ng.0001.euw3.cache.amazonaws.com</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>stg-eu-fr-converter-redis.lmtd08.ng.0001.euw3.cache.amazonaws.com</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlY2dTcGVjaWZpY2F0aW9uXD4=</text>
