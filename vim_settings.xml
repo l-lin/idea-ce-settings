@@ -169,6 +169,7 @@
         <mark key="'" line="52" column="22" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/sensor-specification/1.9.0/sensor-specification-1.9.0.jar!/com/bioserenity/sensors/Sensor.class" timestamp="1593162867218" />
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/processing/logger/1.5.4/logger-1.5.4-sources.jar!/com/bioserenity/processing/logger/service/RecordProcessingEventRepository.java" timestamp="1593188574391" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcherTest.java" timestamp="1593162764389">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="35" column="92" />
@@ -176,15 +177,8 @@
         <mark key="^" line="37" column="64" />
         <mark key="." line="37" column="63" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1593187433783">
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1593188404259">
         <mark key="'" line="283" column="52" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcher.java" timestamp="1593162735002">
-        <mark key="'" line="39" column="34" />
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="4" />
-        <mark key="^" line="17" column="17" />
       </file>
       <file name="$USER_HOME$/work/ecg/ds-compute/src/main/java/com/bioserenity/ds/compute/client/DsComputeClient.java" timestamp="1593180066934" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/resources/application-local.properties" timestamp="1593176631814">
@@ -193,6 +187,7 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="20" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/annotations/ProcessingEventService.java" timestamp="1593188537683" />
       <file name="/fragment.java" timestamp="1593187431628">
         <mark key="[" line="0" column="0" />
       </file>
