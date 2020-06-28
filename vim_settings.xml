@@ -186,12 +186,12 @@
       <file name="/Dummy.txt" timestamp="1593334264893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityOverflowDetector.java" timestamp="1593334234917">
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityOverflowDetector.java" timestamp="1593335443239">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="24" column="52" />
-        <mark key="]" line="24" column="61" />
+        <mark key="[" line="27" column="57" />
+        <mark key="]" line="27" column="57" />
         <mark key="^" line="24" column="61" />
-        <mark key="." line="24" column="60" />
+        <mark key="." line="27" column="57" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1593331375783" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorBuilderTest.java" timestamp="1593329541593">
@@ -336,13 +336,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>000 * 1000;</text>
+        <text>N</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>000 * 1000;</text>
+        <text>N</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdEJjcEJsb2NrXD4=</text>
