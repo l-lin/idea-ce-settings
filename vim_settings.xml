@@ -183,17 +183,12 @@
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1593331081936">
         <mark key="'" line="129" column="115" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593329876454">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityOverflowDetector.java" timestamp="1593332599568">
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityOverflowDetector.java" timestamp="1593334234917">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="12" column="35" />
-        <mark key="^" line="8" column="8" />
-        <mark key="." line="12" column="35" />
+        <mark key="[" line="24" column="52" />
+        <mark key="]" line="24" column="61" />
+        <mark key="^" line="24" column="61" />
+        <mark key="." line="24" column="60" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1593331375783" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorBuilderTest.java" timestamp="1593329541593">
@@ -338,13 +333,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>000 * 1000;</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>000 * 1000;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaXJzdEJjcEJsb2NrXD4=</text>
