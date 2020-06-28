@@ -146,8 +146,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593264066051">
+      <file name="/Dummy.txt" timestamp="1593329876454">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityOverflowDetector.java" timestamp="1593260279307">
         <mark key="'" line="24" column="0" />
@@ -183,18 +185,17 @@
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/model/cardioskin/configuration/CardioskinConfiguration.java" timestamp="1593253107292">
         <mark key="'" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorBuilderTest.java" timestamp="1593265610322">
-        <mark key="'" line="26" column="87" />
-        <mark key="[" line="28" column="124" />
-        <mark key="]" line="28" column="125" />
-        <mark key="^" line="28" column="125" />
-        <mark key="." line="28" column="124" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorBuilderTest.java" timestamp="1593329541593">
+        <mark key="[" line="27" column="47" />
+        <mark key="]" line="27" column="47" />
+        <mark key="^" line="27" column="51" />
+        <mark key="." line="27" column="47" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/cardioskin/SensorResultFinderTest.java" timestamp="1593253253918">
-        <mark key="[" line="70" column="120" />
-        <mark key="]" line="70" column="121" />
-        <mark key="." line="70" column="120" />
-        <mark key="^" line="70" column="121" />
+        <mark key="[" line="69" column="120" />
+        <mark key="]" line="69" column="121" />
+        <mark key="." line="69" column="120" />
+        <mark key="^" line="69" column="121" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" timestamp="1593250108995">
         <mark key="[" line="31" column="0" />
@@ -219,7 +220,7 @@
         <mark key="]" line="145" column="26" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/SensorConfigurationBuilder.java" timestamp="1593264861500" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQITest.java" timestamp="1593253031929">
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQITest.java" timestamp="1593329863275">
         <mark key="'" line="352" column="53" />
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -343,14 +344,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlTGlzdC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmZpbHRlcihtZXNzYWdlIC0+IG1lc3NhZ2UuZ2V0UGF5bG9hZCgpIGluc3RhbmNlb2YgU3RyZWFtKQogICAgICAgICAgICAgICAgLm1hcChtZXNzYWdlIC0+IChTdHJlYW0pIG1lc3NhZ2UuZ2V0UGF5bG9hZCgpKQogICAgICAgICAgICAgICAgLmZpbHRlcihwYXlsb2FkIC0+IHBheWxvYWQuZ2V0U2Vuc29yc0lkKCkuY29udGFpbnMoc3VwcG9ydGVkU2Vuc29ycy5zdHJlYW0oKS5tYXAoU2Vuc29yOjpnZXRJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKSkpCiAgICAgICAgICAgICAgICAuZmluZEZpcnN0KCkKICAgICAgICAgICAgICAgIC5vckVsc2VUaHJvdygoKSAtPiApCg==</text>
+      <register name="&quot;" type="4">
+        <text>88</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>stream</text>
+        <text>88</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaWduYWxHYXBEZXRlY3Rvclw+</text>
