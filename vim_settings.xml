@@ -146,8 +146,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/benchmark-bcp/src/main/java/com/bioserenity/benchmark/ByteArrayRunnable.java" timestamp="1593359990394">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="51" column="1" />
+      </file>
       <file name="$USER_HOME$/work/benchmark-bcp/src/main/java/com/bioserenity/benchmark/App.java" timestamp="1593358712729">
         <mark key="[" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/benchmark-bcp/README.md" timestamp="1593361434196">
+        <mark key="'" line="29" column="45" />
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="103" />
+        <mark key="^" line="31" column="103" />
+        <mark key="." line="31" column="102" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1593358542116">
         <mark key="[" line="12" column="40" />
@@ -162,10 +174,21 @@
         <mark key="." line="40" column="9" />
         <mark key="^" line="40" column="10" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/file/BCPFileReader.java" timestamp="1593417019874" />
-      <file name="$USER_HOME$/work/ecg/ecg-live-service/src/main/java/com/bioserenity/ecgliveservice/processor/Worker.java" timestamp="1593358077472" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593359622043">
+        <mark key="[" line="30" column="91" />
+        <mark key="]" line="30" column="116" />
+        <mark key="." line="30" column="115" />
+        <mark key="^" line="30" column="116" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/file/BCPFileReader.java" timestamp="1593417524469" />
       <file name="/ByteReaderWithMessageDeduplication.java" timestamp="1593359218092">
         <mark key="'" line="26" column="111" />
+      </file>
+      <file name="$USER_HOME$/work/benchmark-bcp-stream/src/main/java/com/bioserenity/App.java" timestamp="1593345708275">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="8" />
+        <mark key="^" line="31" column="49" />
       </file>
       <file name="$USER_HOME$/work/benchmark-bcp/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1593360462836">
         <mark key="'" line="35" column="40" />
@@ -173,6 +196,12 @@
         <mark key="]" line="39" column="17" />
         <mark key="." line="39" column="16" />
         <mark key="^" line="39" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/client/S3FileManager.java" timestamp="1593359471853">
+        <mark key="[" line="50" column="21" />
+        <mark key="]" line="50" column="36" />
+        <mark key="." line="50" column="35" />
+        <mark key="^" line="50" column="36" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/client/BcpBlockFileClient.java" timestamp="1593359004846">
         <mark key="[" line="11" column="0" />
@@ -196,36 +225,6 @@
         <mark key="]" line="40" column="32" />
         <mark key="." line="40" column="31" />
         <mark key="^" line="40" column="32" />
-      </file>
-      <file name="$USER_HOME$/work/benchmark-bcp/src/main/java/com/bioserenity/benchmark/ByteArrayRunnable.java" timestamp="1593359990394">
-        <mark key="'" line="22" column="18" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="51" column="1" />
-      </file>
-      <file name="$USER_HOME$/work/benchmark-bcp/README.md" timestamp="1593361434196">
-        <mark key="'" line="29" column="45" />
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="103" />
-        <mark key="^" line="31" column="103" />
-        <mark key="." line="31" column="102" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593359622043">
-        <mark key="[" line="30" column="91" />
-        <mark key="]" line="30" column="116" />
-        <mark key="." line="30" column="115" />
-        <mark key="^" line="30" column="116" />
-      </file>
-      <file name="$USER_HOME$/work/benchmark-bcp-stream/src/main/java/com/bioserenity/App.java" timestamp="1593345708275">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="8" />
-        <mark key="^" line="31" column="49" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/client/S3FileManager.java" timestamp="1593359471853">
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="50" column="35" />
-        <mark key="^" line="50" column="36" />
       </file>
     </filemarks>
     <jumps>
