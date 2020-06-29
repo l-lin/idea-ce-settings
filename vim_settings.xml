@@ -155,9 +155,6 @@
       </file>
       <file name="/WowzaServiceImpl.java" timestamp="1593421873998" />
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/file/BCPFileReader.java" timestamp="1593419974549" />
-      <file name="/ByteReaderWithMessageDeduplication.java" timestamp="1593359218092">
-        <mark key="'" line="26" column="111" />
-      </file>
       <file name="$USER_HOME$/work/benchmark-bcp/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1593360462836">
         <mark key="'" line="35" column="40" />
         <mark key="[" line="38" column="0" />
@@ -172,6 +169,7 @@
         <mark key="." line="27" column="57" />
         <mark key="^" line="33" column="97" />
       </file>
+      <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/concurrent/FutureTask.java" timestamp="1593425476653" />
       <file name="$USER_HOME$/work/benchmark-bcp/src/main/java/com/bioserenity/benchmark/ByteArrayRunnable.java" timestamp="1593359990394">
         <mark key="'" line="22" column="18" />
         <mark key="[" line="12" column="0" />
@@ -196,20 +194,14 @@
         <mark key="^" line="35" column="28" />
         <mark key="." line="35" column="27" />
       </file>
-      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" timestamp="1593420378696">
-        <mark key="[" line="214" column="51" />
-        <mark key="]" line="214" column="58" />
+      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" timestamp="1593425613067">
+        <mark key="[" line="248" column="21" />
+        <mark key="]" line="248" column="21" />
         <mark key="^" line="214" column="58" />
-        <mark key="." line="214" column="57" />
+        <mark key="." line="248" column="21" />
       </file>
       <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Scanner.java" timestamp="1593420594438">
         <mark key="'" line="764" column="11" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/client/S3FileManager.java" timestamp="1593359471853">
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="50" column="36" />
-        <mark key="." line="50" column="35" />
-        <mark key="^" line="50" column="36" />
       </file>
       <file name="/docker-compose.yml" timestamp="1593423857825">
         <mark key="[" line="4" column="0" />
@@ -221,6 +213,7 @@
         <mark key="." line="30" column="56" />
       </file>
       <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/VideoManifestService.java" timestamp="1593421834315" />
+      <file name="$USER_HOME$/work/video-service/video-service/src/test/java/com/bioserenity/video/service/WowzaServiceTest.java" timestamp="1593425729887" />
     </filemarks>
     <jumps>
       <jump line="23" column="3" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGapDetectorTest.java" />
@@ -327,14 +320,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiAicmVnaXN0cnkuYmlvc2VyZW5pdHkuY29tL2Jpb3NlcmVuaXR5L2Jpb3NlcmVuaXR5LXJhYmJpdG1xLW1xdHQ6My43LjgtMSIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">SW50ZXJydXB0ZWRFeGNlcHRpb24gfCA=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">SW50ZXJydXB0ZWRFeGNlcHRpb24gfCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXJkaW9za2luQ29uZmlndXJhdGlvblw+</text>
