@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTaWduYWxRdWFsaXRpZXNcPg==</entry>
         <entry encoding="base64">XDxzZW5zb3JQb2ludHNcPg==</entry>
         <entry encoding="base64">XDxxdWFsaXR5U2Vuc29yU3BlY2lmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxzZW5zb3JQb2ludENvdW50XD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxjYXJkaW9za2luQ29uZmlndXJhdGlvblw+</entry>
         <entry encoding="base64">XDxITFNfVkVSU0lPTlw+</entry>
         <entry encoding="base64">XDxNWVRIUkVBRFNcPg==</entry>
+        <entry encoding="base64">XDxhcHBQb3N0QWN0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,22 +146,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" timestamp="1593437961647">
-        <mark key="[" line="55" column="27" />
-        <mark key="]" line="65" column="47" />
-        <mark key="^" line="65" column="47" />
-        <mark key="." line="65" column="46" />
-      </file>
+      <file name="/SignalGeneratorWithCloudSQI.java" timestamp="1593445391910" />
       <file name="/WowzaServiceImpl.java" timestamp="1593440187522" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/merge/AbstractEventMerger.java" timestamp="1593430985819" />
-      <file name="/VentricularEventsDetector.java" timestamp="1593430118058" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessor.java" timestamp="1593433729061" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" timestamp="1593433746959" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1593433777573">
-        <mark key="[" line="274" column="83" />
-        <mark key="]" line="274" column="8" />
-        <mark key="." line="274" column="7" />
-        <mark key="^" line="274" column="8" />
+      <file name="/RecordProcessor.java" timestamp="1593445008594" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/DeployNotifier.groovy" timestamp="1593443643554">
+        <mark key="[" line="9" column="71" />
+        <mark key="]" line="9" column="69" />
+        <mark key="." line="9" column="68" />
+        <mark key="^" line="9" column="69" />
+      </file>
+      <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" timestamp="1593443670466">
+        <mark key="[" line="35" column="70" />
+        <mark key="]" line="35" column="75" />
+        <mark key="." line="35" column="74" />
+        <mark key="^" line="35" column="75" />
       </file>
       <file name="/" timestamp="1593437341740">
         <mark key="[" line="0" column="0" />
@@ -172,9 +170,22 @@
         <mark key="]" line="224" column="58" />
         <mark key="." line="224" column="58" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/service/AlgoResultReducer.java" timestamp="1593430397490" />
-      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/configuration/video/ApacheHttpClientConfig.java" timestamp="1593439628751" />
+      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/configuration/video/ApacheHttpClientConfig.java" timestamp="1593443440271" />
       <file name="/VideoManifestService.java" timestamp="1593440200512" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" timestamp="1593437961647">
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="65" column="47" />
+        <mark key="^" line="65" column="47" />
+        <mark key="." line="65" column="46" />
+      </file>
+      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1593444672941">
+        <mark key="'" line="420" column="39" />
+        <mark key="[" line="131" column="31" />
+        <mark key="]" line="131" column="107" />
+        <mark key="." line="131" column="106" />
+        <mark key="^" line="131" column="107" />
+      </file>
+      <file name="/MessageProcessor.java" timestamp="1593445095652" />
       <file name="$USER_HOME$/work/video-service/video-service/src/test/java/com/bioserenity/video/service/VideoManifestServiceTest.java" timestamp="1593439417171" />
       <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/RecordServiceImpl.java" timestamp="1593435763364" />
       <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/VideoManifestService.java" timestamp="1593438988018" />
@@ -186,8 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcherTest.java" />
-      <jump line="40" column="34" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcher.java" />
       <jump line="62" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
       <jump line="191" column="37" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
       <jump line="114" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
@@ -286,24 +295,26 @@
       <jump line="231" column="55" filename="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" />
       <jump line="213" column="62" filename="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" />
       <jump line="52" column="29" filename="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" />
+      <jump line="117" column="4" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="369" column="39" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>task</text>
+        <text>https://logs-nonprod.bioserenity.cloud/goto/9d662fca88bb51ca5a0e24e5f5108325</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>task</text>
+        <text>https://logs-nonprod.bioserenity.cloud/goto/9d662fca88bb51ca5a0e24e5f5108325</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNWVRIUkVBRFNcPg==</text>
+        <text encoding="base64">XDxhcHBQb3N0QWN0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltYWdlOiAicmVnaXN0cnkuYmlvc2VyZW5pdHkuY29tL2Jpb3NlcmVuaXR5L2Jpb3NlcmVuaXR5LXJhYmJpdG1xLW1xdHQ6My43LjgtMSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd3ZWJob29rJyAgIDogREFUQV9URUFNX1dFQkhPT0ssCiAgICAgICAgICAgICAgICAnbG9nc1VybCcgICA6ICdodHRwczovL2xvZ3Mtbm9ucHJvZC5iaW9zZXJlbml0eS5jbG91ZC9nb3RvLzlkNjYyZmNhODhiYjUxY2E1YTBlMjRlNWY1MTA4MzI1JywKICAgICAgICAgICAgICAgICdtZXRyaWNzVXJsJzogJ2h0dHBzOi8vbWV0cmljcy1ub25wcm9kLmJpb3NlcmVuaXR5LmNsb3VkL2QvWEpvZmpOa01rL2ZvdGEtc2VydmljZT9vcmdJZD0xJnJlZnJlc2g9NXMnCg==</text>
       </register>
       <register name="1" type="8">
         <text>&quot;
@@ -361,9 +372,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxNWVRIUkVBRFNcPg==</last-search>
+      <last-search encoding="base64">XDxhcHBQb3N0QWN0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNWVRIUkVBRFNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBQb3N0QWN0aW9uc1w+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxsaXN0SXRlcmF0b3JcPg==</last-substitute>
       <last-dir>1</last-dir>
