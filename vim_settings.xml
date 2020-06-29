@@ -153,11 +153,11 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" timestamp="1593434696449">
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="18" column="36" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" timestamp="1593437961647">
+        <mark key="[" line="55" column="27" />
+        <mark key="]" line="65" column="47" />
+        <mark key="^" line="65" column="47" />
+        <mark key="." line="65" column="46" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/merge/AbstractEventMerger.java" timestamp="1593430985819" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/merge/MultiEventMerger.java" timestamp="1593429685263" />
@@ -295,13 +295,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>new VideoManifestService(makeUrl(host, bloc, &quot;vod&quot;), restTemplate)</text>
+        <text>r</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>new VideoManifestService(makeUrl(host, bloc, &quot;vod&quot;), restTemplate)</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXJkaW9za2luQ29uZmlndXJhdGlvblw+</text>
