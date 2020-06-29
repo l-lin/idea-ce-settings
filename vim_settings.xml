@@ -146,13 +146,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/docker-compose.yml" timestamp="1593424387433">
-        <mark key="'" line="4" column="5" />
-        <mark key="[" line="4" column="83" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="10" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" timestamp="1593437961647">
         <mark key="[" line="55" column="27" />
         <mark key="]" line="65" column="47" />
@@ -181,12 +174,8 @@
         <mark key="^" line="223" column="82" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/service/AlgoResultReducer.java" timestamp="1593430397490" />
-      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/configuration/video/ApacheHttpClientConfig.java" timestamp="1593437332430">
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="56" />
-      </file>
       <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/RecordServiceImpl.java" timestamp="1593435763364" />
+      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/VideoManifestService.java" timestamp="1593438988018" />
       <file name="$USER_HOME$/work/video-service/video-service/src/test/java/com/bioserenity/video/service/WowzaServiceTest.java" timestamp="1593425729887" />
     </filemarks>
     <jumps>
