@@ -180,7 +180,7 @@
         <mark key="." line="30" column="115" />
         <mark key="^" line="30" column="116" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/file/BCPFileReader.java" timestamp="1593417524469" />
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/file/BCPFileReader.java" timestamp="1593419974549" />
       <file name="/ByteReaderWithMessageDeduplication.java" timestamp="1593359218092">
         <mark key="'" line="26" column="111" />
       </file>
@@ -196,6 +196,15 @@
         <mark key="]" line="39" column="17" />
         <mark key="." line="39" column="16" />
         <mark key="^" line="39" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" timestamp="1593420378696">
+        <mark key="[" line="214" column="51" />
+        <mark key="]" line="214" column="58" />
+        <mark key="^" line="214" column="58" />
+        <mark key="." line="214" column="57" />
+      </file>
+      <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Scanner.java" timestamp="1593420594438">
+        <mark key="'" line="764" column="11" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/client/S3FileManager.java" timestamp="1593359471853">
         <mark key="[" line="50" column="21" />
@@ -226,9 +235,9 @@
         <mark key="." line="40" column="31" />
         <mark key="^" line="40" column="32" />
       </file>
+      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/VideoManifestService.java" timestamp="1593420843282" />
     </filemarks>
     <jumps>
-      <jump line="61" column="16" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
       <jump line="13" column="8" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGapDetectorTest.java" />
       <jump line="23" column="3" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGapDetectorTest.java" />
       <jump line="15" column="21" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/model/cardioskin/configuration/CardioskinConfiguration.java" />
@@ -328,18 +337,19 @@
       <jump line="22" column="18" filename="$USER_HOME$/work/benchmark-bcp/src/main/java/com/bioserenity/benchmark/ByteArrayRunnable.java" />
       <jump line="24" column="23" filename="$USER_HOME$/work/benchmark-bcp/README.md" />
       <jump line="29" column="45" filename="$USER_HOME$/work/benchmark-bcp/README.md" />
+      <jump line="764" column="11" filename="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Scanner.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>benchmark-io-bcp-6.2.0.apps</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>benchmar</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYXJkaW9za2luQ29uZmlndXJhdGlvblw+</text>
