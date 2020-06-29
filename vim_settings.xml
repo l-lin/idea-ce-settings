@@ -153,41 +153,12 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="10" />
       </file>
-      <file name="/WowzaServiceImpl.java" timestamp="1593421873998" />
-      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/file/BCPFileReader.java" timestamp="1593419974549" />
-      <file name="$USER_HOME$/work/benchmark-bcp/src/main/java/com/bioserenity/benchmark/Main.java" timestamp="1593360462836">
-        <mark key="'" line="35" column="40" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="17" />
-        <mark key="." line="39" column="16" />
-        <mark key="^" line="39" column="17" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplication.java" timestamp="1593359742493">
-        <mark key="'" line="27" column="117" />
-        <mark key="[" line="27" column="57" />
-        <mark key="]" line="27" column="57" />
-        <mark key="." line="27" column="57" />
-        <mark key="^" line="33" column="97" />
-      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/merge/AbstractEventMerger.java" timestamp="1593430985819" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/merge/MultiEventMerger.java" timestamp="1593429685263" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/writer/RecordEventWriter.java" timestamp="1593430894793" />
+      <file name="/VentricularEventsDetector.java" timestamp="1593430118058" />
       <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/concurrent/FutureTask.java" timestamp="1593425476653" />
-      <file name="$USER_HOME$/work/benchmark-bcp/src/main/java/com/bioserenity/benchmark/ByteArrayRunnable.java" timestamp="1593359990394">
-        <mark key="'" line="22" column="18" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="51" column="1" />
-      </file>
-      <file name="$USER_HOME$/work/benchmark-bcp/README.md" timestamp="1593361434196">
-        <mark key="'" line="29" column="45" />
-        <mark key="[" line="31" column="41" />
-        <mark key="]" line="31" column="103" />
-        <mark key="^" line="31" column="103" />
-        <mark key="." line="31" column="102" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593359622043">
-        <mark key="[" line="30" column="91" />
-        <mark key="]" line="30" column="116" />
-        <mark key="." line="30" column="115" />
-        <mark key="^" line="30" column="116" />
-      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" timestamp="1593430567006" />
       <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/.gitignore" timestamp="1593423879251">
         <mark key="[" line="34" column="26" />
         <mark key="]" line="35" column="28" />
@@ -200,19 +171,11 @@
         <mark key="^" line="242" column="73" />
         <mark key="." line="242" column="72" />
       </file>
-      <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Scanner.java" timestamp="1593420594438">
-        <mark key="'" line="764" column="11" />
-      </file>
       <file name="/docker-compose.yml" timestamp="1593423857825">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="83" />
       </file>
-      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/configuration/video/ApacheHttpClientConfig.java" timestamp="1593423499427">
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="56" />
-      </file>
-      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/VideoManifestService.java" timestamp="1593421834315" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/service/AlgoResultReducer.java" timestamp="1593430397490" />
       <file name="$USER_HOME$/work/video-service/video-service/src/test/java/com/bioserenity/video/service/WowzaServiceTest.java" timestamp="1593425729887" />
     </filemarks>
     <jumps>
