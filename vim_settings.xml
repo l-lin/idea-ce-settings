@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxFQ0dfQ0hBTk5FTF9DT1VOVFw+</entry>
         <entry encoding="base64">XDxnZXRTaWduYWxRdWFsaXRpZXNcPg==</entry>
         <entry encoding="base64">XDxzZW5zb3JQb2ludHNcPg==</entry>
         <entry encoding="base64">XDxxdWFsaXR5U2Vuc29yU3BlY2lmaWNhdGlvblw+</entry>
@@ -24,6 +23,7 @@
         <entry encoding="base64">XDxzaWduYWxHYXBEZXRlY3Rvclw+</entry>
         <entry encoding="base64">XDxmaXJzdEJjcEJsb2NrXD4=</entry>
         <entry encoding="base64">XDxjYXJkaW9za2luQ29uZmlndXJhdGlvblw+</entry>
+        <entry encoding="base64">XDxITFNfVkVSU0lPTlw+</entry>
         <entry encoding="base64">XDxNWVRIUkVBRFNcPg==</entry>
       </history-search>
       <history-cmd>
@@ -166,7 +166,7 @@
       <file name="/" timestamp="1593437341740">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" timestamp="1593440579395">
+      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" timestamp="1593441900583">
         <mark key="'" line="52" column="29" />
         <mark key="[" line="223" column="62" />
         <mark key="]" line="223" column="82" />
@@ -187,9 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="21" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/model/cardioskin/configuration/CardioskinConfiguration.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcherTest.java" />
-      <jump line="57" column="8" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcherTest.java" />
       <jump line="60" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcherTest.java" />
       <jump line="40" column="34" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcher.java" />
       <jump line="62" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
@@ -286,6 +283,9 @@
       <jump line="29" column="45" filename="$USER_HOME$/work/benchmark-bcp/README.md" />
       <jump line="764" column="11" filename="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/Scanner.java" />
       <jump line="4" column="5" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/docker-compose.yml" />
+      <jump line="50" column="29" filename="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" />
+      <jump line="231" column="55" filename="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" />
+      <jump line="213" column="62" filename="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" />
       <jump line="52" column="29" filename="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" />
     </jumps>
   </component>
