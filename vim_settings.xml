@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW5zb3JQb2ludHNcPg==</entry>
-        <entry encoding="base64">XDxxdWFsaXR5U2Vuc29yU3BlY2lmaWNhdGlvblw+</entry>
         <entry encoding="base64">XDxzZW5zb3JQb2ludENvdW50XD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxucG9pbnRcPg==</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxITFNfVkVSU0lPTlw+</entry>
         <entry encoding="base64">XDxNWVRIUkVBRFNcPg==</entry>
         <entry encoding="base64">XDxhcHBQb3N0QWN0aW9uc1w+</entry>
+        <entry encoding="base64">XDxkZXBsb3llZEFwcHNcPg==</entry>
+        <entry encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -164,39 +164,26 @@
         <mark key="." line="35" column="74" />
         <mark key="^" line="35" column="75" />
       </file>
-      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" timestamp="1593443052740">
-        <mark key="'" line="52" column="29" />
-        <mark key="[" line="224" column="58" />
-        <mark key="]" line="224" column="58" />
-        <mark key="." line="224" column="58" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" timestamp="1593449970404">
+        <mark key="'" line="269" column="21" />
       </file>
-      <file name="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/configuration/video/ApacheHttpClientConfig.java" timestamp="1593443440271" />
-      <file name="/VideoManifestService.java" timestamp="1593440200512" />
+      <file name="$USER_HOME$/work/ecg/ecg-live-service/src/main/java/com/bioserenity/ecgliveservice/processor/message/MessageProcessor.java" timestamp="1593449664866">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1593448303730" />
-      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1593448959012">
-        <mark key="'" line="420" column="39" />
-        <mark key="[" line="136" column="31" />
-        <mark key="]" line="131" column="107" />
-        <mark key="." line="131" column="106" />
-        <mark key="^" line="131" column="107" />
+      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1593449549064">
+        <mark key="'" line="320" column="24" />
+        <mark key="[" line="424" column="33" />
+        <mark key="]" line="171" column="107" />
+        <mark key="." line="171" column="106" />
+        <mark key="^" line="171" column="107" />
       </file>
       <file name="/MessageProcessor.java" timestamp="1593446077979" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/SignalResampler.java" timestamp="1593446282422" />
-      <file name="$USER_HOME$/work/video-service/video-service/src/test/java/com/bioserenity/video/service/WowzaServiceTest.java" timestamp="1593439956941">
-        <mark key="[" line="256" column="16" />
-        <mark key="]" line="256" column="16" />
-        <mark key="^" line="255" column="30" />
-        <mark key="." line="256" column="16" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
-      <jump line="191" column="37" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
-      <jump line="114" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
-      <jump line="223" column="3" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
-      <jump line="235" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
-      <jump line="63" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
-      <jump line="229" column="5" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
       <jump line="53" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
       <jump line="202" column="55" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
       <jump line="283" column="52" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" />
@@ -290,12 +277,19 @@
       <jump line="52" column="29" filename="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" />
       <jump line="117" column="4" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
       <jump line="369" column="39" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="234" column="8" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="297" column="24" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="320" column="24" filename="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" />
+      <jump line="65" column="13" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
+      <jump line="204" column="55" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
+      <jump line="206" column="31" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
+      <jump line="269" column="21" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChTaWduYWwgc2lnbmFsV2l0aG91dFNRSSA6IHNpZ25hbExpc3RXaXRoRmFrZVNxaSkgewogICAgICAgICAgICAgICAgZm9yIChTZW5zb3JQb2ludCBzZW5zb3JQb2ludCA6IHNpZ25hbFdpdGhvdXRTUUkuZ2V0U2Vuc29yUG9pbnRUcmVlU2V0KCkpIHsKICAgICAgICAgICAgICAgICAgICBidWZmZXJQb2ludChzZW5zb3JQb2ludCk7CiAgICAgICAgICAgICAgICAgICAgcG9sbFNlbnNvclBvaW50c1dpdGhTUUkoKS5pZlByZXNlbnQoc2Vuc29yUG9pbnRUcmVlU2V0OjphZGRBbGwpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdGhpcy5sYXN0R2VuZXJhdGVkUG9pbnRUaW1lc3RhbXBJbk1pY3JvU2Vjb25kID0gc2lnbmFsV2l0aG91dFNRSS5nZXRFbmRUaW1lSW5NaWNybygpOwogICAgICAgICAgICAgICAgaWYoIXNlbnNvclBvaW50VHJlZVNldC5pc0VtcHR5KCkpewogICAgICAgICAgICAgICAgICAgIHNpZ25hbExpc3QuYWRkKG5ldyBTaWduYWwoc2Vuc29yUG9pbnRUcmVlU2V0KSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBzaWduYWxMaXN0LnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKHNpZ25hbFJlc2FtcGxlcjo6cmVzYW1wbGUpCiAgICAgICAgICAgICAgICAuZm9yRWFjaChhbGdvUmVzdWx0TGlzdDo6YWRkKTsK</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -304,18 +298,24 @@
         <text>signalWithoutSQI</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBQb3N0QWN0aW9uc1w+</text>
+        <text encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChTaWduYWwgc2lnbmFsV2l0aG91dFNRSSA6IHNpZ25hbExpc3RXaXRoRmFrZVNxaSkgewogICAgICAgICAgICAgICAgZm9yIChTZW5zb3JQb2ludCBzZW5zb3JQb2ludCA6IHNpZ25hbFdpdGhvdXRTUUkuZ2V0U2Vuc29yUG9pbnRUcmVlU2V0KCkpIHsKICAgICAgICAgICAgICAgICAgICBidWZmZXJQb2ludChzZW5zb3JQb2ludCk7CiAgICAgICAgICAgICAgICAgICAgcG9sbFNlbnNvclBvaW50c1dpdGhTUUkoKS5pZlByZXNlbnQoc2Vuc29yUG9pbnRUcmVlU2V0OjphZGRBbGwpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdGhpcy5sYXN0R2VuZXJhdGVkUG9pbnRUaW1lc3RhbXBJbk1pY3JvU2Vjb25kID0gc2lnbmFsV2l0aG91dFNRSS5nZXRFbmRUaW1lSW5NaWNybygpOwogICAgICAgICAgICAgICAgaWYoIXNlbnNvclBvaW50VHJlZVNldC5pc0VtcHR5KCkpewogICAgICAgICAgICAgICAgICAgIHNpZ25hbExpc3QuYWRkKG5ldyBTaWduYWwoc2Vuc29yUG9pbnRUcmVlU2V0KSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIXNlbnNvclBvaW50VHJlZVNldC5pc0VtcHR5KCkpewogICAgICAgICAgICAgICAgc2lnbmFsTGlzdC5hZGQobmV3IFNpZ25hbChzZW5zb3JQb2ludFRyZWVTZXQpKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzaWduYWxMaXN0LnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKHNpZ25hbFJlc2FtcGxlcjo6cmVzYW1wbGUpCiAgICAgICAgICAgICAgICAuZm9yRWFjaChhbGdvUmVzdWx0TGlzdDo6YWRkKTsK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IoU2lnbmFsIHNpZ25hbCA6IHNpZ25hbExpc3QpIHsKICAgICAgICAgICAgZmluYWwgU2lnbmFsIHJlc2FtcGxlZFNpZ25hbCA9IHRoaXMuc2lnbmFsUmVzYW1wbGVyLnJlc2FtcGxlKHNpZ25hbCk7CiAgICAgICAgICAgIGFsZ29SZXN1bHRMaXN0LmFkZCh0aGlzLmFsZ29Qcm9jZXNzb3IucHJvY2VzcyhyZXNhbXBsZWRTaWduYWwpKTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIXNlbnNvclBvaW50VHJlZVNldC5pc0VtcHR5KCkpewogICAgICAgICAgICAgICAgc2lnbmFsTGlzdC5hZGQobmV3IFNpZ25hbChzZW5zb3JQb2ludFRyZWVTZXQpKTsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCFzaWduYWxMaXN0V2l0aEZha2VTcWkuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICBTaWduYWwgc2lnbmFsV2l0aG91dFNRSSA9IHNpZ25hbExpc3RXaXRoRmFrZVNxaS5nZXQoMCk7CgogICAgICAgICAgICAgICAgZm9yIChTZW5zb3JQb2ludCBzZW5zb3JQb2ludCA6IHNpZ25hbFdpdGhvdXRTUUkuZ2V0U2Vuc29yUG9pbnRUcmVlU2V0KCkpIHsKICAgICAgICAgICAgICAgICAgICBidWZmZXJQb2ludChzZW5zb3JQb2ludCk7CiAgICAgICAgICAgICAgICAgICAgcG9sbFNlbnNvclBvaW50c1dpdGhTUUkoKS5pZlByZXNlbnQoc2Vuc29yUG9pbnRUcmVlU2V0OjphZGRBbGwpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdGhpcy5sYXN0R2VuZXJhdGVkUG9pbnRUaW1lc3RhbXBJbk1pY3JvU2Vjb25kID0gc2lnbmFsV2l0aG91dFNRSS5nZXRFbmRUaW1lSW5NaWNybygpOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="8">
+      <register name="5" type="8">
         <text>&quot;
 &quot;
 &quot;
@@ -330,33 +330,17 @@
 &quot;
 &quot;</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgdmlkZW9NYW5pZmVzdEZldGNoZXIgPSBmYWN0b3J5LmNyZWF0ZSgpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKFN0cmluZyBibG9jIDogcmVjb3JkQmxvY3MpIHsK</text>
       </register>
-      <register name="6" type="8">
+      <register name="8" type="8">
         <text encoding="base64">c3RhdGljIApzdGF0aWMgCnN0YXRpYyAKc3RhdGljIApzdGF0aWMgCnN0YXRpYyAKc3RhdGljIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">YGBgYmFzaApscyAtYWwKYGBgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aHR0cHM6Ly9zMy5jb25zb2xlLmF3cy5hbWF6b24uY29tL3MzL2J1Y2tldHMvYmlvc2VyZW5pdHktYmNwLXN0Zy1ldS1mci8xNDc1NS9iY3AvMjAyMDA2MjYvP3JlZ2lvbj1ldS13ZXN0LTMmdGFiPW92ZXJ2aWV3Iwo=</text>
-      </register>
-      <register name="9" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
@@ -365,9 +349,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhcHBQb3N0QWN0aW9uc1w+</last-search>
+      <last-search encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBQb3N0QWN0aW9uc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxsaXN0SXRlcmF0b3JcPg==</last-substitute>
       <last-dir>1</last-dir>
