@@ -198,11 +198,11 @@
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="59" />
       </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1593610962600">
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="23" column="6" />
-        <mark key="^" line="23" column="6" />
-        <mark key="." line="23" column="5" />
+      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1593611983055">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="2" />
+        <mark key="^" line="113" column="2" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/config/ByteReaderConfiguration.java" timestamp="1593597422329" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/config/ApplicationConfiguration.java" timestamp="1593597442709">
@@ -321,14 +321,18 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//
+//</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>wemu19623</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUnBjT3BlcmF0aW9uc1w+</text>
@@ -341,59 +345,68 @@
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //</text>
       </register>
       <register name="2" type="8">
         <text>//
+//
+//
+//
+//
 //</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgU1RBUlRfVElNRV9JTl9NSUNSTyA9IDE1ODM1MTAyMzY5MjcwMDBMOwo=</text>
+      <register name="3" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="4" type="8">
         <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -418,6 +431,37 @@
       </register>
       <register name="5" type="8">
         <text>//
+//</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgU1RBUlRfVElNRV9JTl9NSUNSTyA9IDE1ODM1MTAyMzY5MjcwMDBMOwo=</text>
+      </register>
+      <register name="7" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
+      </register>
+      <register name="8" type="8">
+        <text>//
 //
 //
 //
@@ -465,17 +509,8 @@
 //
 //</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBSRUNPUkRfSUQgPSAiY2N3OTM4MCI7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBkaWZmVGltZXN0YW1wID0gcHJldmlvdXNUaW1lc3RhbXAubWFwKHQgLT4gbWVzc2FnZS5nZXRUaW1lc3RhbXAoKSAtIHQpLm9yRWxzZSgwTCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgbG9uZyBkaWZmVGltZXN0YW1wKCkgewogICAgICAgICAgICByZXR1cm4gZGlmZlRpbWVzdGFtcC5tYXAoYUxvbmcgLT4gdGltZXN0YW1wIC0gYUxvbmcpLm9yRWxzZSgwTCk7CiAgICAgICAgfQoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvbklnbm9yZQogICAgICAgIE9wdGlvbmFsPExvbmc+IGRpZmZUaW1lc3RhbXAgPSBPcHRpb25hbC5lbXB0eSgpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBSRUNPUkRfSUQgPSAiY2N3OTM4MCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
