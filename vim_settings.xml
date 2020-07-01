@@ -150,6 +150,7 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="6" />
       </file>
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffRecordMongoDBRepository.java" timestamp="1593608585126" />
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/stream/selfdescribed/StreamSelfDescInflated.java" timestamp="1593602619465" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1593597447237">
         <mark key="[" line="44" column="135" />
@@ -157,20 +158,33 @@
         <mark key="^" line="44" column="137" />
         <mark key="." line="44" column="136" />
       </file>
-      <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/pom.xml" timestamp="1593594953692" />
       <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/CallGrpcApiExample.java" timestamp="1593596098927">
         <mark key="[" line="13" column="33" />
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="41" />
         <mark key="^" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/data/FetchChannelsDataFromRecordService.java" timestamp="1593595394686">
-        <mark key="'" line="31" column="36" />
+      <file name="$USER_HOME$/work/record-service/api/src/main/java/com/bioserenity/data/record/api/async/validated/DaoWithValidation.java" timestamp="1593607438866">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="25" column="78" />
+        <mark key="^" line="25" column="78" />
+        <mark key="." line="25" column="77" />
+      </file>
+      <file name="$USER_HOME$/work/record-service/api/pom.xml" timestamp="1593606538644">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="21" column="30" />
+        <mark key="^" line="21" column="30" />
+        <mark key="." line="21" column="29" />
       </file>
       <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/metadata/FetchChannelsMetaDataFromRecordService.java" timestamp="1593595443378">
         <mark key="'" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/work/signals-view-processor/application/src/main/java/com/bioserenity/signals/view/processor/application/web/usecases/signals/dtos/input/mappers/ViewSignalsInputToDomainObject.java" timestamp="1593595374995" />
+      <file name="$USER_HOME$/work/record-service/api/src/main/java/com/bioserenity/data/record/api/async/validated/ReactiveChannelDaoWithValidation.java" timestamp="1593608605011">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="10" />
+        <mark key="^" line="33" column="10" />
+        <mark key="." line="33" column="9" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1593596999458" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593605323722">
         <mark key="'" line="48" column="95" />
@@ -186,12 +200,11 @@
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="59" />
       </file>
-      <file name="$USER_HOME$/work/signals-view-processor/application/src/main/java/com/bioserenity/signals/view/processor/application/web/usecases/signals/SignalsController.java" timestamp="1593595333438" />
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1593605739049">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="24" column="4" />
-        <mark key="^" line="72" column="6" />
-        <mark key="." line="24" column="4" />
+      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1593608033762">
+        <mark key="[" line="123" column="8" />
+        <mark key="]" line="123" column="10" />
+        <mark key="^" line="123" column="10" />
+        <mark key="." line="123" column="9" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/config/ByteReaderConfiguration.java" timestamp="1593597422329" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/config/ApplicationConfiguration.java" timestamp="1593597442709">
@@ -199,7 +212,7 @@
         <mark key="]" line="67" column="89" />
       </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/resources/application.yml" timestamp="1593595977888" />
-      <file name="/fragment.java" timestamp="1593602883361">
+      <file name="/fragment.java" timestamp="1593607452235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
@@ -310,60 +323,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="&quot;" type="4">
+        <text>System.currentTimeMillis()</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>System.currentTimeMillis()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUnBjT3BlcmF0aW9uc1w+</text>
