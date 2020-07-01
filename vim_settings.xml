@@ -177,11 +177,11 @@
         <mark key="." line="21" column="29" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1593609033081" />
-      <file name="$USER_HOME$/work/record-service/api/src/main/java/com/bioserenity/data/record/api/async/validated/ReactiveChannelDaoWithValidation.java" timestamp="1593610356064">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="10" />
-        <mark key="^" line="37" column="10" />
-        <mark key="." line="37" column="9" />
+      <file name="$USER_HOME$/work/record-service/api/src/main/java/com/bioserenity/data/record/api/async/validated/ReactiveChannelDaoWithValidation.java" timestamp="1593613072130">
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="10" />
+        <mark key="^" line="35" column="10" />
+        <mark key="." line="35" column="9" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1593596999458" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593605323722">
@@ -198,11 +198,8 @@
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="59" />
       </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1593611983055">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="2" />
-        <mark key="^" line="113" column="2" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1593613285878">
+        <mark key="^" line="72" column="6" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/config/ByteReaderConfiguration.java" timestamp="1593597422329" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/config/ApplicationConfiguration.java" timestamp="1593597442709">
@@ -326,6 +323,50 @@
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //</text>
       </register>
       <register name="+" type="4">
@@ -345,40 +386,57 @@
 //
 //
 //
-//</text>
-      </register>
-      <register name="2" type="8">
-        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
 //
 //</text>
       </register>
-      <register name="3" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgZW5kID0gSW5zdGFudC5ub3coKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmF3RGF0YSk7Cg==</text>
       </register>
       <register name="4" type="8">
         <text>//
@@ -392,68 +450,20 @@
 //
 //
 //
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //</text>
       </register>
-      <register name="5" type="8">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX0ZwMSIsCiAgICAgICAgICAgICJFRUdfV0VNVV9DQVBfMl9GcDIiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfUHoiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRnoiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRjciLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfQzQiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRjgiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfQzMiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRjMiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRjQiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfQ3oiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfUDMiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfTzIiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfUDQiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfVDUiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfVDYiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfTzEiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfVDMiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfVDQiCiAgICApOwo=</text>
+      </register>
+      <register name="6" type="8">
         <text>//
+//
+//
+//
 //</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgU1RBUlRfVElNRV9JTl9NSUNSTyA9IDE1ODM1MTAyMzY5MjcwMDBMOwo=</text>
       </register>
       <register name="7" type="8">
         <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
 //
 //
@@ -483,6 +493,31 @@
 //
 //
 //
+//</text>
+      </register>
+      <register name="9" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -508,9 +543,6 @@
 //
 //
 //</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBSRUNPUkRfSUQgPSAiY2N3OTM4MCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
