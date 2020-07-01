@@ -153,7 +153,7 @@
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1593616558205" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffRecordMongoDBRepository.java" timestamp="1593608585126" />
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/stream/selfdescribed/StreamSelfDescInflated.java" timestamp="1593602619465" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1593616566011">
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1593619777865">
         <mark key="[" line="121" column="8" />
         <mark key="]" line="121" column="10" />
         <mark key="^" line="121" column="10" />
@@ -180,15 +180,15 @@
         <mark key="." line="35" column="9" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1593596999458" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593617112701">
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593617174121">
         <mark key="'" line="48" column="95" />
-        <mark key="[" line="125" column="20" />
-        <mark key="]" line="125" column="19" />
-        <mark key="^" line="125" column="19" />
-        <mark key="." line="125" column="18" />
+        <mark key="[" line="125" column="30" />
+        <mark key="]" line="125" column="30" />
+        <mark key="^" line="125" column="36" />
+        <mark key="." line="125" column="30" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/stream/commons/StreamUtils.java" timestamp="1593602650075" />
-      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1593602913488" />
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1593619760170" />
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/filter/StreamBatchValidatorInfo.java" timestamp="1593596677116" />
       <file name="$USER_HOME$/work/bioserenity-io-bcp/src/test/java/com/bioserenity/bcp/file/BCPFileReaderTest.java" timestamp="1593597232832">
         <mark key="[" line="108" column="0" />
@@ -314,13 +314,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>cumul</text>
+        <text>floor</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>cumul</text>
+        <text>floor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUnBjT3BlcmF0aW9uc1w+</text>
