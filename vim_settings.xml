@@ -147,7 +147,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1593616558205" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffRecordMongoDBRepository.java" timestamp="1593608585126" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" timestamp="1593629564113">
         <mark key="'" line="148" column="17" />
         <mark key="[" line="506" column="91" />
@@ -155,8 +154,11 @@
         <mark key="." line="506" column="92" />
         <mark key="^" line="511" column="80" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1593628410583">
-        <mark key="^" line="120" column="10" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1593630844995">
+        <mark key="[" line="114" column="9" />
+        <mark key="]" line="116" column="11" />
+        <mark key="^" line="116" column="11" />
+        <mark key="." line="116" column="10" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" timestamp="1593620905636">
         <mark key="[" line="102" column="25" />
@@ -200,15 +202,18 @@
         <mark key="^" line="45" column="50" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" timestamp="1593630217845">
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" timestamp="1593630552952">
         <mark key="'" line="145" column="26" />
-        <mark key="[" line="90" column="68" />
-        <mark key="]" line="90" column="79" />
-        <mark key="^" line="90" column="79" />
-        <mark key="." line="90" column="78" />
+        <mark key="[" line="114" column="85" />
+        <mark key="]" line="115" column="40" />
+        <mark key="^" line="115" column="40" />
+        <mark key="." line="115" column="39" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/sensor-specification/1.9.0/sensor-specification-1.9.0.jar!/com/bioserenity/sensors/Sensor.class" timestamp="1593628195400" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1593609033081" />
+      <file name="/Dummy.txt" timestamp="1593630326120">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" timestamp="1593626147423">
         <mark key="'" line="32" column="58" />
         <mark key="[" line="109" column="4" />
@@ -341,14 +346,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IHNpZ25hbFF1YWxpdGllcy5sZW5ndGggLSBxdWFsaXR5U2Vuc29yLmdldENoYW5uZWxzKCkuc2l6ZSgpOyBpIDwgc2lnbmFsUXVhbGl0aWVzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgICAgICBsYXN0U2lnbmFsUXVhbGl0aWVzLmFkZChzaWduYWxRdWFsaXRpZXNbaV0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBsYXN0U2lnbmFsUXVhbGl0aWVzLnRvQXJyYXkobmV3IFNpZ25hbFF1YWxpdHlbMF0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWFsaXR5U2Vuc29ySWRcPg==</text>
