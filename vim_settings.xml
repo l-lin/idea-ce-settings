@@ -150,19 +150,14 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="23" column="6" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1593616558205" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffRecordMongoDBRepository.java" timestamp="1593608585126" />
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/stream/selfdescribed/StreamSelfDescInflated.java" timestamp="1593602619465" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1593614774501">
-        <mark key="[" line="121" column="41" />
-        <mark key="]" line="121" column="114" />
-        <mark key="^" line="121" column="114" />
-        <mark key="." line="121" column="113" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/CallGrpcApiExample.java" timestamp="1593596098927">
-        <mark key="[" line="13" column="33" />
-        <mark key="]" line="13" column="42" />
-        <mark key="." line="13" column="41" />
-        <mark key="^" line="13" column="42" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1593616566011">
+        <mark key="[" line="121" column="8" />
+        <mark key="]" line="121" column="10" />
+        <mark key="^" line="121" column="10" />
+        <mark key="." line="121" column="9" />
       </file>
       <file name="$USER_HOME$/work/record-service/api/src/main/java/com/bioserenity/data/record/api/async/validated/DaoWithValidation.java" timestamp="1593607438866">
         <mark key="[" line="24" column="38" />
@@ -176,6 +171,7 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="21" column="29" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/sensor-specification/1.9.0/sensor-specification-1.9.0.jar!/com/bioserenity/sensors/Sensor.class" timestamp="1593614867092" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1593609033081" />
       <file name="$USER_HOME$/work/record-service/api/src/main/java/com/bioserenity/data/record/api/async/validated/ReactiveChannelDaoWithValidation.java" timestamp="1593613072130">
         <mark key="[" line="35" column="8" />
@@ -184,12 +180,12 @@
         <mark key="." line="35" column="9" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1593596999458" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593605323722">
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593617112701">
         <mark key="'" line="48" column="95" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="41" column="65" />
-        <mark key="^" line="86" column="27" />
-        <mark key="." line="40" column="0" />
+        <mark key="[" line="125" column="20" />
+        <mark key="]" line="125" column="19" />
+        <mark key="^" line="125" column="19" />
+        <mark key="." line="125" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/stream/commons/StreamUtils.java" timestamp="1593602650075" />
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1593602913488" />
@@ -198,7 +194,7 @@
         <mark key="[" line="108" column="0" />
         <mark key="]" line="108" column="59" />
       </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1593613285878">
+      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1593616253290">
         <mark key="^" line="75" column="6" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/config/ByteReaderConfiguration.java" timestamp="1593597422329" />
@@ -206,7 +202,6 @@
         <mark key="[" line="67" column="15" />
         <mark key="]" line="67" column="89" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application.yml" timestamp="1593595977888" />
       <file name="/fragment.java" timestamp="1593607452235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
@@ -319,13 +314,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>6920-quality_sensor/20200701-0815.00.000_1005-10002-EU0016960006_54VuCE.bcp</text>
+        <text>cumul</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>6920-quality_sensor/20200701-0815.00.000_1005-10002-EU0016960006_54VuCE.bcp</text>
+        <text>cumul</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUnBjT3BlcmF0aW9uc1w+</text>
@@ -333,62 +328,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgcGF0aCA9ICIvaG9tZS9sbGluL3RtcC9jbG91ZC02OTIwLXF1YWxpdHlfc2Vuc29yLzIwMjAwNzAxLTA4MTUuMDAuMDAwXzEwMDUtMTAwMDItRVUwMDE2OTYwMDA2XzU0VnVDRS5iY3AiOwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3VtdWwgKz0gZGlmZlRpbWVzdGFtcDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZW5kID0gSW5zdGFudC5ub3coKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChKc29uUHJvY2Vzc2luZ0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmF3RGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBvYmogPSBuZXcgT2JqZWN0TWFwcGVyKCk7Cg==</text>
       </register>
       <register name="4" type="8">
         <text>//
@@ -402,17 +349,50 @@
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX0ZwMSIsCiAgICAgICAgICAgICJFRUdfV0VNVV9DQVBfMl9GcDIiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfUHoiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRnoiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRjciLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfQzQiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRjgiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfQzMiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRjMiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRjQiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfQ3oiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfUDMiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfTzIiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfUDQiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfVDUiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfVDYiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfTzEiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfVDMiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfVDQiCiAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZW5kID0gSW5zdGFudC5ub3coKTsK</text>
       </register>
-      <register name="6" type="8">
-        <text>//
-//
-//
-//
-//</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmF3RGF0YSk7Cg==</text>
       </register>
       <register name="7" type="8">
         <text>//
@@ -420,77 +400,19 @@
 //
 //
 //
+//
+//
+//
+//
+//
+//
 //</text>
       </register>
-      <register name="8" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIkVFR19XRU1VX0NBUF8yX0ZwMSIsCiAgICAgICAgICAgICJFRUdfV0VNVV9DQVBfMl9GcDIiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfUHoiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRnoiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRjciLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfQzQiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRjgiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfQzMiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRjMiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfRjQiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfQ3oiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfUDMiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfTzIiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfUDQiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfVDUiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfVDYiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfTzEiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfVDMiLAogICAgICAgICAgICAiRUVHX1dFTVVfQ0FQXzJfVDQiCiAgICApOwo=</text>
       </register>
       <register name="9" type="8">
         <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
 //
 //
 //
