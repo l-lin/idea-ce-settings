@@ -146,6 +146,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/CallGrpcApiExample.java" timestamp="1593599619243" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1593597447237">
         <mark key="[" line="44" column="135" />
         <mark key="]" line="44" column="137" />
@@ -165,13 +166,6 @@
       <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/metadata/FetchChannelsMetaDataFromRecordService.java" timestamp="1593595443378">
         <mark key="'" line="19" column="36" />
       </file>
-      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1593538740374">
-        <mark key="'" line="320" column="24" />
-        <mark key="[" line="424" column="33" />
-        <mark key="]" line="171" column="107" />
-        <mark key="." line="171" column="106" />
-        <mark key="^" line="171" column="107" />
-      </file>
       <file name="$USER_HOME$/work/signals-view-processor/application/src/main/java/com/bioserenity/signals/view/processor/application/web/usecases/signals/dtos/input/mappers/ViewSignalsInputToDomainObject.java" timestamp="1593595374995" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1593596999458" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593597012508" />
@@ -182,11 +176,11 @@
         <mark key="]" line="108" column="59" />
       </file>
       <file name="$USER_HOME$/work/signals-view-processor/application/src/main/java/com/bioserenity/signals/view/processor/application/web/usecases/signals/SignalsController.java" timestamp="1593595333438" />
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1593596220327">
-        <mark key="[" line="15" column="45" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="11" column="51" />
+      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1593599618232">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+        <mark key="^" line="40" column="32" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/config/ByteReaderConfiguration.java" timestamp="1593597422329" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/config/ApplicationConfiguration.java" timestamp="1593597442709">
@@ -194,7 +188,7 @@
         <mark key="]" line="67" column="89" />
       </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/resources/application.yml" timestamp="1593595977888" />
-      <file name="/fragment.java" timestamp="1593597537456">
+      <file name="/fragment.java" timestamp="1593599707755">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -303,14 +297,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>new StreamBatchValidator().withMaxDAQOverflowPercentage(maxDriftPercentage)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBQcm9jZXNzIGZpbmlzaGVkIHdpdGggZXhpdCBjb2RlIDAK</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>streamBatchValidator</text>
+        <text encoding="base64">Y2hhbm5lbCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUnBjT3BlcmF0aW9uc1w+</text>
@@ -319,44 +313,32 @@
         <text>new StreamBatchValidator().withMaxDAQOverflowPercentage(maxDriftPercentage)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbWVzc2FnZUJ5dGVzTGlzdCA9IG1lc3NhZ2VMaXN0LnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKG1lc3NhZ2UgLT4gbWVzc2FnZS53cml0ZSgpKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">CiAgICBQcm9jZXNzIGZpbmlzaGVkIHdpdGggZXhpdCBjb2RlIDAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNoYW5uZWxMaXN0KTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2hhbm5lbExpc3QpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBSZWNvcmRJZCByZWNvcmRJZCA9IFJlY29yZElkLm5ld0J1aWxkZXIoKS5zZXRJZChSRUNPUkRfSUQpLmJ1aWxkKCk7CiAgICAgICAgCiAgICAgICAgY2hhbm5lbEdycGNPcGVyYXRpb24uZ2V0Q2hhbm5lbExpc3QoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgbWVzc2FnZUJ5dGVzTGlzdCA9IG1lc3NhZ2VMaXN0LnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKG1lc3NhZ2UgLT4gbWVzc2FnZS53cml0ZSgpKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgbWVzc2FnZUxpc3QgPSBCQ1BGaWxlUmVhZGVyLnBhcnNlKAogICAgICAgICAgICAgICAgLAogICAgICAgICAgICAgICAgU2Vuc29yQnVpbGRlci5nZXRBbGxJU2Vuc29yQ29uZmlndXJhdGlvbkxpc3QoKQogICAgICAgICk7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>new File(
                         path)</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBzaWduYWxMaXN0LnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKHNpZ25hbFJlc2FtcGxlcjo6cmVzYW1wbGUpCiAgICAgICAgICAgICAgICAuZm9yRWFjaChhbGdvUmVzdWx0TGlzdDo6YWRkKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IoU2lnbmFsIHNpZ25hbCA6IHNpZ25hbExpc3QpIHsKICAgICAgICAgICAgZmluYWwgU2lnbmFsIHJlc2FtcGxlZFNpZ25hbCA9IHRoaXMuc2lnbmFsUmVzYW1wbGVyLnJlc2FtcGxlKHNpZ25hbCk7CiAgICAgICAgICAgIGFsZ29SZXN1bHRMaXN0LmFkZCh0aGlzLmFsZ29Qcm9jZXNzb3IucHJvY2VzcyhyZXNhbXBsZWRTaWduYWwpKTsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoIXNlbnNvclBvaW50VHJlZVNldC5pc0VtcHR5KCkpewogICAgICAgICAgICAgICAgc2lnbmFsTGlzdC5hZGQobmV3IFNpZ25hbChzZW5zb3JQb2ludFRyZWVTZXQpKTsKICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFzaWduYWxMaXN0V2l0aEZha2VTcWkuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICBTaWduYWwgc2lnbmFsV2l0aG91dFNRSSA9IHNpZ25hbExpc3RXaXRoRmFrZVNxaS5nZXQoMCk7CgogICAgICAgICAgICAgICAgZm9yIChTZW5zb3JQb2ludCBzZW5zb3JQb2ludCA6IHNpZ25hbFdpdGhvdXRTUUkuZ2V0U2Vuc29yUG9pbnRUcmVlU2V0KCkpIHsKICAgICAgICAgICAgICAgICAgICBidWZmZXJQb2ludChzZW5zb3JQb2ludCk7CiAgICAgICAgICAgICAgICAgICAgcG9sbFNlbnNvclBvaW50c1dpdGhTUUkoKS5pZlByZXNlbnQoc2Vuc29yUG9pbnRUcmVlU2V0OjphZGRBbGwpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdGhpcy5sYXN0R2VuZXJhdGVkUG9pbnRUaW1lc3RhbXBJbk1pY3JvU2Vjb25kID0gc2lnbmFsV2l0aG91dFNRSS5nZXRFbmRUaW1lSW5NaWNybygpOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="8">
-        <text>&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;
-&quot;</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdmlkZW9NYW5pZmVzdEZldGNoZXIgPSBmYWN0b3J5LmNyZWF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IoU2lnbmFsIHNpZ25hbCA6IHNpZ25hbExpc3QpIHsKICAgICAgICAgICAgZmluYWwgU2lnbmFsIHJlc2FtcGxlZFNpZ25hbCA9IHRoaXMuc2lnbmFsUmVzYW1wbGVyLnJlc2FtcGxlKHNpZ25hbCk7CiAgICAgICAgICAgIGFsZ29SZXN1bHRMaXN0LmFkZCh0aGlzLmFsZ29Qcm9jZXNzb3IucHJvY2VzcyhyZXNhbXBsZWRTaWduYWwpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
