@@ -169,9 +169,14 @@
       </file>
       <file name="$USER_HOME$/work/signals-view-processor/application/src/main/java/com/bioserenity/signals/view/processor/application/web/usecases/signals/dtos/input/mappers/ViewSignalsInputToDomainObject.java" timestamp="1593595374995" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1593596999458" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593597012508" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593603984405">
+        <mark key="[" line="40" column="68" />
+        <mark key="]" line="40" column="89" />
+        <mark key="^" line="40" column="89" />
+        <mark key="." line="40" column="88" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/stream/commons/StreamUtils.java" timestamp="1593602650075" />
-      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1593600158230" />
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1593602913488" />
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/filter/StreamBatchValidatorInfo.java" timestamp="1593596677116" />
       <file name="$USER_HOME$/work/bioserenity-io-bcp/src/test/java/com/bioserenity/bcp/file/BCPFileReaderTest.java" timestamp="1593597232832">
         <mark key="[" line="108" column="0" />
@@ -190,8 +195,8 @@
         <mark key="]" line="67" column="89" />
       </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/resources/application.yml" timestamp="1593595977888" />
-      <file name="/fragment.java" timestamp="1593600174228">
-        <mark key="[" line="0" column="33" />
+      <file name="/fragment.java" timestamp="1593602883361">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
       </file>
@@ -301,22 +306,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5nZXRTZW5zb3JEQVFEdXJhdGlvbk1pY3JvcyhjdXJyZW50TWVzc2FnZVNlbnNvcklkKQ==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsUnBjT3BlcmF0aW9uc1w+</text>
