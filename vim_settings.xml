@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZW5zb3JQb2ludENvdW50XD4=</entry>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxucG9pbnRcPg==</entry>
         <entry encoding="base64">XDxldmVudE1lcmdlclw+</entry>
         <entry encoding="base64">XDxTZW5zb3JQb2ludFw+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxhcHBQb3N0QWN0aW9uc1w+</entry>
         <entry encoding="base64">XDxkZXBsb3llZEFwcHNcPg==</entry>
         <entry encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</entry>
+        <entry encoding="base64">XDxDaGFubmVsU2VydmljZUJsb2NraW5nU3R1Ylw+</entry>
+        <entry encoding="base64">XDxjaGFubmVsUnBjT3BlcmF0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,33 +146,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/SignalGeneratorWithCloudSQI.java" timestamp="1593445948454" />
-      <file name="/WowzaServiceImpl.java" timestamp="1593447618574" />
-      <file name="/RecordProcessor.java" timestamp="1593447920886" />
-      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/DeployNotifier.groovy" timestamp="1593443643554">
-        <mark key="[" line="9" column="71" />
-        <mark key="]" line="9" column="69" />
-        <mark key="." line="9" column="68" />
-        <mark key="^" line="9" column="69" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1593446906300">
-        <mark key="'" line="129" column="115" />
-      </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" timestamp="1593443670466">
-        <mark key="[" line="35" column="70" />
-        <mark key="]" line="35" column="75" />
-        <mark key="." line="35" column="74" />
-        <mark key="^" line="35" column="75" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" timestamp="1593449970404">
         <mark key="'" line="269" column="21" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-live-service/src/main/java/com/bioserenity/ecgliveservice/processor/message/MessageProcessor.java" timestamp="1593449664866">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/pom.xml" timestamp="1593594953692" />
+      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/CallGrpcApiExample.java" timestamp="1593595614212">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="34" />
+        <mark key="^" line="13" column="35" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/model/AlgoResult.java" timestamp="1593448303730" />
+      <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/data/FetchChannelsDataFromRecordService.java" timestamp="1593595394686">
+        <mark key="'" line="31" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/metadata/FetchChannelsMetaDataFromRecordService.java" timestamp="1593595443378">
+        <mark key="'" line="19" column="36" />
+      </file>
       <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1593538740374">
         <mark key="'" line="320" column="24" />
         <mark key="[" line="424" column="33" />
@@ -180,19 +169,22 @@
         <mark key="." line="171" column="106" />
         <mark key="^" line="171" column="107" />
       </file>
-      <file name="/MessageProcessor.java" timestamp="1593446077979" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/SignalResampler.java" timestamp="1593446282422" />
+      <file name="$USER_HOME$/work/signals-view-processor/application/src/main/java/com/bioserenity/signals/view/processor/application/web/usecases/signals/SignalsController.java" timestamp="1593595333438" />
+      <file name="$USER_HOME$/work/signals-view-processor/application/src/main/java/com/bioserenity/signals/view/processor/application/web/usecases/signals/dtos/input/mappers/ViewSignalsInputToDomainObject.java" timestamp="1593595374995" />
+      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/CallGrpcApiExample.java" timestamp="1593595787697" />
+      <file name="$USER_HOME$/work/ecg/ecg-live-service/src/main/java/com/bioserenity/ecgliveservice/processor/message/MessageProcessor.java" timestamp="1593449664866">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1593446906300">
+        <mark key="'" line="129" column="115" />
+      </file>
+      <file name="/fragment.java" timestamp="1593595506527">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
-      <jump line="202" column="55" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
-      <jump line="283" column="52" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" />
-      <jump line="30" column="36" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithFakeSQI.java" />
-      <jump line="52" column="22" filename="/StEventMerger.java" />
-      <jump line="55" column="91" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQI.java" />
-      <jump line="44" column="54" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQI.java" />
-      <jump line="151" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
-      <jump line="150" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
       <jump line="58" column="6" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWith500MElecSQITest.java" />
       <jump line="5" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityOverflowDetector.java" />
       <jump line="21" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalQualityOverflowDetectorTest.java" />
@@ -284,21 +276,30 @@
       <jump line="204" column="55" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
       <jump line="206" column="31" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
       <jump line="269" column="21" filename="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorTest.java" />
+      <jump line="3" column="63" filename="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/data/FetchChannelsDataFromRecordService.java" />
+      <jump line="49" column="48" filename="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/data/FetchChannelsDataFromRecordService.java" />
+      <jump line="24" column="45" filename="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/data/FetchChannelsDataFromRecordService.java" />
+      <jump line="28" column="45" filename="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/data/FetchChannelsDataFromRecordService.java" />
+      <jump line="31" column="36" filename="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/data/FetchChannelsDataFromRecordService.java" />
+      <jump line="2" column="63" filename="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/metadata/FetchChannelsMetaDataFromRecordService.java" />
+      <jump line="16" column="45" filename="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/metadata/FetchChannelsMetaDataFromRecordService.java" />
+      <jump line="18" column="83" filename="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/metadata/FetchChannelsMetaDataFromRecordService.java" />
+      <jump line="19" column="36" filename="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/metadata/FetchChannelsMetaDataFromRecordService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYWxMaXN0LnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKHNpZ25hbFJlc2FtcGxlcjo6cmVzYW1wbGUpCiAgICAgICAgICAgICAgICAuZm9yRWFjaChhbGdvUmVzdWx0TGlzdDo6YWRkKTsK</text>
+      <register name="&quot;" type="4">
+        <text>9090</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>signalWithoutSQI</text>
+        <text>9090</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</text>
+        <text encoding="base64">XDxjaGFubmVsUnBjT3BlcmF0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChTaWduYWwgc2lnbmFsV2l0aG91dFNRSSA6IHNpZ25hbExpc3RXaXRoRmFrZVNxaSkgewogICAgICAgICAgICAgICAgZm9yIChTZW5zb3JQb2ludCBzZW5zb3JQb2ludCA6IHNpZ25hbFdpdGhvdXRTUUkuZ2V0U2Vuc29yUG9pbnRUcmVlU2V0KCkpIHsKICAgICAgICAgICAgICAgICAgICBidWZmZXJQb2ludChzZW5zb3JQb2ludCk7CiAgICAgICAgICAgICAgICAgICAgcG9sbFNlbnNvclBvaW50c1dpdGhTUUkoKS5pZlByZXNlbnQoc2Vuc29yUG9pbnRUcmVlU2V0OjphZGRBbGwpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdGhpcy5sYXN0R2VuZXJhdGVkUG9pbnRUaW1lc3RhbXBJbk1pY3JvU2Vjb25kID0gc2lnbmFsV2l0aG91dFNRSS5nZXRFbmRUaW1lSW5NaWNybygpOwogICAgICAgICAgICAgICAgaWYoIXNlbnNvclBvaW50VHJlZVNldC5pc0VtcHR5KCkpewogICAgICAgICAgICAgICAgICAgIHNpZ25hbExpc3QuYWRkKG5ldyBTaWduYWwoc2Vuc29yUG9pbnRUcmVlU2V0KSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
@@ -349,9 +350,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</last-search>
+      <last-search encoding="base64">XDxjaGFubmVsUnBjT3BlcmF0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFubmVsUnBjT3BlcmF0aW9uc1w+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxsaXN0SXRlcmF0b3JcPg==</last-substitute>
       <last-dir>1</last-dir>
