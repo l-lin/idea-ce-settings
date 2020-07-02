@@ -146,23 +146,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" timestamp="1593679164986">
-        <mark key="[" line="250" column="59" />
-        <mark key="]" line="250" column="61" />
-        <mark key="^" line="250" column="61" />
-        <mark key="." line="250" column="60" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1593630844995">
-        <mark key="[" line="114" column="9" />
-        <mark key="]" line="116" column="11" />
-        <mark key="^" line="116" column="11" />
-        <mark key="." line="116" column="10" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGenerator.java" timestamp="1593675927713">
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="9" column="43" />
-        <mark key="." line="9" column="42" />
-        <mark key="^" line="9" column="43" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/cardioskin/CardioskinLoader.java" timestamp="1593685520539" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" timestamp="1593682809801">
+        <mark key="[" line="529" column="32" />
+        <mark key="]" line="529" column="36" />
+        <mark key="^" line="529" column="36" />
+        <mark key="." line="529" column="35" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" timestamp="1593676029618">
         <mark key="[" line="81" column="15" />
@@ -175,41 +164,50 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcherTest.java" timestamp="1593628776362">
-        <mark key="'" line="99" column="104" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="97" column="25" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="95" column="69" />
+      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1593685471393" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcherTest.java" timestamp="1593683366031">
+        <mark key="'" line="102" column="104" />
+        <mark key="[" line="99" column="25" />
+        <mark key="]" line="100" column="37" />
+        <mark key="." line="100" column="36" />
+        <mark key="^" line="100" column="37" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcher.java" timestamp="1593681380736">
-        <mark key="[" line="43" column="70" />
-        <mark key="]" line="43" column="71" />
-        <mark key="." line="43" column="70" />
-        <mark key="^" line="43" column="71" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcher.java" timestamp="1593686508555">
+        <mark key="'" line="49" column="15" />
+        <mark key="[" line="49" column="15" />
+        <mark key="]" line="49" column="29" />
+        <mark key="^" line="49" column="29" />
+        <mark key="." line="49" column="28" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithFakeSQI.java" timestamp="1593675772121">
-        <mark key="[" line="69" column="15" />
-        <mark key="]" line="69" column="42" />
-        <mark key="^" line="69" column="42" />
-        <mark key="." line="69" column="41" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/TestDataFactory.java" timestamp="1593683300941">
+        <mark key="'" line="29" column="76" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" timestamp="1593680903566">
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" timestamp="1593682171100">
         <mark key="'" line="27" column="24" />
-        <mark key="[" line="102" column="83" />
+        <mark key="[" line="121" column="0" />
         <mark key="m" line="86" column="34" />
-        <mark key="]" line="102" column="106" />
-        <mark key="." line="102" column="105" />
-        <mark key="^" line="102" column="106" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
+        <mark key="^" line="119" column="71" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-live-service/src/main/java/com/bioserenity/ecgliveservice/processor/Worker.java" timestamp="1593675613887" />
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/bioserenity-io-bcp/6.2.0/bioserenity-io-bcp-6.2.0-sources.jar!/com/bioserenity/bcp/payload/stream/selfdescribed/StreamSelfDescInflated.java" timestamp="1593684555629" />
       <file name="$MAVEN_REPOSITORY$/com/bioserenity/sensor-specification/1.9.0/sensor-specification-1.9.0.jar!/com/bioserenity/sensors/Sensor.class" timestamp="1593681126673">
         <mark key="'" line="145" column="145" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593680276489">
-        <mark key="[" line="0" column="17" />
-        <mark key="]" line="0" column="17" />
-        <mark key="." line="0" column="17" />
+      <file name="/Dummy.txt" timestamp="1593683191803">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" timestamp="1593682706042">
+        <mark key="'" line="33" column="35" />
+        <mark key="[" line="33" column="56" />
+        <mark key="]" line="33" column="56" />
+        <mark key="^" line="37" column="6" />
+        <mark key="." line="33" column="56" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593678260890">
         <mark key="'" line="50" column="95" />
@@ -218,25 +216,17 @@
         <mark key="^" line="51" column="53" />
         <mark key="." line="51" column="52" />
       </file>
-      <file name="/SignalGeneratorWithMElecSQI.java" timestamp="1593632657884" />
       <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/io/BufferedReader.java" timestamp="1593676617095">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="592" column="36" />
         <mark key="]" line="593" column="70" />
       </file>
-      <file name="/fragment.java" timestamp="1593634681848">
+      <file name="/SignalQualityFetcher.java" timestamp="1593685987374" />
+      <file name="/fragment.java" timestamp="1593686401915">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="33" />
-        <mark key="." line="0" column="33" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="81" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithFakeSQI.java" />
-      <jump line="114" column="26" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" />
-      <jump line="132" column="20" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" />
-      <jump line="147" column="24" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" />
-      <jump line="150" column="72" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" />
-      <jump line="176" column="30" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" />
       <jump line="59" column="31" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" />
       <jump line="178" column="27" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" />
       <jump line="24" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityOverflowDetector.java" />
@@ -302,7 +292,6 @@
       <jump line="48" column="95" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" />
       <jump line="98" column="104" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcherTest.java" />
       <jump line="30" column="38" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" />
-      <jump line="33" column="29" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" />
       <jump line="88" column="34" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" />
       <jump line="32" column="58" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" />
       <jump line="25" column="45" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
@@ -331,51 +320,58 @@
       <jump line="388" column="5" filename="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/io/BufferedReader.java" />
       <jump line="75" column="0" filename="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/io/BufferedReader.java" />
       <jump line="145" column="145" filename="$MAVEN_REPOSITORY$/com/bioserenity/sensor-specification/1.9.0/sensor-specification-1.9.0.jar!/com/bioserenity/sensors/Sensor.class" />
+      <jump line="88" column="22" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/TestDataFactory.java" />
+      <jump line="27" column="118" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/TestDataFactory.java" />
+      <jump line="31" column="8" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/TestDataFactory.java" />
+      <jump line="29" column="76" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/TestDataFactory.java" />
+      <jump line="34" column="7" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" />
+      <jump line="33" column="35" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" />
+      <jump line="48" column="15" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcher.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>SignalQuality[]::new);</text>
+        <text>java.util.stream.Stream.of</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>SignalQuality[]::new);</text>
+        <text>java.util.stream.Stream.of</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWFsaXR5U2Vuc29yXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0RW1wdHlTaWduYWwoc2lnbmFsMik7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cmF3RGF0YSAtPiB7CiAgICAgICAgICAgICAgICAgICAgc2hvcnQgdmFsdWUgPSBCeXRlMkludC5yZWFkVUludDgoQnl0ZUJ1ZmZlci53cmFwKHJhd0RhdGEpLm9yZGVyKEJjcERhdGEuRU5ESUFOTkVTUykpOwogICAgICAgICAgICAgICAgICAgIHJldHVybiBTaWduYWxRdWFsaXR5LnNldEZyb21TaG9ydCh2YWx1ZSk7CiAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgLnRvQXJyYXkoU2lnbmFsUXVhbGl0eVtdOjpuZXcpKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZW5zb3IuZ2V0Q2hhbm5lbHMoKS5zaXplKCk7CgogICAgICAgIExpc3Q8U2lnbmFsUXVhbGl0eVtdPiBzaWduYWxRdWFsaXRpZXNMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CgogICAgICAgIHZhciBjaGFubmVsc0lkeCA9IHBheWxvYWQuZ2V0Q2hhbm5lbHNJZHgoc2Vuc29yLmdldElkKCkpOwogICAgICAgIGNoYW5uZWxzSWR4LnN0cmVhbSgpLm1hcChjaGFubmVsc0lkIC0+IHBheWxvYWQuZ2V0Q2hhbm5lbERhdGEoc2Vuc29yLmdldElkKCksIGNoYW5uZWxzSWQpKQoKICAgICAgICByZXR1cm4gc2lnbmFsUXVhbGl0aWVzTGlzdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b0FycmF5KFNpZ25hbFF1YWxpdHlbXTo6bmV3KQogICAgICAgIExpc3Q8U2lnbmFsUXVhbGl0eVtdPiBzaWduYWxRdWFsaXRpZXNMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBsaXN0U2l6ZTsgaSsrKSB7CiAgICAgICAgICAgIHNpZ25hbFF1YWxpdGllc0xpc3QuYWRkKAogICAgICAgICAgICApOwogICAgICAgIH0KICAgICAgICByZXR1cm4gc2lnbmFsUXVhbGl0aWVzTGlzdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFzZW5zb3JQb2ludHMuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICBzaWduYWxMaXN0LmFkZChuZXcgU2lnbmFsKHNlbnNvclBvaW50cykpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBqYXZhLnV0aWwuc3RyZWFtLlN0cmVhbS5vZihibG9jay5nZXRTZW5zb3JEYXRhKCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAubWFwKHJhd0RhdGEgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNob3J0IHZhbHVlID0gQnl0ZTJJbnQucmVhZFVJbnQ4KEJ5dGVCdWZmZXIud3JhcChyYXdEYXRhKS5vcmRlcihCY3BEYXRhLkVORElBTk5FU1MpKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gU2lnbmFsUXVhbGl0eS5zZXRGcm9tU2hvcnQodmFsdWUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50b0FycmF5KFNpZ25hbFF1YWxpdHlbXTo6bmV3KQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBxdWFsaXR5ICAgICAgIEJBRCAgICAgICAgICAgIE9LICAgICAgICAgICAgIE9LICAgICAgICAgICAgIE9LCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">cGF5bG9hZAogICAgICAgICAgICAgICAgLmdldENoYW5uZWxzSWR4KHNlbnNvci5nZXRJZCgpKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKGNoYW5uZWxJZCAtPiBwYXlsb2FkLmdldENoYW5uZWxEYXRhKHNlbnNvci5nZXRJZCgpLCBjaGFubmVsSWQpKQogICAgICAgICAgICAgICAgLm1hcChyYXdEYXRhIC0+IHsKICAgICAgICAgICAgICAgICAgICBzaG9ydCB2YWx1ZSA9IEJ5dGUySW50LnJlYWRVSW50OChCeXRlQnVmZmVyLndyYXAocmF3RGF0YSkub3JkZXIoQmNwRGF0YS5FTkRJQU5ORVNTKSk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFNpZ25hbFF1YWxpdHkuc2V0RnJvbVNob3J0KHZhbHVlKTsKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAudG9BcnJheShTaWduYWxRdWFsaXR5W106Om5ldyk=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpZ25hbEdhcERldGVjdG9yLnNldExhc3RUaW1lc3RhbXBJbk1pY3JvKHNpZ25hbFdpdGhvdXRTUUkuZ2V0RW5kVGltZUluTWljcm8oKSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">TGlzdC5vZihwYXlsb2FkCiAgICAgICAgICAgICAgICAuZ2V0Q2hhbm5lbHNJZHgoc2Vuc29yLmdldElkKCkpCiAgICAgICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5tYXAoY2hhbm5lbElkIC0+IHBheWxvYWQuZ2V0Q2hhbm5lbERhdGEoc2Vuc29yLmdldElkKCksIGNoYW5uZWxJZCkpCiAgICAgICAgICAgICAgICAubWFwKHJhd0RhdGEgLT4gewogICAgICAgICAgICAgICAgICAgIHNob3J0IHZhbHVlID0gQnl0ZTJJbnQucmVhZFVJbnQ4KEJ5dGVCdWZmZXIud3JhcChyYXdEYXRhKS5vcmRlcihCY3BEYXRhLkVORElBTk5FU1MpKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gU2lnbmFsUXVhbGl0eS5zZXRGcm9tU2hvcnQodmFsdWUpOwogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIC50b0FycmF5KFNpZ25hbFF1YWxpdHlbXTo6bmV3KSk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNpZ25hbEdhcERldGVjdG9yLnNldExhc3RUaW1lc3RhbXBJbk1pY3JvKHNpZ25hbFdpdGhvdXRTUUkuZ2V0RW5kVGltZUluTWljcm8oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMuZ3JvdXBpbmdCeShzIC0+IGNvdW50ZXIuZ2V0QW5kSW5jcmVtZW50KCkgLyBjaGFubmVsU2l6ZSkpCiAgICAgICAgICAgICAgICAudmFsdWVzKCkKICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLm1hcChzaWduYWxRdWFsaXRpZXMgLT4gc2lnbmFsUXVhbGl0aWVzLnRvQXJyYXkobmV3IFNpZ25hbFF1YWxpdHlbMF0pKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2lnbmFsR2FwRGV0ZWN0b3Iuc2V0TGFzdFRpbWVzdGFtcEluTWljcm8oc2lnbmFsV2l0aG91dFNRSS5nZXRFbmRUaW1lSW5NaWNybygpKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY2hhbm5lbFNpemUgPSBzZW5zb3IuZ2V0Q2hhbm5lbHMoKS5zaXplKCk7CiAgICAgICAgdmFyIGxpc3RTaXplID0gMTsKICAgICAgICBpZiAocGF5bG9hZCBpbnN0YW5jZW9mIFN0cmVhbVNlbGZEZXNjKSB7CiAgICAgICAgICAgIHZhciBibG9jayA9ICgoU3RyZWFtU2VsZkRlc2MpIHBheWxvYWQpLmdldEJsb2NrKHNlbnNvci5nZXRJZCgpKTsKICAgICAgICAgICAgbGlzdFNpemUgPSBibG9jay5nZXRTZW5zb3JEYXRhKCkubGVuZ3RoIC8gY2hhbm5lbFNpemU7CiAgICAgICAgfQogICAgICAgIExpc3Q8U2lnbmFsUXVhbGl0eVtdPiBzaWduYWxRdWFsaXRpZXNMaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBsaXN0U2l6ZTsgaSsrKSB7CiAgICAgICAgICAgIHZhciBpbmRleCA9IGk7CiAgICAgICAgICAgIHNpZ25hbFF1YWxpdGllc0xpc3QuYWRkKHBheWxvYWQKICAgICAgICAgICAgICAgICAgICAuZ2V0Q2hhbm5lbHNJZHgoc2Vuc29yLmdldElkKCkpCiAgICAgICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAgICAgLm1hcChjaGFubmVsSWQgLT4gewogICAgICAgICAgICAgICAgICAgICAgICBpZiAocGF5bG9hZCBpbnN0YW5jZW9mIFN0cmVhbVNlbGZEZXNjKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcGF5bG9hZC5nZXRDaGFubmVsRGF0YShzZW5zb3IuZ2V0SWQoKSwgY2hhbm5lbElkKTsKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5tYXAocmF3RGF0YSAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNob3J0IHZhbHVlID0gQnl0ZTJJbnQucmVhZFVJbnQ4KEJ5dGVCdWZmZXIud3JhcChyYXdEYXRhKS5vcmRlcihCY3BEYXRhLkVORElBTk5FU1MpKTsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFNpZ25hbFF1YWxpdHkuc2V0RnJvbVNob3J0KHZhbHVlKTsKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC50b0FycmF5KFNpZ25hbFF1YWxpdHlbXTo6bmV3KSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJdGVyYXRvcjxTaWduYWw+IGl0ZXIgPSBuZXcgSXRlcmF0b3I8PigpIHsKCiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgYm9vbGVhbiBoYXNOZXh0KCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9CgogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIFNpZ25hbCBuZXh0KCkgewogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICB9OwogICAgICAgIFN0cmVhbVN1cHBvcnQuc3RyZWFtKFNwbGl0ZXJhdG9ycy5zcGxpdGVyYXRvclVua25vd25TaXplKAogICAgICAgICAgICAgICAgaXRlciwgU3BsaXRlcmF0b3IuT1JERVJFRCB8IFNwbGl0ZXJhdG9yLk5PTk5VTEwpLCBmYWxzZSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y2hhbm5lbElkIC0+IHBheWxvYWQuZ2V0Q2hhbm5lbERhdGEoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZW5zb3IuZ2V0SWQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIChzaG9ydCkgKGluZGV4ICogc2Vuc29yLmdldENoYW5uZWxzKCkuc2l6ZSgpICsgY2hhbm5lbElkKQogICAgICAgICAgICAgICAgICAgICk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRyZWVTZXQ8U2Vuc29yUG9pbnQ+IHNlbnNvclBvaW50VHJlZVNldCA9IG5ldyBUcmVlU2V0PD4oKTsKICAgICAgICAgICAgICAgIGZvciAoU2Vuc29yUG9pbnQgc2Vuc29yUG9pbnQgOiBzaWduYWwuZ2V0U2Vuc29yUG9pbnRUcmVlU2V0KCkpIHsKICAgICAgICAgICAgICAgICAgICBidWZmZXJQb2ludChzZW5zb3JQb2ludCk7CiAgICAgICAgICAgICAgICAgICAgcG9sbFNlbnNvclBvaW50c1dpdGhTUUkoKS5pZlByZXNlbnQoc2Vuc29yUG9pbnRUcmVlU2V0OjphZGRBbGwpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdGhpcy5zaWduYWxHYXBEZXRlY3Rvci5zZXRMYXN0VGltZXN0YW1wSW5NaWNybyhzaWduYWwuZ2V0RW5kVGltZUluTWljcm8oKSk7CiAgICAgICAgICAgICAgICBpZiAoIXNlbnNvclBvaW50VHJlZVNldC5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICBzaWduYWxMaXN0LmFkZChuZXcgU2lnbmFsKHNlbnNvclBvaW50VHJlZVNldCkpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRnVuY3Rpb248SW50ZWdlciwgYnl0ZVtdPiBjaGFubmVsSWRUb1Jhd0RhdGEgPSBjaGFubmVsSWQgLT4gewogICAgICAgICAgICAgICAgYmxvY2suZ2V0U2Vuc29yRGF0YSgpCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIEdlbmVyYXRlIG1FbGVjIFNRSSBzaWduYWxzIGZyb20gQkNQIHBhY2tldHMuCiAqIAogKiAKICovCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGF5bG9hZAogICAgICAgICAgICAgICAgLmdldENoYW5uZWxzSWR4KHNlbnNvci5nZXRJZCgpKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKGNoYW5uZWxJZCAtPiBwYXlsb2FkLmdldENoYW5uZWxEYXRhKHNlbnNvci5nZXRJZCgpLCBjaGFubmVsSWQpKQogICAgICAgICAgICAgICAgLm1hcChyYXdEYXRhIC0+IHsKICAgICAgICAgICAgICAgICAgICBzaG9ydCB2YWx1ZSA9IEJ5dGUySW50LnJlYWRVSW50OChCeXRlQnVmZmVyLndyYXAocmF3RGF0YSkub3JkZXIoQmNwRGF0YS5FTkRJQU5ORVNTKSk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIFNpZ25hbFF1YWxpdHkuc2V0RnJvbVNob3J0KHZhbHVlKTsKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLmdyb3VwaW5nQnkocyAtPiBjb3VudGVyLmdldEFuZEluY3JlbWVudCgpIC8gY2hhbm5lbFNpemUpKQogICAgICAgICAgICAgICAgLnZhbHVlcygpCiAgICAgICAgICAgICAgICAuc3RyZWFtKCkKICAgICAgICAgICAgICAgIC5tYXAoc2lnbmFsUXVhbGl0aWVzIC0+IHNpZ25hbFF1YWxpdGllcy50b0FycmF5KG5ldyBTaWduYWxRdWFsaXR5WzBdKSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
