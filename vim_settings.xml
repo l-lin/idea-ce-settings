@@ -174,13 +174,13 @@
         <mark key="^" line="59" column="25" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/payload/stream/selfdescribed/PayloadHeader.java" timestamp="1593698964233" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/TestDataFactory.java" timestamp="1593691936016">
-        <mark key="'" line="29" column="76" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/test/java/com/bioserenity/bcp/file/BCPFileReaderTest.java" timestamp="1593761201955">
+        <mark key="[" line="51" column="43" />
+        <mark key="]" line="51" column="122" />
+        <mark key="." line="51" column="121" />
+        <mark key="^" line="51" column="122" />
       </file>
+      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/payload/stream/selfdescribed/PayloadHeader.java" timestamp="1593698964233" />
       <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/Cloud6939OneDay.java" timestamp="1593702668760">
         <mark key="'" line="103" column="0" />
         <mark key="[" line="115" column="45" />
@@ -193,23 +193,19 @@
       <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/data/FetchChannelsDataFromRecordService.java" timestamp="1593705446063">
         <mark key="'" line="31" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/sensor-specification/1.9.0/sensor-specification-1.9.0.jar!/com/bioserenity/sensors/Sensor.class" timestamp="1593761453985">
+        <mark key="'" line="145" column="145" />
+      </file>
       <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/Cloud6939MultipleDays.java" timestamp="1593709073452">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="56" column="115" />
         <mark key="." line="46" column="0" />
         <mark key="^" line="46" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593700025466">
+      <file name="/Dummy.txt" timestamp="1593761255603">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" timestamp="1593691954674">
-        <mark key="'" line="32" column="35" />
-        <mark key="[" line="32" column="58" />
-        <mark key="]" line="32" column="66" />
-        <mark key="^" line="32" column="66" />
-        <mark key="." line="32" column="65" />
       </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/grpc/ChannelService.java" timestamp="1593693010889" />
       <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1593696139244" />
@@ -226,7 +222,7 @@
         <mark key="^" line="2" column="16" />
       </file>
       <file name="$USER_HOME$/work/signals-view-processor/application/src/main/java/com/bioserenity/signals/view/processor/application/web/usecases/signals/SignalsController.java" timestamp="1593705009474" />
-      <file name="/fragment.java" timestamp="1593705176721">
+      <file name="/fragment.java" timestamp="1593761255622">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -336,13 +332,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>cloud-6916-undetected_pauses/20200623-0830.00.000_1005-10002-EUP002620006_hgNJDi.bcp</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>cloud-6916-undetected_pauses/20200623-0830.00.000_1005-10002-EUP002620006_hgNJDi.bcp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxxdWFsaXR5U2Vuc29yXD4=</text>
