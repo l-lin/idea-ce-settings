@@ -146,16 +146,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/ecg/pom.xml" timestamp="1593778370556" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/service/RecordTimezoneService.java" timestamp="1593779757076" />
+      <file name="/AuthenticationServiceConfiguration.java" timestamp="1593777206033" />
       <file name="/WebClientConfiguration.java" timestamp="1593777223874" />
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/config/AuthenticationServiceConfiguration.java" timestamp="1593777725430" />
-      <file name="$USER_HOME$/work/ecg/pom.xml" timestamp="1593778370556" />
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/format/bcp/parser/BcpStreamMessageParser.scala" timestamp="1593778405333" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/format/bcp/parser/BcpStreamMessageParser.scala" timestamp="1593779704446" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.5.RELEASE/spring-webflux-5.2.5.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" timestamp="1593777281499">
         <mark key="'" line="123" column="23" />
       </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/resources/application.yml" timestamp="1593777338685" />
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/config/WebClientConfiguration.java" timestamp="1593777652188" />
-      <file name="/AuthenticationServiceConfiguration.java" timestamp="1593777206033" />
+      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/format/BcpToBffConverter.scala" timestamp="1593779635837" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/test/java/com/bioserenity/converter/api/service/RecordTimezoneServiceTest.java" timestamp="1593779381959">
+        <mark key="[" line="73" column="30" />
+        <mark key="]" line="73" column="30" />
+        <mark key="." line="73" column="30" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="453" column="12" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
@@ -263,13 +270,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>&quot;timeZone&quot; : null</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>&quot;timeZone&quot; : null</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlVXJsXD4=</text>
