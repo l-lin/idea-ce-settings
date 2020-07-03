@@ -147,14 +147,22 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/actors/workers/Worker.scala" timestamp="1593781219834" />
+      <file name="$USER_HOME$/work/file-generation-service/src/test/scala/com/bioserenity/fgs/master/TestWorkerWorkersMaster.scala" timestamp="1593787354673" />
       <file name="$USER_HOME$/work/ecg/pom.xml" timestamp="1593778370556" />
+      <file name="$USER_HOME$/work/file-generation-service/src/test/scala/com/bioserenity/fgs/format/bcp/parser/BcpStreamMessageParserTest.scala" timestamp="1593787482641">
+        <mark key="[" line="27" column="64" />
+        <mark key="]" line="27" column="68" />
+        <mark key="." line="27" column="67" />
+        <mark key="^" line="27" column="68" />
+      </file>
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/service/RecordTimezoneService.java" timestamp="1593779757076" />
       <file name="/AuthenticationServiceConfiguration.java" timestamp="1593777206033" />
-      <file name="$USER_HOME$/work/file-generation-service/src/test/scala/com/bioserenity/fgs/format/bcp/parser/BcpStreamMessageParserTest.java" timestamp="1593781893351">
-        <mark key="[" line="23" column="53" />
-        <mark key="]" line="23" column="59" />
-        <mark key="^" line="23" column="59" />
-        <mark key="." line="23" column="58" />
+      <file name="$USER_HOME$/work/file-generation-service/src/test/scala/com/bioserenity/fgs/format/bcp/parser/BcpStreamMessageParserTest.java" timestamp="1593787397489">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="27" column="5" />
+        <mark key="^" line="17" column="31" />
+        <mark key="." line="17" column="30" />
       </file>
       <file name="/WebClientConfiguration.java" timestamp="1593777223874" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1593781673611">
@@ -195,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="465" column="4" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
       <jump line="336" column="103" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
       <jump line="369" column="103" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
       <jump line="23" column="36" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" />
@@ -295,24 +302,25 @@
       <jump line="22" column="39" filename="$USER_HOME$/work/signals-view-processor/application/src/main/resources/application.properties" />
       <jump line="123" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.5.RELEASE/spring-webflux-5.2.5.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
       <jump line="20" column="16" filename="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/format/bcp/parser/BcpStreamMessageParser.scala" />
+      <jump line="15" column="0" filename="$USER_HOME$/work/file-generation-service/src/test/scala/com/bioserenity/fgs/format/bcp/parser/BcpStreamMessageParserTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>scala.collection.immutable.List.</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>scala.collection.immutable.List.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMQVNUX0JDUF9WRVJTSU9OXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcGF0aCA9ICIvaG9tZS9sbGluL3RtcC9jbG91ZC02OTIwLXF1YWxpdHlfc2Vuc29yLzIwMjAwNjI0LTA4MTUuMDAuMDAwXzEwMDUtMTAwMDItRVVQMDAyNjIwMDA1X2VERkJtUy5iY3AiOwogICAgICAgIC8vdmFyIHBhdGggPSAiL2hvbWUvbGxpbi90bXAvY2xvdWQtNjkyMC1xdWFsaXR5X3NlbnNvci8yMDIwMDcwMS0wODE1LjAwLjAwMF8xMDA1LTEwMDAyLUVVMDAxNjk2MDAwNl81NFZ1Q0UuYmNwIjsKICAgICAgICAvL3ZhciBwYXRoID0gIi9ob21lL2xsaW4vdG1wL2Nsb3VkLTY5MjAtcXVhbGl0eV9zZW5zb3IvMjAyMDA2MjMtMTIzMC4wMC4wMDBfMTAwNS0xMDAwMi1FVVAwMDI2MjAwMDVfTlVuaXdhLmJjcCI7CiAgICAgICAgLy92YXIgcGF0aCA9ICIvaG9tZS9sbGluL3RtcC9jbG91ZC03MDAzLW5vX2ltcGVkYW5jZS8yMDIwMDcwMS0xMzAwLjAwLjAwMF8xMDAxLTEwMDA0LUVVUDAwMzc3MDAwMl9HRTdzQzIuYmNwIjsKICAgICAgICB2YXIgYnl0ZXMgPSBGaWxlcy5yZWFkQWxsQnl0ZXMobmV3IEZpbGUocGF0aCkudG9QYXRoKCkpOwogICAgICAgIHZhciBjYXJkaW9za2luQ29uZmlndXJhdGlvbiA9IENhcmRpb3NraW5Mb2FkZXIuZ2V0Q2FyZGlvc2tpbkNvbmZpZ3VyYXRpb25Gcm9tQmNwRmlsZShieXRlcyk7CiAgICAgICAgdmFyIHNldE9mTWVzc2FnZSA9IGJsb2NrUmVhZGVyLmdldFNldE9mTWVzc2FnZShMaXN0Lm9mKGJ5dGVzKSwgY2FyZGlvc2tpbkNvbmZpZ3VyYXRpb24pOwo=</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBjbG91ZDY5MjAoKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIFN0cmluZyBwYXRoID0gIi9ob21lL2xsaW4vdG1wL2Nsb3VkLTY5MjAtcXVhbGl0eV9zZW5zb3IvMjAyMDA3MDEtMDgxNS4wMC4wMDBfMTAwNS0xMDAwMi1FVTAwMTY5NjAwMDZfNTRWdUNFLmJjcCI7CiAgICAgICAgLy92YXIgcGF0aCA9ICIvaG9tZS9sbGluL3RtcC9jbG91ZC02OTIwLXF1YWxpdHlfc2Vuc29yLzIwMjAwNjIzLTEyMzAuMDAuMDAwXzEwMDUtMTAwMDItRVVQMDAyNjIwMDA1X05Vbml3YS5iY3AiOwogICAgICAgIC8vdmFyIHBhdGggPSAiL2hvbWUvbGxpbi90bXAvY2xvdWQtNzAwMy1ub19pbXBlZGFuY2UvMjAyMDA3MDEtMTMwMC4wMC4wMDBfMTAwMS0xMDAwNC1FVVAwMDM3NzAwMDJfR0U3c0MyLmJjcCI7CiAgICAgICAgdmFyIGJ5dGVzID0gRmlsZXMucmVhZEFsbEJ5dGVzKG5ldyBGaWxlKHBhdGgpLnRvUGF0aCgpKTsKICAgICAgICBMaXN0PE1lc3NhZ2U+IG1lc3NhZ2VMaXN0ID0gQkNQRmlsZVJlYWRlci5wYXJzZShieXRlcywgU2Vuc29yQnVpbGRlci5nZXRBbGxJU2Vuc29yQ29uZmlndXJhdGlvbkxpc3QoKSk7CiAgICAgICAgU3RyaW5nIGRldmljZUlkID0gIjEwMDUtMTAwMDItRVUwMDE2OTYwMDA2IjsKICAgICAgICBCY3BTdHJlYW1NZXNzYWdlUGFyc2VyLnZhbGlkYXRlREFRKGRldmljZUlkLCBzY2FsYS5jb2xsZWN0aW9uLmltbXV0YWJsZS5MaXN0Lm1lc3NhZ2VMaXN0LCBuZXcgU3RyZWFtQmF0Y2hWYWxpZGF0b3IoKS53aXRoTWF4REFRT3ZlcmZsb3dQZXJjZW50YWdlKDEwKSk7CiAgICAgICAgZm9yIChNZXNzYWdlIG1lc3NhZ2UgOiBtZXNzYWdlTGlzdCkgewogICAgICAgICAgICBCY3BTdHJlYW1NZXNzYWdlUGFyc2VyLnBhcnNlU2Vuc29yRGF0YShtZXNzYWdlLCBkZXZpY2VJZCwgbmV3IEhhc2hNYXA8PigpKTsKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBCY3BTdHJlYW1NZXNzYWdlUGFyc2VyLnBhcnNlU2Vuc29yRGF0YSgpOwo=</text>
