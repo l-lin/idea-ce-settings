@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVTZW5zb3JQb2ludHNcPg==</entry>
         <entry encoding="base64">XDxlY2dTcGVjaWZpY2F0aW9uXD4=</entry>
         <entry encoding="base64">XDxzZW5zb3JQb2ludFRyZWVTZXRcPg==</entry>
         <entry encoding="base64">XDxyZWR1Y2VUaW1lRnJhbWVzXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxxdWFsaXR5U2Vuc29ySWRcPg==</entry>
         <entry encoding="base64">XDxzaWduYWxHYXBEZXRlY3Rvclw+</entry>
         <entry encoding="base64">XDxxdWFsaXR5U2Vuc29yXD4=</entry>
+        <entry encoding="base64">XDxiYXNlVXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,88 +146,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1593694669597">
-        <mark key="[" line="0" column="0" />
+      <file name="/WebClientConfiguration.java" timestamp="1593777223874" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/config/AuthenticationServiceConfiguration.java" timestamp="1593777725430" />
+      <file name="$USER_HOME$/work/ecg/pom.xml" timestamp="1593778170444" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.5.RELEASE/spring-webflux-5.2.5.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" timestamp="1593777281499">
+        <mark key="'" line="123" column="23" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/configuration/bff/S3Configuration.java" timestamp="1593695480912">
-        <mark key="[" line="11" column="56" />
-        <mark key="]" line="11" column="89" />
-        <mark key="^" line="11" column="89" />
-        <mark key="." line="11" column="88" />
-      </file>
-      <file name="$USER_HOME$/work/signals-view-processor/application/src/main/resources/application.properties" timestamp="1593705937781">
-        <mark key="'" line="22" column="39" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="74" />
-        <mark key="^" line="15" column="50" />
-        <mark key="." line="15" column="49" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/api/src/main/java/com/bioserenity/data/record/api/async/validated/ReactiveChannelDaoWithValidation.java" timestamp="1593709588478">
-        <mark key="[" line="34" column="8" />
-        <mark key="]" line="34" column="8" />
-        <mark key="^" line="33" column="10" />
-        <mark key="." line="34" column="8" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcher.java" timestamp="1593699930647">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="^" line="59" column="25" />
-        <mark key="." line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/test/java/com/bioserenity/bcp/file/BCPFileReaderTest.java" timestamp="1593761201955">
-        <mark key="[" line="51" column="43" />
-        <mark key="]" line="51" column="122" />
-        <mark key="." line="51" column="121" />
-        <mark key="^" line="51" column="122" />
-      </file>
-      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/payload/stream/selfdescribed/PayloadHeader.java" timestamp="1593698964233" />
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/Cloud6939OneDay.java" timestamp="1593702668760">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="115" column="45" />
-        <mark key="]" line="115" column="45" />
-        <mark key="^" line="115" column="45" />
-        <mark key="." line="115" column="45" />
-      </file>
-      <file name="$USER_HOME$/work/signals-view-processor/application/src/main/java/com/bioserenity/signals/view/processor/application/Application.java" timestamp="1593705129889" />
-      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/payload/stream/selfdescribed/StreamSelfDescBlock.java" timestamp="1593698931141" />
-      <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/data/FetchChannelsDataFromRecordService.java" timestamp="1593705446063">
-        <mark key="'" line="31" column="36" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/bioserenity/sensor-specification/1.9.0/sensor-specification-1.9.0.jar!/com/bioserenity/sensors/Sensor.class" timestamp="1593761453985">
-        <mark key="'" line="145" column="145" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1593762033873" />
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/Cloud6939MultipleDays.java" timestamp="1593764326015">
-        <mark key="[" line="59" column="25" />
-        <mark key="]" line="59" column="26" />
-        <mark key="." line="59" column="26" />
-        <mark key="^" line="57" column="62" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593761255603">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1593696139244" />
-      <file name="$USER_HOME$/work/bridge-rabbitmq-kafka/src/main/resources/application.yml" timestamp="1593705389246">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="8" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="1" column="7" />
-      </file>
-      <file name="$USER_HOME$/work/signals-view-processor/application/src/main/resources/application-local.properties" timestamp="1593705943106">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="74" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/work/signals-view-processor/application/src/main/java/com/bioserenity/signals/view/processor/application/web/usecases/signals/SignalsController.java" timestamp="1593705009474" />
-      <file name="/fragment.java" timestamp="1593763781496">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application.yml" timestamp="1593777338685" />
+      <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/config/WebClientConfiguration.java" timestamp="1593777652188" />
+      <file name="/AuthenticationServiceConfiguration.java" timestamp="1593777206033" />
     </filemarks>
     <jumps>
-      <jump line="275" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
       <jump line="453" column="12" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
       <jump line="465" column="4" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
       <jump line="336" column="103" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
@@ -327,6 +256,7 @@
       <jump line="77" column="8" filename="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/Cloud6939OneDay.java" />
       <jump line="103" column="0" filename="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/Cloud6939OneDay.java" />
       <jump line="22" column="39" filename="$USER_HOME$/work/signals-view-processor/application/src/main/resources/application.properties" />
+      <jump line="123" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.5.RELEASE/spring-webflux-5.2.5.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,7 +271,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWFsaXR5U2Vuc29yXD4=</text>
+        <text encoding="base64">XDxiYXNlVXJsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YXV0aGVudGljYXRpb24uc2VydmljZS51cmw9aHR0cHM6Ly9yZWZlcmVudGlhbC1zdGctZXUtZnIuYmlvc2VyZW5pdHkuY2xvdWQK</text>
@@ -386,9 +316,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxxdWFsaXR5U2Vuc29yXD4=</last-search>
+      <last-search encoding="base64">XDxiYXNlVXJsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWFsaXR5U2Vuc29yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlVXJsXD4=</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxsaXN0SXRlcmF0b3JcPg==</last-substitute>
       <last-dir>1</last-dir>
