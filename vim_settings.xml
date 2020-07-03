@@ -150,6 +150,12 @@
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/service/RecordTimezoneService.java" timestamp="1593779757076" />
       <file name="/AuthenticationServiceConfiguration.java" timestamp="1593777206033" />
       <file name="/WebClientConfiguration.java" timestamp="1593777223874" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1593780399611">
+        <mark key="[" line="118" column="61" />
+        <mark key="]" line="118" column="61" />
+        <mark key="^" line="119" column="10" />
+        <mark key="." line="118" column="61" />
+      </file>
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/config/AuthenticationServiceConfiguration.java" timestamp="1593777725430" />
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/format/bcp/parser/BcpStreamMessageParser.scala" timestamp="1593779924004" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webflux/5.2.5.RELEASE/spring-webflux-5.2.5.RELEASE-sources.jar!/org/springframework/web/reactive/function/client/DefaultWebClientBuilder.java" timestamp="1593777281499">
@@ -157,6 +163,17 @@
       </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/resources/application.yml" timestamp="1593777338685" />
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/main/java/com/bioserenity/converter/api/config/WebClientConfiguration.java" timestamp="1593777652188" />
+      <file name="/Dummy.txt" timestamp="1593780383265">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1593780593072">
+        <mark key="[" line="54" column="88" />
+        <mark key="]" line="54" column="104" />
+        <mark key="." line="54" column="103" />
+        <mark key="^" line="54" column="104" />
+      </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/format/BcpToBffConverter.scala" timestamp="1593779635837" />
       <file name="$USER_HOME$/work/converter-service/converter-service-api/src/test/java/com/bioserenity/converter/api/service/RecordTimezoneServiceTest.java" timestamp="1593779381959">
         <mark key="[" line="73" column="30" />
@@ -270,52 +287,48 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;timeZone&quot; : null</text>
+        <text>qualityBlock.getSensorData().length</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;timeZone&quot; : null</text>
+        <text>qualityBlock.getSensorData().length</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlVXJsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXV0aGVudGljYXRpb24uc2VydmljZS51cmw9aHR0cHM6Ly9yZWZlcmVudGlhbC1zdGctZXUtZnIuYmlvc2VyZW5pdHkuY2xvdWQK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcGF0aCA9ICIvaG9tZS9sbGluL3RtcC9jbG91ZC02OTIwLXF1YWxpdHlfc2Vuc29yLzIwMjAwNzAxLTA4MTUuMDAuMDAwXzEwMDUtMTAwMDItRVUwMDE2OTYwMDA2XzU0VnVDRS5iY3AiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChxdWFsaXR5QmxvY2suaXNQcmVzZW50KCkpIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJFeGVjdXRpb24gdGltZSBpbiBtaWNyb3NlY29uZHM6ICIgKyBEdXJhdGlvbi5iZXR3ZWVuKHN0YXJ0LCBlbmQpLmdldE5hbm8oKSAvIDEwMDApOwo=</text>
       </register>
-      <register name="3" type="8">
+      <register name="4" type="8">
         <text>//
   
 //</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgZGF0YVJlcXVlc3QgPSBEYXRhV2luZG93UmVxdWVzdC5uZXdCdWlsZGVyKCkKICAgICAgICAgICAgICAgIC5zZXRSZWNvcmRJZChSRUNPUkRfSUQpCiAgICAgICAgICAgICAgICAuc2V0U3RhcnRUaW1lSW5NaWNyb3NlY29uZChTVEFSVF9USU1FX0lOX01JQ1JPKQogICAgICAgICAgICAgICAgLnNldER1cmF0aW9uSW5NaWNyb3NlY29uZChEVVJBVElPTl9JTl9NSUNSTykKICAgICAgICAgICAgICAgIC5hZGRBbGxTZWxlY3RlZENoYW5uZWxJZExpc3QoU0VMRUNURURfQ0hBTk5FTF9JRFMpCiAgICAgICAgICAgICAgICAuYnVpbGQoKTsKICAgICAgICB2YXIgc3RhcnQgPSBJbnN0YW50Lm5vdygpOwogICAgICAgIHZhciByYXdEYXRhID0gY2hhbm5lbEdycGNPcGVyYXRpb24uZ2V0RGF0YShkYXRhUmVxdWVzdCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJhd0RhdGEpOwogICAgICAgIHZhciBlbmQgPSBJbnN0YW50Lm5vdygpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRXhlY3V0aW9uIHRpbWUgaW4gbWljcm9zZWNvbmRzOiAiICsgRHVyYXRpb24uYmV0d2VlbihzdGFydCwgZW5kKS5nZXROYW5vKCkgLyAxMDAwKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIkVDR19DQ1dfMjYwX0lJSSIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WMSIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WMiIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WMyIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WNCIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WNSIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WNiIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WNyIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WOCIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WOSIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9TWU5DLUVWRU5UIiwKICAgICAgICAgICAgIkhFQVJUX1JBVEVfQ0NXXzM4NDBfMCIK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIklNUEVEQU5DRV9DQ1dfMjU2MF9JIiwKICAgICAgICAgICAgIklNUEVEQU5DRV9DQ1dfMjU2MF9JSSIsCiAgICAgICAgICAgICJJTVBFREFOQ0VfQ0NXXzI1NjBfSUlJIiwKICAgICAgICAgICAgIklNUEVEQU5DRV9DQ1dfMjU2MF9WMSIsCiAgICAgICAgICAgICJJTVBFREFOQ0VfQ0NXXzI1NjBfVjIiLAogICAgICAgICAgICAiSU1QRURBTkNFX0NDV18yNTYwX1YzIiwKICAgICAgICAgICAgIklNUEVEQU5DRV9DQ1dfMjU2MF9WNCIsCiAgICAgICAgICAgICJJTVBFREFOQ0VfQ0NXXzI1NjBfVjUiLAogICAgICAgICAgICAiSU1QRURBTkNFX0NDV18yNTYwX1Y2IiwKICAgICAgICAgICAgIklNUEVEQU5DRV9DQ1dfMjU2MF9WNyIsCiAgICAgICAgICAgICJJTVBFREFOQ0VfQ0NXXzI1NjBfVjgiLAogICAgICAgICAgICAiSU1QRURBTkNFX0NDV18yNTYwX1Y5IiwKICAgICAgICAgICAgIkFDVF9DQ1dfODUxX1JIWVRITUlDLVNURVAtQ0FERU5DRSIsCiAgICAgICAgICAgICJBQ1RfQ0NXXzg1MV9FTkVSR1ktRVhQRU5ESVRVUkUtTUVUIiwKICAgICAgICAgICAgIkFDVF9DQ1dfODUxX1NQRUVEIiwKICAgICAgICAgICAgIkFDVF9DQ1dfODUyX0FDVElWSVRZIiwKICAgICAgICAgICAgIkFDVF9DQ1dfODUyX1NMRUVQLVdBS0UiLAogICAgICAgICAgICAiQUNUX0NDV184NTJfUE9TVFVSRSIsCiAgICAgICAgICAgICJBQ1RfQ0NXXzg1MF9XQUxLLVNURVBTIiwKICAgICAgICAgICAgIkFDVF9DQ1dfODUwX1JVTi1TVEVQUyIsCiAgICAgICAgICAgICJBQ1RfQ0NXXzg1MF9XQUxLLURJU1RBTkNFIiwKICAgICAgICAgICAgIkFDVF9DQ1dfODUwX1JVTi1ESVNUQU5DRSIsCiAgICAgICAgICAgICJBQ1RfQ0NXXzg1MF9UT1RBTC1ESVNUQU5DRSIsCiAgICAgICAgICAgICJBQ1RfQ0NXXzg1MF9UT1RBTC1FTkVSR1ktRVhQRU5ESVRVUkUtS0NBTCIsCiAgICAgICAgICAgICJBQ1RfQ0NXXzg0OF9BQ1QiLAogICAgICAgICAgICAiQUNDX0NDV183NjhfWCIsCiAgICAgICAgICAgICJBQ0NfQ0NXXzc2OF9ZIiwKICAgICAgICAgICAgIkFDQ19DQ1dfNzY4X1oiLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIkJBVFRFUllfQ0NXXzM1ODRfMCIsCiAgICAgICAgICAgICJCQVRURVJZX0NDV18zNjAwXzAiLAo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIkJBVFRFUllfQ0NXXzM1ODRfMCIsCiAgICAgICAgICAgICJJTVBFREFOQ0VfQ0NXXzI1NjBfVjEiLAogICAgICAgICAgICAiSU1QRURBTkNFX0NDV18yNTYwX0lJSSIsCiAgICAgICAgICAgICJJTVBFREFOQ0VfQ0NXXzI1NjBfSUkiLAogICAgICAgICAgICAiSU1QRURBTkNFX0NDV18yNTYwX0kiLAogICAgICAgICAgICAiSU1QRURBTkNFX0NDV18yNTYwX1YzIiwKICAgICAgICAgICAgIklNUEVEQU5DRV9DQ1dfMjU2MF9WMiIsCiAgICAgICAgICAgICJJTVBFREFOQ0VfQ0NXXzI1NjBfVjQiLAogICAgICAgICAgICAiQkFUVEVSWV9DQ1dfMzYwMF8wIiwKICAgICAgICAgICAgIkFDVF9DQ1dfODUyX1NMRUVQLVdBS0UiLAogICAgICAgICAgICAiQUNUX0NDV184NTBfUlVOLVNURVBTIiwKICAgICAgICAgICAgIkFDVF9DQ1dfODUwX1JVTi1ESVNUQU5DRSIsCiAgICAgICAgICAgICJBQ0NfQ0NXXzc2OF9YIiwKICAgICAgICAgICAgIkFDVF9DQ1dfODUxX1JIWVRITUlDLVNURVAtQ0FERU5DRSIsCiAgICAgICAgICAgICJJTVBFREFOQ0VfQ0NXXzI1NjBfVjciLAogICAgICAgICAgICAiQUNUX0NDV184NTJfQUNUSVZJVFkiLAogICAgICAgICAgICAiQUNUX0NDV184NTBfV0FMSy1TVEVQUyIsCiAgICAgICAgICAgICJBQ1RfQ0NXXzg1MV9FTkVSR1ktRVhQRU5ESVRVUkUtTUVUIiwKICAgICAgICAgICAgIkFDVF9DQ1dfODUwX1dBTEstRElTVEFOQ0UiLAogICAgICAgICAgICAiRUNHX0NDV18yNjBfSSIsCiAgICAgICAgICAgICJBQ1RfQ0NXXzg0OF9BQ1QiLAogICAgICAgICAgICAiSU1QRURBTkNFX0NDV18yNTYwX1Y1IiwKICAgICAgICAgICAgIkFDQ19DQ1dfNzY4X1oiLAogICAgICAgICAgICAiQUNUX0NDV184NTJfUE9TVFVSRSIsCiAgICAgICAgICAgICJBQ0NfQ0NXXzc2OF9ZIiwKICAgICAgICAgICAgIklNUEVEQU5DRV9DQ1dfMjU2MF9WNiIsCiAgICAgICAgICAgICJBQ1RfQ0NXXzg1MF9UT1RBTC1FTkVSR1ktRVhQRU5ESVRVUkUtS0NBTCIsCiAgICAgICAgICAgICJBQ1RfQ0NXXzg1MV9TUEVFRCIsCiAgICAgICAgICAgICJJTVBFREFOQ0VfQ0NXXzI1NjBfVjgiLAogICAgICAgICAgICAiQUNUX0NDV184NTBfVE9UQUwtRElTVEFOQ0UiLAogICAgICAgICAgICAiSU1QRURBTkNFX0NDV18yNTYwX1Y5IiwKICAgICAgICAgICAgIkVDR19DQ1dfMjYwX0lJSSIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WMiIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WNSIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WNCIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WMyIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9TWU5DLUVWRU5UIiwKICAgICAgICAgICAgIkVDR19DQ1dfMjYwX1Y3IiwKICAgICAgICAgICAgIkVDR19DQ1dfMjYwX1Y4IiwKICAgICAgICAgICAgIkVDR19DQ1dfMjYwX1Y5IiwKICAgICAgICAgICAgIkhFQVJUX1JBVEVfQ0NXXzM4NDBfMCIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WMSIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9JSSIsCiAgICAgICAgICAgICJFQ0dfQ0NXXzI2MF9WNiIKICAgICk7Cg==</text>
-      </register>
-      <register name="9" type="8">
-        <text>//
-//
-//
-//
-//</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
