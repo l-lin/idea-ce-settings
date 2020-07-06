@@ -146,33 +146,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1594022212985">
-        <mark key="[" line="46" column="48" />
-        <mark key="]" line="46" column="49" />
-        <mark key="^" line="46" column="49" />
-        <mark key="." line="46" column="48" />
-      </file>
-      <file name="/MortaraAlgoConfig.java" timestamp="1593793596096" />
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/PersisterAlgoConfigService.java" timestamp="1593793220157" />
-      <file name="$USER_HOME$/work/file-generation-service/src/test/scala/com/bioserenity/fgs/format/bcp/parser/BcpStreamMessageParserTest.scala" timestamp="1593792593275">
-        <mark key="[" line="20" column="27" />
-        <mark key="]" line="30" column="23" />
-        <mark key="." line="30" column="22" />
-        <mark key="^" line="30" column="23" />
-      </file>
-      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/test/java/com/bioserenity/bcp/filter/SimpleStandardStreamMessageBuilder.java" timestamp="1594024209835" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" timestamp="1593793339312">
-        <mark key="'" line="80" column="47" />
-      </file>
-      <file name="/StreamBatchValidator.java" timestamp="1593795275688">
-        <mark key="'" line="52" column="16" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorBuilder.java" timestamp="1593793085948">
-        <mark key="^" line="16" column="27" />
-      </file>
-      <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/LinkedList.java" timestamp="1593794982577">
-        <mark key="'" line="442" column="8" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/MortaraAlgoConfig.java" timestamp="1594022085136">
         <mark key="'" line="62" column="33" />
         <mark key="[" line="111" column="67" />
@@ -180,9 +153,42 @@
         <mark key="." line="111" column="75" />
         <mark key="^" line="111" column="76" />
       </file>
-      <file name="/RecordProcessor.java" timestamp="1593793671928" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/merge/AbstractEventMerger.java" timestamp="1593788165540" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/processing/SignalQualityMode.java" timestamp="1593793458833" />
+      <file name="/Dummy.txt" timestamp="1593793777455">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorBuilder.java" timestamp="1593793085948">
+        <mark key="^" line="16" column="27" />
+      </file>
+      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/test/java/com/bioserenity/bcp/filter/StreamBatchParserTest.java" timestamp="1594024789978">
+        <mark key="[" line="141" column="67" />
+        <mark key="]" line="141" column="75" />
+        <mark key="." line="141" column="74" />
+        <mark key="^" line="141" column="75" />
+      </file>
+      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/test/java/com/bioserenity/bcp/filter/SimpleStandardStreamMessageBuilder.java" timestamp="1594024732803">
+        <mark key="[" line="83" column="38" />
+        <mark key="]" line="83" column="46" />
+        <mark key="." line="83" column="45" />
+        <mark key="^" line="83" column="46" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/bioserenity/sensor-specification/1.9.0/sensor-specification-1.9.0.jar!/com/bioserenity/sensors/Sensor.class" timestamp="1594024287141">
+        <mark key="'" line="145" column="145" />
+      </file>
+      <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/LinkedList.java" timestamp="1593794982577">
+        <mark key="'" line="442" column="8" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" timestamp="1593793339312">
+        <mark key="'" line="80" column="47" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/test/java/com/bioserenity/processing/ecg/processor/mortara/MortaraAlgoConfigTest.java" timestamp="1593795046719">
+        <mark key="'" line="103" column="29" />
+        <mark key="[" line="103" column="21" />
+        <mark key="]" line="103" column="30" />
+        <mark key="." line="103" column="29" />
+        <mark key="^" line="103" column="30" />
+      </file>
       <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/format/bcp/parser/BcpStreamMessageParser.scala" timestamp="1593792755446">
         <mark key="'" line="20" column="16" />
         <mark key="[" line="79" column="8" />
@@ -190,23 +196,20 @@
         <mark key="^" line="79" column="14" />
         <mark key="." line="79" column="8" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorWithPhysionetExport.java" timestamp="1593793327562" />
-      <file name="$MAVEN_REPOSITORY$/com/bioserenity/sensor-specification/1.9.0/sensor-specification-1.9.0.jar!/com/bioserenity/sensors/Sensor.class" timestamp="1594024256039">
-        <mark key="'" line="145" column="145" />
+      <file name="/StreamBatchValidator.java" timestamp="1593795275688">
+        <mark key="'" line="52" column="16" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessor.java" timestamp="1593793321993" />
-      <file name="/Dummy.txt" timestamp="1593793777455">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
+      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1594025240901">
+        <mark key="[" line="46" column="48" />
+        <mark key="]" line="46" column="49" />
+        <mark key="^" line="46" column="49" />
+        <mark key="." line="46" column="48" />
       </file>
-      <file name="$USER_HOME$/work/file-generation-service/src/main/scala/com/bioserenity/fgs/format/BcpToBffConverter.scala" timestamp="1593792398343" />
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/test/java/com/bioserenity/processing/ecg/processor/mortara/MortaraAlgoConfigTest.java" timestamp="1593795046719">
-        <mark key="'" line="103" column="29" />
-        <mark key="[" line="103" column="21" />
-        <mark key="]" line="103" column="30" />
-        <mark key="." line="103" column="29" />
-        <mark key="^" line="103" column="30" />
+      <file name="$USER_HOME$/work/file-generation-service/src/test/scala/com/bioserenity/fgs/format/bcp/parser/BcpStreamMessageParserTest.scala" timestamp="1593792593275">
+        <mark key="[" line="20" column="27" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="22" />
+        <mark key="^" line="30" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -315,13 +318,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CLOUD_SQI</text>
+        <text>Collections.singletonList</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>CLOUD_SQI</text>
+        <text>Collections.singletonList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNlYXJjaENvbmZpZ1w+</text>
