@@ -158,12 +158,6 @@
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/merge/StEventMerger.java" timestamp="1594037142705">
-        <mark key="[" line="71" column="16" />
-        <mark key="]" line="71" column="18" />
-        <mark key="^" line="71" column="18" />
-        <mark key="." line="71" column="17" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1594038596474">
         <mark key="[" line="119" column="8" />
         <mark key="]" line="119" column="10" />
@@ -196,6 +190,9 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="24" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/EventBlockFile.java" timestamp="1594047638106">
+        <mark key="'" line="67" column="68" />
+      </file>
       <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1594038309001">
         <mark key="'" line="68" column="0" />
         <mark key="[" line="32" column="41" />
@@ -213,8 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="5" filename="$USER_HOME$/work/bridge-rabbitmq-kafka/docker-compose.yml" />
-      <jump line="50" column="29" filename="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" />
       <jump line="231" column="55" filename="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" />
       <jump line="213" column="62" filename="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" />
       <jump line="52" column="29" filename="$USER_HOME$/work/video-service/video-service/src/main/java/com/bioserenity/video/service/WowzaServiceImpl.java" />
@@ -313,6 +308,8 @@
       <jump line="63" column="25" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/test/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetectorTest.java" />
       <jump line="103" column="25" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/test/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetectorTest.java" />
       <jump line="218" column="8" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/test/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetectorTest.java" />
+      <jump line="78" column="4" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/EventBlockFile.java" />
+      <jump line="67" column="68" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/EventBlockFile.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
