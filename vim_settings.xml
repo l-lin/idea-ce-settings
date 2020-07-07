@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxITFNfVkVSU0lPTlw+</entry>
         <entry encoding="base64">XDxNWVRIUkVBRFNcPg==</entry>
         <entry encoding="base64">XDxhcHBQb3N0QWN0aW9uc1w+</entry>
         <entry encoding="base64">XDxkZXBsb3llZEFwcHNcPg==</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxldmVudE1lcmdlclw+</entry>
         <entry encoding="base64">XDxhc3NlcnRUaGF0XD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
+        <entry encoding="base64">XDxibG9ja3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -156,9 +156,7 @@
         <mark key="]" line="16" column="66" />
       </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/resources/logback-local.xml" timestamp="1594135778611">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="11" column="0" />
+        <mark key="]" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/configuration/bff/S3Configuration.java" timestamp="1594136522514">
         <mark key="[" line="27" column="15" />
@@ -168,17 +166,11 @@
         <mark key="[" line="97" column="0" />
         <mark key="]" line="101" column="5" />
       </file>
-      <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/data/FetchChannelsDataFromRecordService.java" timestamp="1594131655181">
-        <mark key="[" line="53" column="44" />
-        <mark key="]" line="53" column="49" />
-        <mark key="^" line="53" column="87" />
-        <mark key="." line="53" column="49" />
-      </file>
       <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/metadata/FetchChannelsMetaDataFromRecordService.java" timestamp="1594132533522">
-        <mark key="[" line="41" column="80" />
-        <mark key="]" line="41" column="80" />
-        <mark key="^" line="42" column="71" />
-        <mark key="." line="41" column="80" />
+        <mark key="[" line="39" column="80" />
+        <mark key="]" line="39" column="80" />
+        <mark key="^" line="40" column="71" />
+        <mark key="." line="39" column="80" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.6.RELEASE/spring-boot-starter-parent-2.2.6.RELEASE.pom" timestamp="1594135702166" />
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1594135236451" />
@@ -187,6 +179,11 @@
         <mark key="]" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/rest/ChannelController.java" timestamp="1594131897363" />
+      <file name="/Dummy.txt" timestamp="1594147164860">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/monitoring/MethodExecutionTimeLoggerAspect.java" timestamp="1594135749847">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="17" column="25" />
@@ -204,12 +201,12 @@
         <mark key="]" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffChannelMongoDBRepository.java" timestamp="1594135909513" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1594140239603">
-        <mark key="'" line="44" column="70" />
-        <mark key="[" line="142" column="107" />
-        <mark key="]" line="142" column="75" />
-        <mark key="^" line="144" column="22" />
-        <mark key="." line="142" column="75" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1594146854751">
+        <mark key="'" line="116" column="8" />
+        <mark key="[" line="139" column="22" />
+        <mark key="]" line="139" column="23" />
+        <mark key="^" line="129" column="54" />
+        <mark key="." line="139" column="23" />
       </file>
       <file name="$MAVEN_REPOSITORY$/software/amazon/awssdk/s3/2.10.76/s3-2.10.76-sources.jar!/software/amazon/awssdk/services/s3/DefaultS3AsyncClient.java" timestamp="1594136073299" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.6.RELEASE/spring-boot-dependencies-2.2.6.RELEASE.pom" timestamp="1594135708116" />
@@ -219,9 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="104" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcherTest.java" />
-      <jump line="30" column="38" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" />
-      <jump line="88" column="34" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" />
       <jump line="32" column="58" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" />
       <jump line="25" column="45" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
       <jump line="473" column="12" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
@@ -319,21 +313,24 @@
       <jump line="48" column="27" filename="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/StreamBatchValidator.java" />
       <jump line="130" column="37" filename="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/StreamBatchValidator.java" />
       <jump line="38" column="70" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" />
+      <jump line="108" column="28" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" />
+      <jump line="109" column="8" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" />
+      <jump line="116" column="8" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZXNzYWdlc1w+</text>
+        <text encoding="base64">XDxibG9ja3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImR1cmF0aW9uICIgKyAoRHVyYXRpb24uYmV0d2VlbihzdGFydCwgSW5zdGFudC5ub3coKSkuZ2V0TmFubygpIC8gMV8wMDBfMDAwKSArICJtcyIpOwo=</text>
@@ -374,9 +371,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxtZXNzYWdlc1w+</last-search>
+      <last-search encoding="base64">XDxibG9ja3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZXNzYWdlc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxibG9ja3NcPg==</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxhc3NlcnRUaGF0XD4=</last-substitute>
       <last-dir>1</last-dir>
