@@ -151,12 +151,6 @@
         <mark key="]" line="29" column="66" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/Cloud6939OneDay.java" timestamp="1594126739606">
-        <mark key="[" line="79" column="12" />
-        <mark key="]" line="79" column="14" />
-        <mark key="^" line="79" column="14" />
-        <mark key="." line="79" column="13" />
-      </file>
       <file name="$USER_HOME$/work/signals-view-processor/application/pom.xml" timestamp="1594135694348">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="66" />
@@ -169,6 +163,10 @@
       <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/configuration/bff/S3Configuration.java" timestamp="1594136522514">
         <mark key="[" line="27" column="15" />
         <mark key="]" line="27" column="45" />
+      </file>
+      <file name="/BffChannelS3Repository.java" timestamp="1594137485218">
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="101" column="5" />
       </file>
       <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/data/FetchChannelsDataFromRecordService.java" timestamp="1594131655181">
         <mark key="[" line="53" column="44" />
@@ -201,21 +199,26 @@
         <mark key="^" line="16" column="25" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1594135766648" />
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1594136697608">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="37" />
+      </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffChannelMongoDBRepository.java" timestamp="1594135909513" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1594136531719">
-        <mark key="]" line="99" column="5" />
-        <mark key="^" line="98" column="40" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1594140239603">
+        <mark key="'" line="44" column="70" />
+        <mark key="[" line="142" column="107" />
+        <mark key="]" line="142" column="75" />
+        <mark key="^" line="144" column="22" />
+        <mark key="." line="142" column="75" />
       </file>
       <file name="$MAVEN_REPOSITORY$/software/amazon/awssdk/s3/2.10.76/s3-2.10.76-sources.jar!/software/amazon/awssdk/services/s3/DefaultS3AsyncClient.java" timestamp="1594136073299" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.6.RELEASE/spring-boot-dependencies-2.2.6.RELEASE.pom" timestamp="1594135708116" />
       <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/monitoring/MethodExecutionTimeLogger.java" timestamp="1594135553726" />
-      <file name="/fragment.java" timestamp="1594135553265">
+      <file name="/fragment.java" timestamp="1594137558544">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="95" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" />
       <jump line="98" column="104" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalQualityFetcherTest.java" />
       <jump line="30" column="38" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" />
       <jump line="88" column="34" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" />
@@ -315,51 +318,54 @@
       <jump line="120" column="99" filename="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/StreamBatchValidator.java" />
       <jump line="48" column="27" filename="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/StreamBatchValidator.java" />
       <jump line="130" column="37" filename="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/StreamBatchValidator.java" />
+      <jump line="38" column="70" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZ2V0T2JqZWN0UmVxdWVzdCA9IEdldE9iamVjdFJlcXVlc3QuYnVpbGRlcigpLmJ1Y2tldChidWNrZXROYW1lKS5rZXkoczNLZXkpLnJhbmdlKHJhbmdlKS5idWlsZCgpOwogICAgICAgIHJldHVybiBNb25vLmZyb21GdXR1cmUoczNBc3luY0NsaWVudC5nZXRPYmplY3QoZ2V0T2JqZWN0UmVxdWVzdCwgQXN5bmNSZXNwb25zZVRyYW5zZm9ybWVyLnRvQnl0ZXMoKSkpCiAgICAgICAgICAgICAgICAgICAubWFwKEJ5dGVzV3JhcHBlcjo6YXNCeXRlQXJyYXkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>com.bioserenity.signals.view.processor.application.monitoring.MethodExecutionTimeLoggerAspect.allPublicMethodsPointCut()</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZ2V0T2JqZWN0UmVxdWVzdCA9IEdldE9iamVjdFJlcXVlc3QuYnVpbGRlcigpLmJ1Y2tldChidWNrZXROYW1lKS5rZXkoczNLZXkpLnJhbmdlKHJhbmdlKS5idWlsZCgpOwogICAgICAgIHJldHVybiBNb25vLmZyb21GdXR1cmUoczNBc3luY0NsaWVudC5nZXRPYmplY3QoZ2V0T2JqZWN0UmVxdWVzdCwgQXN5bmNSZXNwb25zZVRyYW5zZm9ybWVyLnRvQnl0ZXMoKSkpCiAgICAgICAgICAgICAgICAgICAubWFwKEJ5dGVzV3JhcHBlcjo6YXNCeXRlQXJyYXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImR1cmF0aW9uICIgKyAoRHVyYXRpb24uYmV0d2VlbihzdGFydCwgSW5zdGFudC5ub3coKSkuZ2V0TmFubygpIC8gMV8wMDBfMDAwKSArICJtcyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text>cloud-6920- debug bcp file</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE1vbm88Ynl0ZVtdPiBnZXREYXRhKFMzQXN5bmNDbGllbnQgczNBc3luY0NsaWVudCwgU3RyaW5nIGJ1Y2tldE5hbWUsIFN0cmluZyBzM0tleSwgU3RyaW5nIHJhbmdlKSB7CiAgICAgICAgdmFyIGdldE9iamVjdFJlcXVlc3QgPSBHZXRPYmplY3RSZXF1ZXN0LmJ1aWxkZXIoKS5idWNrZXQoYnVja2V0TmFtZSkua2V5KHMzS2V5KS5yYW5nZShyYW5nZSkuYnVpbGQoKTsKICAgICAgICByZXR1cm4gTW9uby5mcm9tRnV0dXJlKHMzQXN5bmNDbGllbnQuZ2V0T2JqZWN0KGdldE9iamVjdFJlcXVlc3QsIEFzeW5jUmVzcG9uc2VUcmFuc2Zvcm1lci50b0J5dGVzKCkpKQogICAgICAgICAgICAgICAgLm1hcChCeXRlc1dyYXBwZXI6OmFzQnl0ZUFycmF5KTsKICAgIH0K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hlY2tzIGlmIHRoZSBnaXZlbiBtZXNzYWdlcyBoYXZlIGRhdGEgb3ZlcmZsb3cuCiAgICAgKiAKICAgICAqIFRoZSBjaGVja3Mgd2lsbCB1c2UgYSBiYXRjaCBvZiB7QHZhbHVlIE1FU1NBR0VfQkFUQ0hfU0laRX0gbWVzc2FnZXMsIGNvbXB1dGUgdGhlICJtZWFuIiBEQVEgKGRhdGEgYWNxdWlzaXRpb24pCiAgICAgKiBkdXJhdGlvbiBmb3IgYWxsIHRoZWlyIHNlbnNvcnMgYW5kIGNoZWNrIGlmIHRoZXJlIGlzIGEgZGF0YSBvdmVyZmxvdyBieSBjb21wYXJpbmcgd2l0aCB0aGUgZHVyYXRpb24gb2YgdGhvc2UKICAgICAqIG1lc3NhZ2VzOgogICAgICogPHByZT4KICAgICAqICAgICA8LS0tLS0tLS0tLS0+PC0tLS0tLS0tLS0+ICAgICA8LS0tLS0tLS0tLS0tPgogICAgICogICAgICAgICBEQVEgMSAgICAgICAgREFRIDIgICAgICAgICAgICBEQVEgMTAKICAgICAqICAgICArLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0rICAgICArLS0tLS0tLS0tLS0tKwogICAgICogICAgIHwgTUVTU0FHRSAxIHwgTUVTU0FHRSAyIHwgLi4uIHwgTUVTU0FHRSAxMCB8CiAgICAgKiAgICAgKy0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tKyAgICAgKy0tLS0tLS0tLS0tLSsKICAgICAqICAgICA8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgogICAgICogICAgICAgICAgICAgICAgICAgICB0b3RhbCBkdXJhdGlvbgogICAgICogKERBUSAxICsgREFRIDIgKyAuLi4gKyBEQVEgMTApID4gdG90YWwgZHVyYXRpb24gKiAoMSArIG1heERBUU92ZXJmbG93UGVyY2VudGFnZSAvIDEwMCkgPT4gREFUQSBPVkVSRkxPVwogICAgICogPC9wcmU+CiAgICAgKiBAcGFyYW0gbWVzc2FnZXMgdGhlIGNvbGxlY3Rpb24gb2YgbWVzc2FnZXMgdG8gY2hlY2sKICAgICAqIEByZXR1cm4gYSB7QGxpbmsgU3RyZWFtQmF0Y2hWYWxpZGF0b3J9IGNvbnRhaW5pbmcgYSBzZXQgb2YgY29uc2lzdGVudCBhbmQgaW5jb25zaXN0ZW50IHNlbnNvciBJRHMKICAgICAqLwo=</text>
+      <register name="2" type="8">
+        <text>//
+//</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhCiAgICAgKiBAcGFyYW0gbWVzc2FnZXMgdGhlIGNvbGxlY3Rpb24gb2YgbWVzc2FnZXMgdG8gY2hlY2sKICAgICAqIEByZXR1cm4gYSB7QGxpbmsgU3RyZWFtQmF0Y2hWYWxpZGF0b3J9IGNvbnRhaW5pbmcgYSBzZXQgb2YgY29uc2lzdGVudCBhbmQgaW5jb25zaXN0ZW50IHNlbnNvciBJRHMK</text>
+      <register name="3" type="8">
+        <text>//
+//</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXRWYWxpZGF0aW9uSW5mbyhjb25zaXN0ZW50U2Vuc29yc0lkLCBpbmNvbnNpc3RlbnRTZW5zb3JzSWQsIG1lc3NhZ2VMaXN0LCBsYXN0TWVzc2FnZVRpbWVzdGFtcEJlZm9yZU5leHRDaHVuay5nZXQoKSkK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IHBhcmFtZXRlcnMgPSBNYXAub2YoCiAgICAgICAgICAgICAgICAiY2N3OTE5Ni9FQ0dfQ0NXXzI2M19WNS0xNTU5MTg4ODE4MjE5MzY5IiwKICAgICAgICAgICAgICAgICJieXRlcz01MTg0NzYtIiwKCiAgICAgICAgICAgICAgICAiY2N3OTE5Ni9FQ0dfQ0NXXzI2M19WNS0xNTU5MTg5ODYyNTQ0MzgyIiwKICAgICAgICAgICAgICAgICJieXRlcz0wLTEwNDk3IiwKCiAgICAgICAgICAgICAgICAiY2N3OTE5Ni9FQ0dfQ0NXXzI2M19WNi0xNTU5MTg4ODE4MjE5MzY5IiwKICAgICAgICAgICAgICAgICJieXRlcz01MTg0NzYtIiwKCiAgICAgICAgICAgICAgICAiY2N3OTE5Ni9FQ0dfQ0NXXzI2M19WNi0xNTU5MTg5ODYyNTQ0MzgyIiwKICAgICAgICAgICAgICAgICJieXRlcz0wLTEwNDk3IgogICAgICAgICk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoZ3JvdXAgLT4gZ3JvdXAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmJ1ZmZlciA9IG5ldyBBcnJheURlcXVlPD4oKTsKICAgICAgICB0aGlzLnNvdXJjZUl0ZXJhdG9yID0gT2JqZWN0cy5yZXF1aXJlTm9uTnVsbChzb3VyY2UpLml0ZXJhdG9yKCk7CiAgICAgICAgdGhpcy5iYXRjaFNpemUgPSBiYXRjaFNpemU7CiAgICAgICAgdGhpcy5zaXplID0gY2FsY3VsYXRlU2l6ZShzb3VyY2UsIGJhdGNoU2l6ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGbHV4Lm1lcmdlKHBhcmFtZXRlcnMuZW50cnlTZXQoKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKGVudHJ5IC0+IGdldERhdGEoczNBc3luY0NsaWVudCwgYnVja2V0TmFtZSwgZW50cnkuZ2V0S2V5KCksIGVudHJ5LmdldFZhbHVlKCkpLm1hcChieXRlcyAtPiBieXRlcykpCiAgICAgICAgKTsKICAgICAgICAgICAgICAgIC8vLmZvckVhY2gobW9ubyAtPiBtb25vLnN1YnNjcmliZSgKICAgICAgICAgICAgICAgIC8vICAgICAgICBieXRlcyAtPiBTeXN0ZW0ub3V0LnByaW50bG4oImNvbnN1bWVkICIgKyBieXRlcy5sZW5ndGgpLAogICAgICAgICAgICAgICAgLy8gICAgICAgIFN5c3RlbS5lcnI6OnByaW50bG4KICAgICAgICAgICAgICAgIC8vKSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGxhc3RNZXNzYWdlVGltZXN0YW1wQmVmb3JlTmV4dENodW5rID0gLTFMOwo=</text>
+      <register name="7" type="8">
+        <text encoding="base64">czNLZXkgPSAKcmFuZ2UgPSAKICAgICAgICAKczNLZXkgPSAKcmFuZ2UgPSAKICAgICAgICAKczNLZXkgPSAKcmFuZ2UgPSAKICAgICAgICAKczNLZXkgPSAKcmFuZ2UgPSA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICB2b2lkIGdpdmVuKCkgewogICAgICAgIExpc3Q8SW50ZWdlcj4gc291cmNlID0gTGlzdC5vZigxLCAyLCAzLCA0KTsKCiAgICAgICAgTGlzdDxMaXN0PEludGVnZXI+PiByZXN1bHQgPSBTbGlkaW5nV2luZG93U3BsaXRlcmF0b3Iud2luZG93ZWQoc291cmNlLCAyKQogICAgICAgICAgICAgICAgLm1hcChzIC0+IHMuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKSkKICAgICAgICAgICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgICAgICBBc3NlcnRpb25zLmFzc2VydEl0ZXJhYmxlRXF1YWxzKExpc3Qub2YoMywgNCksIHJlc3VsdC5nZXQoMikpOwogICAgfQoK</text>
+        <text>cloud-6920- debug bcp file</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCYXRjaFNwbGl0ZXJhdG9yLmJhdGNoZWQobWVzc2FnZXMsIE1FU1NBR0VfQkFUQ0hfU0laRSkKICAgICAgICAgICAgICAgIC5tYXAobWVzc2FnZVN0cmVhbSAtPiBtZXNzYWdlU3RyZWFtLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpCiAgICAgICAgICAgICAgICAuZm9yRWFjaChtZXNzYWdlTGlzdCAtPiBnZXRWYWxpZGF0aW9uSW5mbyhjb25zaXN0ZW50U2Vuc29yc0lkLCBpbmNvbnNpc3RlbnRTZW5zb3JzSWQsIG1lc3NhZ2VMaXN0KSk7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hlY2tzIGlmIHRoZSBnaXZlbiBtZXNzYWdlcyBoYXZlIGRhdGEgb3ZlcmZsb3cuCiAgICAgKiAKICAgICAqIFRoZSBjaGVja3Mgd2lsbCB1c2UgYSBiYXRjaCBvZiB7QHZhbHVlIE1FU1NBR0VfQkFUQ0hfU0laRX0gbWVzc2FnZXMsIGNvbXB1dGUgdGhlICJtZWFuIiBEQVEgKGRhdGEgYWNxdWlzaXRpb24pCiAgICAgKiBkdXJhdGlvbiBmb3IgYWxsIHRoZWlyIHNlbnNvcnMgYW5kIGNoZWNrIGlmIHRoZXJlIGlzIGEgZGF0YSBvdmVyZmxvdyBieSBjb21wYXJpbmcgd2l0aCB0aGUgZHVyYXRpb24gb2YgdGhvc2UKICAgICAqIG1lc3NhZ2VzOgogICAgICogPHByZT4KICAgICAqICAgICA8LS0tLS0tLS0tLS0+PC0tLS0tLS0tLS0+ICAgICA8LS0tLS0tLS0tLS0tPgogICAgICogICAgICAgICBEQVEgMSAgICAgICAgREFRIDIgICAgICAgICAgICBEQVEgMTAKICAgICAqICAgICArLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0rICAgICArLS0tLS0tLS0tLS0tKwogICAgICogICAgIHwgTUVTU0FHRSAxIHwgTUVTU0FHRSAyIHwgLi4uIHwgTUVTU0FHRSAxMCB8CiAgICAgKiAgICAgKy0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tKyAgICAgKy0tLS0tLS0tLS0tLSsKICAgICAqICAgICA8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgogICAgICogICAgICAgICAgICAgICAgICAgICB0b3RhbCBkdXJhdGlvbgogICAgICogKERBUSAxICsgREFRIDIgKyAuLi4gKyBEQVEgMTApID4gdG90YWwgZHVyYXRpb24gKiAoMSArIG1heERBUU92ZXJmbG93UGVyY2VudGFnZSAvIDEwMCkgPT4gREFUQSBPVkVSRkxPVwogICAgICogPC9wcmU+CiAgICAgKiBAcGFyYW0gbWVzc2FnZXMgdGhlIGNvbGxlY3Rpb24gb2YgbWVzc2FnZXMgdG8gY2hlY2sKICAgICAqIEByZXR1cm4gYSB7QGxpbmsgU3RyZWFtQmF0Y2hWYWxpZGF0b3J9IGNvbnRhaW5pbmcgYSBzZXQgb2YgY29uc2lzdGVudCBhbmQgaW5jb25zaXN0ZW50IHNlbnNvciBJRHMKICAgICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
