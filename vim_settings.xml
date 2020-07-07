@@ -146,11 +146,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/rest/ChannelController.java" timestamp="1594131897363" />
-      <file name="/Dummy.txt" timestamp="1594123580296">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/work/record-service/pom.xml" timestamp="1594135717377">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="66" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/Cloud6939OneDay.java" timestamp="1594126739606">
         <mark key="[" line="79" column="12" />
@@ -158,46 +157,18 @@
         <mark key="^" line="79" column="14" />
         <mark key="." line="79" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1594106746581">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/work/signals-view-processor/application/pom.xml" timestamp="1594135694348">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="66" />
       </file>
-      <file name="$USER_HOME$/perso/dev-cheat-sheet/java/src/test/java/lin/louis/stream/SlidingWindowSpliterator.java" timestamp="1594112002114">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="15" column="11" />
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/logback-local.xml" timestamp="1594135778611">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1594109514853">
-        <mark key="'" line="98" column="8" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="67" column="43" />
-      </file>
-      <file name="$USER_HOME$/perso/dev-cheat-sheet/java/src/test/java/lin/louis/stream/BatchSpliterator.java" timestamp="1594108621933">
-        <mark key="'" line="17" column="20" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-      </file>
-      <file name="$USER_HOME$/perso/dev-cheat-sheet/java/src/test/java/lin/louis/stream/SlidingWindowSpliteratorTest.java" timestamp="1594113921438">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1594123468217">
-        <mark key="[" line="119" column="8" />
-        <mark key="]" line="118" column="8" />
-        <mark key="." line="118" column="8" />
-        <mark key="^" line="118" column="10" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1594133613809" />
-      <file name="$USER_HOME$/work/signals-view-processor/application/src/main/resources/application-local.properties" timestamp="1594124448239">
-        <mark key="[" line="3" column="47" />
-        <mark key="]" line="3" column="50" />
-        <mark key="." line="3" column="49" />
-        <mark key="^" line="3" column="50" />
-      </file>
-      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/BatchSpliterator.java" timestamp="1594118464153">
-        <mark key="'" line="14" column="29" />
+      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/configuration/bff/S3Configuration.java" timestamp="1594136522514">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="27" column="45" />
       </file>
       <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/data/FetchChannelsDataFromRecordService.java" timestamp="1594131655181">
         <mark key="[" line="53" column="44" />
@@ -211,30 +182,35 @@
         <mark key="^" line="42" column="71" />
         <mark key="." line="41" column="80" />
       </file>
-      <file name="$USER_HOME$/.sdkman/candidates/java/11.0.7.hs-adpt/lib/src.zip!/java.base/java/util/ArrayDeque.java" timestamp="1594105191202">
-        <mark key="'" line="191" column="11" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.6.RELEASE/spring-boot-starter-parent-2.2.6.RELEASE.pom" timestamp="1594135702166" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1594135236451" />
+      <file name="$USER_HOME$/work/signals-view-processor/application/src/main/resources/logback-local.xml" timestamp="1594135774998">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/perso/dev-cheat-sheet/java/src/test/java/lin/louis/stream/SplitWindowSpliteratorTest.java" timestamp="1594111983113">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="12" column="53" />
-        <mark key="." line="12" column="52" />
-        <mark key="^" line="12" column="53" />
+      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/rest/ChannelController.java" timestamp="1594131897363" />
+      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/monitoring/MethodExecutionTimeLoggerAspect.java" timestamp="1594135749847">
+        <mark key="[" line="17" column="24" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="24" />
+        <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/perso/dev-cheat-sheet/java/src/test/java/lin/louis/stream/BatchSpliteratorTest.java" timestamp="1594111972681">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="51" column="32" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/monitoring/MethodExecutionTimeStats.java" timestamp="1594135758668">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="25" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1594123558576">
-        <mark key="'" line="95" column="37" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="59" column="94" />
-        <mark key="^" line="77" column="12" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1594135766648" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffChannelMongoDBRepository.java" timestamp="1594135909513" />
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1594136531719">
+        <mark key="]" line="99" column="5" />
+        <mark key="^" line="98" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1594132820443">
+      <file name="$MAVEN_REPOSITORY$/software/amazon/awssdk/s3/2.10.76/s3-2.10.76-sources.jar!/software/amazon/awssdk/services/s3/DefaultS3AsyncClient.java" timestamp="1594136073299" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.6.RELEASE/spring-boot-dependencies-2.2.6.RELEASE.pom" timestamp="1594135708116" />
+      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/monitoring/MethodExecutionTimeLogger.java" timestamp="1594135553726" />
+      <file name="/fragment.java" timestamp="1594135553265">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -343,20 +319,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgZ2V0T2JqZWN0UmVxdWVzdCA9IEdldE9iamVjdFJlcXVlc3QuYnVpbGRlcigpLmJ1Y2tldChidWNrZXROYW1lKS5rZXkoczNLZXkpLnJhbmdlKHJhbmdlKS5idWlsZCgpOwogICAgICAgIHJldHVybiBNb25vLmZyb21GdXR1cmUoczNBc3luY0NsaWVudC5nZXRPYmplY3QoZ2V0T2JqZWN0UmVxdWVzdCwgQXN5bmNSZXNwb25zZVRyYW5zZm9ybWVyLnRvQnl0ZXMoKSkpCiAgICAgICAgICAgICAgICAgICAubWFwKEJ5dGVzV3JhcHBlcjo6YXNCeXRlQXJyYXkpOwo=</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>com.bioserenity.signals.view.processor.application.monitoring.MethodExecutionTimeLoggerAspect.allPublicMethodsPointCut()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRk9PT09CQVIuIERVUkFUSU9OIENBTEwgVE8gUkVPQ1JEIFNFUlZJQ0UgRk9SIEdFVFRJTkcgQ0hBTk5FTFM6IHt9bXMiLCBEdXJhdGlvbi5iZXR3ZWVuKHN0YXJ0LCBlbmQpLmdldE5hbm8oKSAvIDFfMDAwICogMV8wMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZ2V0T2JqZWN0UmVxdWVzdCA9IEdldE9iamVjdFJlcXVlc3QuYnVpbGRlcigpLmJ1Y2tldChidWNrZXROYW1lKS5rZXkoczNLZXkpLnJhbmdlKHJhbmdlKS5idWlsZCgpOwogICAgICAgIHJldHVybiBNb25vLmZyb21GdXR1cmUoczNBc3luY0NsaWVudC5nZXRPYmplY3QoZ2V0T2JqZWN0UmVxdWVzdCwgQXN5bmNSZXNwb25zZVRyYW5zZm9ybWVyLnRvQnl0ZXMoKSkpCiAgICAgICAgICAgICAgICAgICAubWFwKEJ5dGVzV3JhcHBlcjo6YXNCeXRlQXJyYXkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text>cloud-6920- debug bcp file</text>
