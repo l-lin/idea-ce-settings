@@ -146,8 +146,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1594201234812">
-        <mark key="[" line="0" column="4" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/notification/teams/TeamsNotifier.groovy" timestamp="1594219159954">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="31" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="31" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/ReplayService.java" timestamp="1594210491183" />
       <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" timestamp="1594208289432">
@@ -156,13 +159,18 @@
         <mark key="^" line="43" column="59" />
         <mark key="." line="43" column="58" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsNotifierExample.jenkins" timestamp="1594201300623" />
+      <file name="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsNotifierTest.groovy" timestamp="1594219218049">
+        <mark key="[" line="21" column="47" />
+        <mark key="]" line="21" column="57" />
+        <mark key="." line="21" column="56" />
+        <mark key="^" line="21" column="57" />
+      </file>
       <file name="/StDepressionEventDetector.java" timestamp="1594217338910" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/MortaraProcessorBuilder.java" timestamp="1594216845119" />
-      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1594209741594">
+      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1594219769863">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="0" column="41" />
-        <mark key="^" line="243" column="193" />
+        <mark key="^" line="174" column="117" />
         <mark key="." line="0" column="41" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/algoprocessor/AbstractMortaraProcessorBuilder.java" timestamp="1594216856867" />
@@ -172,11 +180,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/test/TeamsDeployNotifierTest.groovy" timestamp="1594208199441">
-        <mark key="[" line="57" column="115" />
-        <mark key="]" line="57" column="133" />
-        <mark key="." line="57" column="132" />
-        <mark key="^" line="57" column="133" />
+      <file name="$USER_HOME$/work/cloud-software-factory/test/TeamsDeployNotifierTest.groovy" timestamp="1594219558268">
+        <mark key="[" line="57" column="47" />
+        <mark key="]" line="57" column="41" />
+        <mark key="." line="57" column="40" />
+        <mark key="^" line="57" column="41" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessor.java" timestamp="1594214021640" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1594210247995" />
@@ -298,13 +306,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>6920-quality_sensor/31046/20200701-0830.00.000_1005-10002-EU0016960006_EgU2Nq.bcp</text>
+        <text>feature/teams-notification</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>6920-quality_sensor/31046/20200701-0830.00.000_1005-10002-EU0016960006_EgU2Nq.bcp</text>
+        <text>feature/teams-notification</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBsb3lBcHBzXD4=</text>
