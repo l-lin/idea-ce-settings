@@ -172,11 +172,11 @@
         <mark key="^" line="77" column="12" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" timestamp="1594201709513">
-        <mark key="[" line="44" column="34" />
-        <mark key="]" line="44" column="34" />
-        <mark key="^" line="44" column="35" />
-        <mark key="." line="44" column="34" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" timestamp="1594208289432">
+        <mark key="[" line="43" column="40" />
+        <mark key="]" line="43" column="59" />
+        <mark key="^" line="43" column="59" />
+        <mark key="." line="43" column="58" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1594199053990">
         <mark key="'" line="116" column="8" />
@@ -187,22 +187,22 @@
       <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsNotifierExample.jenkins" timestamp="1594201300623" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/EventBlockFile.java" timestamp="1594200074545" />
       <file name="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsNotifierTest.groovy" timestamp="1594200866066" />
-      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1594205731993">
-        <mark key="[" line="364" column="87" />
-        <mark key="]" line="364" column="100" />
-        <mark key="^" line="364" column="100" />
-        <mark key="." line="364" column="99" />
+      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1594208586872">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="41" />
+        <mark key="^" line="243" column="193" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="/Dummy.txt" timestamp="1594202226478">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/cloud-software-factory/test/TeamsDeployNotifierTest.groovy" timestamp="1594201383416">
-        <mark key="[" line="37" column="84" />
-        <mark key="]" line="37" column="114" />
-        <mark key="." line="37" column="113" />
-        <mark key="^" line="37" column="114" />
+      <file name="$USER_HOME$/work/cloud-software-factory/test/TeamsDeployNotifierTest.groovy" timestamp="1594208199441">
+        <mark key="[" line="57" column="115" />
+        <mark key="]" line="57" column="133" />
+        <mark key="." line="57" column="132" />
+        <mark key="^" line="57" column="133" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/processing/timestampable/Event.java" timestamp="1594199845372" />
       <file name="$USER_HOME$/work/bioserenity-io-bcp/src/test/java/com/bioserenity/bcp/filter/BatchSpliteratorTest.java" timestamp="1594199010848" />
@@ -329,19 +329,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>notification.buildUrl</text>
+        <text>feature/teams-notification</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>notification.buildUrl</text>
+        <text>feature/teams-notification</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBsb3lBcHBzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlcGxveWVkQXBwcy5lYWNoIHsgZGVwbG95ZWRBcHAgLT4KICAgICAgICAgICAgICAgICAgICBkZWYgbm90aWZpY2F0aW9uID0gYXBwUG9zdEFjdGlvbnNbZGVwbG95ZWRBcHAua2V5XQogICAgICAgICAgICAgICAgICAgIGRlZiBub3RpZmllciA9IG5ldyBUZWFtc0RlcGxveU5vdGlmaWVyKHRoaXMsIG5vdGlmaWNhdGlvbi53ZWJob29rLCBub3RpZmljYXRpb24uYnVpbGRVcmwsIG5vdGlmaWNhdGlvbi5sb2dzVXJsLCBub3RpZmljYXRpb24ubWV0cmljc1VybCkKICAgICAgICAgICAgICAgICAgICBub3RpZmllci5zZW5kU3VjY2VzcyhkZXBsb3llZEFwcC5rZXksIGRlcGxveWVkQXBwLnZhbHVlLCBlbnYuQklPU0VSRU5JVFlfRU5WSVJPTk1FTlQpCiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>Deployment of ${appName} in ${environment}</text>
       </register>
       <register name="1" type="4">
         <text>{
