@@ -155,13 +155,13 @@
         <mark key="^" line="8" column="2" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1594198714019">
-        <mark key="[" line="121" column="118" />
-        <mark key="]" line="122" column="98" />
-        <mark key="^" line="122" column="98" />
-        <mark key="." line="122" column="97" />
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/test/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidationTest.java" timestamp="1594209519678">
+        <mark key="[" line="123" column="8" />
+        <mark key="]" line="123" column="10" />
+        <mark key="." line="123" column="9" />
+        <mark key="^" line="123" column="10" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplication.java" timestamp="1594198727431" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1594209902726" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1594198837001">
         <mark key="'" line="127" column="17" />
       </file>
@@ -187,7 +187,8 @@
       <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsNotifierExample.jenkins" timestamp="1594201300623" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/EventBlockFile.java" timestamp="1594200074545" />
       <file name="$USER_HOME$/work/cloud-software-factory/test/notification/teams/TeamsNotifierTest.groovy" timestamp="1594200866066" />
-      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1594208586872">
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StDepressionEventDetector.java" timestamp="1594209809252" />
+      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1594209741594">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="0" column="41" />
         <mark key="^" line="243" column="193" />
@@ -218,9 +219,6 @@
         <mark key="]" line="3" column="59" />
         <mark key="." line="3" column="58" />
         <mark key="^" line="3" column="59" />
-      </file>
-      <file name="/fragment.java" timestamp="1594198818618">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -329,19 +327,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>feature/teams-notification</text>
+        <text>6920-quality_sensor/31046/20200701-0830.00.000_1005-10002-EU0016960006_EgU2Nq.bcp</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>feature/teams-notification</text>
+        <text>6920-quality_sensor/31046/20200701-0830.00.000_1005-10002-EU0016960006_EgU2Nq.bcp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBsb3lBcHBzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Deployment of ${appName} in ${environment}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvL3ZhciBwYXRoID0gIi9ob21lL2xsaW4vdG1wL2Nsb3VkLTY5MjAtcXVhbGl0eV9zZW5zb3IvMzEwNDYvMjAyMDA3MDEtMDgzMC4wMC4wMDBfMTAwNS0xMDAwMi1FVTAwMTY5NjAwMDZfRWdVMk5xLmJjcCI7Cg==</text>
       </register>
       <register name="1" type="4">
         <text>{
