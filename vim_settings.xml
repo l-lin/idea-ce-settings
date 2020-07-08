@@ -201,10 +201,10 @@
         <mark key="]" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffChannelMongoDBRepository.java" timestamp="1594135909513" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1594147856676">
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1594147888194">
         <mark key="'" line="116" column="8" />
         <mark key="[" line="116" column="8" />
-        <mark key="]" line="116" column="10" />
+        <mark key="]" line="116" column="8" />
         <mark key="^" line="116" column="10" />
         <mark key="." line="116" column="8" />
       </file>
@@ -320,8 +320,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -335,34 +341,40 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImR1cmF0aW9uICIgKyAoRHVyYXRpb24uYmV0d2VlbihzdGFydCwgSW5zdGFudC5ub3coKSkuZ2V0TmFubygpIC8gMV8wMDBfMDAwKSArICJtcyIpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE1vbm88Ynl0ZVtdPiBnZXREYXRhKFMzQXN5bmNDbGllbnQgczNBc3luY0NsaWVudCwgU3RyaW5nIGJ1Y2tldE5hbWUsIFN0cmluZyBzM0tleSwgU3RyaW5nIHJhbmdlKSB7CiAgICAgICAgdmFyIGdldE9iamVjdFJlcXVlc3QgPSBHZXRPYmplY3RSZXF1ZXN0LmJ1aWxkZXIoKS5idWNrZXQoYnVja2V0TmFtZSkua2V5KHMzS2V5KS5yYW5nZShyYW5nZSkuYnVpbGQoKTsKICAgICAgICByZXR1cm4gTW9uby5mcm9tRnV0dXJlKHMzQXN5bmNDbGllbnQuZ2V0T2JqZWN0KGdldE9iamVjdFJlcXVlc3QsIEFzeW5jUmVzcG9uc2VUcmFuc2Zvcm1lci50b0J5dGVzKCkpKQogICAgICAgICAgICAgICAgLm1hcChCeXRlc1dyYXBwZXI6OmFzQnl0ZUFycmF5KTsKICAgIH0K</text>
-      </register>
-      <register name="2" type="8">
+      <register name="1" type="8">
         <text>//
+//
+//
+//
+//
+//
 //</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIE1vbm88Ynl0ZVtdPiBnZXREYXRhKFMzQXN5bmNDbGllbnQgczNBc3luY0NsaWVudCwgU3RyaW5nIGJ1Y2tldE5hbWUsIFN0cmluZyBzM0tleSwgU3RyaW5nIHJhbmdlKSB7CiAgICAgICAgdmFyIGdldE9iamVjdFJlcXVlc3QgPSBHZXRPYmplY3RSZXF1ZXN0LmJ1aWxkZXIoKS5idWNrZXQoYnVja2V0TmFtZSkua2V5KHMzS2V5KS5yYW5nZShyYW5nZSkuYnVpbGQoKTsKICAgICAgICByZXR1cm4gTW9uby5mcm9tRnV0dXJlKHMzQXN5bmNDbGllbnQuZ2V0T2JqZWN0KGdldE9iamVjdFJlcXVlc3QsIEFzeW5jUmVzcG9uc2VUcmFuc2Zvcm1lci50b0J5dGVzKCkpKQogICAgICAgICAgICAgICAgLm1hcChCeXRlc1dyYXBwZXI6OmFzQnl0ZUFycmF5KTsKICAgIH0K</text>
       </register>
       <register name="3" type="8">
         <text>//
 //</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IHBhcmFtZXRlcnMgPSBNYXAub2YoCiAgICAgICAgICAgICAgICAiY2N3OTE5Ni9FQ0dfQ0NXXzI2M19WNS0xNTU5MTg4ODE4MjE5MzY5IiwKICAgICAgICAgICAgICAgICJieXRlcz01MTg0NzYtIiwKCiAgICAgICAgICAgICAgICAiY2N3OTE5Ni9FQ0dfQ0NXXzI2M19WNS0xNTU5MTg5ODYyNTQ0MzgyIiwKICAgICAgICAgICAgICAgICJieXRlcz0wLTEwNDk3IiwKCiAgICAgICAgICAgICAgICAiY2N3OTE5Ni9FQ0dfQ0NXXzI2M19WNi0xNTU5MTg4ODE4MjE5MzY5IiwKICAgICAgICAgICAgICAgICJieXRlcz01MTg0NzYtIiwKCiAgICAgICAgICAgICAgICAiY2N3OTE5Ni9FQ0dfQ0NXXzI2M19WNi0xNTU5MTg5ODYyNTQ0MzgyIiwKICAgICAgICAgICAgICAgICJieXRlcz0wLTEwNDk3IgogICAgICAgICk7Cg==</text>
+      <register name="4" type="8">
+        <text>//
+//</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IHBhcmFtZXRlcnMgPSBNYXAub2YoCiAgICAgICAgICAgICAgICAiY2N3OTE5Ni9FQ0dfQ0NXXzI2M19WNS0xNTU5MTg4ODE4MjE5MzY5IiwKICAgICAgICAgICAgICAgICJieXRlcz01MTg0NzYtIiwKCiAgICAgICAgICAgICAgICAiY2N3OTE5Ni9FQ0dfQ0NXXzI2M19WNS0xNTU5MTg5ODYyNTQ0MzgyIiwKICAgICAgICAgICAgICAgICJieXRlcz0wLTEwNDk3IiwKCiAgICAgICAgICAgICAgICAiY2N3OTE5Ni9FQ0dfQ0NXXzI2M19WNi0xNTU5MTg4ODE4MjE5MzY5IiwKICAgICAgICAgICAgICAgICJieXRlcz01MTg0NzYtIiwKCiAgICAgICAgICAgICAgICAiY2N3OTE5Ni9FQ0dfQ0NXXzI2M19WNi0xNTU5MTg5ODYyNTQ0MzgyIiwKICAgICAgICAgICAgICAgICJieXRlcz0wLTEwNDk3IgogICAgICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBGbHV4Lm1lcmdlKHBhcmFtZXRlcnMuZW50cnlTZXQoKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpCiAgICAgICAgICAgICAgICAubWFwKGVudHJ5IC0+IGdldERhdGEoczNBc3luY0NsaWVudCwgYnVja2V0TmFtZSwgZW50cnkuZ2V0S2V5KCksIGVudHJ5LmdldFZhbHVlKCkpLm1hcChieXRlcyAtPiBieXRlcykpCiAgICAgICAgKTsKICAgICAgICAgICAgICAgIC8vLmZvckVhY2gobW9ubyAtPiBtb25vLnN1YnNjcmliZSgKICAgICAgICAgICAgICAgIC8vICAgICAgICBieXRlcyAtPiBTeXN0ZW0ub3V0LnByaW50bG4oImNvbnN1bWVkICIgKyBieXRlcy5sZW5ndGgpLAogICAgICAgICAgICAgICAgLy8gICAgICAgIFN5c3RlbS5lcnI6OnByaW50bG4KICAgICAgICAgICAgICAgIC8vKSk7Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="8" type="8">
         <text encoding="base64">czNLZXkgPSAKcmFuZ2UgPSAKICAgICAgICAKczNLZXkgPSAKcmFuZ2UgPSAKICAgICAgICAKczNLZXkgPSAKcmFuZ2UgPSAKICAgICAgICAKczNLZXkgPSAKcmFuZ2UgPSA=</text>
       </register>
-      <register name="8" type="2">
-        <text>cloud-6920- debug bcp file</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQ2hlY2tzIGlmIHRoZSBnaXZlbiBtZXNzYWdlcyBoYXZlIGRhdGEgb3ZlcmZsb3cuCiAgICAgKiAKICAgICAqIFRoZSBjaGVja3Mgd2lsbCB1c2UgYSBiYXRjaCBvZiB7QHZhbHVlIE1FU1NBR0VfQkFUQ0hfU0laRX0gbWVzc2FnZXMsIGNvbXB1dGUgdGhlICJtZWFuIiBEQVEgKGRhdGEgYWNxdWlzaXRpb24pCiAgICAgKiBkdXJhdGlvbiBmb3IgYWxsIHRoZWlyIHNlbnNvcnMgYW5kIGNoZWNrIGlmIHRoZXJlIGlzIGEgZGF0YSBvdmVyZmxvdyBieSBjb21wYXJpbmcgd2l0aCB0aGUgZHVyYXRpb24gb2YgdGhvc2UKICAgICAqIG1lc3NhZ2VzOgogICAgICogPHByZT4KICAgICAqICAgICA8LS0tLS0tLS0tLS0+PC0tLS0tLS0tLS0+ICAgICA8LS0tLS0tLS0tLS0tPgogICAgICogICAgICAgICBEQVEgMSAgICAgICAgREFRIDIgICAgICAgICAgICBEQVEgMTAKICAgICAqICAgICArLS0tLS0tLS0tLS0rLS0tLS0tLS0tLS0rICAgICArLS0tLS0tLS0tLS0tKwogICAgICogICAgIHwgTUVTU0FHRSAxIHwgTUVTU0FHRSAyIHwgLi4uIHwgTUVTU0FHRSAxMCB8CiAgICAgKiAgICAgKy0tLS0tLS0tLS0tKy0tLS0tLS0tLS0tKyAgICAgKy0tLS0tLS0tLS0tLSsKICAgICAqICAgICA8LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tPgogICAgICogICAgICAgICAgICAgICAgICAgICB0b3RhbCBkdXJhdGlvbgogICAgICogKERBUSAxICsgREFRIDIgKyAuLi4gKyBEQVEgMTApID4gdG90YWwgZHVyYXRpb24gKiAoMSArIG1heERBUU92ZXJmbG93UGVyY2VudGFnZSAvIDEwMCkgPT4gREFUQSBPVkVSRkxPVwogICAgICogPC9wcmU+CiAgICAgKiBAcGFyYW0gbWVzc2FnZXMgdGhlIGNvbGxlY3Rpb24gb2YgbWVzc2FnZXMgdG8gY2hlY2sKICAgICAqIEByZXR1cm4gYSB7QGxpbmsgU3RyZWFtQmF0Y2hWYWxpZGF0b3J9IGNvbnRhaW5pbmcgYSBzZXQgb2YgY29uc2lzdGVudCBhbmQgaW5jb25zaXN0ZW50IHNlbnNvciBJRHMKICAgICAqLwo=</text>
+        <text>cloud-6920- debug bcp file</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/  /g</text>
