@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxhcHBQb3N0QWN0aW9uc1w+</entry>
-        <entry encoding="base64">XDxkZXBsb3llZEFwcHNcPg==</entry>
         <entry encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</entry>
         <entry encoding="base64">XDxDaGFubmVsU2VydmljZUJsb2NraW5nU3R1Ylw+</entry>
         <entry encoding="base64">XDxjaGFubmVsUnBjT3BlcmF0aW9uc1w+</entry>
@@ -25,6 +23,8 @@
         <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
         <entry encoding="base64">XDxibG9ja3NcPg==</entry>
         <entry encoding="base64">XDxzdERldGVjdGlvbkNvbmZpZ1w+</entry>
+        <entry encoding="base64">XDxDT05GSUdfRklMRV9OQU1FXD4=</entry>
+        <entry encoding="base64">XDxDT05GSUdfUkVQTEFZX0ZJTEVfTkFNRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -169,29 +169,27 @@
         <mark key="[" line="97" column="0" />
         <mark key="]" line="101" column="5" />
       </file>
-      <file name="$USER_HOME$/work/signals-view-processor/infrastructure/record/src/main/java/com/bioserenity/signals/view/processor/infrastructure/record/service/signals/persistence/fetch/metadata/FetchChannelsMetaDataFromRecordService.java" timestamp="1594132533522">
-        <mark key="[" line="39" column="80" />
-        <mark key="]" line="39" column="80" />
-        <mark key="^" line="40" column="71" />
-        <mark key="." line="39" column="80" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.2.6.RELEASE/spring-boot-starter-parent-2.2.6.RELEASE.pom" timestamp="1594135702166" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/async/ReactiveBffChannelDao.java" timestamp="1594135236451" />
       <file name="$USER_HOME$/work/signals-view-processor/application/src/main/resources/logback-local.xml" timestamp="1594135774998">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="13" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/PersisterAlgoConfigService.java" timestamp="1594192792799">
+        <mark key="'" line="21" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1594147164860">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/ReplayService.java" timestamp="1594192828452" />
       <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/monitoring/MethodExecutionTimeLoggerAspect.java" timestamp="1594135749847">
         <mark key="[" line="17" column="24" />
         <mark key="]" line="17" column="25" />
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="25" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/controller/Controller.java" timestamp="1594193079599" />
       <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/monitoring/MethodExecutionTimeStats.java" timestamp="1594135758668">
         <mark key="[" line="16" column="24" />
         <mark key="]" line="16" column="25" />
@@ -212,15 +210,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/software/amazon/awssdk/s3/2.10.76/s3-2.10.76-sources.jar!/software/amazon/awssdk/services/s3/DefaultS3AsyncClient.java" timestamp="1594136073299" />
       <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.2.6.RELEASE/spring-boot-dependencies-2.2.6.RELEASE.pom" timestamp="1594135708116" />
-      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/monitoring/MethodExecutionTimeLogger.java" timestamp="1594135553726" />
       <file name="/fragment.java" timestamp="1594137558544">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
-      <jump line="50" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/cardioskin/SensorResultFinderTest.java" />
-      <jump line="161" column="81" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
       <jump line="492" column="36" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
       <jump line="543" column="4" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
       <jump line="487" column="4" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
@@ -318,6 +312,9 @@
       <jump line="165" column="20" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/MortaraAlgoConfig.java" />
       <jump line="49" column="36" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/MortaraAlgoConfig.java" />
       <jump line="107" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/MortaraAlgoConfig.java" />
+      <jump line="30" column="72" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/PersisterAlgoConfigService.java" />
+      <jump line="20" column="31" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/PersisterAlgoConfigService.java" />
+      <jump line="21" column="31" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/PersisterAlgoConfigService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -338,7 +335,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdERldGVjdGlvbkNvbmZpZ1w+</text>
+        <text encoding="base64">XDxDT05GSUdfUkVQTEFZX0ZJTEVfTkFNRVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImR1cmF0aW9uICIgKyAoRHVyYXRpb24uYmV0d2VlbihzdGFydCwgSW5zdGFudC5ub3coKSkuZ2V0TmFubygpIC8gMV8wMDBfMDAwKSArICJtcyIpOwo=</text>
@@ -385,9 +382,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxzdERldGVjdGlvbkNvbmZpZ1w+</last-search>
+      <last-search encoding="base64">XDxDT05GSUdfUkVQTEFZX0ZJTEVfTkFNRVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdERldGVjdGlvbkNvbmZpZ1w+</last-pattern>
+      <last-pattern encoding="base64">XDxDT05GSUdfUkVQTEFZX0ZJTEVfTkFNRVw+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxhc3NlcnRUaGF0XD4=</last-substitute>
       <last-dir>1</last-dir>
