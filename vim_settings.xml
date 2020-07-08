@@ -156,24 +156,13 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-computer/src/main/java/com/bioserenity/processing/ecg/service/compute/events/detectorV2/st/StElevationEventDetector.java" timestamp="1594209902726" />
-      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1594198996085">
-        <mark key="'" line="95" column="37" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="59" column="94" />
-        <mark key="^" line="77" column="12" />
-        <mark key="." line="40" column="0" />
-      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/ReplayService.java" timestamp="1594210491183" />
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/ProcessorHolder.java" timestamp="1594210454570" />
       <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" timestamp="1594208289432">
         <mark key="[" line="43" column="40" />
         <mark key="]" line="43" column="59" />
         <mark key="^" line="43" column="59" />
         <mark key="." line="43" column="58" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1594199053990">
-        <mark key="'" line="116" column="8" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsNotifierExample.jenkins" timestamp="1594201300623" />
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/EventBlockFile.java" timestamp="1594200074545" />
@@ -198,7 +187,6 @@
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/processing/timestampable/Event.java" timestamp="1594199845372" />
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplicationAndValidation.java" timestamp="1594210247995" />
-      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/test/java/com/bioserenity/bcp/filter/BatchSpliteratorTest.java" timestamp="1594199010848" />
       <file name="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" timestamp="1594205724424">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="0" column="41" />
@@ -206,11 +194,15 @@
         <mark key="." line="49" column="88" />
         <mark key="^" line="49" column="89" />
       </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/detection/STProcessor.java" timestamp="1594210405936" />
       <file name="$USER_HOME$/work/cloud-software-factory/test/examples/TeamsDeployNotifierExample.jenkins" timestamp="1594201185838">
         <mark key="[" line="3" column="61" />
         <mark key="]" line="3" column="59" />
         <mark key="." line="3" column="58" />
         <mark key="^" line="3" column="59" />
+      </file>
+      <file name="/fragment.java" timestamp="1594211236050">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
