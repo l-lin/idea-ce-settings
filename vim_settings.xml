@@ -5,7 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxNWVRIUkVBRFNcPg==</entry>
         <entry encoding="base64">XDxhcHBQb3N0QWN0aW9uc1w+</entry>
         <entry encoding="base64">XDxkZXBsb3llZEFwcHNcPg==</entry>
         <entry encoding="base64">XDxhbGdvUHJvY2Vzc29yXD4=</entry>
@@ -25,6 +24,7 @@
         <entry encoding="base64">XDxhc3NlcnRUaGF0XD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
         <entry encoding="base64">XDxibG9ja3NcPg==</entry>
+        <entry encoding="base64">XDxzdERldGVjdGlvbkNvbmZpZ1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/getAny()/setAny(\1);/gc</entry>
@@ -146,6 +146,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/MortaraAlgoConfig.java" timestamp="1594192035931">
+        <mark key="'" line="107" column="13" />
+      </file>
       <file name="$USER_HOME$/work/record-service/pom.xml" timestamp="1594135717377">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="66" />
@@ -178,7 +181,6 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="13" column="13" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/rest/ChannelController.java" timestamp="1594131897363" />
       <file name="/Dummy.txt" timestamp="1594147164860">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -216,9 +218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="58" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-test-utils/src/main/java/com/bioserenity/processing/ecg/test/utils/SelfDescribedStreamMessageBuilder.java" />
-      <jump line="25" column="45" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
-      <jump line="473" column="12" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
       <jump line="24" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
       <jump line="50" column="0" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/cardioskin/SensorResultFinderTest.java" />
       <jump line="161" column="81" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
@@ -316,6 +315,9 @@
       <jump line="108" column="28" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" />
       <jump line="109" column="8" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" />
       <jump line="116" column="8" filename="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" />
+      <jump line="165" column="20" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/MortaraAlgoConfig.java" />
+      <jump line="49" column="36" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/MortaraAlgoConfig.java" />
+      <jump line="107" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/MortaraAlgoConfig.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,7 +338,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxibG9ja3NcPg==</text>
+        <text encoding="base64">XDxzdERldGVjdGlvbkNvbmZpZ1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImR1cmF0aW9uICIgKyAoRHVyYXRpb24uYmV0d2VlbihzdGFydCwgSW5zdGFudC5ub3coKSkuZ2V0TmFubygpIC8gMV8wMDBfMDAwKSArICJtcyIpOwo=</text>
@@ -383,9 +385,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxibG9ja3NcPg==</last-search>
+      <last-search encoding="base64">XDxzdERldGVjdGlvbkNvbmZpZ1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxibG9ja3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdERldGVjdGlvbkNvbmZpZ1w+</last-pattern>
       <last-replace encoding="base64">ICA=</last-replace>
       <last-substitute encoding="base64">XDxhc3NlcnRUaGF0XD4=</last-substitute>
       <last-dir>1</last-dir>
