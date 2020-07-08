@@ -149,13 +149,6 @@
       <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-processor/src/main/java/com/bioserenity/processing/ecg/processor/mortara/MortaraAlgoConfig.java" timestamp="1594192035931">
         <mark key="'" line="107" column="13" />
       </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/logback-local.xml" timestamp="1594135778611">
-        <mark key="]" line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/configuration/bff/S3Configuration.java" timestamp="1594136522514">
-        <mark key="[" line="27" column="15" />
-        <mark key="]" line="27" column="45" />
-      </file>
       <file name="/BffChannelS3Repository.java" timestamp="1594137485218">
         <mark key="[" line="97" column="0" />
         <mark key="]" line="101" column="5" />
@@ -167,62 +160,55 @@
         <mark key="." line="122" column="97" />
       </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/bytereader/ByteReaderWithMessageDeduplication.java" timestamp="1594198727431" />
-      <file name="$USER_HOME$/work/signals-view-processor/application/src/main/resources/logback-local.xml" timestamp="1594135774998">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="13" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1594198582663">
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" timestamp="1594198837001">
         <mark key="'" line="127" column="17" />
       </file>
+      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/main/java/com/bioserenity/bcp/filter/StreamBatchValidator.java" timestamp="1594198996085">
+        <mark key="'" line="95" column="37" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="59" column="94" />
+        <mark key="^" line="77" column="12" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/PersisterAlgoConfigService.java" timestamp="1594192792799">
+        <mark key="'" line="21" column="31" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/ReplayService.java" timestamp="1594192828452" />
+      <file name="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" timestamp="1594199641457">
+        <mark key="'" line="13" column="29" />
+        <mark key="[" line="76" column="4" />
+        <mark key="]" line="73" column="19" />
+        <mark key="^" line="75" column="17" />
+        <mark key="." line="73" column="13" />
+      </file>
+      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1594199053990">
+        <mark key="'" line="116" column="8" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/file/EventBlockFile.java" timestamp="1594200074545" />
+      <file name="$USER_HOME$/work/big-cloud/environments/Jenkinsfile-stg-eu-fr" timestamp="1594199521879" />
       <file name="$USER_HOME$/work/record-service/examples/grpc/src/test/java/com/bioserenity/example/Cloud6939MultipleDays.java" timestamp="1594194672903">
         <mark key="[" line="45" column="8" />
         <mark key="]" line="45" column="100" />
         <mark key="." line="45" column="99" />
         <mark key="^" line="45" column="100" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/PersisterAlgoConfigService.java" timestamp="1594192792799">
-        <mark key="'" line="21" column="31" />
-      </file>
       <file name="/Dummy.txt" timestamp="1594198681096">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/ReplayService.java" timestamp="1594192828452" />
-      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/monitoring/MethodExecutionTimeLoggerAspect.java" timestamp="1594135749847">
-        <mark key="[" line="17" column="24" />
-        <mark key="]" line="17" column="25" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="25" />
-      </file>
       <file name="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/controller/Controller.java" timestamp="1594193154101" />
-      <file name="$USER_HOME$/work/record-service/server/src/main/java/com/bioserenity/data/record/server/monitoring/MethodExecutionTimeStats.java" timestamp="1594135758668">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="25" />
-        <mark key="^" line="16" column="25" />
-        <mark key="." line="16" column="24" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/server/src/main/resources/application-qal.yml" timestamp="1594136697608">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="37" />
-      </file>
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/mongodb/BffChannelMongoDBRepository.java" timestamp="1594135909513" />
-      <file name="$USER_HOME$/work/record-service/bff-api/src/main/java/com/bioserenity/data/record/api/bff/repository/s3/BffChannelS3Repository.java" timestamp="1594198026219">
-        <mark key="'" line="116" column="8" />
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/software/amazon/awssdk/s3/2.10.76/s3-2.10.76-sources.jar!/software/amazon/awssdk/services/s3/DefaultS3AsyncClient.java" timestamp="1594136073299" />
-      <file name="/fragment.java" timestamp="1594198018335">
+      <file name="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-model/src/main/java/com/bioserenity/processing/ecg/model/processing/timestampable/Event.java" timestamp="1594199845372" />
+      <file name="$USER_HOME$/work/bioserenity-io-bcp/src/test/java/com/bioserenity/bcp/filter/BatchSpliteratorTest.java" timestamp="1594199010848" />
+      <file name="$USER_HOME$/work/teams-notification-sample/Jenkinsfile" timestamp="1594199594345" />
+      <file name="/fragment.java" timestamp="1594198818618">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="487" column="4" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
-      <jump line="146" column="17" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/test/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQITest.java" />
-      <jump line="19" column="22" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" />
-      <jump line="33" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" />
       <jump line="89" column="72" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" />
       <jump line="138" column="26" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithMElecSQI.java" />
       <jump line="34" column="13" filename="$USER_HOME$/work/ecg/ecg-services-commons/ecg-service-common-signal-handler/src/main/java/com/bioserenity/processing/ecg/service/signal/SignalGeneratorWithCloudSQI.java" />
@@ -319,12 +305,16 @@
       <jump line="21" column="31" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/service/PersisterAlgoConfigService.java" />
       <jump line="37" column="13" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" />
       <jump line="127" column="17" filename="$USER_HOME$/work/ecg/ecg-service-application/src/main/java/com/bioserenity/processing/ecg/processor/recordprocessor/RecordProcessorCreator.java" />
+      <jump line="75" column="3" filename="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" />
+      <jump line="12" column="32" filename="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" />
+      <jump line="73" column="15" filename="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" />
+      <jump line="13" column="29" filename="$USER_HOME$/work/cloud-software-factory/src/TeamsDeployNotifier.groovy" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoIkFXU19BQ0NFU1NfS0VZX0lEIiwgIkFLSUFRNzNNM1lLWVlRT09WTkg2Iik7CiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJBV1NfU0VDUkVUX0FDQ0VTU19LRVkiLCAiTFlxTjZUbXZNb0ZJV2N0aFIxWnY4UnNXbGxjWlhiNDlqUGNYTWZUZyIpOwogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiQVdTX1JFR0lPTiIsICJldS13ZXN0LTMiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>F90000</text>
       </register>
       <register name="+" type="4">
         <text>e</text>
@@ -335,8 +325,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRSZWNvcmRFcG9jaFN0YXJ0VGltZUluTXNcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImR1cmF0aW9uICIgKyAoRHVyYXRpb24uYmV0d2VlbihzdGFydCwgSW5zdGFudC5ub3coKSkuZ2V0TmFubygpIC8gMV8wMDBfMDAwKSArICJtcyIpOwo=</text>
+      <register name="0" type="4">
+        <text>F90000</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0uc2V0UHJvcGVydHkoIkFXU19BQ0NFU1NfS0VZX0lEIiwgIkFLSUFRNzNNM1lLWVlRT09WTkg2Iik7CiAgICAgICAgU3lzdGVtLnNldFByb3BlcnR5KCJBV1NfU0VDUkVUX0FDQ0VTU19LRVkiLCAiTFlxTjZUbXZNb0ZJV2N0aFIxWnY4UnNXbGxjWlhiNDlqUGNYTWZUZyIpOwogICAgICAgIFN5c3RlbS5zZXRQcm9wZXJ0eSgiQVdTX1JFR0lPTiIsICJldS13ZXN0LTMiKTsK</text>
