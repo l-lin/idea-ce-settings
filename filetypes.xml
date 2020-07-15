@@ -5,6 +5,7 @@
       <mapping pattern="Jenkinsfile-stg-eu-fr" type="Groovy" />
       <mapping pattern="Jenkinsfile-qualification" type="Groovy" />
       <mapping ext="jenkins" type="Groovy" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
