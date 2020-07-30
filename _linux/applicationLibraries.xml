@@ -73,7 +73,9 @@
         <root url="jar://$USER_HOME$/.sdkman/candidates/groovy/3.0.4/lib/jackson-annotations-2.11.0.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/groovy-3.0.4-sources.jar!/" />
+      </SOURCES>
     </library>
     <library name="scala-sdk-2.11.11" type="Scala">
       <properties>
