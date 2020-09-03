@@ -6,21 +6,19 @@
         <option value="French" />
       </set>
     </option>
-    <option name="enabledGrammarStrategies">
-      <set>
-        <option value="nl.rubensten.texifyidea:Latex" />
-        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
-        <option value="tanvd.grazi:JAVA" />
-        <option value="tanvd.grazi:Properties" />
-        <option value="tanvd.grazi:TEXT" />
-        <option value="tanvd.grazi:XML" />
-        <option value="tanvd.grazi:yaml" />
-      </set>
-    </option>
     <option name="disabledGrammarStrategies">
       <set>
         <option value="tanvd.grazi:JSON" />
       </set>
+    </option>
+    <option name="detectionContext">
+      <State>
+        <option name="disabled">
+          <set>
+            <option value="JAPANESE" />
+          </set>
+        </option>
+      </State>
     </option>
     <option name="checkingContext">
       <CheckingContext>
