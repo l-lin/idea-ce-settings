@@ -27,7 +27,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="setup" value="@BeforeEach&#10;void setUp() {&#10;  &#10;}" description="setup" toReformat="false" toShortenFQNames="true">
+  <template name="setup" value="@BeforeEach&#10;void setUp() {&#10;  $END$&#10;}" description="setup" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
