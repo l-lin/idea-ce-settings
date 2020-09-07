@@ -1,5 +1,5 @@
 <templateSet group="LLIN">
-  <template name="log" value="private static final Logger LOGGER = LoggerFactory.getLogger($CLASS_NAME$.class);" description="Logger" toReformat="false" toShortenFQNames="true">
+  <template name="log" value="private static final Logger LOGGER = LoggerFactory.getLogger($CLASS_NAME$.class);" description="logger" toReformat="false" toShortenFQNames="true">
     <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="COMPLETION" value="true" />
@@ -30,6 +30,28 @@
   <template name="setup" value="@BeforeEach&#10;void setUp() {&#10;  &#10;}" description="setup" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="mock" value="$CLASS_NAME$ $VARIABLE$ = org.mockito.Mockito.mock($CLASS_NAME$.class);" description="mock" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+  <template name="given" value="org.mockito.BDDMockito.given($VARIABLE$).willReturn($VALUE$);" description="given" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
     </context>
   </template>
 </templateSet>
