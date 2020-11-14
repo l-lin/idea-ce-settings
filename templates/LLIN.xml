@@ -61,4 +61,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="testpojo" value="@org.junit.jupiter.api.Test&#10;@org.junit.jupiter.api.DisplayName(&quot;Given correct arguments, &quot; +&#10;        &quot;when creating new $CLASS_NAME$, &quot; +&#10;        &quot;then do not throw exception&quot;)&#10;void correctArguments() {&#10;    assertDoesNotThrow(() -&gt; new $CLASS_NAME$($END$));&#10;}&#10;&#10;@org.junit.jupiter.api.Test&#10;@org.junit.jupiter.api.DisplayName(&quot;Given incorrect arguments, &quot; +&#10;        &quot;when creating new $CLASS_NAME$, &quot; +&#10;        &quot;then throw IllegalArgumentException&quot;)&#10;void incorrectArguments() {&#10;    assertThrows(IllegalArgumentException.class, () -&gt; new $CLASS_NAME$(null), &quot;null &quot;);&#10;}&#10;" description="testpojo" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS_NAME" expression="regularExpression(className(), &quot;Test&quot;, &quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
