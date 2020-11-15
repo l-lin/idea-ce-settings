@@ -28,7 +28,7 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
-  <template name="beforeeach" value="@org.junit.jupiter.api.BeforeEach&#10;void beforeEach() {&#10;  $END$&#10;}" description="beforeeach" toReformat="false" toShortenFQNames="true">
+  <template name="beforeeach" value="@org.junit.jupiter.api.BeforeEach&#10;void beforeEach() {&#10;    $END$&#10;}" description="beforeeach" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
     </context>
