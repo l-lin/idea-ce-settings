@@ -23,7 +23,7 @@
               <option name="commandLine" value="verify -DskipBuildDockerImage" />
             </Goal>
             <Goal>
-              <option name="commandLine" value="install" />
+              <option name="commandLine" value="install -DskipBuildDockerImage" />
             </Goal>
             <Goal>
               <option name="commandLine" value="deploy" />
