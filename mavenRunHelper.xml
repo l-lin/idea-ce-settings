@@ -34,6 +34,9 @@
             <Goal>
               <option name="commandLine" value="clean install" />
             </Goal>
+            <Goal>
+              <option name="commandLine" value="clean package -DskipTests -DskipBuildDockerImage" />
+            </Goal>
           </list>
         </option>
       </Goals>
