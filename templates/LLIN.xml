@@ -67,4 +67,15 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="then" value="org.mockito.BDDMockito.then($VARIABLE$).should($TIMES$).$END$;" description="then" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIMES" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
 </templateSet>
