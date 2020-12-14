@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Jenkinsfile-exec" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile-stg-eu-fr" type="Groovy" />
+      <mapping pattern="Jenkinsfile-jenkins-jobs" type="Groovy" />
       <mapping pattern="Jenkinsfile-qualification" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="jenkins" type="Groovy" />
