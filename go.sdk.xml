@@ -1,9 +1,10 @@
 <application>
   <component name="GoSdkList">
-    <sdk-path>
+    <sdk-url>
       <set>
-        <option value="$USER_HOME$/.gvm/gos/go1.15" />
+        <option value="file://$USER_HOME$/.asdf/installs/golang/1.15.8/go" />
+        <option value="file://$USER_HOME$/.gvm/gos/go1.15" />
       </set>
-    </sdk-path>
+    </sdk-url>
   </component>
 </application>
