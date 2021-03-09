@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <removed_mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="Jenkinsfile-exec" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile-stg-eu-fr" type="Groovy" />
       <mapping pattern="Jenkinsfile-create-jobs" type="Groovy" />
@@ -9,6 +9,8 @@
       <mapping pattern="Jenkinsfile-qualification" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="jenkins" type="Groovy" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="gsdl" type="PLAIN_TEXT" />
       <removed_mapping pattern="Jenkinsfile-jenkins-jobs" approved="true" type="Groovy" />
