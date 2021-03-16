@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="Jenkinsfile-exec" type="AUTO_DETECTED" />
+      <mapping pattern="Dockerfile-wowza" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile-stg-eu-fr" type="Groovy" />
       <mapping pattern="Jenkinsfile-create-jobs" type="Groovy" />
       <mapping pattern="Jenkinsfile-run-jobs" type="Groovy" />
