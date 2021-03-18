@@ -1,9 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="Jenkinsfile-exec" type="AUTO_DETECTED" />
-      <mapping pattern="Jenkinsfile-test" type="AUTO_DETECTED" />
-      <mapping pattern="Dockerfile-wowza" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile-*" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping ext="jenkins" type="Groovy" />
@@ -11,14 +8,17 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
-      <mapping ext="gsdl" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="gsdl" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Dockerfile-wowza" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="Jenkinsfile*" approved="true" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile-create-jobs" approved="true" type="Groovy" />
+      <removed_mapping pattern="Jenkinsfile-exec" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="Jenkinsfile-jenkins-jobs" approved="true" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile-qualification" approved="true" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile-run-jobs" approved="true" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile-stg-eu-fr" approved="true" type="Groovy" />
+      <removed_mapping pattern="Jenkinsfile-test" approved="true" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>
