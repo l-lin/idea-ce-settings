@@ -1,5 +1,16 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="nodejsPath" value="" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.bioserenity.com" />
+          <token>df9ddf9cdfcfdf9bdfc9df99df93dfcbdfcfdf9fdf93df92df93df9bdfccdf9fdfccdf93df9adf9edf92dfc8dfcedf98df9cdf9edf99df98dfcfdfcbdf9ddfccdf9edf98df93dfcfdfcbdf9bdf9cdfcc</token>
+          <option name="name" value="sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <option name="taintVulnerabilitiesTabDisclaimerDismissed" value="true" />
     <rules />
   </component>
 </application>
