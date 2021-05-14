@@ -10,14 +10,12 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="gsdl" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.j2" type="Properties" />
       <mapping pattern="*.xml.j2" type="XML" />
-      <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
-      <mapping ext="yaml" type="YAML_EX" />
-      <mapping ext="yml" type="YAML_EX" />
+      <mapping ext="yaml" type="YAML" />
+      <mapping ext="yml" type="YAML" />
       <removed_mapping ext="env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.sample" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Dockerfile-wowza" approved="true" type="AUTO_DETECTED" />
