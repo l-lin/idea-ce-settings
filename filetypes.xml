@@ -15,7 +15,10 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.j2" type="Properties" />
       <mapping pattern="*.xml.j2" type="XML" />
+      <mapping pattern=".yamllint" type="YAML" />
+      <mapping pattern=".ansible-lint" type="YAML" />
       <removed_mapping ext="env" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern=".ansible-lint" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.sample" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern="Dockerfile-wowza" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="Jenkinsfile*" approved="true" type="Groovy" />
