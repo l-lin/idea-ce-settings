@@ -1,9 +1,19 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="USE_INSTANCEOF_ON_EQUALS_PARAMETER" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="16" />
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JAVA" value="true" />
+      </map>
+    </option>
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE:PREVIEW" />
     <option name="SOFT_WRAP_FILE_MASKS" value="*" />
     <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
     <option name="ARE_LINE_NUMBERS_SHOWN" value="false" />
@@ -14,10 +24,12 @@
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_MOUSE_CLICK_SELECTION_HONORS_CAMEL_WORDS" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+  </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
     <option name="collapseOneLineMethods" value="false" />
-    <option name="replaceVarWithInferredType" value="true" />
   </component>
   <component name="JetEditorOptions">
     <option name="autoAddValKeywordToDataClassParameters" value="false" />

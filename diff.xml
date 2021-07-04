@@ -9,9 +9,6 @@
               <option value="com.intellij.diff.tools.fragmented.UnifiedDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.ApplyPatchDiffTool" />
               <option value="com.intellij.openapi.vcs.changes.patch.tool.PatchDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.properties.SvnPropertiesDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnPhantomChangeDiffRequestProvider.SvnPhantomDiffTool" />
-              <option value="org.jetbrains.idea.svn.difftool.SvnTreeConflictDiffRequestProvider.SvnTreeConflictDiffTool" />
               <option value="com.intellij.diff.tools.binary.BinaryDiffTool" />
               <option value="com.intellij.diff.tools.dir.DirDiffTool" />
             </list>
@@ -42,6 +39,7 @@
       <entry key="ChangesView">
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
+          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
           <option name="SHOW_LINE_NUMBERS" value="false" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
@@ -54,6 +52,7 @@
       </entry>
       <entry key="Merge">
         <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
