@@ -11,15 +11,6 @@
     <keyboard-shortcut first-keystroke="alt 3" />
     <keyboard-shortcut first-keystroke="alt quotedbl" />
   </action>
-  <action id="ActivateHierarchyToolWindow">
-    <keyboard-shortcut first-keystroke="alt right_parenthesis" />
-  </action>
-  <action id="ActivateMavenToolWindow">
-    <keyboard-shortcut first-keystroke="alt #10000e0" />
-  </action>
-  <action id="ActivateMergeRequestIntegrationCEToolWindow">
-    <keyboard-shortcut first-keystroke="alt equals" />
-  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="alt ampersand" />
@@ -43,9 +34,6 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 9" />
     <keyboard-shortcut first-keystroke="alt #10000c7" />
-  </action>
-  <action id="Coverage">
-    <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
@@ -86,7 +74,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
-  <action id="Scala.TypeInfo" />
   <action id="ToggleZenMode">
     <keyboard-shortcut first-keystroke="shift alt ampersand" />
   </action>
@@ -98,12 +85,4 @@
   <action id="VcsShowCurrentChangeMarker">
     <keyboard-shortcut first-keystroke="ctrl alt ampersand" />
   </action>
-  <action id="com.dubreuia.core.action.ShortcutAction" />
-  <action id="net.mamansoft.markowl.action.markdown.DrawH1LineAction" />
-  <action id="net.mamansoft.markowl.action.markdown.DrawH1PrefixAction" />
-  <action id="net.mamansoft.markowl.action.markdown.DrawH2LineAction" />
-  <action id="net.mamansoft.markowl.action.markdown.DrawH2PrefixAction" />
-  <action id="net.mamansoft.markowl.action.markdown.DrawH3PrefixAction" />
-  <action id="net.mamansoft.markowl.action.markdown.DrawH4PrefixAction" />
-  <action id="net.mamansoft.markowl.action.markdown.DrawH5PrefixAction" />
 </keymap>
