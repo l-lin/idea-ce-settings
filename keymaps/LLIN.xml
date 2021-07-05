@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="alt 3" />
     <keyboard-shortcut first-keystroke="alt quotedbl" />
   </action>
+  <action id="ActivateHierarchyToolWindow">
+    <keyboard-shortcut first-keystroke="alt right_parenthesis" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="alt ampersand" />
