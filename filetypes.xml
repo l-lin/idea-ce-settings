@@ -12,12 +12,13 @@
       <mapping ext="m3u8" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="gsdl" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="gsdl" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.j2" type="Properties" />
       <mapping pattern="*.xml.j2" type="XML" />
       <mapping pattern=".yamllint" type="YAML" />
       <mapping pattern=".ansible-lint" type="YAML" />
+      <removed_mapping ext="csv" type="CSV/TSV" />
       <removed_mapping ext="env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".ansible-lint" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.sample" approved="true" type="PLAIN_TEXT" />
