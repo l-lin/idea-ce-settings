@@ -83,6 +83,13 @@
         <entry key="org.editorconfig.configmanagement.editor.EditorConfigPreviewMarkerProvider" value="true" />
         <entry key="org.jetbrains.idea.devkit.navigation.ExtensionDeclarationRelatedItemLineMarkerProvider" value="true" />
         <entry key="org.jetbrains.idea.devkit.references.DevKitRelatedPropertiesProvider" value="true" />
+        <entry key="scala.companion" value="true" />
+        <entry key="scala.implemented" value="true" />
+        <entry key="scala.implementing" value="true" />
+        <entry key="scala.overridden" value="true" />
+        <entry key="scala.overriding" value="true" />
+        <entry key="scala.recursion" value="true" />
+        <entry key="scala.sam" value="true" />
       </map>
     </option>
   </component>
