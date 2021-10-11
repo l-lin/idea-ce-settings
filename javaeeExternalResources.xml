@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/.cache/JetBrains/IdeaIC2021.2/extResources/67a55e7a_dbchangelog-4.2.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-3.8.xsd" location="$USER_HOME$/.cache/JetBrains/IdeaIC2020.2/extResources/3313b03f_dbchangelog-3.8.xsd" />
     <resource url="https://logging.apache.org/log4j/1.2/apidocs/org/apache/log4j/xml/doc-files/log4j.dtd" location="$USER_HOME$/.cache/JetBrains/IdeaIC2020.3/extResources/58ea2b66_log4j.dtd" />
   </component>
