@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="wowza" type="AUTO_DETECTED" />
       <mapping pattern="inventory" type="AUTO_DETECTED" />
+      <mapping pattern="admin_password" type="AUTO_DETECTED" />
       <mapping pattern="Caddyfile" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile-*" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
