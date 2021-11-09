@@ -19,7 +19,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="test" value="@org.junit.jupiter.api.Test&#10;@org.junit.jupiter.api.DisplayName(&quot;Given $GIVEN_LABEL$, &quot; +&#10;        &quot;when $WHEN_LABEL$, &quot; +&#10;        &quot;then $THEN_LABEL$&quot;)&#10;void $GIVEN_LABEL_METHOD$() {&#10;  // GIVEN&#10;    $END$&#10;            &#10;  // WHEN&#10;  &#10;  // THEN&#10;}" description="test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+  <template name="test" value="@org.junit.jupiter.api.Test&#10;@org.junit.jupiter.api.DisplayName(&quot;&quot;&quot;&#10;        Given $GIVEN_LABEL$,&#10;         when $WHEN_LABEL$,&#10;         then $THEN_LABEL$&#10;        &quot;&quot;&quot;)&#10;void $GIVEN_LABEL_METHOD$() {&#10;  // GIVEN&#10;    $END$&#10;            &#10;  // WHEN&#10;  &#10;  // THEN&#10;}" description="test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
     <variable name="GIVEN_LABEL" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="WHEN_LABEL" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="THEN_LABEL" expression="" defaultValue="" alwaysStopAt="true" />
