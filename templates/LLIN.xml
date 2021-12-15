@@ -55,7 +55,7 @@
       <option name="JAVA_STRING" value="true" />
     </context>
   </template>
-  <template name="nested" value="@org.junit.jupiter.api.Nested&#10;class $NESTED_CLASS_NAME$Test {&#10;  $END$&#10;}" description="nested" toReformat="false" toShortenFQNames="true">
+  <template name="nested" value="@org.junit.jupiter.api.Nested&#10;class $NESTED_CLASS_NAME$Test {&#10;    &#10;    $END$&#10;}" description="nested" toReformat="false" toShortenFQNames="true">
     <variable name="NESTED_CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
