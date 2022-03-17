@@ -73,16 +73,16 @@
   <action id="JumpToLastWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift f12" />
+    <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="Replace">
