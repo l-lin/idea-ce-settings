@@ -104,9 +104,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="Scala.TypeInfo" />
-  <action id="ToggleZenMode">
-    <keyboard-shortcut first-keystroke="shift alt ampersand" />
-  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.GoToRef">
