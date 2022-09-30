@@ -1,11 +1,14 @@
 <scheme name="_@user_Nord" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2022-05-12T15:25:23</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2022.1.0.0</property>
-    <property name="modified">2022-05-12T15:36:02</property>
+    <property name="modified">2022-09-30T09:50:51</property>
     <property name="originalScheme">Nord</property>
   </metaInfo>
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="a3be8c" />
     <option name="ANNOTATIONS_COLOR" value="d8dee9" />
@@ -45,7 +48,7 @@
     <option name="INFORMATION_HINT" value="434c5e" />
     <option name="LINE_NUMBERS_COLOR" value="4c566a" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="d8dee9" />
-    <option name="METHOD_SEPARATORS_COLOR" value="d8dee9" />
+    <option name="METHOD_SEPARATORS_COLOR" value="d1daea" />
     <option name="MODIFIED_LINES_COLOR" value="ebcb8b" />
     <option name="NOTIFICATION_BACKGROUND" value="4c566a" />
     <option name="QUESTION_HINT" value="434c5e" />
