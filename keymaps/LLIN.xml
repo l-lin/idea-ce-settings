@@ -1,4 +1,8 @@
 <keymap version="1" name="LLIN" parent="Default for GNOME">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="ActivateBookmarksToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
     <keyboard-shortcut first-keystroke="alt #10000e9" />
