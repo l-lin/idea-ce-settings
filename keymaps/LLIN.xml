@@ -7,6 +7,7 @@
     <keyboard-shortcut first-keystroke="alt 2" />
     <keyboard-shortcut first-keystroke="alt #10000e9" />
   </action>
+  <action id="ActivateCommitToolWindow" />
   <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="alt 5" />
     <keyboard-shortcut first-keystroke="alt left_parenthesis" />
@@ -24,6 +25,7 @@
   </action>
   <action id="ActivateMavenToolWindow">
     <keyboard-shortcut first-keystroke="alt #10000e0" />
+    <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="ActivateMergeRequestIntegrationCEToolWindow">
     <keyboard-shortcut first-keystroke="alt equals" />
