@@ -1,6 +1,6 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="secretsNeverBeenAnalysed" value="false" />
+    <option name="nodejsPath" value="$USER_HOME$/.asdf/installs/nodejs/15.8.0/bin/node" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
@@ -10,9 +10,6 @@
         </SonarQubeServer>
       </list>
     </option>
-    <option name="taintVulnerabilitiesTabDisclaimerDismissed" value="true" />
-    <rules>
-      <Rule active="false" key="java:S6212" />
-    </rules>
+    <rules />
   </component>
 </application>
