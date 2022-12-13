@@ -32,12 +32,8 @@
       <mapping pattern="*.xml.j2" type="XML" />
       <mapping pattern="bootstrap-**.y**ml" type="YAML" />
       <mapping pattern="application-**.y**ml" type="YAML" />
-      <mapping pattern="*playbook.yml" type="YAML" />
-      <mapping pattern="*playbook.yaml" type="YAML" />
       <mapping pattern=".yamllint" type="YAML" />
-      <mapping pattern="main.yml" type="YAML" />
       <mapping pattern="application.yaml" type="YAML" />
-      <mapping pattern="main.yaml" type="YAML" />
       <mapping pattern="bootstrap.yaml" type="YAML" />
       <mapping pattern="bootstrap.yml" type="YAML" />
       <mapping pattern="application.yml" type="YAML" />
