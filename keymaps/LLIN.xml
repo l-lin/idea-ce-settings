@@ -82,6 +82,7 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="JumpToLastWindow" />
+  <action id="MaximizeToolWindow" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="f12" />
     <keyboard-shortcut first-keystroke="alt right" />
@@ -110,6 +111,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="Scala.TypeInfo" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl quote" />
+  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Log.GoToRef">
