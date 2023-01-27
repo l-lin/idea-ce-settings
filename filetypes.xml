@@ -1,13 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping pattern="wowza" type="AUTO_DETECTED" />
-      <mapping pattern="inventory" type="AUTO_DETECTED" />
       <mapping pattern="Caddyfile" type="AUTO_DETECTED" />
       <mapping pattern="admin_password" type="AUTO_DETECTED" />
+      <mapping pattern="wowza" type="AUTO_DETECTED" />
+      <mapping pattern="inventory" type="AUTO_DETECTED" />
       <mapping pattern="Dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile-*" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
+      <mapping pattern="JenkinsBuild" type="Groovy" />
       <mapping pattern="jenkinsfile" type="Groovy" />
       <mapping ext="jenkins" type="Groovy" />
       <mapping pattern="**spring-configuration-metadata.json" type="JSON" />
@@ -35,12 +36,12 @@
       <mapping pattern="*.xml.j2" type="XML" />
       <mapping pattern="bootstrap-**.y**ml" type="YAML" />
       <mapping pattern="application-**.y**ml" type="YAML" />
+      <mapping pattern="application.yml" type="YAML" />
+      <mapping pattern=".ansible-lint" type="YAML" />
       <mapping pattern=".yamllint" type="YAML" />
       <mapping pattern="application.yaml" type="YAML" />
       <mapping pattern="bootstrap.yaml" type="YAML" />
       <mapping pattern="bootstrap.yml" type="YAML" />
-      <mapping pattern="application.yml" type="YAML" />
-      <mapping pattern=".ansible-lint" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="env" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
