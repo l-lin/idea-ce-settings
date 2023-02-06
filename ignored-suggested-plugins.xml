@@ -1,0 +1,12 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="org.dynamodb4idea" />
+        <option value="aws.toolkit" />
+        <option value="idea.plugin.protoeditor" />
+        <option value="com.haulmont.jpab" />
+      </list>
+    </option>
+  </component>
+</application>

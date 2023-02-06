@@ -1,0 +1,137 @@
+<templateSet group="LLIN">
+  <template name="log" value="private static final Logger LOGGER = LoggerFactory.getLogger($CLASS_NAME$.class);" description="logger" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+  <template name="fixme" value="// FIXME (louis.lin): " description="fixme" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="todo" value="// TODO (louis.lin): " description="todo" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@org.junit.jupiter.api.Test&#10;@org.junit.jupiter.api.DisplayName(&quot;&quot;&quot;&#10;        Given $GIVEN_LABEL$,&#10;         when $WHEN_LABEL$,&#10;         then $THEN_LABEL$&#10;        &quot;&quot;&quot;)&#10;void $GIVEN_LABEL_METHOD$() {&#10;  // GIVEN&#10;    $END$&#10;            &#10;  // WHEN&#10;  &#10;  // THEN&#10;}" description="test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="GIVEN_LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHEN_LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="THEN_LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="GIVEN_LABEL_METHOD" expression="camelCase(GIVEN_LABEL)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="beforeeach" value="@org.junit.jupiter.api.BeforeEach&#10;void beforeEach() {&#10;    $END$&#10;}" description="beforeeach" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="mock" value="$CLASS_NAME$ $VARIABLE$ = org.mockito.Mockito.mock($CLASS_NAME$.class);" description="mock" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VARIABLE" expression="camelCase(CLASS_NAME)" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+  <template name="given" value="org.mockito.BDDMockito.given($VARIABLE$).willReturn($VALUE$);" description="given" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+  <template name="nested" value="@org.junit.jupiter.api.Nested&#10;class $NESTED_CLASS_NAME$Test {&#10;    &#10;    $END$&#10;}" description="nested" toReformat="false" toShortenFQNames="true">
+    <variable name="NESTED_CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="testpojo" value="@org.junit.jupiter.api.Test&#10;@org.junit.jupiter.api.DisplayName(&quot;&quot;&quot;&#10;        Given correct arguments,&#10;         when creating new $CLASS_NAME$,&#10;         then do not throw exception&#10;        &quot;&quot;&quot;)&#10;void correctArguments() {&#10;    assertDoesNotThrow(() -&gt; new $CLASS_NAME$($END$));&#10;}&#10;&#10;@org.junit.jupiter.api.Test&#10;@org.junit.jupiter.api.DisplayName(&quot;&quot;&quot;&#10;        Given incorrect arguments,&#10;         when creating new $CLASS_NAME$,&#10;         then throw exception&#10;        &quot;&quot;&quot;)&#10;void incorrectArguments() {&#10;    assertThrows(IllegalArgumentException.class, () -&gt; new $CLASS_NAME$(null), &quot;null &quot;);&#10;}&#10;" description="testpojo" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="CLASS_NAME" expression="regularExpression(className(), &quot;Test&quot;, &quot;&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="then" value="org.mockito.BDDMockito.then($VARIABLE$).should($TIMES$).$END$;" description="then" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="VARIABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TIMES" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+  <template name="testold" value="@org.junit.jupiter.api.Test&#10;@org.junit.jupiter.api.DisplayName(&quot;Given $GIVEN_LABEL$, &quot; +&#10;        &quot;when $WHEN_LABEL$, &quot; +&#10;        &quot;then $THEN_LABEL$&quot;)&#10;void $GIVEN_LABEL_METHOD$() {&#10;  // GIVEN&#10;    $END$&#10;            &#10;  // WHEN&#10;  &#10;  // THEN&#10;}" description="test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <variable name="GIVEN_LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHEN_LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="THEN_LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="GIVEN_LABEL_METHOD" expression="camelCase(GIVEN_LABEL)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="ae" value="org.junit.jupiter.api.Assertions.assertEquals($EXPECTED$, $ACTUAL$);" description="assertequals" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+  <template name="ann" value="org.junit.jupiter.api.Assertions.assertNotNull($ACTUAL$);" description="assertnotnull" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+  <template name="at" value="org.junit.jupiter.api.Assertions.assertTrue($ACTUAL$);" description="asserttrue" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+  <template name="ath" value="org.junit.jupiter.api.Assertions.assertThrows($EXPECTED$.class, () -&gt; $ACTUAL$);" description="assertthrows" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+  <template name="af" value="org.junit.jupiter.api.Assertions.assertFalse($ACTUAL$);" description="assertfalse" toReformat="false" toShortenFQNames="true" useStaticImport="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+    </context>
+  </template>
+</templateSet>

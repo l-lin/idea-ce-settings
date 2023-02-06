@@ -1,0 +1,20 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="to_java17_display_name">
+      <typing text-keycode="69:0;76:0;76:0;65:0;152:0;152:0">ella&quot;&quot;</typing>
+      <action id="EditorEnter" />
+      <shortuct text="ENTER" />
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="74:0;74:0;515:0;72:0;73:0">jj$hi</typing>
+      <action id="EditorEnter" />
+      <shortuct text="ENTER" />
+      <typing text-keycode="152:0;152:0">&quot;&quot;</typing>
+      <shortuct text="ESCAPE" />
+      <typing text-keycode="75:0;72:0">kh</typing>
+      <shortuct text="control V" />
+      <typing text-keycode="75:0;82:0;32:0;75:0;515:0;72:0;72:0;72:0;68:1;74:0;515:0;72:0;72:0;72:0;68:1">kr&amp;#x20;k$hhhDj$hhhD</typing>
+      <action id="GotoAction" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
