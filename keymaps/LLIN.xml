@@ -1,13 +1,9 @@
 <keymap version="1" name="LLIN" parent="Default for GNOME">
-  <action id="AceAction">
-    <keyboard-shortcut first-keystroke="ctrl semicolon" />
-    <keyboard-shortcut first-keystroke="ctrl comma" />
-  </action>
   <action id="AceBackwardAction">
-    <keyboard-shortcut first-keystroke="shift s" />
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="AceForwardAction">
-    <keyboard-shortcut first-keystroke="s" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
   <action id="ActivateBookmarksToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
