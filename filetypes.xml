@@ -5,7 +5,6 @@
       <mapping pattern="inventory" type="AUTO_DETECTED" />
       <mapping pattern="Caddyfile" type="AUTO_DETECTED" />
       <mapping pattern="admin_password" type="AUTO_DETECTED" />
-      <mapping pattern="Dockerfile" type="AUTO_DETECTED" />
       <mapping pattern="Jenkinsfile-*" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="JenkinsBuild" type="Groovy" />
@@ -48,6 +47,7 @@
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".ansible-lint" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env.sample" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Dockerfile" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="Dockerfile-wowza" approved="true" type="AUTO_DETECTED" />
       <removed_mapping pattern="Jenkinsfile*" approved="true" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile-create-jobs" approved="true" type="Groovy" />
