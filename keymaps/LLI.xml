@@ -1,0 +1,10 @@
+<keymap version="1" name="LLI" parent="Default for GNOME">
+  <action id="Coverage">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="MaximizeToolWindow" />
+  <action id="ShowTypeBookmarks" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift ctrl quote" />
+  </action>
+</keymap>
