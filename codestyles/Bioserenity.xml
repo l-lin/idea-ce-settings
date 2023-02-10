@@ -2,6 +2,9 @@
   <JavaCodeStyleSettings>
     <option name="ANNOTATION_PARAMETER_WRAP" value="5" />
   </JavaCodeStyleSettings>
+  <JetCodeStyleSettings>
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+  </JetCodeStyleSettings>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
@@ -30,5 +33,8 @@
     <option name="VARIABLE_ANNOTATION_WRAP" value="5" />
     <option name="ENUM_CONSTANTS_WRAP" value="5" />
     <option name="WRAP_ON_TYPING" value="0" />
+  </codeStyleSettings>
+  <codeStyleSettings language="kotlin">
+    <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
   </codeStyleSettings>
 </code_scheme>
