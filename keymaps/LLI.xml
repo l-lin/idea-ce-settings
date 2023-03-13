@@ -1,13 +1,17 @@
 <keymap version="1" name="LLI" parent="Default for GNOME">
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
-    <keyboard-shortcut first-keystroke="semicolon" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="Android.Designer.AutoArrange" />
   <action id="Coverage">
     <keyboard-shortcut first-keystroke="shift ctrl f11" />
   </action>
   <action id="Find">
     <keyboard-shortcut first-keystroke="shift alt 3" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="ctrl less" />
@@ -21,10 +25,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="ScalaConsole.Clean" />
   <action id="ShowTypeBookmarks" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
   </action>
+  <action id="Terminal.ClearBuffer" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl alt 2" />
   </action>
