@@ -27,6 +27,7 @@
       <mapping ext="monitor" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="index" type="PLAIN_TEXT" />
       <mapping ext="binders" type="PLAIN_TEXT" />
       <mapping ext="factories" type="PLAIN_TEXT" />
       <mapping pattern="*.properties.j2" type="Properties" />
