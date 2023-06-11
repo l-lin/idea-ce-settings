@@ -31,6 +31,7 @@
   <action id="FindInPath">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="GotoBookmark6" />
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl g" />
   </action>
@@ -65,6 +66,9 @@
   <action id="ShowTypeBookmarks" />
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="shift ctrl quote" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl 6" />
   </action>
   <action id="Terminal.ClearBuffer" />
   <action id="UsageFiltering.Imports" />
