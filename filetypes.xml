@@ -58,6 +58,10 @@
       <removed_mapping pattern="Jenkinsfile-run-jobs" approved="true" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile-stg-eu-fr" approved="true" type="Groovy" />
       <removed_mapping pattern="Jenkinsfile-test" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping pattern="application.yaml" approved="true" type="spring-boot-properties-yaml" />
+      <removed_mapping pattern="application.yml" approved="true" type="spring-boot-properties-yaml" />
+      <removed_mapping pattern="bootstrap.yaml" approved="true" type="spring-boot-properties-yaml" />
+      <removed_mapping pattern="bootstrap.yml" approved="true" type="spring-boot-properties-yaml" />
     </extensionMap>
   </component>
 </application>

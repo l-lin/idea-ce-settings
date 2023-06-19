@@ -3,6 +3,14 @@
     <option name="promptedForTelemetry" value="true" />
     <option name="telemetryEnabled" value="false" />
   </component>
+  <component name="codewhispererUserGroupSettings">
+    <option name="settings">
+      <map>
+        <entry key="userGroup" value="CrossFile" />
+      </map>
+    </option>
+    <option name="version" value="1.69-231" />
+  </component>
   <component name="executables">
     <option name="value">
       <list>
@@ -10,7 +18,10 @@
           <option name="id" value="cloud-debugCli" />
         </ExecutableState>
         <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="/usr/local/bin/sam" />
           <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1687164547128" />
         </ExecutableState>
       </list>
     </option>
