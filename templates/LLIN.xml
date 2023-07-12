@@ -134,4 +134,14 @@
       <option name="JAVA_STRING" value="true" />
     </context>
   </template>
+  <template name="testdto" value="@org.junit.jupiter.api.Test&#10;@org.junit.jupiter.api.DisplayName(&quot;&quot;&quot;&#10;        Given domain object,&#10;         when mapping to DTO,&#10;         then map its corresponding fields&#10;        &quot;&quot;&quot;)&#10;void toDto() {&#10;  // GIVEN&#10;    $END$&#10;            &#10;  // WHEN&#10;  &#10;  // THEN&#10;}" description="test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="testdomain" value="@org.junit.jupiter.api.Test&#10;@org.junit.jupiter.api.DisplayName(&quot;&quot;&quot;&#10;        Given DTO,&#10;         when mapping to its domain object,&#10;         then map its corresponding fields&#10;        &quot;&quot;&quot;)&#10;void toDomainObject() {&#10;  // GIVEN&#10;    $END$&#10;            &#10;  // WHEN&#10;  &#10;  // THEN&#10;}" description="test" toReformat="true" toShortenFQNames="true" useStaticImport="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
