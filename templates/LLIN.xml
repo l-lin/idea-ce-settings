@@ -144,4 +144,10 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="testmethodsource" value="private static java.util.stream.Stream&lt;org.junit.jupiter.params.provider.Arguments&gt; $BEGIN$Provider() {&#10;    return Stream.of(&#10;            Arguments.of(&#10;                    &quot;&quot;, &#10;                    $END$&#10;            )&#10;    );&#10;}&#10;" description="test" toReformat="true" toShortenFQNames="true">
+    <variable name="BEGIN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
