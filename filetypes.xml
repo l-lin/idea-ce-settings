@@ -5,6 +5,7 @@
       <mapping pattern="inventory" type="AUTO_DETECTED" />
       <mapping pattern="Caddyfile" type="AUTO_DETECTED" />
       <mapping pattern="admin_password" type="AUTO_DETECTED" />
+      <removed_mapping ext="rs" type="Android RenderScript" />
       <mapping pattern="Jenkinsfile-*" type="Groovy" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="JenkinsBuild" type="Groovy" />
@@ -34,6 +35,7 @@
       <mapping pattern="bootstrap-**.properties" type="Properties" />
       <mapping pattern="application.properties" type="Properties" />
       <mapping pattern="bootstrap.properties" type="Properties" />
+      <mapping ext="rs" type="Rust" />
       <mapping pattern="*.xml.j2" type="XML" />
       <mapping pattern="bootstrap-**.y**ml" type="YAML" />
       <mapping pattern="application-**.y**ml" type="YAML" />
